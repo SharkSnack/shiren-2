@@ -15,6 +15,7 @@ const Wrapper = styled('div')`
 
   .sideBarUL li a {
     color: ${({ theme }) => theme.colors.text};
+    white-space: nowrap;
   }
 
   .sideBarUL .item > a:hover {
@@ -32,8 +33,10 @@ const Wrapper = styled('div')`
 const Content = styled('main')`
   display: flex;
   flex-grow: 1;
-  margin: 0px 88px;
-  padding-top: 3rem;
+  /* margin: 0px 88px; */
+  margin: 0px 20px;
+  /* padding-top: 3rem; */
+  padding-top: 1rem;
   background: ${({ theme }) => theme.colors.background};
 
   table tr {
@@ -55,11 +58,13 @@ const MaxWidth = styled('div')`
 `;
 
 const LeftSideBarWidth = styled('div')`
-  width: 298px;
+  /* width: 298px; */
+  width: auto;
 `;
 
 const RightSideBarWidth = styled('div')`
-  width: 224px;
+  /* width: 224px; */
+  width: auto;
 `;
 
 const Layout = ({ children, location }) => (

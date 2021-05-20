@@ -28,7 +28,8 @@ export const Sidebar = styled('aside')`
   }
 
   .rightSideBarUL {
-    margin-top: 32px;
+    /* margin-top: 32px; */
+    margin-top: 5px;
   }
 
   .rightSideBarUL li {
@@ -41,7 +42,9 @@ export const Sidebar = styled('aside')`
     font-size: 12px;
     font-weight: 500;
     line-height: 1.5;
-    padding: 7px 24px 7px 16px;
+    /* padding: 7px 24px 7px 16px; */
+    padding: 0px 16px 0px 16px;
+    white-space: nowrap;
 
     color: ${props => props.theme.colors.text};
   }

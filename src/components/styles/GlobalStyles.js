@@ -418,7 +418,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL {
-    margin-top: 32px;
+    margin-top: 5px;
   }
 
   .sideBarUL li {
@@ -431,9 +431,9 @@ export const baseStyles = css`
     font-size: 14px;
     font-weight: 500;
     line-height: 1.5;
-    padding: 7px 24px 7px 16px;
+    /* padding: 7px 24px 7px 16px; */
     padding-left: 10px;
-    padding-right: 25px;
+    /* padding-right: 25px; */
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
     border-color: transparent currentcolor transparent transparent;

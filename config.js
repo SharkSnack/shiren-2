@@ -38,15 +38,22 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/index',
+      '/price-chart',
+      '/items',
+      '/system',
+      '/dungeons',
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
+    links: [
+      { text: 'Project Thread', link: 'https://krikzz.com/forum/index.php?topic=8495' },
+      { text: 'Project64', link: 'https://www.pj64-emu.com/windows-downloads' },
+      { text: 'RetroArch', link: 'https://retroarch.com/index.php?page=platforms' },
+    ],
     frontline: false,
-    ignoreIndex: true
+    ignoreIndex: false
   },
   siteMetadata: {
     title: 'Gatsby Gitbook Boilerplate | Hasura',

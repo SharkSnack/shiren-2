@@ -33,7 +33,7 @@ export const baseStyles = css`
   }
 
   a {
-    transition: color 0.15s;
+    /* transition: color 0.15s; */
     /* color: #663399; */
   }
 
@@ -257,7 +257,8 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    /* background-color: #001934; */
+    background-color: #82C0EC;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -269,9 +270,9 @@ export const baseStyles = css`
     -moz-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.8);
     -o-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
     z-index: 1;
-    padding: 15px;
+    /* padding: 15px; */
     position: relative;
-    height: 80px;
+    /* height: 80px; */
   }
   .navBarHeader {
     min-width: 335px;
@@ -419,6 +420,7 @@ export const baseStyles = css`
 
   .sideBarUL {
     margin-top: 5px;
+    margin-bottom: 30px;
   }
 
   .sideBarUL li {
@@ -450,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #96CDF4;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +472,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #96CDF4;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -508,16 +510,16 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #56a6ff !important;
     color: #fff;
   }
 
   .titleWrapper {
     display: flex;
     align-items: center;
-    padding-bottom: 40px;
+    /* padding-bottom: 40px; */
     border-bottom: 1px solid rgb(230, 236, 241);
-    margin-bottom: 32px;
+    /* margin-bottom: 32px; */
   }
 
   .gitBtn {
@@ -570,6 +572,7 @@ export const baseStyles = css`
   /* tables.css */
   table {
     padding: 0;
+    font-size: 14px;
   }
 
   table tr {
@@ -587,14 +590,15 @@ export const baseStyles = css`
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
-    padding: 6px 13px;
+    padding: 3px 8px;
+    background-color: #def;
   }
 
   table tr td {
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
-    padding: 6px 13px;
+    padding: 3px 8px;
   }
 
   table tr th :first-child,
@@ -611,6 +615,24 @@ export const baseStyles = css`
   /* Image styling */
   img {
     max-width: 100%;
+  }
+  .equipmentImage span {
+    margin-left: 20px !important;
+    background-image: none !important;
+    display: block !important;
+  }
+  .equipmentImage {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  .equipmentImage img {
+    height: auto !important;
+    transform: scale(1.6);
+    background-color: #555;
+    border-radius: 3px;
+    padding: 5px;
   }
   /* end image */
   .githubBtn {
@@ -667,52 +689,57 @@ export const baseStyles = css`
     font-size: 26px;
     font-weight: 800;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 12px;
   }
 
   .heading2 {
     font-size: 24px;
     font-weight: 700;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 12px;
   }
 
   .heading3 {
     font-size: 20px;
     font-weight: 600;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #def;
+    border-right: 1px solid #def;
+    border-bottom: 2px solid #def;
+    border-top: 1px solid #def;
+    padding-left: 10px;
   }
 
   .heading4 {
     font-size: 18px;
     font-weight: 500;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 12px;
   }
 
   .heading5 {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 12px;
   }
 
   .heading6 {
     font-size: 14px;
     font-weight: 300;
     line-height: 1.5;
-    margin-bottom: 16px;
-    margin-top: 32px;
+    margin-bottom: 8px;
+    margin-top: 12px;
   }
 
   .paragraph {
-    margin: 16px 0px 32px;
+    margin: 12px 0px 12px;
     line-height: 1.625;
   }
 

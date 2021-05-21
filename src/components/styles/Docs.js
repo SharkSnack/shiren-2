@@ -4,7 +4,7 @@ export const StyledHeading = styled('h1')`
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid #1ed3c6;
+  border-left: 2px solid #96CDF4;
   padding: 0 16px;
   flex: 1;
   margin-top: 0;
@@ -39,7 +39,7 @@ export const Edit = styled('div')`
 `;
 
 export const StyledMainWrapper = styled.div`
-  max-width: 750px;
+  max-width: auto;
   color: ${props => props.theme.colors.text};
 
   ul,

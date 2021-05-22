@@ -1,26 +1,27 @@
 ---
 title: "Decorations"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Castle Decorations - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Castle decorations list for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+# Summary
 
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+|Name|Location|Info|
+|-|-|-|
+|2F Roof Decoration|Shrine's Hidden Hole (10F+)|-|
+|3F Roof Decoration|Shrine's Hidden Hole (20F+)|-|
+|Big Catch Banner|Shrine's Hidden Hole (50F+)|-|
+|Carp Streamer|Complete Monster Kingdom|Only obtained once.|
+|Laundry|Halfway Well (10F+)|-|
+|Origami Decoration|Halfway Well (20F+)|-|
+|Moat Koi|Halfway Well (50F+)|-|
+|Silver Shachihoko|Sealed Room (10F+)|-|
+|Pinwheel|Sealed Room (20F+)|-|
+|Gold Shachihoko|Sealed Room (30F+)|-|
+|Kite|Sealed Room (50F+)|-|
+|Footman Kite|Sealed Room (70F+)|-|
+|Ad Balloon|Sealed Room (Rescue all children)|Only obtained once.|
+|All Nations Flag|Road to the End (50F+)|-|
+|Parabolic Antenna|Road to the End (60F+)|-|
+|Dragon Shachihoko|Road to the End (80F+)|-|
+|Gold Shiren Statue|Road to the End (Clear Reward)|-|

@@ -7,47 +7,60 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
 # Summary
 | Name | Seal | Atk | Slot | Buy | Sell | Phrase | Info |
 |-|-|-|-|-|-|-|-|
-|[Wooden Sword](#woodensword)|-|2|1|3000|1500|-|Found with +4 ~ +8 upgrade value.|
+|[Wooden Sword](#wooden-sword)|-|2|1|3000|1500|-|Found with +4 ~ +8 upgrade value.|
 |[Club](#club)|-|3|3|400|200|コルヤギ|-|
 |[Nagamaki](#nagamaki)|-|6|4|700|300|こぷやほ|-|
-|[Sacred Sword](#sacredsword)|-|8|14|45000|20000|-|-|
+|[Sacred Sword](#sacred-sword)|-|8|14|45000|20000|-|-|
 |[Katana](#katana)|-|10|5|900|400|みぬれふ|-|
 |[Dotanuki](#dotanuki)|-|12|6|3600|1200|-|-|
-|[Ivory Sword](#ivorysword)|-|13|4|4000|1600|-|Rustproof.|
+|[Ivory Sword](#ivory-sword)|-|13|4|4000|1600|-|Rustproof.|
 |[Manji-Kabura](#manji-kabura)|-|18|5|15000|7000|るおへぎ|-|
-|[Daisangen Sword](#daisangensword)|-|20|9|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Sword.|
-|[Fiery Fuuma](#fieryfuuma)|-|30|10|20000|10000|-|Katana+99 with 5 seals → Blacksmith.|
+|[Daisangen Sword](#daisangen-sword)|-|20|9|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Sword.|
+|[Fiery Fuuma](#fiery-fuuma)|-|30|10|20000|10000|-|Katana+99 with 5 seals → Blacksmith.|
 |[Mijinha](#mijinha)|-|50|16|60000|40000|-|-|
 |[Kaburasutegi](#kaburasutegi)|-|99|12|55000|20000|-|Manji-Kabura (月, 火, 水, 木, 金) → Blacksmith.|
-|[Ghost Sickle](#ghostsickle)|仏|5|5|5000|2000|-|Deals x1.5 damage to Ghost types.|
-|[Drain Buster](#drainbuster)|ド|6|5|5000|2500|-|Deals x1.5 damage to Drain types.|
-|[Cyclops Killer](#cyclopskiller)|目|9|4|4500|2000|-|Deals x1.5 damage to Cyclops types.|
-|[Crescent Arm](#crescentarm)|月|14|6|50000|25000|-|Deals x1.5 damage to Bomb types.|
-|[Dragon Killer](#dragonkiller)|竜|15|7|10000|5000|-|Deals x1.5 damage to Dragon types.|
-|[Ryujin Sword](#ryujinsword)|龍|25|7|30000|15000|-|Deals x2.0 damage to Dragon types.<br/>Synthesize 3 竜 seals onto a Dragon Killer.|
-|[Gamarra Whip](#gamarrawhip)|銭|2|4|16000|8000|-|30% chance to turn defeated monsters into Gitan.|
+|[Ghost Sickle](#ghost-sickle)|仏|5|5|5000|2000|-|Deals x1.5 damage to Ghost types.|
+|[Drain Buster](#drain-buster)|ド|6|5|5000|2500|-|Deals x1.5 damage to Drain types.|
+|[Cyclops Killer](#cyclops-killer)|目|9|4|4500|2000|-|Deals x1.5 damage to Cyclops types.|
+|[Crescent Arm](#crescent-arm)|月|14|6|50000|25000|-|Deals x1.5 damage to Bomb types.|
+|[Dragon Killer](#dragon-killer)|竜|15|7|10000|5000|-|Deals x1.5 damage to Dragon types.|
+|[Ryujin Sword](#ryujin-sword)|龍|25|7|30000|15000|-|Deals x2.0 damage to Dragon types.<br/>Synthesize 3 竜 seals onto a Dragon Killer.|
+|[Gamarra Whip](#gamarra-whip)|銭|2|4|16000|8000|-|30% chance to turn defeated monsters into Gitan.|
 |[Pickaxe](#pickaxe)|掘|2|5|3500|1600|ヨキタモ|Dig through walls. Breaks after digging for a while.|
 |[Gobo](#gobo)|食|3|2|500|250|-|Can be eaten to restore fullness by 20%. Lost if eaten.|
-|[Homing Blade](#homingblade)|必|3|3|10000|5000|てよだぼ|Raises attack accuracy to 100%.|
-|[Onigiri Sword](#onigirisword)|に|3|4|10000|5000|-|8% chance to turn defeated monsters into riceballs.|
-|[Golden Sword](#goldensword)|金|3|5|6000|3000|-|Rustproof. (Blue seal)|
-|[Dried Bonito](#driedbonito)|か|4|2|2000|1000|ルコウス|Bite to restore 30% fullness, but -1 upgrade value.|
-|[Fish Spear](#fishspear)|水|4|5|4000|1600|パカリツ|Lets you hit underwater monsters.|
-|[Razor Wind](#razorwind)|三|5|4|5000|2500|ほんうじ|Lets you attack in a 3-way pattern.|
-|[Healing Sword](#healingsword)|回|6|3|20000|10000|-|Restore HP equal to 1/3 of damage dealt.|
-|[Kengo's Katana](#kengo'skatana)|ケ|7|4|3200|900|-|Chance to fling a weapon when attacking an enemy.|
-|[Spark Sword](#sparksword)|ス|7|6|15000|7500|-|Guarantees a critical hit after missing 2 attacks.|
-|[Wonder Pickaxe](#wonderpickaxe)|サ|13|4|20000|10000|-|Dig through walls. Will never break.|
-|[Disposable Sword](#disposablesword)|捨|35|3|3000|1500|-|Decrease upgrade value by 1 when you deal damage.|
+|[Homing Blade](#homing-blade)|必|3|3|10000|5000|てよだぼ|Raises attack accuracy to 100%.|
+|[Onigiri Sword](#onigiri-sword)|に|3|4|10000|5000|-|8% chance to turn defeated monsters into riceballs.|
+|[Golden Sword](#golden-sword)|金|3|5|6000|3000|-|Rustproof. (Blue seal)|
+|[Dried Bonito](#dried-bonito)|か|4|2|2000|1000|ルコウス|Bite to restore 30% fullness, but -1 upgrade value.|
+|[Fish Spear](#fish-spear)|水|4|5|4000|1600|パカリツ|Lets you hit underwater monsters.|
+|[Razor Wind](#razor-wind)|三|5|4|5000|2500|ほんうじ|Lets you attack in a 3-way pattern.|
+|[Healing Sword](#healing-sword)|回|6|3|20000|10000|-|Restore HP equal to 1/3 of damage dealt.|
+|[Kengo's Katana](#kengo's-katana)|ケ|7|4|3200|900|-|Chance to fling a weapon when attacking an enemy.|
+|[Spark Sword](#spark-sword)|ス|7|6|15000|7500|-|Guarantees a critical hit after missing 2 attacks.|
+|[Wonder Pickaxe](#wonder-pickaxe)|サ|13|4|20000|10000|-|Dig through walls. Will never break.|
+|[Disposable Sword](#disposable-sword)|捨|35|3|3000|1500|-|Decrease upgrade value by 1 when you deal damage.|
 |[Mallet](#mallet)|木|3|5|4000|2000|タエチメ|Two-handed. Breaks traps. Can break.|
-|[Power Pole](#powerpole)|-|5|4|20000|10000|-|Two-handed. Retreat 1 tile after hitting an enemy or wall.|
-|[Iron Hammer](#ironhammer)|鉄|5|5|20000|10000|-|Two-handed. Breaks traps. Will never break.|
-|[Morning Star](#morningstar)|-|5|6|5000|2500|-|Two-handed. Lets you attack in a 1 tile radius.|
+|[Power Pole](#power-pole)|-|5|4|20000|10000|-|Two-handed. Retreat 1 tile after hitting an enemy or wall.|
+|[Iron Hammer](#iron-hammer)|鉄|5|5|20000|10000|-|Two-handed. Breaks traps. Will never break.|
+|[Morning Star](#morning-star)|-|5|6|5000|2500|-|Two-handed. Lets you attack in a 1 tile radius.|
 |[Spear](#spear)|-|6|7|10000|4000|ヌヌセラ|Two-handed. Piercing attack 2 tiles forward.|
-|[Minotaur's Axe](#minotaur'saxe)|会|8|11|6000|2400|-|Two-handed. 35% chance to deal a critical hit.|
-|[Ironhead's Head](#ironhead'shead)|-|9|7|5000|2500|-|Two-handed. Attack a target up to 3 tiles forward.|
+|[Minotaur's Axe](#minotaur's-axe)|会|8|11|6000|2400|-|Two-handed. 35% chance to deal a critical hit.|
+|[Ironhead's Head](#ironhead's-head)|-|9|7|5000|2500|-|Two-handed. Attack a target up to 3 tiles forward.|
 
 # Details
+
+Locations Key:
+
+|Location|Info|
+|-|-|
+|Floor|Found on the floor inside the dungeon.|
+|Presto|Obtained from a Presto Pot.|
+|Surprise|Obtained from a Surprise Pot.|
+|Shop|Sold as merchandise inside a dungeon shop.|
+|Trader|Sold as merchandise by Traders.|
+|Monster|Dropped by certain monsters.|
+|Golden|Found on the floor inside a Golden Interval.|
+|Treasure|Obtained from a treasure chest in a Golden Interval.|
 
 ### Wooden Sword
 

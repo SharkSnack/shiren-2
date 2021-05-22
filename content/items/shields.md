@@ -7,36 +7,49 @@ metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasio
 # Summary
 | Name | Seal | Def | Slot | Buy | Sell | Phrase | Info |
 |-|-|-|-|-|-|-|-|
-|[Wooden Shield](#woodenshield)|-|2|1|2100|500|-|Found with +4 ~ +8 upgrade value.|
-|[Tribal Shield](#tribalshield)|-|6|5|1500|700|んたぬれ|-|
-|[Sacred Shield](#sacredshield)|-|8|16|12000|4000|-|-|
-|[Beetle Shield](#beetleshield)|-|10|5|7000|3000|へめなの|-|
-|[Ivory Shield](#ivoryshield)|-|12|5|10000|2000|-|Rustproof.|
-|[Fuuma Shield](#fuumashield)|-|16|6|15000|3500|ユクムス|-|
-|[Daisangen Shield](#daisangenshield)|-|30|5|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Shield.|
-|[Basilisk Shield](#basiliskshield)|-|40|13|60000|10000|-|-|
-|[Helix Shield](#helixshield)|-|50|12|55000|30000|-|-|
-|[Nirvana Shield](#nirvanashield)|サ|1|1|40000|20000|-|Max fullness is set to 1%, and hunger stops.|
-|[Evasive Shield](#evasiveshield)|見|2|5|10000|5000|-|Increases evasion to 35%.|
-|[Echo Shield](#echoshield)|山|3|5|12000|4000|-|Reflects magic.|
-|[Golden Shield](#goldenshield)|金|4|4|10000|4000|-|Rustproof. (Blue seal)|
-|[Leather Shield](#leathershield)|皮|4|5|2000|1000|どでとぴ|Halves hunger rate. Rustproof.|
-|[Dodge Shield](#dodgeshield)|身|5|4|15000|7500|-|Projectiles aimed at you will miss.|
-|[Holy Shield](#holyshield)|祓|5|5|10000|2500|ドピセモ|Prevents your items from getting cursed.|
-|[Gamarra Shield](#gamarrashield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
-|[Scale Shield](#scaleshield)|う|6|5|6000|3000|ヌスネア|Prevents poison from decreasing strength.|
-|[Happy Shield](#happyshield)|幸|6|5|15000|3500|-|Gain exp equal to 130% of damage received.|
-|[Walrus Shield](#walrusshield)|ト|6|6|6000|1500|-|Prevents monsters from stealing items and Gitan.|
-|[Reflect Shield](#reflectshield)|返|7|4|18000|5000|-|Reflects projectiles.|
-|[Counter Shield](#countershield)|バ|7|5|4000|1000|ぎぼびわ|Reflects 30% of damage received back at monsters.|
-|[Traproid Shield](#traproidshield)|カ|8|4|12000|6000|-|Traps you step on will not activate.|
-|[Blast Shield](#blastshield)|爆|8|5|5000|2000|ねぺなは|Reduces explosion damage by 30%.|
-|[Dragon Shield](#dragonshield)|竜|14|5|8000|4000|-|Reduces fire damage by 30%.|
-|[Heavy Shield](#heavyshield)|重|15|3|3000|1200|ゾテソボ|Doubles hunger rate.|
-|[Disposable Shield](#disposableshield)|捨|40|3|1600|600|-|Decrease upgrade value by 1 when taking damage.|
-|[Halberd Shield](#halberdshield)|-|7|5|13000|5000|-|Two-handed. Raises both attack and defense.|
+|[Wooden Shield](#wooden-shield)|-|2|1|2100|500|-|Found with +4 ~ +8 upgrade value.|
+|[Tribal Shield](#tribal-shield)|-|6|5|1500|700|んたぬれ|-|
+|[Sacred Shield](#sacred-shield)|-|8|16|12000|4000|-|-|
+|[Beetle Shield](#beetle-shield)|-|10|5|7000|3000|へめなの|-|
+|[Ivory Shield](#ivory-shield)|-|12|5|10000|2000|-|Rustproof.|
+|[Fuuma Shield](#fuuma-shield)|-|16|6|15000|3500|ユクムス|-|
+|[Daisangen Shield](#daisangen-shield)|-|30|5|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Shield.|
+|[Basilisk Shield](#basilisk-shield)|-|40|13|60000|10000|-|-|
+|[Helix Shield](#helix-shield)|-|50|12|55000|30000|-|-|
+|[Nirvana Shield](#nirvana-shield)|サ|1|1|40000|20000|-|Max fullness is set to 1%, and hunger stops.|
+|[Evasive Shield](#evasive-shield)|見|2|5|10000|5000|-|Increases evasion to 35%.|
+|[Echo Shield](#echo-shield)|山|3|5|12000|4000|-|Reflects magic.|
+|[Golden Shield](#golden-shield)|金|4|4|10000|4000|-|Rustproof. (Blue seal)|
+|[Leather Shield](#leather-shield)|皮|4|5|2000|1000|どでとぴ|Halves hunger rate. Rustproof.|
+|[Dodge Shield](#dodge-shield)|身|5|4|15000|7500|-|Projectiles aimed at you will miss.|
+|[Holy Shield](#holy-shield)|祓|5|5|10000|2500|ドピセモ|Prevents your items from getting cursed.|
+|[Gamarra Shield](#gamarra-shield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
+|[Scale Shield](#scale-shield)|う|6|5|6000|3000|ヌスネア|Prevents poison from decreasing strength.|
+|[Happy Shield](#happy-shield)|幸|6|5|15000|3500|-|Gain exp equal to 130% of damage received.|
+|[Walrus Shield](#walrus-shield)|ト|6|6|6000|1500|-|Prevents monsters from stealing items and Gitan.|
+|[Reflect Shield](#reflect-shield)|返|7|4|18000|5000|-|Reflects projectiles.|
+|[Counter Shield](#counter-shield)|バ|7|5|4000|1000|ぎぼびわ|Reflects 30% of damage received back at monsters.|
+|[Traproid Shield](#traproid-shield)|カ|8|4|12000|6000|-|Traps you step on will not activate.|
+|[Blast Shield](#blast-shield)|爆|8|5|5000|2000|ねぺなは|Reduces explosion damage by 30%.|
+|[Dragon Shield](#dragon-shield)|竜|14|5|8000|4000|-|Reduces fire damage by 30%.|
+|[Heavy Shield](#heavy-shield)|重|15|3|3000|1200|ゾテソボ|Doubles hunger rate.|
+|[Disposable Shield](#disposable-shield)|捨|40|3|1600|600|-|Decrease upgrade value by 1 when taking damage.|
+|[Halberd Shield](#halberd-shield)|-|7|5|13000|5000|-|Two-handed. Raises both attack and defense.|
 
 # Details
+
+Locations Key:
+
+|Location|Info|
+|-|-|
+|Floor|Found on the floor inside the dungeon.|
+|Presto|Obtained from a Presto Pot.|
+|Surprise|Obtained from a Surprise Pot.|
+|Shop|Sold as merchandise inside a dungeon shop.|
+|Trader|Sold as merchandise by Traders.|
+|Monster|Dropped by certain monsters.|
+|Golden|Found on the floor inside a Golden Interval.|
+|Treasure|Obtained from a treasure chest in a Golden Interval.|
 
 ### Wooden Shield
 
@@ -1712,46 +1725,5 @@ Locations:
   <tr>
     <th>Onigashima</th>
     <td>Shop, Trader</td>
-  </tr>
-</table>
-
-### ITEM_NAME
-
-Description.
-
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|-|-|-|-|-|
-
-Locations:
-
-<table>
-  <tr>
-    <th>Small Valley</th>
-    <td>-</td>
-    <th>Hidden Hole</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Easy</th>
-    <td>-</td>
-    <th>Halfway Well</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Mid</th>
-    <td>-</td>
-    <th>Sealed Room</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Hard</th>
-    <td>-</td>
-    <th>Road to the End</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Onigashima</th>
-    <td>-</td>
   </tr>
 </table>

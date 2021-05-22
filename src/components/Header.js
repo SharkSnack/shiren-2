@@ -7,7 +7,7 @@ import Loadable from 'react-loadable';
 
 import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
-import { DarkModeSwitch } from './DarkModeSwitch';
+// import { DarkModeSwitch } from './DarkModeSwitch';
 
 const help = require('./images/help.svg');
 
@@ -181,12 +181,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
-                <li>
-                  <DarkModeSwitch
-                    isDarkThemeActive={isDarkThemeActive}
-                    toggleActiveTheme={toggleActiveTheme}
-                  />
-                </li>
               </ul>
             </div>
           </nav>

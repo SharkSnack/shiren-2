@@ -225,7 +225,7 @@ export const baseStyles = css`
     height: auto;
     font-size: 16px;
     line-height: 1.5;
-    font-weight: 300;
+    font-weight: 500;
     color: #fff !important;
     /* margin-top: 16px; */
     text-transform: uppercase;

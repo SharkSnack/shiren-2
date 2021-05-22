@@ -1,26 +1,57 @@
 ---
 title: "Bracelets"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Shields - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+# Summary
+| Name | Seal | Atk | Slot | Buy | Sell | Phrase | Info |
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
 
-```javascript
-import React from 'react';
-```
+# Details
 
-Supports multiple languages.
+### ITEM_NAME
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
+<div class="equipmentImage">
+  <img src="../images/weapons/item_name.png" alt="Item_Name Image"/>
+</div>
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
+Description.
 
-## Live Editing example
+|Seal|Atk|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>

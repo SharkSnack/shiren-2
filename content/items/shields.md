@@ -1,26 +1,1757 @@
 ---
 title: "Shields"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Shields - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+# Summary
+| Name | Seal | Def | Slot | Buy | Sell | Phrase | Info |
+|-|-|-|-|-|-|-|-|
+|[Wooden Shield](#woodenshield)|-|2|1|2100|500|-|Found with +4 ~ +8 upgrade value.|
+|[Tribal Shield](#tribalshield)|-|6|5|1500|700|んたぬれ|-|
+|[Sacred Shield](#sacredshield)|-|8|16|12000|4000|-|-|
+|[Beetle Shield](#beetleshield)|-|10|5|7000|3000|へめなの|-|
+|[Ivory Shield](#ivoryshield)|-|12|5|10000|2000|-|Rustproof.|
+|[Fuuma Shield](#fuumashield)|-|16|6|15000|3500|ユクムス|-|
+|[Daisangen Shield](#daisangenshield)|-|30|5|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Shield.|
+|[Basilisk Shield](#basiliskshield)|-|40|13|60000|10000|-|-|
+|[Helix Shield](#helixshield)|-|50|12|55000|30000|-|-|
+|[Nirvana Shield](#nirvanashield)|サ|1|1|40000|20000|-|Max fullness is set to 1%, and hunger stops.|
+|[Evasive Shield](#evasiveshield)|見|2|5|10000|5000|-|Increases evasion to 35%.|
+|[Echo Shield](#echoshield)|山|3|5|12000|4000|-|Reflects magic.|
+|[Golden Shield](#goldenshield)|金|4|4|10000|4000|-|Rustproof. (Blue seal)|
+|[Leather Shield](#leathershield)|皮|4|5|2000|1000|どでとぴ|Halves hunger rate. Rustproof.|
+|[Dodge Shield](#dodgeshield)|身|5|4|15000|7500|-|Projectiles aimed at you will miss.|
+|[Holy Shield](#holyshield)|祓|5|5|10000|2500|ドピセモ|Prevents your items from getting cursed.|
+|[Gamarra Shield](#gamarrashield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
+|[Scale Shield](#scaleshield)|う|6|5|6000|3000|ヌスネア|Prevents poison from decreasing strength.|
+|[Happy Shield](#happyshield)|幸|6|5|15000|3500|-|Gain exp equal to 130% of damage received.|
+|[Walrus Shield](#walrusshield)|ト|6|6|6000|1500|-|Prevents monsters from stealing items and Gitan.|
+|[Reflect Shield](#reflectshield)|返|7|4|18000|5000|-|Reflects projectiles.|
+|[Counter Shield](#countershield)|バ|7|5|4000|1000|ぎぼびわ|Reflects 30% of damage received back at monsters.|
+|[Traproid Shield](#traproidshield)|カ|8|4|12000|6000|-|Traps you step on will not activate.|
+|[Blast Shield](#blastshield)|爆|8|5|5000|2000|ねぺなは|Reduces explosion damage by 30%.|
+|[Dragon Shield](#dragonshield)|竜|14|5|8000|4000|-|Reduces fire damage by 30%.|
+|[Heavy Shield](#heavyshield)|重|15|3|3000|1200|ゾテソボ|Doubles hunger rate.|
+|[Disposable Shield](#disposableshield)|捨|40|3|1600|600|-|Decrease upgrade value by 1 when taking damage.|
+|[Halberd Shield](#halberdshield)|-|7|5|13000|5000|-|Two-handed. Raises both attack and defense.|
 
-```javascript
-import React from 'react';
-```
+# Details
 
-Supports multiple languages.
+### Wooden Shield
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
+<div class="equipmentImage">
+  <img src="../images/shields/wooden.png" alt="Wooden Shield Image"/>
+</div>
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
+Low defense, but comes with an upgrade value ranging from +4 to +8.<br/>
+It is never found cursed. Use as synthesis fodder to strengthen a stronger shield.
 
-## Live Editing example
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|2|1|2100|500|175|-|-|-|
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Surprise</td>
+    <th>Road to the End</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Trader, Treasure</td>
+  </tr>
+</table>
+
+### Tribal Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/tribal.png" alt="Tribal Shield Image"/>
+</div>
+
+Shield said to be passed down from a foreign tribe.<br/>
+Can be useful as a synthesis seal container since it doesn't have an innate ability.<br/>
+It's a bit too weak to use as a main shield.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|6|5|1500|700|150|-|???|んたぬれ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Trader, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Trader</td>
+  </tr>
+</table>
+
+### Sacred Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/sacred.png" alt="Sacred Shield Image"/>
+</div>
+
+This shield lacks innate abilities, but comes with max synthesis slots.<br/>
+Doesn't have very high defense, but the number of slots easily makes up for it.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|8|16|12000|4000|1200|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Golden</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Beetle Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/beetle.png" alt="Beetle Shield Image"/>
+</div>
+
+Shield made out of a giant beetle shell. Doesn't have an innate ability.<br/>
+Pretty solid defense, and can be used as a main shield.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|10|5|7000|3000|700|-|???|へめなの|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Ivory Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/ivory.png" alt="Ivory Shield Image"/>
+</div>
+
+Shield made of ivory. Rustproof.<br/>
+Transforms into Daisangen Shield with 3 中 seals.<br/>
+The rustproof ability won't transfer if used as synthesis fodder.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|12|5|10000|2000|1000|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Golden</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Golden</td>
+  </tr>
+</table>
+
+### Fuuma Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/fuuma.png" alt="Fuuma Shield Image"/>
+</div>
+
+Shield with high defense. Good option as a main shield.<br/>
+Insert a Fuuma Shield+99 into a Presto Pot to transform it into a Helix Shield,<br/>though note that upgrade value and seals will reset if you do so.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|16|6|15000|3500|1500|-|???|ユムクス|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Golden</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Daisangen Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/daisangen.png" alt="Daisangen Shield Image"/>
+</div>
+
+Created by synthesizing 3 中 seals onto an Ivory Shield. Rustproof.<br/>
+Difficult to make due to the rarity of Dragon Tile Bracelets.<br/>
+Cannot be used as synthesis fodder.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|30|5|48000|32000|4800|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Basilisk Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/basilisk.png" alt="Basilisk Shield Image"/>
+</div>
+
+Legendary shield exclusive to Shiren 2, and it's the 2nd strongest shield in the game.<br/>
+Very high defense and slot count, which makes it excellent as a main shield.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|40|13|60000|10000|6000|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Golden</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Helix Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/helix.png" alt="Helix Shield Image"/>
+</div>
+
+Strongest shield in the game.<br/>
+Obtained by inserting a Fuuma Shield+99 into a Presto Pot.<br/>
+Recommended to synthesize Blank Scrolls with Mixer monsters to increase the number of slots.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|50|12|55000|30000|5500|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Nirvana Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/nirvana.png" alt="Nirvana Shield Image"/>
+</div>
+
+Created by synthesizing 3 重 seals onto a Heavy Shield.<br/>
+Shield that sets max fullness to 1% while also stopping hunger.<br/>
+Hunger Puppets can lower your fullness, and Kengo can disarm your shield, so still be careful.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|サ|1|1|40000|20000|4000|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Evasive Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/evasive.png" alt="Evasive Shield Image"/>
+</div>
+
+Shield that makes it easier to evade direct attacks by increasing your evasion to 35%.<br/>
+Great seal to have, since higher evasion means bracelets last longer.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|見|2|5|10000|5000|1000|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Chance (%)</td>
+    <td></td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>75</td>
+    <td>80</td>
+    <td>82</td>
+    <td>84</td>
+    <td>85</td>
+    <td>86</td>
+    <td>88</td>
+    <td>90</td>
+    <td>99</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Presto, Shop, Trader, Treasure</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Presto, Shop, Trader, Treasure</td>
+  </tr>
+</table>
+
+### Echo Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/echo.png" alt="Echo Shield Image"/>
+</div>
+
+Reflects magic, including Gazer hypnosis, Tusker staves, Sheep Priest spells, and Grass Gainer.<br/>
+Cannot reflect Straw Voodoll curses, Twisty Hani dances, or Hunger Puppet songs.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|山|3|5|12000|4000|1200|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Presto, Shop, Trader, Treasure</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Treasure</td>
+  </tr>
+</table>
+
+### Golden Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/golden.png" alt="Golden Shield Image"/>
+</div>
+
+Shield made out of gold. Low defense, but it will never rust.<br/>
+Provides a blue 金 seal when synthesized.<br/>
+Monsoon Dolls tear off red 金 seals first, but a blue 金 has the same odds to be erased as other seals.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|金|4|4|10000|4000|1000|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Treasure</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Golden</td>
+  </tr>
+</table>
+
+### Leather Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/leather.png" alt="Leather Shield Image"/>
+</div>
+
+Shield that halves your hunger rate. Rustproof.<br/>
+Ally Kengo will always fling a Leather Shield in dungeons where shields normally do not appear.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|皮|4|5|2000|1000|200|Yes|???|どでとぴ|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Turns / 1 Point</td>
+    <td></td>
+    <td>20</td>
+    <td>22</td>
+    <td>25</td>
+    <td>29</td>
+    <td>33</td>
+    <td>40</td>
+    <td>50</td>
+    <td>56</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>63</td>
+    <td>72</td>
+    <td>84</td>
+    <td>100</td>
+    <td>125</td>
+    <td>166</td>
+    <td>250</td>
+    <td>500</td>
+    <td>1000</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+</table>
+
+### Dodge Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/dodge.png" alt="Dodge Shield Image"/>
+</div>
+
+Shield that lets you dodge projectiles, making it very easy to collect arrows.<br/>
+Cannonballs will still explode, and dodged objects can activate traps if you're standing on one.<br/>
+The 返 seal takes priority if you also have that synthesized.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|身|5|4|15000|7500|1500|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Holy Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/holy.png" alt="Holy Shield Image"/>
+</div>
+
+Shield that prevents your items from getting cursed by Straw Voodoll monsters.<br/>
+Synthesizing a Purify Scroll with a Mixer monster provides the same effect.<br/>
+This shield is never found cursed.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|祓|5|5|10000|2500|1000|No|???|ドピセモ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Shop, Trader</td>
+  </tr>
+</table>
+
+### Gamarra Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/gamarra.png" alt="Gamarra Shield Image"/>
+</div>
+
+Shield that hosts the spirit of a Gamarra.<br/>
+Obtain Gitan equal to 10% of the amount of damage received from enemy attacks.<br/>
+It's quite rare, despite its lackluster ability.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|銭|5|5|4000|1600|400|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Portion (%)</td>
+    <td></td>
+    <td>10</td>
+    <td>12</td>
+    <td>14</td>
+    <td>20</td>
+    <td>24</td>
+    <td>26</td>
+    <td>30</td>
+    <td>32</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>35</td>
+    <td>40</td>
+    <td>42</td>
+    <td>46</td>
+    <td>50</td>
+    <td>52</td>
+    <td>56</td>
+    <td>58</td>
+    <td>60</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Golden</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Scale Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/scale.png" alt="Scale Shield Image"/>
+</div>
+
+Shield made out of special fish scales that resist poison.<br/>
+Prevents poison arrows, poison grass, and Scorpion stings from lowering strength.<br/>
+Note that it doesn't prevent loss of strength from Slug licks or Spoiled Riceballs.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|う|6|5|6000|3000|600|No|???|ヌスネア|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Trader</td>
+  </tr>
+</table>
+
+### Happy Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/happy.png" alt="Happy Shield Image"/>
+</div>
+
+Gain exp equal to 130% of the amount of damage you receive from attacks.<br/>
+Good to equip early on, but you'll want to switch to a stronger shield as you progress.<br/>
+Note that you won't gain exp from traps.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|幸|6|5|15000|3500|1500|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Portion (%)</td>
+    <td></td>
+    <td>130</td>
+    <td>200</td>
+    <td>300</td>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
+    <td>610</td>
+    <td>620</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>630</td>
+    <td>640</td>
+    <td>650</td>
+    <td>660</td>
+    <td>670</td>
+    <td>680</td>
+    <td>690</td>
+    <td>700</td>
+    <td>710</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader, Golden</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Surprise, Treasure</td>
+  </tr>
+</table>
+
+### Walrus Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/walrus.png" alt="Walrus Shield Image"/>
+</div>
+
+Shield modeled after a Zalokleft.<br/>
+Prevents item and Gitan theft by Zalokleft, Gamarra, and Gyadon monsters.<br/>
+It can't prevent Kengo monsters from disarming you, since disarming is not considered stealing.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|ト|6|6|6000|1500|600|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Trader</td>
+  </tr>
+</table>
+
+### Reflect Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/reflect.png" alt="Reflect Shield Image"/>
+</div>
+
+Reflects projectiles, including cannonballs, porky stones, and monsters.<br/>
+If a reflected cannonball hits a Shopkeeper, they will attack you instead of the monster.<br/>
+Cannot reflect silver arrows or objects falling from above.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|返|7|4|18000|5000|1800|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Counter Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/counter.png" alt="Counter Shield Image"/>
+</div>
+
+Shield that reflects 30% of damage received from physical attacks back at monsters.<br/>
+Note that reflected damage can still cause Slugs and Zaloklefts to divide.<br/>
+Cannot reflect damage if the target is inside a wall.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|バ|7|5|4000|1000|400|Yes|???|ぎぼびわ|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Portion (%)</td>
+    <td></td>
+    <td>30</td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>70</td>
+    <td>75</td>
+    <td>80</td>
+    <td>82</td>
+    <td>85</td>
+    <td>86</td>
+    <td>88</td>
+    <td>90</td>
+    <td>99</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Presto, Shop</td>
+  </tr>
+</table>
+
+### Traproid Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/traproid.png" alt="Traproid Shield Image"/>
+</div>
+
+Shield that prevents traps from activating.<br/>
+You can still choose to manually trigger traps if you're standing on one.<br/>
+One of the strongest seals in the game, to the point of being a balance breaker.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|カ|8|4|12000|6000|1200|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Blast Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/blast.png" alt="Blast Shield Image"/>
+</div>
+
+Shield that reduces damage from explosions by 30%.<br/>
+Explosion damage sources include landmines, bomber statues, Pop Tank, Wolf Roid, Patient Bag, etc.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|爆|8|5|5000|2000|500|Yes|???|ねぺなは|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Reduction (%)</td>
+    <td></td>
+    <td>30</td>
+    <td>32</td>
+    <td>34</td>
+    <td>40</td>
+    <td>44</td>
+    <td>46</td>
+    <td>50</td>
+    <td>52</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>55</td>
+    <td>60</td>
+    <td>62</td>
+    <td>66</td>
+    <td>70</td>
+    <td>72</td>
+    <td>76</td>
+    <td>80</td>
+    <td>90</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Dragon Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/dragon.png" alt="Dragon Shield Image"/>
+</div>
+
+Shield that reduces fire damage by 30%.<br/>
+Can be used as a main shield, or as a secondary shield for floors with Archdragons.<br/>
+Pair it with a 火 seal to increase the fire damage reduction to 50%. (30% + 20% = 50%)
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|竜|14|5|8000|4000|800|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th></th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td>Reduction (%)</td>
+    <td></td>
+    <td>30</td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>70</td>
+    <td>72</td>
+    <td>74</td>
+    <td>76</td>
+    <td>78</td>
+    <td>80</td>
+    <td>82</td>
+    <td>84</td>
+    <td>86</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Golden</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Golden</td>
+  </tr>
+</table>
+
+### Heavy Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/heavy.png" alt="Heavy Shield Image"/>
+</div>
+
+Shield with high defense, but also doubles hunger rate.<br/>
+Synthesize a 皮 seal to counter the effect, but with only 3 slots, it's not really worth it.<br/>
+Synthesize 3 重 seals onto it to transform it into a Nirvana Shield.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|重|15|3|3000|1200|300|No|???|ゾテソボ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Shop</td>
+  </tr>
+</table>
+
+### Disposable Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/disposable.png" alt="Disposable Shield Image"/>
+</div>
+
+Starts out with very high defense, but loses 1 upgrade value every time you take damage.<br/>
+Fixed damage such as quarter staff will still lower its upgrade value, but traps,<br/>poison grass, surprise pot explosions, and fire pillars won't.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|捨|40|3|1600|600|160|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Presto</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Presto</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Presto</td>
+  </tr>
+</table>
+
+### Halberd Shield
+
+<div class="equipmentImage">
+  <img src="../images/shields/halberd.png" alt="Halberd Shield Image"/>
+</div>
+
+Two-handed shield that raises both attack and defense when equipped.<br/>
+Decent option early on, but you'll want to switch to stronger equipment as you progress.<br/>
+Can only be used as a base in synthesis.
+
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|-|-|-|
+|-|7|5|13000|5000|1300|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Shop, Trader</td>
+  </tr>
+</table>
+
+### ITEM_NAME
+
+Description.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|-|-|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>

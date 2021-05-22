@@ -629,7 +629,7 @@ export const baseStyles = css`
   }
   .equipmentImage img {
     height: auto !important;
-    transform: scale(1.6);
+    transform: scale(1.4);
     background-color: #555;
     border-radius: 3px;
     padding: 5px;

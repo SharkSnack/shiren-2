@@ -1,203 +1,283 @@
 ---
 title: "Materials"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Castle Materials - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete castle material details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
 # Summary
-<table>
+|Name|Buy|Sell|Phrase|Info|
+|-|-|-|-|-|
+|[Soil](#soil)|3000|800|-|Select [Make] to sculpt a decoy that has 20 HP.|
+|[Good Soil](#good-soil)|6000<br/>(15000)|1600|-|Select [Make] to sculpt a decoy that has 35 HP.|
+|[Perfect Soil](#perfect-soil)|9000|2400|びおんわ|Select [Make] to sculpt a decoy that has 40 HP.|
+|[Water](#water)|4000|800|-|Select [Use] to restore 50 HP.|
+|[Good Water](#good-water)|8000<br/>(15000)|1600|-|Select [Use] to restore 100 HP.<br/>Also cures ailments.|
+|[Perfect Water](#perfect-water)|12000|2400|ぱらぽき|Select [Use] to restore HP, fullness, and strength to max.<br/>Also cures ailments.|
+|[Wood](#wood)|3000|800|-|Throw it to deal 30 damage and 5 tiles of knockback.|
+|[Good Wood](#good-wood)|6000<br/>(15000)|1600|-|Throw it to deal 40 damage and 5 tiles of knockback.|
+|[Perfect Wood](#perfect-wood)|9000|2400|モダテプ|Throw it to deal 50 damage and 5 tiles of knockback.|
+|[Rock](#rock)|3000|800|-|Select [Throw] to make 4~5 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
+|[Good Rock](#good-rock)|6000<br/>(15000)|1600|-|Select [Throw] to make 7~10 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
+|[Perfect Rock](#perfect-rock)|9000|2400|しみれれ|Select [Throw] to make 12~15 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
+|[Iron Sand](#iron-sand)|3000|800|-|Throw at a target to inflict blindness.|
+|[Good Iron Sand](#good-iron-sand)|6000<br/>(15000)|1600|-|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in a 1 tile radius.|
+|[Perfect Iron Sand](#perfect-iron-sand)|9000|2400|はめんみ|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in the room.|
+
+※ "Good" grade materials can be purchased for 15,000G each at Shuten Summit.
+
+# Location Chart
+
+<p>
+  Castle materials can only be found within the Shuten Trail dungeons,<br/>
+  and are always generated on the ground, so monsters will never drop them.<br/>
+  <span style="color:orange;">※ Perfect Wood can only be found in Shuten Trail Mid</span>.
+</p>
+
+<table class="centeredTable">
   <tr>
-    <th>Name</th>
-    <th>Seal</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th>Phrase</th>
-    <th>Info</th>
+    <th rowspan="2">Material</th>
+    <th colspan="3">Shuten Trail</th>
   </tr>
   <tr>
-    <td>Level Lock Bracelet</td>
-    <td>-</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Protects against level down effects.</td>
+    <td>Easy</td>
+    <td>Mid</td>
+    <td>Hard</td>
   </tr>
   <tr>
-    <td>Pierce Bracelet</td>
-    <td>-</td>
-    <td rowspan="3">4000</td>
-    <td rowspan="3">2000</td>
-    <td>リヒピシ</td>
-    <td>Thrown items pierce through walls and monsters.</td>
+    <th>Soil</th>
+    <td style="background-color:lemonchiffon;">X</td>
+    <td style="background-color:lemonchiffon;"></td>
+    <td style="background-color:lemonchiffon;"></td>
   </tr>
   <tr>
-    <td>Dragon Tile Bracelet</td>
-    <td>中</td>
-    <td>-</td>
-    <td>Thrown items will always miss. Daisangen equipment ingredient.</td>
+    <th>Good Soil</th>
+    <td style="background-color:lemonchiffon;"></td>
+    <td style="background-color:lemonchiffon;">X</td>
+    <td style="background-color:lemonchiffon;">X</td>
   </tr>
   <tr>
-    <td>No Control Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items fly in a random direction.</td>
+    <th>Perfect Soil</th>
+    <td style="background-color:lemonchiffon;"></td>
+    <td style="background-color:lemonchiffon;"></td>
+    <td style="background-color:lemonchiffon;">X</td>
   </tr>
   <tr>
-    <td>Salty Bracelet</td>
-    <td>-</td>
-    <td rowspan="6">5000</td>
-    <td rowspan="5">2500</td>
-    <td>-</td>
-    <td>Protects against strength modifying slug licks and sheep spells.</td>
+    <th>Water</th>
+    <td style="background-color:#b5e3ff;">X</td>
+    <td style="background-color:#b5e3ff;"></td>
+    <td style="background-color:#b5e3ff;"></td>
   </tr>
   <tr>
-    <td>Heal Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Restores 5 HP per turn, but also doubles hunger rate.</td>
+    <th>Good Water</th>
+    <td style="background-color:#b5e3ff;"></td>
+    <td style="background-color:#b5e3ff;">X</td>
+    <td style="background-color:#b5e3ff;">X</td>
   </tr>
   <tr>
-    <td>Bend Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items will curve when hitting walls.</td>
+    <th>Perfect Water</th>
+    <td style="background-color:#b5e3ff;"></td>
+    <td style="background-color:#b5e3ff;"></td>
+    <td style="background-color:#b5e3ff;">X</td>
   </tr>
   <tr>
-    <td>Song Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Protects against fullness loss by Hunger Puppet songs.</td>
+    <th>Wood</th>
+    <td style="background-color:papayawhip;">X</td>
+    <td style="background-color:papayawhip;"></td>
+    <td style="background-color:papayawhip;"></td>
   </tr>
   <tr>
-    <td>Breadcrumb Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Makes you drop items randomly as you walk.</td>
+    <th>Good Wood</th>
+    <td style="background-color:papayawhip;"></td>
+    <td style="background-color:papayawhip;">X</td>
+    <td style="background-color:papayawhip;">X</td>
   </tr>
   <tr>
-    <td>Strength Bracelet</td>
-    <td>-</td>
-    <td>3400</td>
-    <td>-</td>
-    <td>Increases strength by 3.</td>
+    <th>Perfect Wood</th>
+    <td style="background-color:papayawhip;"></td>
+    <td style="background-color:papayawhip;">X</td>
+    <td style="background-color:papayawhip;"></td>
   </tr>
   <tr>
-    <td>Bullseye Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">7500</td>
-    <td>3000</td>
-    <td>メペング</td>
-    <td>Thrown items will always hit their target.</td>
+    <th>Rock</th>
+    <td style="background-color:#e6e6e6;">X</td>
+    <td style="background-color:#e6e6e6;"></td>
+    <td style="background-color:#e6e6e6;"></td>
   </tr>
   <tr>
-    <td>Critical Bracelet</td>
-    <td>-</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Deal x5.0 damage critical hits, but shatters if you take damage.</td>
+    <th>Good Rock</th>
+    <td style="background-color:#e6e6e6;"></td>
+    <td style="background-color:#e6e6e6;">X</td>
+    <td style="background-color:#e6e6e6;">X</td>
   </tr>
   <tr>
-    <td>Phantasm Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">10000</td>
-    <td rowspan="2">5000</td>
-    <td>-</td>
-    <td>Lets you walk through walls and float over water.<br/>Drains 5% HP per turn inside walls.</td>
+    <th>Perfect Rock</th>
+    <td style="background-color:#e6e6e6;"></td>
+    <td style="background-color:#e6e6e6;"></td>
+    <td style="background-color:#e6e6e6;">X</td>
   </tr>
   <tr>
-    <td>Scout Bracelet</td>
-    <td>-</td>
-    <td>ベゲトザ</td>
-    <td>Reveals monster, item, and statue locations on the map.</td>
+    <th>Iron Sand</th>
+    <td style="background-color:rgb(193, 193, 193);">X</td>
+    <td style="background-color:rgb(193, 193, 193);"></td>
+    <td style="background-color:rgb(193, 193, 193);"></td>
   </tr>
   <tr>
-    <td>Paper Thin Bracelet</td>
-    <td>-</td>
-    <td rowspan="4">15000</td>
-    <td rowspan="4">7500</td>
-    <td>-</td>
-    <td>Halves the accuracy of attacks and projectiles aimed at you.<br/>Burns up if you take fire damage.</td>
+    <th>Good Iron Sand</th>
+    <td style="background-color:rgb(193, 193, 193);"></td>
+    <td style="background-color:rgb(193, 193, 193);">X</td>
+    <td style="background-color:rgb(193, 193, 193);">X</td>
   </tr>
   <tr>
-    <td>Parry Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Redirects damage from physical attacks to a nearby monster.</td>
-  </tr>
-  <tr>
-    <td>No Hunger Bracelet</td>
-    <td>-</td>
-    <td>セダベタ</td>
-    <td>Stops natural fullness depletion.</td>
-  </tr>
-  <tr>
-    <td>Hunger Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Doubles hunger rate.</td>
-  </tr>
-  <tr>
-    <td>Trapper Bracelet</td>
-    <td>-</td>
-    <td>25000</td>
-    <td>1000</td>
-    <td>-</td>
-    <td>Can pick up and set traps, and monsters will trigger them.</td>
+    <th>Perfect Iron Sand</th>
+    <td style="background-color:rgb(193, 193, 193);"></td>
+    <td style="background-color:rgb(193, 193, 193);"></td>
+    <td style="background-color:rgb(193, 193, 193);">X</td>
   </tr>
 </table>
 
 # Details
 
-Locations Key:
+### Soil
 
-|Location|Info|
-|-|-|
-|Floor|Found on the floor inside the dungeon.|
-|Presto|Obtained from a Presto Pot.|
-|Surprise|Obtained from a Surprise Pot.|
-|Shop|Sold as merchandise inside a dungeon shop.|
-|Trader|Sold as merchandise by Traders.|
-|Monster|Dropped by certain monsters.|
-|Golden|Found on the floor inside a Golden Interval.|
-|Treasure|Obtained from a treasure chest in a Golden Interval.|
+Select [Make] to sculpt a 20 HP decoy that wanders around the floor on its own.<br/>
+Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
+but it's also useful for collecting higher level monsters for Monster Kingdom.
 
-### ITEM_NAME
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|3000|800|-|-|
 
-Description.
+### Good Soil
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|-|-|-|-|-|
+Select [Make] to sculpt a 35 HP decoy that wanders around the floor on its own.<br/>
+Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
+but it's also useful for collecting higher level monsters for Monster Kingdom.
 
-Locations:
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|6000<br/>(15000)|1600|-|-|
 
-<table>
-  <tr>
-    <th>Small Valley</th>
-    <td>-</td>
-    <th>Hidden Hole</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Easy</th>
-    <td>-</td>
-    <th>Halfway Well</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Mid</th>
-    <td>-</td>
-    <th>Sealed Room</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Shuten Hard</th>
-    <td>-</td>
-    <th>Road to the End</th>
-    <td>-</td>
-  </tr>
-  <tr>
-    <th>Onigashima</th>
-    <td>-</td>
-  </tr>
-</table>
+### Perfect Soil
+
+Select [Make] to sculpt a 40 HP decoy that wanders around the floor on its own.<br/>
+Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
+but it's also useful for collecting higher level monsters for Monster Kingdom.<br/>
+Takes up 2 inventory slots.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|9000|2400|???|びおんわ|
+
+### Water
+
+Special water that repels Oni.<br/>
+Select [Use] to restore 50HP.<br/>
+No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|4000|800|-|-|
+
+### Good Water
+
+Special water that repels Oni.<br/>
+Select [Use] to restore 100HP and cure ailments.<br/>
+No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|8000<br/>(15000)|1600|-|-|
+
+### Perfect Water
+
+Special water that repels Oni.<br/>
+Select [Use] to restore HP, fullness, and strength to max, and cure ailments.<br/>
+No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.<br/>
+Takes up 2 inventory slots.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|12000|2400|???|ぱらぽき|
+
+### Wood
+
+Throw it at an enemy to deal 30 damage and 5 tiles of knockback.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|3000|800|-|-|
+
+### Good Wood
+
+Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|6000<br/>(15000)|1600|-|-|
+
+### Perfect Wood
+
+<p>
+  Throw it at an enemy to deal 50 damage and 5 tiles of knockback.<br/>
+  <span style="color:orange;">Note that Perfect Wood can only be found in Shuten Trail Mid.</span><br/>
+  Takes up 2 inventory slots.
+</p>
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|9000|2400|???|モダテプ|
+
+### Rock
+
+Select [Throw] to make 4\~5 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
+If a 10 Damage Statue is present, each rock will deal 10 damage.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|3000|800|-|-|
+
+### Good Rock
+
+Select [Throw] to make 7\~10 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
+If a 10 Damage Statue is present, each rock will deal 10 damage.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|6000<br/>(15000)|1600|-|-|
+
+### Perfect Rock
+
+Select [Throw] to make 12\~15 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
+If a 10 Damage Statue is present, each rock will deal 10 damage.<br/>
+Takes up 2 inventory slots.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|9000|2400|???|しみれれ|
+
+### Iron Sand
+
+Throw at a target to inflict blindness.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|3000|800|-|-|
+
+### Good Iron Sand
+
+Throw at a target to inflict blindness.<br/>
+Select [Scatter] to blind all characters in a 1 tile radius.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|6000<br/>(15000)|1600|-|-|
+
+### Perfect Iron Sand
+
+Throw at a target to inflict blindness.<br/>
+Select [Scatter] to blind all characters in the room.<br/>
+Takes up 2 inventory slots.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|9000|2400|???|はめんみ|

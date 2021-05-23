@@ -610,6 +610,9 @@ export const baseStyles = css`
   table tr td :last-child {
     margin-bottom: 0;
   }
+  .centeredTable td {
+    text-align: center;
+  }
   /* end - tables.css */
 
   /* Image styling */

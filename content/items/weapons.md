@@ -1044,7 +1044,6 @@ Stacked Effect:
 <table>
   <tr>
     <th>Seals</th>
-    <th></th>
     <th>1</th>
     <th>2</th>
     <th>3</th>
@@ -1064,11 +1063,9 @@ Stacked Effect:
     <th>14</th>
     <th>15</th>
     <th>16</th>
-    <th></th>
   </tr>
   <tr>
     <td>Damage (%)</td>
-    <td></td>
     <td>150</td>
     <td>160</td>
     <td>170</td>
@@ -1088,7 +1085,6 @@ Stacked Effect:
     <td>550</td>
     <td>600</td>
     <td>650</td>
-    <td></td>
   </tr>
 </table>
 

@@ -186,13 +186,14 @@ Locations Key:
 |Golden|Found on the floor inside a Golden Interval.|
 |Treasure|Obtained from a treasure chest in a Golden Interval.|
 
-### ITEM_NAME
+### Weeds
 
-Description.
+Restores 5% fullness like all other grasses, but otherwise doesn't have an effect.<br/>
+Revival Grass turns into this grass after taking effect.
 
 |Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
 |-|-|-|-|-|-|
-|-|-|-|-|-|-|
+|-|50|25|-|-|-|
 
 Locations:
 
@@ -219,10 +220,1453 @@ Locations:
     <th>Shuten Hard</th>
     <td>-</td>
     <th>Road to the End</th>
-    <td>-</td>
+    <td>Shop</td>
   </tr>
   <tr>
     <th>Onigashima</th>
     <td>-</td>
+  </tr>
+</table>
+
+### Herb
+
+Restores 25 HP. Increases max HP by 2 points if HP is already at max.<br/>
+Can be thrown at Ghost type monsters to deal 25 damage.<br/>
+The 薬 seal restores a small amount of HP when you attack (weapon) or take damage (shield),<br/>and is 1 of the 3 seals needed to synthesize a Healing Sword.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|薬|100|50|Yes|???|マジナイ|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>HP Restored</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>20</td>
+    <td>30</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor</td>
+    <th>Halfway Well</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor</td>
+    <th>Road to the End</th>
+    <td>Floor, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor</td>
+  </tr>
+</table>
+
+### Twisty Grass
+
+Decreases level by 1 when eaten.<br/>
+Can be thrown at a monster to decrease their level by 1.<br/>
+Plays well with Pierce Bracelet.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|300|150|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Swift Grass
+
+Increases action speed by 1 stage for 12 turns.<br/>
+Max action speed stage is +2, where you get 3 actions per turn.<br/>
+If thrown at a monster, the target will gain a permanent action speed boost.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|300|150|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Warp Grass
+
+Warps you to a random room on the current floor when eaten.<br/>
+Can be thrown at a monster to warp them instead.<br/>
+Nice for escaping sticky situations, but you might jump out of the frying pan and into the fire.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|300|150|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Life Grass
+
+Increases max HP by 5 points when eaten.<br/>
+Provides the 命 seal when synthesized, which is used in synthesizing a Healing Sword.<br/>
+When synthesized onto a shield, the 命 seal increases the shield's base defense by 2 points.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|命|400|200|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Base Defense</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+6</td>
+    <td>+8</td>
+    <td>+10</td>
+    <td>+12</td>
+    <td>+14</td>
+    <td>+16</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>+18</td>
+    <td>+20</td>
+    <td>+22</td>
+    <td>+24</td>
+    <td>+26</td>
+    <td>+28</td>
+    <td>+30</td>
+    <td>+40</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Expand Seed
+
+Increases max fullness by 10% when eaten. (Max fullness maxes out at 200%)<br/>
+You might as well eat it right away instead of waiting to find Boost Grass.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|400|200|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Shrink Seed
+
+Decreases max fullness by 10% when eaten. (Lowest max fullness value is 0%)<br/>
+Nothing good will come from keeping it on hand, so sell it, insert it into a Presto Pot, or discard it.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|400|200|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Antidote Grass
+
+Restores lost strength to max when eaten.<br/>
+Can be thrown at Slug monsters to deal 50 damage.<br/>
+The 消 seal is equivalent to the う seal from a Scale Shield, and blocks poison.<br/>
+Note that both of these seal are unable to block Slug licks.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|消|400|200|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Disaster Seed
+
+Lowers your level to 1 and reduces current HP to 1 when eaten.<br/>
+Provides the 超 seal if synthesized, which curses the equipment<br/>and lowers your level by 1 every time you attack (weapon) or take damage (shield).<br/>
+Likely the most dangerous item in the game, but only appears in shops inside Road to the End (71F+).
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|超|400|200|No|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Talk Seed
+
+Makes you tell a joke, superstition, or story which deals a random effect to characters in the room.<br/>
+Effects include slow, sleep, confusion, paralysis, freeze, anger NPCs, and \~30 damage.<br/>
+If no one else is in the room, you become the target of the effect.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|500|100|-|???|おたべは|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Otogiriso
+
+Restores 100 HP. Increases max HP by 4 points if HP is already at max.<br/>
+Can be thrown at Ghost type monsters to deal 100 damage.<br/>
+The 弟 seal restores some HP when you attack (weapon) or take damage (shield),<br/>and is 1 of the 3 seals used in synthesizing a Healing Sword.<br/>
+Excellent to synthesize onto shields in particular.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|弟|500|250|Yes|???|ノザノサ|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>HP Restored</td>
+    <td>4</td>
+    <td>7</td>
+    <td>10</td>
+    <td>13</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>27</td>
+    <td>30</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+    <td>42</td>
+    <td>45</td>
+    <td>55</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Sealed Room</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor</td>
+  </tr>
+</table>
+
+### Sight Grass
+
+Grass that allows you to see hidden traps and invisible monsters.<br/>
+Also cures blindness. The effect wears off if you become blinded after eating it.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|500|250|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto</td>
+  </tr>
+</table>
+
+### Dragon Grass
+
+Perform a ranged fire attack that deals 63~77 damage when eaten.<br/>
+Can also be thrown to deal 45~55 damage.<br/>
+The 火 seal lets you perform a ranged fire attack when you swing your weapon at max HP,<br/>or reduces fire damage if synthesized onto a shield.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|火|500|250|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Fire Damage</td>
+    <td>10</td>
+    <td>15</td>
+    <td>18</td>
+    <td>20</td>
+    <td>23</td>
+    <td>25</td>
+    <td>30</td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td>Reduction (%)</td>
+    <td>20</td>
+    <td>24</td>
+    <td>27</td>
+    <td>29</td>
+    <td>31</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>42</td>
+    <td>46</td>
+    <td>50</td>
+    <td>52</td>
+    <td>54</td>
+    <td>56</td>
+    <td>58</td>
+    <td>60</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor</td>
+    <th>Road to the End</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Flame Grass
+
+Perform a fire attack 1 tile forward that deals 63~77 damage when eaten.<br/>
+Can also be thrown to deal 40~49 damage.<br/>
+The 火 seal lets you perform a ranged fire attack when you swing your weapon at max HP,<br/>or reduces fire damage if synthesized onto a shield.<br/>
+Basically a weaker Dragon Grass, but worth more Gitan.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|火|700|350|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Fire Damage</td>
+    <td>10</td>
+    <td>15</td>
+    <td>18</td>
+    <td>20</td>
+    <td>23</td>
+    <td>25</td>
+    <td>30</td>
+    <td>33</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+    <td>70</td>
+  </tr>
+  <tr>
+    <td>Reduction (%)</td>
+    <td>20</td>
+    <td>24</td>
+    <td>27</td>
+    <td>29</td>
+    <td>31</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>42</td>
+    <td>46</td>
+    <td>50</td>
+    <td>52</td>
+    <td>54</td>
+    <td>56</td>
+    <td>58</td>
+    <td>60</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise</td>
+  </tr>
+</table>
+
+### Boost Grass
+
+Doubles the effectiveness of grass items for 10 turns when eaten.<br/>
+Also doubles the effectiveness of Grass Gainer, Grass Tosser, and Grass Effect Pot.<br/>
+Some grasses don't gain boosted effects, such as Revival, Sight, Antidote, etc.<br/>
+Often used before strength grass.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|1000|500|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Floor</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Strength Grass
+
+Increases strength by 1, or increases max strength by 1 if already at max.<br/>
+Often used with Grass Gainer, Grass Toss taff, or Boost Grass to increase gains.<br/>
+The ち seal increases a weapon's base attack by 2 points.<br/>
+Mr. Drone always drops this grass.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|ち|1500|700|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Base Attack</td>
+    <td>+2</td>
+    <td>+4</td>
+    <td>+6</td>
+    <td>+8</td>
+    <td>+10</td>
+    <td>+12</td>
+    <td>+14</td>
+    <td>+16</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>+18</td>
+    <td>+20</td>
+    <td>+22</td>
+    <td>+24</td>
+    <td>+26</td>
+    <td>+28</td>
+    <td>+30</td>
+    <td>+32</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader, Monster</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader, Monster</td>
+  </tr>
+  <tr>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader, Monster</td>
+  </tr>
+</table>
+
+### Poison Grass
+
+Deals 5 damage, lowers strength by 1 point, and inflicts slow when eaten.<br/>
+Can be thrown at a monster to inflict slow and reduce its attack (x0.6).<br/>
+Note that it has the same price as Strength Grass.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|1500|700|-|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Trader</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Trader</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+</table>
+
+### Happy Grass
+
+Increases level by 1 when eaten.<br/>
+Can be thrown at a monster to increase its level by 1.<br/>
+The 幸 seal increases exp gained from defeating monsters (weapon),<br/>or grants exp as a portion of the damage you receive (shield).<br/>
+Mr. Helico has a 85% chance to drop this grass.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|幸|2000|1000|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Exp Gain (%)</td>
+    <td>+10</td>
+    <td>+40</td>
+    <td>+70</td>
+    <td>+100</td>
+    <td>+130</td>
+    <td>+160</td>
+    <td>+190</td>
+    <td>+220</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>+250</td>
+    <td>+280</td>
+    <td>+310</td>
+    <td>+340</td>
+    <td>+370</td>
+    <td>+400</td>
+    <td>+410</td>
+    <td>+420</td>
+  </tr>
+  <tr>
+    <td>Portion (%)</td>
+    <td>110</td>
+    <td>140</td>
+    <td>170</td>
+    <td>200</td>
+    <td>230</td>
+    <td>260</td>
+    <td>290</td>
+    <td>320</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>350</td>
+    <td>380</td>
+    <td>410</td>
+    <td>440</td>
+    <td>470</td>
+    <td>500</td>
+    <td>510</td>
+    <td>520</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader, Monster</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Shop, Monster</td>
+  </tr>
+  <tr>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader, Monster</td>
+  </tr>
+</table>
+
+### Unlucky Seed
+
+Decreases level by 3 when eaten.<br/>
+Can be thrown at a monster to lower its level by 3.<br/>
+If synthesized, the 不 seal lowers equipment strength by a significant amount.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|不|2000|1000|Yes|-|-|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Strength</td>
+    <td>-10</td>
+    <td>-15</td>
+    <td>-20</td>
+    <td>-25</td>
+    <td>-30</td>
+    <td>-35</td>
+    <td>-40</td>
+    <td>-45</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>-50</td>
+    <td>-55</td>
+    <td>-60</td>
+    <td>-65</td>
+    <td>-70</td>
+    <td>-75</td>
+    <td>-80</td>
+    <td>-85</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Presto, Shop</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>-</td>
+  </tr>
+</table>
+
+### Revival Grass
+
+Automatically revives you if your HP drops to 0 inside of a dungeon.<br/>
+Doesn't activate if it's inside of a pot, and turns into Weeds after taking effect.<br/>
+HP, strength, and fullness is restored to max upon reviving.<br/>
+Mr. Gyro has a 75% chance to drop this grass.<br/>
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|2500|1250|-|???|ヨワハゼ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>Floor, Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>Shop</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Shop, Trader, Monster</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Presto, Surprise, Shop, Trader, Monster, Treasure</td>
+  </tr>
+  <tr>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Surprise, Shop, Trader, Monster, Treasure</td>
+  </tr>
+</table>
+
+### Angel Seed
+
+Increases level by 3 when eaten.<br/>
+Can be used with Grass Gain staff or Boost Grass to increase gains.<br/>
+The 天 seal increases exp gained from defeating monsters (weapon),<br/>or provides exp as a portion of the damage you receive (shield).<br/>
+Excellent to synthesize onto a main weapon.
+
+|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|天|3000|1500|Yes|???|アトノセ|
+
+Stacked Effect:
+
+<table>
+  <tr>
+    <th>Seals</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+  </tr>
+  <tr>
+    <th></th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+  </tr>
+  <tr>
+    <td>Exp Gain (%)</td>
+    <td>+50</td>
+    <td>+100</td>
+    <td>+150</td>
+    <td>+200</td>
+    <td>+250</td>
+    <td>+300</td>
+    <td>+350</td>
+    <td>+400</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>+410</td>
+    <td>+420</td>
+    <td>+430</td>
+    <td>+440</td>
+    <td>+450</td>
+    <td>+460</td>
+    <td>+470</td>
+    <td>+480</td>
+  </tr>
+  <tr>
+    <td>Portion (%)</td>
+    <td>150</td>
+    <td>200</td>
+    <td>250</td>
+    <td>300</td>
+    <td>350</td>
+    <td>400</td>
+    <td>450</td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>510</td>
+    <td>520</td>
+    <td>530</td>
+    <td>540</td>
+    <td>550</td>
+    <td>560</td>
+    <td>570</td>
+    <td>580</td>
+  </tr>
+</table>
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Surprise, Treasure</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Surprise, Treasure</td>
   </tr>
 </table>

@@ -613,6 +613,17 @@ export const baseStyles = css`
   .centeredTable td {
     text-align: center;
   }
+  .priceTable th {
+    text-align: center;
+    padding: 2px;
+  }
+  .priceTable th:nth-child(1) {
+    text-align: left;
+  }
+  .priceTable td {
+    text-align: right;
+    padding: 3px;
+  }
   /* end - tables.css */
 
   /* Image styling */

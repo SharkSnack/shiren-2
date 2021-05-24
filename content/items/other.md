@@ -1,150 +1,18 @@
 ---
 title: "Other"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Other Items - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "List of miscellaneous items for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
 # Summary
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Seal</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th>Phrase</th>
-    <th>Info</th>
-  </tr>
-  <tr>
-    <td>Level Lock Bracelet</td>
-    <td>-</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Protects against level down effects.</td>
-  </tr>
-  <tr>
-    <td>Pierce Bracelet</td>
-    <td>-</td>
-    <td rowspan="3">4000</td>
-    <td rowspan="3">2000</td>
-    <td>リヒピシ</td>
-    <td>Thrown items pierce through walls and monsters.</td>
-  </tr>
-  <tr>
-    <td>Dragon Tile Bracelet</td>
-    <td>中</td>
-    <td>-</td>
-    <td>Thrown items will always miss. Daisangen equipment ingredient.</td>
-  </tr>
-  <tr>
-    <td>No Control Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items fly in a random direction.</td>
-  </tr>
-  <tr>
-    <td>Salty Bracelet</td>
-    <td>-</td>
-    <td rowspan="6">5000</td>
-    <td rowspan="5">2500</td>
-    <td>-</td>
-    <td>Protects against strength modifying slug licks and sheep spells.</td>
-  </tr>
-  <tr>
-    <td>Heal Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Restores 5 HP per turn, but also doubles hunger rate.</td>
-  </tr>
-  <tr>
-    <td>Bend Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items will curve when hitting walls.</td>
-  </tr>
-  <tr>
-    <td>Song Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Protects against fullness loss by Hunger Puppet songs.</td>
-  </tr>
-  <tr>
-    <td>Breadcrumb Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Makes you drop items randomly as you walk.</td>
-  </tr>
-  <tr>
-    <td>Strength Bracelet</td>
-    <td>-</td>
-    <td>3400</td>
-    <td>-</td>
-    <td>Increases strength by 3.</td>
-  </tr>
-  <tr>
-    <td>Bullseye Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">7500</td>
-    <td>3000</td>
-    <td>メペング</td>
-    <td>Thrown items will always hit their target.</td>
-  </tr>
-  <tr>
-    <td>Critical Bracelet</td>
-    <td>-</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Deal x5.0 damage critical hits, but shatters if you take damage.</td>
-  </tr>
-  <tr>
-    <td>Phantasm Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">10000</td>
-    <td rowspan="2">5000</td>
-    <td>-</td>
-    <td>Lets you walk through walls and float over water.<br/>Drains 5% HP per turn inside walls.</td>
-  </tr>
-  <tr>
-    <td>Scout Bracelet</td>
-    <td>-</td>
-    <td>ベゲトザ</td>
-    <td>Reveals monster, item, and statue locations on the map.</td>
-  </tr>
-  <tr>
-    <td>Paper Thin Bracelet</td>
-    <td>-</td>
-    <td rowspan="4">15000</td>
-    <td rowspan="4">7500</td>
-    <td>-</td>
-    <td>Halves the accuracy of attacks and projectiles aimed at you.<br/>Burns up if you take fire damage.</td>
-  </tr>
-  <tr>
-    <td>Parry Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Redirects damage from physical attacks to a nearby monster.</td>
-  </tr>
-  <tr>
-    <td>No Hunger Bracelet</td>
-    <td>-</td>
-    <td>セダベタ</td>
-    <td>Stops natural fullness depletion.</td>
-  </tr>
-  <tr>
-    <td>Hunger Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Doubles hunger rate.</td>
-  </tr>
-  <tr>
-    <td>Trapper Bracelet</td>
-    <td>-</td>
-    <td>25000</td>
-    <td>1000</td>
-    <td>-</td>
-    <td>Can pick up and set traps, and monsters will trigger them.</td>
-  </tr>
-</table>
+|Name|Buy|Sell|Phrase|Info|
+|-|-|-|-|-|
+|[Voucher](#voucher)|2|1|ごあはも|Provides a 2% discount when buying items from shops.<br/>Up to 40 vouchers can be used per purchase. (80% off)|
+|[Water](#water)|-|-|-|Water inside of a Water Pot.|
+|[N'dubba](#n'dubba)|-|-|-|N'dubba monster disguised as an item.|
+|[Gitan](#gitan)|-|-|ダシシヨ<br/>ガミメノ<br/>つこめの|Deals damage equal to amount / 10 when thrown.|
+|[1,000,000 Gitan](#1,000,000-gitan)|980000|500000|-|Deals 10,000 damage when thrown.|
+|[Shiren's Hand](#shiren's-hand)|-|-|-|Shiren's hand stuck inside a Sticky Pot.|
 
 # Details
 
@@ -161,13 +29,16 @@ Locations Key:
 |Golden|Found on the floor inside a Golden Interval.|
 |Treasure|Obtained from a treasure chest in a Golden Interval.|
 
-### ITEM_NAME
+### Voucher
 
-Description.
+Provides a 2% discount when buying items from shops.<br/>
+Up to 40 vouchers can be used per purchase. (80% off).<br/>
+Can be used a projectile, but only deals 1 damage.<br/>
+Traders will drop up to 25 vouchers when defeated.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|-|-|-|-|-|
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|2|1|???|ごあはも|
 
 Locations:
 
@@ -186,18 +57,100 @@ Locations:
   </tr>
   <tr>
     <th>Shuten Mid</th>
-    <td>-</td>
+    <td>Monster</td>
     <th>Sealed Room</th>
-    <td>-</td>
+    <td>Monster</td>
   </tr>
   <tr>
     <th>Shuten Hard</th>
-    <td>-</td>
+    <td>Monster</td>
     <th>Road to the End</th>
-    <td>-</td>
+    <td>Monster</td>
   </tr>
   <tr>
     <th>Onigashima</th>
-    <td>-</td>
+    <td>Monster</td>
   </tr>
 </table>
+
+### Water
+
+Water inside of a Water Pot.<br/>
+It can rust enemy weapons, spoil riceballs, destroy traps, put out fires.<br/>
+It has many uses, so try splashing it on all sorts of things!
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|-|-|-|-|
+
+### N'dubba
+
+N'dubba monster disguised as an item.<br/>
+Move an ally on top of a N'dubba, and then swap places with them to pick it up.<br/>
+Can be inserted into pots like other items, and Nigiri Morphs can transform it into a riceball.<br/>
+Throw it or place it on the ground to have it transform back into its monster form.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|-|-|-|-|
+
+### Gitan
+
+Money used to purchase goods and services.<br/>
+Can be thrown to deal damage equal to the amount of gitan divided by 10.<br/>
+Deals a minimum of 1 damage, and a maximum of 9,999 damage.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|-|-|???<br/>???<br/>???|ダシシヨ<br/>ガミメノ<br/>つこめの|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>Floor</td>
+    <th>Hidden Hole</th>
+    <td>Floor, Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Floor, Presto</td>
+    <th>Halfway Well</th>
+    <td>Monster, Golden</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto</td>
+    <th>Sealed Room</th>
+    <td>Floor, Presto, Monster, Golden</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Golden</td>
+    <th>Road to the End</th>
+    <td>Floor, Monster, Golden</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Monster, Golden</td>
+  </tr>
+</table>
+
+### 1,000,000 Gitan
+
+1 million Gitan. Deals 10,000 damage when thrown.<br/>
+Bring multiple bags into dungeons when going for high scores, since it's worth so much.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|980000|500000|-|-|
+
+### Shiren's Hand
+
+Shiren's hand stuck inside of a Sticky Pot.<br/>
+The description offers much praise, to the point where you wonder if Shiren wrote it himself.
+
+|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|
+|-|-|-|-|

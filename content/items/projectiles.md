@@ -1,150 +1,20 @@
 ---
 title: "Projectiles"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Projectiles - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete projectile details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
 # Summary
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Seal</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th>Phrase</th>
-    <th>Info</th>
-  </tr>
-  <tr>
-    <td>Level Lock Bracelet</td>
-    <td>-</td>
-    <td>3000</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Protects against level down effects.</td>
-  </tr>
-  <tr>
-    <td>Pierce Bracelet</td>
-    <td>-</td>
-    <td rowspan="3">4000</td>
-    <td rowspan="3">2000</td>
-    <td>リヒピシ</td>
-    <td>Thrown items pierce through walls and monsters.</td>
-  </tr>
-  <tr>
-    <td>Dragon Tile Bracelet</td>
-    <td>中</td>
-    <td>-</td>
-    <td>Thrown items will always miss. Daisangen equipment ingredient.</td>
-  </tr>
-  <tr>
-    <td>No Control Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items fly in a random direction.</td>
-  </tr>
-  <tr>
-    <td>Salty Bracelet</td>
-    <td>-</td>
-    <td rowspan="6">5000</td>
-    <td rowspan="5">2500</td>
-    <td>-</td>
-    <td>Protects against strength modifying slug licks and sheep spells.</td>
-  </tr>
-  <tr>
-    <td>Heal Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Restores 5 HP per turn, but also doubles hunger rate.</td>
-  </tr>
-  <tr>
-    <td>Bend Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Thrown items will curve when hitting walls.</td>
-  </tr>
-  <tr>
-    <td>Song Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Protects against fullness loss by Hunger Puppet songs.</td>
-  </tr>
-  <tr>
-    <td>Breadcrumb Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Makes you drop items randomly as you walk.</td>
-  </tr>
-  <tr>
-    <td>Strength Bracelet</td>
-    <td>-</td>
-    <td>3400</td>
-    <td>-</td>
-    <td>Increases strength by 3.</td>
-  </tr>
-  <tr>
-    <td>Bullseye Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">7500</td>
-    <td>3000</td>
-    <td>メペング</td>
-    <td>Thrown items will always hit their target.</td>
-  </tr>
-  <tr>
-    <td>Critical Bracelet</td>
-    <td>-</td>
-    <td>1500</td>
-    <td>-</td>
-    <td>Deal x5.0 damage critical hits, but shatters if you take damage.</td>
-  </tr>
-  <tr>
-    <td>Phantasm Bracelet</td>
-    <td>-</td>
-    <td rowspan="2">10000</td>
-    <td rowspan="2">5000</td>
-    <td>-</td>
-    <td>Lets you walk through walls and float over water.<br/>Drains 5% HP per turn inside walls.</td>
-  </tr>
-  <tr>
-    <td>Scout Bracelet</td>
-    <td>-</td>
-    <td>ベゲトザ</td>
-    <td>Reveals monster, item, and statue locations on the map.</td>
-  </tr>
-  <tr>
-    <td>Paper Thin Bracelet</td>
-    <td>-</td>
-    <td rowspan="4">15000</td>
-    <td rowspan="4">7500</td>
-    <td>-</td>
-    <td>Halves the accuracy of attacks and projectiles aimed at you.<br/>Burns up if you take fire damage.</td>
-  </tr>
-  <tr>
-    <td>Parry Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Redirects damage from physical attacks to a nearby monster.</td>
-  </tr>
-  <tr>
-    <td>No Hunger Bracelet</td>
-    <td>-</td>
-    <td>セダベタ</td>
-    <td>Stops natural fullness depletion.</td>
-  </tr>
-  <tr>
-    <td>Hunger Bracelet</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Doubles hunger rate.</td>
-  </tr>
-  <tr>
-    <td>Trapper Bracelet</td>
-    <td>-</td>
-    <td>25000</td>
-    <td>1000</td>
-    <td>-</td>
-    <td>Can pick up and set traps, and monsters will trigger them.</td>
-  </tr>
-</table>
+|Name|Power|Seal|Buy|Sell|Count|Phrase|Info|
+|-|-|-|-|-|-|-|-|
+|[Wooden Arrow](#wooden-arrow)|-2|-|20|2|5~9|-|Low attack power.|
+|[Iron Arrow](#iron-arrow)|6|-|60|10|4~8|-|High attack power.|
+|[Silver Arrow](#silver-arrow)|0|銀|80|20|4~6|-|Pierces through walls and enemies.|
+|[Critical Arrow](#critical-arrow)|2|-|120|40|10~15|ゴムニブ|Chance to deal a critical hit.|
+|[Razor Arrow](#razor-arrow)|0|-|200|80|13~18|-|The arrows fly in a 3-way pattern and<br/>pierce through walls and enemies.|
+|[Stone](#stone)|8|-|100|50|3~6|-|Deal damage to a target 2 tiles forward.|
+|[Porky Stone](#porky-stone)|12|-|150|70|3~6|ウロクロ|Homes in on a target within 2 tiles<br/>of the direction you're facing|
+|[Cannonball](#cannonball)|-|-|100|50|1~3|ジソデブ|Rolls up to 10 tiles forward and creates<br/>an explosion that deals 40 damage.|
 
 # Details
 
@@ -161,13 +31,149 @@ Locations Key:
 |Golden|Found on the floor inside a Golden Interval.|
 |Treasure|Obtained from a treasure chest in a Golden Interval.|
 
-### ITEM_NAME
+### Wooden Arrow
 
-Description.
+Basic ranged weapon. Has the lowest attack power among arrows, and is weaker than a punch.<br/>
+This goes for all projectiles, but excellent for softening up monsters before they reach you.<br/>
+Arrows are often inserted into a Presto Pot one at a time.<br/>
+Bow Boy monsters shoot these arrows.<br/>
+Found in sets of 5\~9.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
 |-|-|-|-|-|-|
+|-|-2|20|2|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Monster</td>
+    <th>Sealed Room</th>
+    <td>Presto, Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Monster</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Monster</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Monster</td>
+  </tr>
+</table>
+
+### Iron Arrow
+
+Direct upgrade to Wooden Arrows, and has the highest attack power among arrows.<br/>
+Can be transformed into Silver Arrows using a Plating Scroll, but the count will be halved.<br/>
+Bow Cart monsters shoot these arrows.<br/>
+Found in sets of 4\~8.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
 |-|-|-|-|-|-|
+|-|6|60|10|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Floor, Presto, Monster</td>
+    <th>Sealed Room</th>
+    <td>Presto, Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Monster</td>
+    <th>Road to the End</th>
+    <td>Presto, Shop, Trader, Monster</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Monster</td>
+  </tr>
+</table>
+
+### Silver Arrow
+
+Pierces through walls and characters, similar to the effect of a Pierce Bracelet.<br/>
+Provides a 銀 seal which allows you to attack monsters inside walls.<br/>
+However, the equipment will be lost if it's thrown, or if a Kengo monster flings it away.<br/>
+Horse Ronin monsters shoot these arrows.<br/>
+Found in sets of 4\~6.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|銀|0|80|20|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Presto</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto</td>
+    <th>Road to the End</th>
+    <td>Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Presto</td>
+  </tr>
+</table>
+
+### Critical Arrow
+
+Has a 40% chance to deal a x1.5 damage critical hit.<br/>
+Critical arrows thrown by Kappa monsters may also deal a critical hit.<br/>
+Found in sets of 10\~15.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|2|120|40|???|ゴムニブ|
 
 Locations:
 
@@ -188,16 +194,195 @@ Locations:
     <th>Shuten Mid</th>
     <td>-</td>
     <th>Sealed Room</th>
-    <td>-</td>
+    <td>Presto, Treasure</td>
   </tr>
   <tr>
     <th>Shuten Hard</th>
     <td>-</td>
     <th>Road to the End</th>
-    <td>-</td>
+    <td>Presto, Surprise, Shop, Trader, Treasure</td>
   </tr>
   <tr>
     <th>Onigashima</th>
+    <td>Surprise, Trader, Treasure</td>
+  </tr>
+</table>
+
+### Razor Arrow
+
+Shoots three silver arrows in a 3-way pattern.<br/>
+Only uses 1 arrow per use, making it an excellent option to clear out monster houses.<br/>
+However, you may accidentally hit shopkeepers or traders elsewhere on the map.<br/>
+Found in sets of 13\~18.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|0|200|80|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
     <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>-</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>-</td>
+    <th>Sealed Room</th>
+    <td>Presto, Treasure</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>-</td>
+    <th>Road to the End</th>
+    <td>Presto, Surprise, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Surprise, Trader, Treasure</td>
+  </tr>
+</table>
+
+### Stone
+
+Deals damage to a target 2 tiles forward.<br/>
+Stones arc when thrown, so they can hit 2 tiles forward even if an object is in front of you.<br/>
+One of the few ways to deal with monsters that are underwater or inside walls.<br/>
+Can activate traps where it lands.<br/>
+Found in sets of 3\~6.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|8|100|50|-|-|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Presto</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Presto</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Trader</td>
+  </tr>
+</table>
+
+### Porky Stone
+
+Similar to stones, but higher attack power.<br/>
+Homes in on a target within 2 tiles of the direction you're facing.<br/>
+One of the few ways to deal with monsters that are underwater or inside walls.<br/>
+Can activate traps where it lands.<br/>
+Porky monsters may drop these stones.<br/>
+Found in sets of 3\~6.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|12|150|70|???|ウロクロ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Presto</td>
+    <th>Sealed Room</th>
+    <td>Presto</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Presto</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Trader</td>
+  </tr>
+</table>
+
+### Cannonball
+
+Rolls on the ground up to 10 tiles forward and creates an explosion<br/>that deals 40 damage to everything within a 1 tile radius if it collides with an object.<br/>
+Activates all traps along the path, and cannot hit underwater monsters.<br/>
+Occasionally explodes if dropped while tripping.<br/>
+Found in sets of 1\~3.
+
+|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
+|-|-|-|-|-|-|
+|-|-|100|50|???|ジソデブ|
+
+Locations:
+
+<table>
+  <tr>
+    <th>Small Valley</th>
+    <td>-</td>
+    <th>Hidden Hole</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Easy</th>
+    <td>Presto</td>
+    <th>Halfway Well</th>
+    <td>Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Mid</th>
+    <td>Presto</td>
+    <th>Sealed Room</th>
+    <td>Presto, Monster</td>
+  </tr>
+  <tr>
+    <th>Shuten Hard</th>
+    <td>Floor, Presto, Monster</td>
+    <th>Road to the End</th>
+    <td>Floor, Presto, Shop, Trader, Monster</td>
+  </tr>
+  <tr>
+    <th>Onigashima</th>
+    <td>Floor, Shop, Monster</td>
   </tr>
 </table>

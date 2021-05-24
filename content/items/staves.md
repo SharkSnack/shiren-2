@@ -1,7 +1,7 @@
 ---
 title: "Staves"
-metaTitle: "Bracelets - Shiren the Wanderer 2: Oni Invasion! Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Staves - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete staff details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
 # Summary

@@ -619,30 +619,22 @@ export const baseStyles = css`
     padding: 2px;
   }
   .priceTable td {
-    text-align: right;
     padding: 3px;
   }
   /* Price Table Small (Price Chart page)*/
   .priceTableSmall th {
     text-align: center;
+    padding: 1px;
   }
-  .priceTableSmall th {
+  .priceTableSmall td {
     padding: 2px;
-  }
-  .priceTableSmall td {
-    padding: 3px;
-  }
-  .priceTableSmall td:first-child {
-    text-align: left;
-  }
-  .priceTableSmall td:nth-child(n+3) {
-    text-align: left;
+    white-space: nowrap;
   }
   .priceTableSmall th {
-    font-size: 14px;
+    font-size: 12.5px;
   }
   .priceTableSmall td {
-    font-size: 14px;
+    font-size: 12.5px;
   }
   /* end - tables.css */
 

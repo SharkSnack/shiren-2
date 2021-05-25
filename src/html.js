@@ -18,7 +18,7 @@ export default class HTML extends React.Component {
             <meta property="twitter:image" content={config.siteMetadata.ogImage} />
           ) : null}
           {config.siteMetadata.favicon ? (
-            <link rel="shortcut icon" type="image/svg" href={config.siteMetadata.favicon} />
+            <link rel="shortcut icon" type="image/png" href={config.siteMetadata.favicon} />
           ) : null}
           <noscript key="noscript"></noscript>
           {this.props.headComponents}

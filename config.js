@@ -57,7 +57,7 @@ const config = {
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: 'https://github.com/sharksnack/shiren-2/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    favicon: 'https://github.com/SharkSnack/shiren-2/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
@@ -69,7 +69,13 @@ const config = {
       theme_color: '#6b37bf',
       display: 'standalone',
       crossOrigin: 'use-credentials',
+      icon: 'src/components/images/favicon-32x32.png',
       icons: [
+        {
+          src: 'src/components/images/favicon-32x32.png',
+          sizes: `32x32`,
+          type: `image/png`,
+        },
         {
           src: 'src/pwa-512.png',
           sizes: `512x512`,

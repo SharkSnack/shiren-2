@@ -43,9 +43,6 @@ const config = {
       '/system',
       '/dungeons',
     ],
-    collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
-    ],
     links: [
       { text: 'Project Thread', link: 'https://krikzz.com/forum/index.php?topic=8495' },
       { text: 'Project64', link: 'https://www.pj64-emu.com/windows-downloads' },

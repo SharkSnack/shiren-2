@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -9,18 +9,18 @@ const config = {
     logo: '',
     logoLink: '',
     title: 'Shiren 2 Wiki',
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    githubUrl: 'https://github.com/SharkSnack/gatsby-gitbook-starter',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
+		    <a href="https://twitter.com/shark_snack" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
 		      </div>
 		    </a>
 		  </li>
 			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
+		    <a href="https://discord.gg/5y7UDFc" target="_blank" rel="noopener">
 		      <div class="discordBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
 		      </div>
@@ -52,10 +52,10 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Boilerplate | Hasura',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'Gatsby Gitbook Starter | SharkSnack',
+    description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
+    docsLocation: 'https://github.com/sharksnack/gatsby-gitbook-starter/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {

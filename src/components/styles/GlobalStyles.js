@@ -613,16 +613,36 @@ export const baseStyles = css`
   .centeredTable td {
     text-align: center;
   }
+  /* Price Table (Staves, Pots pages)*/
   .priceTable th {
     text-align: center;
     padding: 2px;
   }
-  .priceTable th:nth-child(1) {
-    text-align: left;
-  }
   .priceTable td {
     text-align: right;
     padding: 3px;
+  }
+  /* Price Table Small (Price Chart page)*/
+  .priceTableSmall th {
+    text-align: center;
+  }
+  .priceTableSmall th {
+    padding: 2px;
+  }
+  .priceTableSmall td {
+    padding: 3px;
+  }
+  .priceTableSmall td:first-child {
+    text-align: left;
+  }
+  .priceTableSmall td:nth-child(n+3) {
+    text-align: left;
+  }
+  .priceTableSmall th {
+    font-size: 13px;
+  }
+  .priceTableSmall td {
+    font-size: 13px;
   }
   /* end - tables.css */
 

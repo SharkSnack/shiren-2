@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://sharksnack.github.io/gatsby-gitbook-starter',
+    pathPrefix: '/gatsby-gitbook-starter',
+    siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
   },

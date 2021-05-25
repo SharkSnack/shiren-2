@@ -43,6 +43,7 @@ const config = {
       '/system',
       '/dungeons',
     ],
+    collapsedNav: [],
     links: [
       { text: 'Project Thread', link: 'https://krikzz.com/forum/index.php?topic=8495' },
       { text: 'Project64', link: 'https://www.pj64-emu.com/windows-downloads' },

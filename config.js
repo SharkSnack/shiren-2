@@ -57,7 +57,7 @@ const config = {
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: 'https://github.com/sharksnack/shiren-2/tree/master/content',
-    favicon: 'https://github.com/SharkSnack/shiren-2/src/components/images/favicon-32x32.png',
+    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-2/master/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.

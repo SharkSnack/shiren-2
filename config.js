@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/gatsby-gitbook-starter',
+    pathPrefix: '/shiren-2',
     siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -9,7 +9,7 @@ const config = {
     logo: '',
     logoLink: '',
     title: 'Shiren 2 Wiki',
-    githubUrl: 'https://github.com/SharkSnack/gatsby-gitbook-starter',
+    githubUrl: 'https://github.com/SharkSnack/shiren-2',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -53,10 +53,10 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Gatsby Gitbook Starter | SharkSnack',
+    title: 'Shiren 2: Oni Invasion! Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/gatsby-gitbook-starter/tree/master/content',
+    docsLocation: 'https://github.com/sharksnack/shiren-2/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {

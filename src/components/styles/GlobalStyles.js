@@ -639,10 +639,10 @@ export const baseStyles = css`
     text-align: left;
   }
   .priceTableSmall th {
-    font-size: 13px;
+    font-size: 14px;
   }
   .priceTableSmall td {
-    font-size: 13px;
+    font-size: 14px;
   }
   /* end - tables.css */
 

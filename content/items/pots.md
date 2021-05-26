@@ -69,7 +69,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer 2: Oni Invasion!"
     <td>Fill it with water and pour it on the tile in front<br/>of you for various effects.</td>
   </tr>
   <tr>
-    <td><a href="#grass-effect-pot">Grass Effect Pot</a></td>
+    <td><a href="#grass-pot">Grass Pot</a></td>
     <td>4000</td>
     <td>200</td>
     <td>2000</td>
@@ -250,7 +250,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer 2: Oni Invasion!"
     <th>Water</th>
   </tr>
   <tr>
-    <th>Grass Ef.</th>
+    <th>Grass</th>
     <td>200</td>
     <td>4000</td>
     <td>4200</td>
@@ -881,7 +881,7 @@ Locations:
   </tr>
 </table>
 
-### Grass Effect Pot
+### Grass Pot
 
 Insert grass and everyone in the room including Shiren receives the effect of getting hit by that grass.<br/>
 Inserting Otogiriso is a solid option when there are Ghost type monsters around,<br/>but be careful not to self-destruct by inserting Dragon or Flame grass.<br/>

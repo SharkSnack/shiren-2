@@ -420,7 +420,7 @@ export const baseStyles = css`
 
   .sideBarUL {
     margin-top: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
   }
 
   .sideBarUL li {
@@ -635,6 +635,20 @@ export const baseStyles = css`
   }
   .priceTableSmall td {
     font-size: 12.5px;
+  }
+  .priceTablePots th {
+    font-size: 13.5px;
+  }
+  .priceTablePots td {
+    font-size: 13.5px;
+  }
+  .tableDivider {
+    font-weight: normal;
+    background-color: #ececec;
+  }
+  .tableCategory {
+    font-weight: normal;
+    background-color: #f0f0f0;
   }
   /* end - tables.css */
 

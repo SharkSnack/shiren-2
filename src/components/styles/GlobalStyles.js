@@ -646,11 +646,76 @@ export const baseStyles = css`
     font-weight: normal;
     background-color: #ececec;
   }
-  .tableCategory {
+  .tableCategory th {
     font-weight: normal;
     background-color: #f0f0f0;
   }
+  /* overviewTable (dungeon pages) */
+  .overviewTable th {
+    background-color: #ddfff7;
+  }
+  .monsterTable th {
+    padding: 4px;
+  }
+  .monsterTable td {
+    padding: 4px;
+  }
+  .monsterTableSmall th {
+    padding: 2px;
+    font-size: 13px;
+  }
+  .monsterTableSmall td {
+    padding: 2px;
+    font-size: 13px;
+  }
+  .itemTable th {
+    text-align: center;
+  }
+  .itemTable th {
+    padding: 3px;
+  }
+  .itemTable td {
+    padding: 3px;
+  }
+  .tableNotes p {
+    font-size: 13px;
+  }
+  .monsterTableRates th {
+    text-align: center;
+    padding: 2px;
+  }
+  .monsterTableRates td {
+    text-align: center;
+    padding: 2px;
+  }
+  .monsterDrain {
+    background-color: #FFCAE5;
+  }
+  .monsterGhost {
+    background-color: #FFFFD1;
+  }
+  .monsterDragon {
+    background-color: #CCDF8F;
+  }
+  .monsterItem {
+    background-color: #E7D1FD;
+  }
+  .monsterWater {
+    background-color: #B5DAFF;
+  }
+  .monsterWeapon {
+    background-color: #C0CAFF;
+  }
+  .monsterNone {
+    background-color: #f7f7f7;
+  }
   /* end - tables.css */
+
+  /* List styling */
+  .dungeonLinksUL li {
+    line-height: 1.3 !important;
+  }
+  /* end list styling */
 
   /* Image styling */
   img {
@@ -672,6 +737,19 @@ export const baseStyles = css`
     transform: scale(1.4);
     background-color: #555;
     border-radius: 3px;
+    padding: 5px;
+  }
+  .dungeonImage span {
+    height: 200px;
+    width: 265px;
+    margin-left: 0px !important;
+    background-image: none !important;
+    display: block !important;
+  }
+  .dungeonImage img {
+    height: auto !important;
+    max-height: 200px;
+    width: auto !important;
     padding: 5px;
   }
   /* end image */

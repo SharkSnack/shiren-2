@@ -1,26 +1,225 @@
 ---
 title: "Small Valley"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Small Valley - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Small Valley dungeon guide for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+<div class="dungeonImage">
+  <img src="../images/dungeon/small_valley.png" alt="Small Valley"/>
+</div>
 
-```javascript
-import React from 'react';
-```
+Tutorial dungeon that you enter soon after creating a save file.<br/>
+Be sure to read all of the messages that appear on-screen if you're new to the series.
 
-Supports multiple languages.
+Once you clear this dungeon, you won't be able to challenge it again later.
 
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
+<ul class="dungeonLinksUL">
+  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#monster-table">Monster Table</a></li>
+  <li><a href="#items">Items</a></li>
+</ul>
 
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
+# Dungeon Overview
 
-## Live Editing example
+<table class="overviewTable">
+  <tr>
+    <th>Unlock</th>
+    <td>After the opening scene.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td>-</td>
+  </tr>
+</table>
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+<table>
+  <tr>
+    <th>Floors</th>
+    <td>3F</td>
+    <th>Direction</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Shops</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Allies</th>
+    <td>No</td>
+    <th>Traders</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Statues</th>
+    <td>No</td>
+    <th>Golden Interval</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Monster House</th>
+    <td>No</td>
+    <th>S.Monster House</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>UI Color</th>
+    <td>Green</td>
+    <th>Clear Reward</th>
+    <td>-</td>
+  </tr>
+</table>
+
+Monsters won't appear on 1F, but Mamels and Chintalas will appear on 2\~3F.<br/>
+If your HP falls to 0 and you collapse, you'll have to start over from 1F.
+
+Note that you don't get to keep the items and Gitan you pick up in this dungeon,<br/>
+so go ahead and give them a try before proceeding past the exit on 3F.
+
+You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
+
+# Monsters
+
+<table class="monsterTable">
+  <tr>
+    <th>F</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Type</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>2-3</td>
+    <td>Mamel</td>
+    <td>5</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>Normal</td>
+    <td>Direct attacks only.</td>
+  </tr>
+  <tr>
+    <td>2-3</td>
+    <td>Chintala</td>
+    <td>6</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>Normal</td>
+    <td>Direct attacks only.</td>
+  </tr>
+</table>
+
+# Monster Table
+
+<table class="monsterTable">
+  <tr>
+    <th>1</th>
+    <td class="monsterNone"></td>
+    <td class="monsterNone"></td>
+  </tr>
+  <tr>
+    <th>2</th>
+    <td title="15">Mamel</td>
+    <td title="8">Chintala</td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <td title="8">Mamel</td>
+    <td title="10">Chintala</td>
+  </tr>
+</table>
+
+<div class="tableNotes">
+  <p>
+    Hover over cells to see monster spawn rate values.<br/>
+    Divide the number by the total for that row to get the %.<br/>
+    Example: Mamel (12), Chintala (8) → 12 ÷ 20 = 0.6, so Mamel spawns 60% of the time.
+  </p>
+</div>
+
+# Items
+
+<div>
+  <p>Key: Floor</p>
+</div>
+
+<table class="itemTable">
+  <tr>
+    <th colspan="2">Weapon</th>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+  </tr>
+  <tr>
+    <td>Club</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <th colspan="2">Shield</th>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+  </tr>
+  <tr>
+    <td>Leather Shield</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <th colspan="2">Grass</th>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+  </tr>
+  <tr>
+    <td>Life Grass</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Otogiriso</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Warp Grass</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Strength Grass</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Dragon Grass</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Revival Grass</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Herb</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <th colspan="9">Scroll</th>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+  </tr>
+  <tr>
+    <td>Lightning Scroll</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Slumber Scroll</td>
+    <td>X</td>
+  </tr>
+</table>

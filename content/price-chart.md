@@ -850,9 +850,9 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <th>Buy</th>
     <th>Sell</th>
   </tr>
-  <tr>
-    <th colspan="6" class="tableCategory">Regular</th>
-    <th colspan="6" class="tableCategory">Special</th>
+  <tr class="tableCategory">
+    <th colspan="6">Regular</th>
+    <th colspan="6">Special</th>
   </tr>
   <tr>
     <td><a href="/shiren-2/items/weapons#wooden-sword">Wooden Sword</a></td>
@@ -1022,8 +1022,8 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td>15000</td>
     <td>7500</td>
   </tr>
-  <tr>
-    <th colspan="6" class="tableCategory">Two-Handed</th>
+  <tr class="tableCategory">
+    <th colspan="6">Two-Handed</th>
     <td><a href="/shiren-2/items/weapons#wonder-pickaxe">Wonder Pickaxe</a></td>
     <td>サ</td>
     <td>13</td>
@@ -1045,14 +1045,14 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td>3000</td>
     <td>1500</td>
   </tr>
-  <tr>
+  <tr class="tableCategory">
     <td><a href="/shiren-2/items/weapons#power-pole">Power Pole</a></td>
     <td>-</td>
     <td>5</td>
     <td>4</td>
     <td>20000</td>
     <td>10000</td>
-    <th colspan="6" class="tableCategory">Type Effective</th>
+    <th colspan="6">Type Effective</th>
   </tr>
   <tr>
     <td><a href="/shiren-2/items/weapons#iron-hammer">Iron Hammer</a></td>
@@ -1153,9 +1153,9 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <th>Buy</th>
     <th>Sell</th>
   </tr>
-  <tr>
-    <th colspan="6" class="tableCategory">Regular</th>
-    <th colspan="6" class="tableCategory">Special (cont.)</th>
+  <tr class="tableCategory">
+    <th colspan="6">Regular</th>
+    <th colspan="6">Special (cont.)</th>
   </tr>
   <tr>
     <td><a href="/shiren-2/items/shields#wooden-shield">Wooden Shield</a></td>
@@ -1283,8 +1283,8 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td>12000</td>
     <td>6000</td>
   </tr>
-  <tr>
-    <th colspan="6" class="tableCategory">Special</th>
+  <tr class="tableCategory">
+    <th colspan="6">Special</th>
     <td><a href="/shiren-2/items/shields#blast-shield">Blast Shield</a></td>
     <td>爆</td>
     <td>8</td>
@@ -1334,14 +1334,14 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td>1600</td>
     <td>600</td>
   </tr>
-  <tr>
+  <tr class="tableCategory">
     <td><a href="/shiren-2/items/shields#golden-shield">Golden Shield</a></td>
     <td>金</td>
     <td>4</td>
     <td>4</td>
     <td>10000</td>
     <td>4000</td>
-    <th colspan="6" class="tableCategory">Two-Handed</th>
+    <th colspan="6">Two-Handed</th>
   </tr>
   <tr>
     <td><a href="/shiren-2/items/shields#leather-shield">Leather Shield</a></td>

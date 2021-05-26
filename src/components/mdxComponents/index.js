@@ -11,7 +11,7 @@ const StyledPre = styled('pre')`
 
 export default {
   h1: props => (
-    <h1 className="heading1" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
+    <h1 className="heading1" id={props.children.replace(/\s+/g, '-').toLowerCase()} {...props} />
   ),
   h2: props => (
     <h2 className="heading2" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />

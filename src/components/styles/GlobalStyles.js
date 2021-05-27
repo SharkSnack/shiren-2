@@ -683,10 +683,12 @@ export const baseStyles = css`
   .monsterTableRates th {
     text-align: center;
     padding: 2px;
+    font-size: 12.5px;
   }
   .monsterTableRates td {
     text-align: center;
     padding: 2px;
+    font-size: 12.5px;
   }
   .monsterDrain {
     background-color: #FFCAE5;
@@ -706,6 +708,9 @@ export const baseStyles = css`
   .monsterWeapon {
     background-color: #C0CAFF;
   }
+  .monsterCyclops {
+    background-color: #e3ffe3;
+  }
   .monsterNone {
     background-color: #f7f7f7;
   }
@@ -716,6 +721,11 @@ export const baseStyles = css`
     line-height: 1.3 !important;
   }
   /* end list styling */
+
+  /* Paragraph styling */
+  .cautionText {
+    color: orange;
+  }
 
   /* Image styling */
   img {

@@ -101,7 +101,7 @@ You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
     <td>2</td>
     <td>2</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>2-3</td>
@@ -111,13 +111,13 @@ You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
     <td>3</td>
     <td>3</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
 </table>
 
 # Monster Table
 
-<table class="monsterTable">
+<table class="monsterTableRates">
   <tr>
     <th>1</th>
     <td class="monsterNone"></td>
@@ -125,23 +125,15 @@ You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
   </tr>
   <tr>
     <th>2</th>
-    <td title="15">Mamel</td>
-    <td title="8">Chintala</td>
+    <td>Mamel</td>
+    <td>Chintala</td>
   </tr>
   <tr>
     <th>3</th>
-    <td title="8">Mamel</td>
-    <td title="10">Chintala</td>
+    <td>Mamel</td>
+    <td>Chintala</td>
   </tr>
 </table>
-
-<div class="tableNotes">
-  <p>
-    Hover over cells to see monster spawn rate values.<br/>
-    Divide the number by the total for that row to get the %.<br/>
-    Example: Mamel (12), Chintala (8) → 12 ÷ 20 = 0.6, so Mamel spawns 60% of the time.
-  </p>
-</div>
 
 # Items
 

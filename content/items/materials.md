@@ -30,7 +30,7 @@ metaDescription: "Complete castle material details for Shiren the Wanderer 2: On
 <p>
   Castle materials can only be found within the Shuten Trail dungeons,<br/>
   and are always generated on the ground, so monsters will never drop them.<br/>
-  <span style="color:orange;">※ Perfect Wood can only be found in Shuten Trail Mid</span>.
+  <span class="cautionText">※ Perfect Wood can only be found in Shuten Trail Mid</span>.
 </p>
 
 <table class="centeredTable">

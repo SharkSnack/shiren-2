@@ -271,7 +271,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>2</td>
     <td>2</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>1-2</td>
@@ -281,7 +281,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>3</td>
     <td>3</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3-4</td>
@@ -291,7 +291,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>6</td>
     <td>5</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3-4</td>
@@ -301,7 +301,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>5</td>
     <td>6</td>
     <td>Normal</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3-4</td>
@@ -311,7 +311,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>6</td>
     <td>6</td>
     <td>Ghost</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3-4</td>
@@ -341,7 +341,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>7</td>
     <td>9</td>
     <td>Normal</td>
-    <td>Chance to place a Droplet Trap when defeated.</td>
+    <td>Places a Droplet Trap when defeated.</td>
   </tr>
   <tr>
     <td>5-6</td>
@@ -441,7 +441,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>15</td>
     <td>35</td>
     <td>Normal</td>
-    <td>Chance to place a Landmine when defeated.</td>
+    <td>Places a Landmine when defeated.</td>
   </tr>
   <tr>
     <td>10</td>
@@ -451,7 +451,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>18</td>
     <td>35</td>
     <td>Dragon</td>
-    <td>Direct attacks only.</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -460,8 +460,8 @@ to stop the Oni from easily destroying sections of the castle during later event
 <table class="monsterTableRates">
   <tr>
     <th>1</th>
-    <td title="12">Mamel</td>
-    <td title="8">Chintala</td>
+    <td>Mamel</td>
+    <td>Chintala</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -469,8 +469,8 @@ to stop the Oni from easily destroying sections of the castle during later event
   </tr>
   <tr>
     <th>2</th>
-    <td title="6">Mamel</td>
-    <td title="12">Chintala</td>
+    <td>Mamel</td>
+    <td>Chintala</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -478,85 +478,77 @@ to stop the Oni from easily destroying sections of the castle during later event
   </tr>
   <tr>
     <th>3</th>
-    <td title="10">Weather Doll</td>
-    <td class="monsterWeapon" title="7">Ashigarudon</td>
-    <td class="monsterGhost" title="6">Yamikichi</td>
-    <td class="monsterDrain" title="5">Slug</td>
+    <td>Weather Doll</td>
+    <td class="monsterWeapon">Ashigarudon</td>
+    <td class="monsterGhost">Yamikichi</td>
+    <td class="monsterDrain">Slug</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>4</th>
-    <td title="9">Weather Doll</td>
-    <td class="monsterWeapon" title="10">Ashigarudon</td>
-    <td class="monsterGhost" title="6">Yamikichi</td>
-    <td class="monsterDrain" title="5">Slug</td>
-    <td title="6">Piko Hammer</td>
+    <td>Weather Doll</td>
+    <td class="monsterWeapon">Ashigarudon</td>
+    <td class="monsterGhost">Yamikichi</td>
+    <td class="monsterDrain">Slug</td>
+    <td>Piko Hammer</td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>5</th>
-    <td title="7">Droplet Ninja</td>
-    <td title="4">Armordillo</td>
+    <td>Droplet Ninja</td>
+    <td>Armordillo</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td title="7">Piko Hammer</td>
+    <td>Piko Hammer</td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>6</th>
-    <td title="6">Droplet Ninja</td>
-    <td title="6">Armordillo</td>
-    <td class="monsterDrain" title="8">Hunger Puppet</td>
+    <td>Droplet Ninja</td>
+    <td>Armordillo</td>
+    <td class="monsterDrain">Hunger Puppet</td>
     <td class="monsterNone"></td>
-    <td title="8">Piko Hammer</td>
+    <td>Piko Hammer</td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>7</th>
-    <td title="3">N'dubba</td>
-    <td class="monsterWater" title="8">Zalokleft</td>
-    <td class="monsterDrain" title="8">Hunger Puppet</td>
+    <td>N'dubba</td>
+    <td class="monsterWater">Zalokleft</td>
+    <td class="monsterDrain">Hunger Puppet</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>8</th>
-    <td title="3">N'dubba</td>
-    <td class="monsterWater" title="8">Zalokleft</td>
-    <td class="monsterDrain" title="8">Hunger Puppet</td>
-    <td class="monsterWeapon" title="6">Samuraidon</td>
-    <td title="6">Horse Ronin</td>
+    <td>N'dubba</td>
+    <td class="monsterWater">Zalokleft</td>
+    <td class="monsterDrain">Hunger Puppet</td>
+    <td class="monsterWeapon">Samuraidon</td>
+    <td>Horse Ronin</td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>9</th>
-    <td title="3">N'dubba</td>
-    <td title="6">Tiger Tosser</td>
-    <td class="monsterItem" title="6">Nigiri Morph</td>
-    <td class="monsterWeapon" title="10">Samuraidon</td>
-    <td title="6">Horse Ronin</td>
+    <td>N'dubba</td>
+    <td>Tiger Tosser</td>
+    <td class="monsterItem">Nigiri Morph</td>
+    <td class="monsterWeapon">Samuraidon</td>
+    <td>Horse Ronin</td>
     <td class="monsterNone"></td>
   </tr>
   <tr>
     <th>10</th>
-    <td title="9">Landmine Ninja</td>
-    <td title="6">Tiger Tosser</td>
-    <td class="monsterItem" title="6">Nigiri Morph</td>
-    <td class="monsterWeapon" title="8">Samuraidon</td>
-    <td title="9">Sheep Priest</td>
-    <td class="monsterDragon" title="7">Shagga</td>
+    <td>Landmine Ninja</td>
+    <td>Tiger Tosser</td>
+    <td class="monsterItem">Nigiri Morph</td>
+    <td class="monsterWeapon">Samuraidon</td>
+    <td>Sheep Priest</td>
+    <td class="monsterDragon">Shagga</td>
   </tr>
 </table>
-
-<div class="tableNotes">
-  <p>
-    Hover over cells to see monster spawn rate values.<br/>
-    Divide the number by the total for that row to get the %.<br/>
-    Example: Mamel (12), Chintala (8) → 12 ÷ 20 = 0.6, so Mamel spawns 60% of the time.
-  </p>
-</div>
 
 # Items
 
@@ -935,5 +927,9 @@ to stop the Oni from easily destroying sections of the castle during later event
 </table>
 
 <div class="tableNotes">
-  <p>Hover over cells with ※ to see their condition.</p>
+  <p>
+    ※ Mallet: Level up a Piko Hammer.<br/>
+    ※ Savings Pot: Always generated on 1F only.<br/>
+    ※ Memento Pot: Only generated if you collapsed.
+  </p>
 </div>

@@ -628,7 +628,6 @@ export const baseStyles = css`
   }
   .priceTableSmall td {
     padding: 2px;
-    white-space: nowrap;
   }
   .priceTableSmall th {
     font-size: 12.5px;
@@ -700,6 +699,9 @@ export const baseStyles = css`
     background-color: #CCDF8F;
   }
   .monsterItem {
+    background-color: #d6fffb;
+  }
+  .monsterItemChange {
     background-color: #E7D1FD;
   }
   .monsterWater {
@@ -710,6 +712,12 @@ export const baseStyles = css`
   }
   .monsterCyclops {
     background-color: #e3ffe3;
+  }
+  .monsterBomb {
+    background-color: #fc9;
+  }
+  .monsterBone {
+    background-color: #ffff70;
   }
   .monsterNone {
     background-color: #f7f7f7;

@@ -534,7 +534,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <th>9</th>
     <td>N'dubba</td>
     <td>Tiger Tosser</td>
-    <td class="monsterItem">Nigiri Morph</td>
+    <td class="monsterItemChange">Nigiri Morph</td>
     <td class="monsterWeapon">Samuraidon</td>
     <td>Horse Ronin</td>
     <td class="monsterNone"></td>
@@ -543,7 +543,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <th>10</th>
     <td>Landmine Ninja</td>
     <td>Tiger Tosser</td>
-    <td class="monsterItem">Nigiri Morph</td>
+    <td class="monsterItemChange">Nigiri Morph</td>
     <td class="monsterWeapon">Samuraidon</td>
     <td>Sheep Priest</td>
     <td class="monsterDragon">Shagga</td>

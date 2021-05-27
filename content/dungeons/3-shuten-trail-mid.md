@@ -18,7 +18,7 @@ There's a boss fight on 13F, so it's good to keep Shadow, Slumber,<br/>
 and Lightning scrolls on hand, along with Dragon and Swift grasses.
 
 <p>
-  <span class="cautionText">※ <a href="/shiren-2/items/materials#perfect-wood">Perfect Wood</a> can only be found in the second half of Shuten Trail Mid</span>
+  <span class="cautionText">※ <a href="/shiren-2/items/materials#perfect-wood">Perfect Wood</a> can only be found in the second half of Shuten Trail Mid.</span>
 </p>
 
 Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.
@@ -122,7 +122,7 @@ and take them on one at a time if there are other monsters around.
 Ashigarudons have 10 HP which is on the higher end, but they only use direct attacks.<br/>
 Stay calm and you shouldn't have too much trouble defeating them.
 
-On a side note, the music for this area is slightly different than the first trail's Green Forest. 
+On a side note, the music for this area is slightly different than the first trail's Green Forest.
 
 ### Ravine Stream (3-4F)
 
@@ -136,7 +136,7 @@ Droplet Ninja can place a Droplet Trap on the ground when it's defeated,<br/>
 so lure it onto an item or into a room beforehand to avoid stepping on the trap.
 
 This area has a similar appearance to Small Valley and the first trail's Inexaustible Falls,<br/>
-but Ravine Stream typically has larger rooms than those two areas. 
+but Ravine Stream typically has larger rooms than those two areas.
 
 ### Lapis Grotto (5F)
 
@@ -170,11 +170,9 @@ Shoot arrows to finish them off as they run away to avoid prolonging the fight.
 A monster called Mr. Drone appears, and will always drop Strength Grass when defeated.<br/>
 Strength matters a lot in Shiren 2 so it's an excellent monster to hunt, but it can<br/>
 be difficult to do so since it runs away from Shiren and can hover over water.<br/>
-Mr. Helico also appears on 7F, and sometimes drops Happy Grass when defeated. 
+Mr. Helico also appears on 7F, and sometimes drops Happy Grass when defeated.
 
 ### Shuten Halfway
-
-See Shuten Trail Easy for Blacksmith services and Trader's Shop items.
 
 Hone your weapon at the Blacksmith, and buy healing items and food at the Trader's Shop.<br/>
 If you have a lot of money, go ahead and fill your inventory with Otogiriso.
@@ -184,7 +182,30 @@ If you're finding Shuten Trail Mid to be too difficult, or if you don't feel pre
 upcoming boss fight, go ahead and enter Shuten Trail Easy and come back to Mid later.<br/>
 Keep in mind that you need to clear the second half of Mid to unlock Shuten Trail Hard.
 
-On a side note, all unidentified items will be identified when you enter Shuten Trail Easy. 
+On a side note, all unidentified items will be identified if you enter Shuten Trail Easy.
+
+#### Blacksmith
+
+|Service|Price|Info|
+|-|-|-|
+|Hone Weapon|1500|Increases weapon upgrade value by +1 or +3.|
+|Erase Seal|1000|Erases 1 synthesis seal of your choice.|
+|Repair Bracelet|500|Repairs a cracked bracelet of your choice.|
+
+#### Trader's Shop
+
+|Item|Price|Info|
+|-|-|-|
+|Nagamaki|700|Stronger than a Club.|
+|Katana|900|Pretty reliable weapon.|
+|Tribal Shield|1500|Average defense.|
+|Beetle Shield|7000|Higher defense.|
+|Giant Riceball|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
+|Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
+|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
+|Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
+|Purify Scroll|1000|Removes curses from equipped items.<br/>Unnecessary for Shuten Trail Easy.|
+|Storage Pot[5]|1500|Insert and take out items freely.<br/>Stock up on these if possible.|
 
 ### Wandering Cave (8F)
 
@@ -201,7 +222,7 @@ but they cost a lot so you likely won't be able to buy any at the moment.<br/>
 Stealing is an option, but it's quite difficult to pull off at this point in the game.
 
 From this point forward, you'll be able to pick up "Good" grade castle materials<br/>
-including Perfect Wood, which is only found in the second half of Shuten Trail Mid. 
+including Perfect Wood, which is only found in the second half of Shuten Trail Mid.
 
 ### Great Canyon (9-10F)
 
@@ -233,7 +254,7 @@ Taishodon can reflect magic, so you'll want to use direct attacks.
 Trader NPCs are somewhat common in Phantom Pass.<br/>
 Take care not to hit the Trader when using arrows or weapons with the 火 seal.
 
-Good items for the boss fight: Shadow and Slumber scrolls, Dragon and Swift Grasses, etc. 
+Good items for the boss fight: Shadow and Slumber scrolls, Dragon and Swift Grasses, etc.
 
 ### Headwater Cave (13F)
 
@@ -272,7 +293,7 @@ Example strategies:
 * Read a Blaze Scroll to block thrown items and deal damage to them at the same time.
 * Eat Swift Grass so you match their speed, and then fight them normally.
 
-There are hidden traps, so consider eating Sight Grass if you happen to have one. 
+There are hidden traps, so consider eating Sight Grass if you happen to have one.
 
 # Monsters
 
@@ -631,7 +652,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <th>6</th>
     <td class="monsterNone"></td>
     <td>Gamarra</td>
-    <td>Mr. Drone</td>
+    <td class="monsterItem">Mr. Drone</td>
     <td class="monsterWater">Spearfish</td>
     <td class="monsterCyclops">Gazer</td>
     <td class="monsterWater">Lt. Spearfish</td>
@@ -642,12 +663,12 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <th>7</th>
     <td>N'dubba</td>
     <td>Gamarra</td>
-    <td>Mr. Drone</td>
+    <td class="monsterItem">Mr. Drone</td>
     <td class="monsterWater">Spearfish</td>
     <td class="monsterCyclops">Gazer</td>
     <td class="monsterWater">Lt. Spearfish</td>
     <td class="monsterDrain">Hunger Puppet</td>
-    <td>Mr. Helico</td>
+    <td class="monsterItem">Mr. Helico</td>
   </tr>
   <tr>
     <th>8</th>
@@ -1069,7 +1090,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td>X</td>
     <td>X</td>
     <td>X</td>
-    <th colspan="6">Material</th>
+    <th colspan="6">Castle Material</th>
   </tr>
   <tr class="tableCategory">
     <td>Counter Shield</td>

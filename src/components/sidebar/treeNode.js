@@ -23,6 +23,17 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
 
   const calculatedClassName = `${className} item ${active ? 'active' : ''}`;
 
+  switch (title) {
+    case "Shrine's Hidden Hole":
+      title = "Hidden Hole";
+      break;
+    case "Shrine's Hidden Hole (B)":
+      title = "Hidden Hole (B)";
+      break;
+    default:
+      // don't change title
+  }
+
   return (
     <li className={calculatedClassName}>
       {title && (

@@ -28,7 +28,7 @@ and then a final showdown against Boss Oni on 25F.
     <ul>
       <li><a href="#weapon">Weapon</a></li>
       <li><a href="#shield">Shield</a></li>
-      <li><a href="#shield">Other</a></li>
+      <li><a href="#other">Other</a></li>
     </ul>
   </li>
   <li><a href="#floor-guide">Floor Guide</a>

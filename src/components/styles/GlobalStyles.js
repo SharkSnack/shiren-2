@@ -735,6 +735,15 @@ export const baseStyles = css`
   .monsterNone {
     background-color: #f7f7f7;
   }
+  .monsterStrong {
+    background-color: #FFCAE5;
+  }
+  .monsterHighStat1 {
+    background-color: #FFFFD1;
+  }
+  .monsterHighStat2 {
+    background-color: #ffdbb8;
+  }
   /* end - tables.css */
 
   /* List styling */

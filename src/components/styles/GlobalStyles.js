@@ -689,6 +689,19 @@ export const baseStyles = css`
     padding: 2px;
     font-size: 12.5px;
   }
+  .monsterTableOnigashima th {
+    text-align: center;
+    padding: 1px;
+    font-size: 12px;
+  }
+  .monsterTableOnigashima td {
+    text-align: center;
+    padding: 0.5px;
+    font-size: 12px;
+  }
+  .goldenMonsters th {
+    background-color: gold;
+  }
   .monsterDrain {
     background-color: #FFCAE5;
   }

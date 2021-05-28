@@ -401,7 +401,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>12</td>
     <td>18</td>
     <td>Normal</td>
-    <td>Reflects portion of damage from direct attacks.</td>
+    <td>Reflects some damage from direct attacks.</td>
   </tr>
   <tr>
     <td>9-10</td>

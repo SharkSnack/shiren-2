@@ -73,7 +73,7 @@ Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.
     <th>Allies</th>
     <td>Yes</td>
     <th>Traders</th>
-    <td>Yes (8-12F)</td>
+    <td>Yes (8~12F)</td>
   </tr>
   <tr>
     <th>Statues</th>
@@ -466,7 +466,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td>10</td>
     <td>8</td>
     <td>Normal</td>
-    <td>Runs from Shiren at double speed.<br/>Chance to drop Happy Grass.</td>
+    <td>Runs from Shiren at double speed.<br/>85% chance to drop Happy Grass.</td>
   </tr>
   <tr>
     <td>7-9</td>

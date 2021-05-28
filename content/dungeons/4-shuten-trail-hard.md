@@ -50,12 +50,7 @@ but you'll likely struggle if you're not a seasoned wanderer.
     </ul>
   </li>
   <li><a href="#golden-interval">Golden Interval</a></li>
-  <li><a href="#monsters">Monsters</a>
-    <ul>
-      <li><a href="#trail-monsters">Trail Monsters</a></li>
-      <li><a href="#golden-interval-monsters">Golden Interval Monsters</a></li>
-    </ul>
-  </li>
+  <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
 </ul>
@@ -84,19 +79,19 @@ but you'll likely struggle if you're not a seasoned wanderer.
     <th>Bring Items</th>
     <td>Yes (11)</td>
     <th>Shops</th>
-    <td>Yes (7-9F)</td>
+    <td>Yes (7~9F)</td>
   </tr>
   <tr>
     <th>Allies</th>
     <td>Yes</td>
     <th>Traders</th>
-    <td>Yes (3-11, 13-14F)</td>
+    <td>Yes (3~14F)</td>
   </tr>
   <tr>
     <th>Statues</th>
     <td>No</td>
     <th>Golden Interval</th>
-    <td>Yes (3-6F, 30%, Return:7F)</td>
+    <td>Yes (3~6F, 30%, Return:7F)</td>
   </tr>
   <tr>
     <th>Monster House</th>
@@ -366,15 +361,6 @@ Boss fight against Queen Spider and Armor Spiders.
     <th>Notes</th>
   </tr>
   <tr>
-    <td>Armor Spider</td>
-    <td>55</td>
-    <td>21</td>
-    <td>23</td>
-    <td>100</td>
-    <td>Normal</td>
-    <td>Direct attacks only.</td>
-  </tr>
-  <tr>
     <td>Queen Spider</td>
     <td>170</td>
     <td>30</td>
@@ -382,6 +368,15 @@ Boss fight against Queen Spider and Armor Spiders.
     <td>200</td>
     <td>Normal</td>
     <td>Doesn't move during the boss fight unless sealed.<br/>Occasionally spawns 3 Armor Spiders.</td>
+  </tr>
+  <tr>
+    <td>Armor Spider</td>
+    <td>55</td>
+    <td>21</td>
+    <td>23</td>
+    <td>100</td>
+    <td>Normal</td>
+    <td>Direct attacks only.</td>
   </tr>
 </table>
 
@@ -430,7 +425,7 @@ Onigiri Sword and Gamarra Whip are exclusively found in treasure chests<br/>at t
 
 Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 
-### Items
+### Golden Interval Items
 
 |Category|Items|
 |-|-|
@@ -871,7 +866,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 
 ### Golden Interval
 
-<table class="monsterTableRates">
+<table class="monsterTableRates goldenMonsters">
   <tr>
     <th rowspan="2">1-4</th>
     <td class="monsterCyclops">Ironhead</td>

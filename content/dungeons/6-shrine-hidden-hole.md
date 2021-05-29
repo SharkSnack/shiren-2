@@ -425,11 +425,95 @@ Keep items like Swift Grass, Warp Grass, Swap Staff, and Sanctuary Scroll on han
 
 ### 1-10F
 
+Feed Snacky to a Pit Mamel, and then defeat the Cave Mamel to get Shiren up to level 8\~9.<br/>
+Use allies like Monarch Tusker to weaken it, and then have Shiren get the last hit.<br/>
+It'd also be good to increase max fullness to 200% using Nigiri Master.
+
+Afterward, use Armordillo Pop to hunt for Possession Staff, Otogiriso, and Revival Grass.<br/>
+Once you have a stock of these items, use Iai to gather Clubs and Leather Shields.<br/>
+Go ahead and start synthesizing the Clubs and Leather Shields using Mixergon,<br/>
+but be sure to fill the Leather Shield's slots with 弟 before combining other Leather Shields.<br/>
+Next, collect more Otogiriso to increase Shiren's max HP. (400 or so is ideal)
+
+Antidote Grass can't be found, so avoid Slug (3\~5F) and Scorpion (8F) special attacks.<br/>
+That said, you can restore strength by intentionally collapsing if you have Revival Grass.<br/>
+Shiren can get by without fighting thanks to ally monsters, so don't worry about it too much.
+
+Be careful not to lose monster pots due to Armordillo and Armordillo Bro (5\~6F).<br/>
+It's best to carry a Balance Staff at all times to prevent accidents.<br/>
+Stand between two Armordillo Bros and have one defeat the other with knockback damage,<br/>
+and then have Shiren defeat the Armordillo Pop to gain 700 experience points.
+
+Beware of Zaloklefts (5\~8F), as they can steal ally monster pots and go underwater.<br/>
+Use Monsoon Doll or Hyper Gazer to stop them from being able to steal items.<br/>
+You shouldn't have much trouble, since they're always asleep when they spawn.
+
+Gazer (6\~8F, 10\~15F, 39\~47F, 60\~75F) is one of the most dangerous monsters<br/>if you keep the starting Escape Scroll on hand, since its hypnosis can force you to read it.<br/>
+The best prevention is to discard the starting Escape Scroll and pick up the one on 99F,<br/>
+but a Vexing Kappa can throw the 99F Escape Scroll at you to ruin your day if you're unlucky.
+
+Nigiri Morph (9\~10F, 17\~19F, 30\~36F, 50\~55F, 60\~75F) is also extremely dangerous,<br/>
+as it can transform ally monster pots into Large Riceballs.<br/>Seal it or have an ally monster be the one to fight it.<br/>
+Have an ally monster walk ahead of you in hallways to avoid surprise attacks.
+
 ### 11-21F
+
+Your equipment should be pretty strong by now, so you shouldn't have trouble.<br/>Continue to strengthen your equipment.
+
+Dangers include Nigiri Morph (17\~19F), Patient Bag (19\~21F), Tiger Hurler (19\~21F),<br/>and Green Zalokleft (19\~21F).
+
+Patient Bag's explosion will one-shot ally monsters, so always have Shiren fight them.<br/>
+Likewise, Tiger Hurler can toss ally monsters onto Landmines to one-shot them.<br/>
+Green Zaloklefts can steal ally monster pots, so again, seal or confuse them to prevent theft.
+
+This range is great for leveling Shiren up.<br/>Just stand between two monsters and have one defeat the other.<br/>
+Horse Emperor (3100), Gigahead (3150), Cranky Tank (2300), Bear Borg (2500) are nice options.<br/>
+They're powerful, but your equipment should be quite strong by now, so it should be doable.<br/>
+Use ally monsters to weaken them beforehand if you're concerned.<br/>
+It's ideal to reach level 40 with 400+ HP by 30F at the latest, because Archdragon appears.
 
 ### 22-60F
 
+Shiren's equipment, level, and max HP should be pretty solid at this point.<br/>
+You can resupply items using Armordillo Pop instead of searching for items on the ground,<br/>so if feel you have enough Revival Grass and other items, start rushing to the stairs.
+
+However, if you weren't able to prepare as planned, you'll want to take things a bit slower.<br/>
+Monsters only get stronger as you descend, but that can be used to your advantage.<br/>
+Capture monsters and send them out right away, using them as decoys while you rush stairs.<br/>
+Another option is to have them walk ahead of you in hallways as disposable shields.<br/>
+This protects important monster pots from surprise Gazers, Nigiri Morphs, and Gyandoras.
+
+Archdragon (30\~59F) makes an appearance.<br/>
+You'll be fine if you have a shield with 5 弟 (Otogiriso) seals and have increased your max HP.<br/>If you're still worried, Tiny Phoenix can be used to restore Shiren's HP.
+
+Capture an Archdragon to help ensure you're able to pick up the Escape Scroll on 99F.<br/>
+If you have an Archdragon and a Possession Staff, you can wipe out Vexing Kappas<br/>on 99F before they get a chance to throw the Escape Scroll.
+
+Other monsters include Nigiri Morph and Nigiri Master (30\~36F, 45\~57F, 60\~75F),<br/>
+Gazer, Super Gazer, and Hyper Gazer (25\~31F, 39\~47F, 60\~90F),<br/>Rancor Slug and Intolerable Slug (32~40F, 39~47F).<br/>
+Just assume that you'll run into one of them when walking in hallways.
+
+Gyandora (50\~79F) also makes an appearance.<br/>
+If it plucks an ally monster pot, the pot's size will be reduced to 0 and the ally will be lost.<br/>
+Again, have an ally monster walk ahead of you in hallways to avoid surprise attacks.
+
+Iron Zalokleft (51\~53F) can steal equipped items as well as ally monster pots,<br/>so don't let it use its special attack.
+
 ### 60F~
+
+Queen Spider (60\~99F) makes an appearance.<br/>
+She can only be captured in this dungeon, so don't forget to do so for Monster Kingdom.<br/>
+If your goal was to capture her instead of reaching 99F, go ahead and read an Escape Scroll.
+
+If you discarded your Escape Scroll for safety against Gazers, you'll need to descend to 99F.<br/>
+Be warned - if a Vexing Kappa throws the scroll at you or you fall into a Pitfall on 99F,<br/>you won't be able to escape from the dungeon alive.
+
+Eat Sight Grass or use direct attacks to check for traps one step at a time inside rooms.<br/>
+Immediately read a Shadow Scroll if you see both red and blue dots on the map at the start.<br/>
+Send out an Archdragon and control it using a Possession Staff to wipe out all enemies,<br/>
+and then search for the scroll while breathing fire to clear the floor every so often.
+
+Archdragons in Shiren 2 aren't very strong compared to other games in the series,<br/>so be careful of powerful monsters like Typhoon.
 
 # Monster Table
 
@@ -3061,8 +3145,6 @@ Keep items like Swift Grass, Warp Grass, Swap Staff, and Sanctuary Scroll on han
 
 # Items
 
-### Dungeon
-
 <div>
   <p>Key: Floor, Monster</p>
 </div>
@@ -3087,20 +3169,205 @@ Keep items like Swift Grass, Warp Grass, Swap Staff, and Sanctuary Scroll on han
     <th>M</th>
   </tr>
   <tr>
-    <td>item_name</td>
+    <td>Ironhead's Head</td>
     <td></td>
+    <td>X</td>
+    <td>Otogiriso</td>
+    <td>X</td>
     <td></td>
-    <td>item_name</td>
+    <td>Heal Staff</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Fish Spear</td>
     <td></td>
+    <td>X</td>
+    <td>Happy Grass</td>
     <td></td>
-    <td>item_name</td>
+    <td title="Level down a Mr. Gyro.">※</td>
+    <td>Quarter Staff</td>
     <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Mallet</td>
+    <td></td>
+    <td title="Level up a Piko Hammer.">※</td>
+    <td>Swift Grass</td>
+    <td>X</td>
+    <td></td>
+    <td>Balance Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Club</td>
+    <td></td>
+    <td title="Ally Iai or Shihan special attack.">※</td>
+    <td>Warp Grass</td>
+    <td>X</td>
+    <td></td>
+    <td>Invisible Staff</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Minotaur's Axe</td>
+    <td></td>
+    <td>X</td>
+    <td>Strength Grass</td>
+    <td></td>
+    <td title="Level down a Mr. Gyro.">※</td>
+    <td>Slow Staff</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <th colspan="3">Shield</th>
+    <td>Talk Seed</td>
+    <td>X</td>
+    <td></td>
+    <td>Possession Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <td>Revival Grass</td>
+    <td>X</td>
+    <td>X</td>
+    <td>Swift Staff</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Leather Shield</td>
+    <td></td>
+    <td title="Ally Kengo, Iai, or Shihan special attack.">※</td>
+    <td>Sight Grass</td>
+    <td>X</td>
+    <td></td>
+    <td>Swap Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="3">Bracelet</th>
+    <td>Herb</td>
+    <td>X</td>
+    <td></td>
+    <td>Pull Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <td>Boost Grass</td>
+    <td>X</td>
+    <td></td>
+    <td>Seal Staff</td>
+    <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>No Control Bracelet</td>
+    <td></td>
+    <td title="Ally Shihan special attack.">※</td>
+    <th colspan="3">Scroll</th>
+    <td>Knockback Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr class="tableCategory">
+    <th colspan="3" style="background-color:#def;font-weight:bold;">Projectile</th>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <td>Knowledge Staff</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr class="tableCategory">
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <td>Wall Collapse Scroll</td>
+    <td>X</td>
+    <td></td>
+    <th colspan="3" style="background-color:#def;font-weight:bold;">Pot</th>
+  </tr>
+  <tr class="tableCategory">
+    <td>Wooden Arrow</td>
+    <td></td>
+    <td>X</td>
+    <td>Sanctuary Scroll</td>
+    <td>X</td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+  </tr>
+  <tr>
+    <td>Iron Arrow</td>
+    <td></td>
+    <td>X</td>
+    <td>Sturdy Pot Scroll</td>
+    <td>X</td>
+    <td></td>
+    <td>Monster Pot</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Porky Stone</td>
+    <td></td>
+    <td>X</td>
+    <td>Shadow Scroll</td>
+    <td>X</td>
+    <td></td>
+    <th colspan="3">Food</th>
+  </tr>
+  <tr class="tableCategory">
+    <td>Cannonball</td>
+    <td></td>
+    <td>X</td>
+    <td>Evaporate Scroll</td>
+    <td>X</td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="3"></td>
+    <td>Escape Scroll</td>
+    <td title="Found on 10F, 20F, and 99F before the end loop.">※</td>
+    <td></td>
+    <td>Riceball</td>
+    <td>X</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="3"></td>
+    <td>Large Riceball</td>
+    <td>X</td>
     <td></td>
   </tr>
 </table>
 
 <div class="tableNotes">
   <p>
-    ※ item_name: condition_explanation
+    ※ Mallet: Level up a Piko Hammer.<br/>
+    ※ Happy Grass: Level down a Mr. Gyro.<br/>
+    ※ Strength Grass: Level down a Mr. Gyro.<br/>
+    ※ Club: Ally Iai or Shihan special attack.<br/>
+    ※ Leather Shield: Ally Kengo, Iai, or Shihan special attack.<br/>
+    ※ No Control Bracelet: Ally Shihan special attack.<br/>
+    ※ Escape Scroll: Found on 10F, 20F, and 99F before the end loop.
   </p>
 </div>

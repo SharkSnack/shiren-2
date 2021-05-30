@@ -91,7 +91,7 @@ but you'll likely struggle if you're not a seasoned wanderer.
     <th>Statues</th>
     <td>No</td>
     <th>Golden Interval</th>
-    <td>Yes (3~6F, 30%, Return:7F)</td>
+    <td>1st: 3~6F, 30%, Return:7F</td>
   </tr>
   <tr>
     <th>Monster House</th>
@@ -401,7 +401,7 @@ Though you can find better items elsewhere once you reach post-game,<br/>so it m
 
 # Golden Interval
 
-### Strategy
+#### Strategy
 
 There's a 30% chance for Golden Stairs to be hidden inside a wall tile between 3\~6F.<br/>
 You'll return to Shuten Trail Hard 7F after exiting from the Golden Interval area.
@@ -425,7 +425,7 @@ Onigiri Sword and Gamarra Whip are exclusively found in treasure chests<br/>at t
 
 Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 
-### Golden Interval Items
+#### Golden Interval Items
 
 |Category|Items|
 |-|-|

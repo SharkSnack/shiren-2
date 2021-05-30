@@ -85,7 +85,7 @@ and then a final showdown against Boss Oni on 25F.
     <th>Statues</th>
     <td>Yes</td>
     <th>Golden Interval</th>
-    <td>Yes (8~15F, 20%, Return:11F)</td>
+    <td>1st: 8~15F, 20%, Return:11F</td>
   </tr>
   <tr>
     <th>Monster House</th>
@@ -429,7 +429,7 @@ one-shot him,<br/>sending out ally monsters to handle the fight, or throwing an 
 
 # Golden Interval
 
-### Strategy
+#### Strategy
 
 There's a 20% chance for Golden Stairs to be hidden inside a wall tile between 8~15F.<br/>
 You'll return to 11F after exiting from the Golden Interval area, so if you're lucky,<br/>you may be able to find another Golden Stairs between 11~15F.
@@ -444,7 +444,7 @@ Golden Sword and Golden Shield look nice, but are too weak to be used as main eq
 Phantasm Bracelet is one of the best items in the game, so take good care of it if you find one.<br/>
 It allows you to walk on air and pass through walls, along with warping to a random room<br/>on the current floor if you unequip it while inside a wall or over water.
 
-### Golden Interval Items
+#### Golden Interval Items
 
 |Category|Items|
 |-|-|
@@ -1136,7 +1136,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
 
 ### Dungeon
 
-<table class="monsterTableOnigashima">
+<table class="monsterTablePostgame">
   <tr>
     <th>1</th>
     <td>Mamel</td>

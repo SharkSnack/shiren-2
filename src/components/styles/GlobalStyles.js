@@ -645,6 +645,14 @@ export const baseStyles = css`
     font-weight: normal;
     background-color: #ececec;
   }
+  .tableDivider2 {
+    background-color: #def;
+    padding: 1px !important;
+  }
+  .tableDivider3 {
+    background-color: #ffe970;
+    padding: 1px !important;
+  }
   .tableCategory th {
     font-weight: normal;
     background-color: #f0f0f0;
@@ -689,12 +697,12 @@ export const baseStyles = css`
     padding: 2px;
     font-size: 12.5px;
   }
-  .monsterTableOnigashima th {
+  .monsterTablePostgame th {
     text-align: center;
     padding: 1px;
     font-size: 12px;
   }
-  .monsterTableOnigashima td {
+  .monsterTablePostgame td {
     text-align: center;
     padding: 0.5px;
     font-size: 12px;

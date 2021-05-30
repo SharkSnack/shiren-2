@@ -52,7 +52,7 @@ export const StyledMainWrapper = styled.div`
 
     li {
       font-size: 16px;
-      line-height: 1.6;
+      line-height: 1.3;
       font-weight: 400;
     }
   }

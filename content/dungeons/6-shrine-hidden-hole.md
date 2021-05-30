@@ -35,7 +35,7 @@ select Suspend → Return to Village menu options to exit the dungeon.
   <li><a href="#dungeon-overview">Dungeon Overview</a></li>
   <li><a href="#basic-strategy">Basic Strategy</a>
     <ul>
-      <li><a href="#">Monster Pots / Ally Monsters</a></li>
+      <li><a href="#monster-pots-/-ally-monsters">Monster Pots / Ally Monsters</a></li>
       <li><a href="#important-monsters">Important Monsters</a></li>
       <li><a href="#other-items">Other Items</a></li>
     </ul>
@@ -517,9 +517,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
 
 # Monster Table
 
-### Dungeon
-
-<table class="monsterTableOnigashima">
+<table class="monsterTablePostgame">
   <tr>
     <th>1</th>
     <td>Snacky</td>
@@ -534,6 +532,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th>2</th>
     <td>Snacky</td>
@@ -548,6 +547,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th>3</th>
     <td>Snacky</td>
@@ -562,6 +562,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th>4</th>
     <td>Snacky</td>
@@ -576,6 +577,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Piko Hammer</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">5</th>
     <td>Snacky</td>
@@ -603,6 +605,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterWater">Zalokleft</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">6</th>
     <td>Snacky</td>
@@ -630,6 +633,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterWater">Zalokleft</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">7</th>
     <td>Snacky</td>
@@ -657,6 +661,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterGhost">Warukichi</td>
     <td class="monsterWater">Zalokleft</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">8</th>
     <td>Snacky</td>
@@ -684,6 +689,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterGhost">Warukichi</td>
     <td class="monsterWater">Zalokleft</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">9</th>
     <td>Snacky</td>
@@ -711,6 +717,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterGhost">Warukichi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">10</th>
     <td>Snacky</td>
@@ -738,6 +745,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWeapon">Taishodon</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">11</th>
     <td>Snacky</td>
@@ -765,6 +773,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWeapon">Taishodon</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">12</th>
     <td>Snacky</td>
@@ -792,6 +801,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWeapon">Taishodon</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">13</th>
     <td>Snacky</td>
@@ -819,6 +829,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">14</th>
     <td>Snacky</td>
@@ -846,6 +857,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">15</th>
     <td>Snacky</td>
@@ -873,6 +885,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">16</th>
     <td>Snacky</td>
@@ -900,6 +913,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">17</th>
     <td>Snacky</td>
@@ -927,6 +941,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">18</th>
     <td>Snacky</td>
@@ -954,6 +969,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">19</th>
     <td>Snacky</td>
@@ -981,6 +997,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterWater">Dragon Shotfish</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">20</th>
     <td>Snacky</td>
@@ -1008,6 +1025,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td>N'dubba 20yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">21</th>
     <td class="monsterNone"></td>
@@ -1035,6 +1053,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">22</th>
     <td class="monsterNone"></td>
@@ -1062,6 +1081,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">23</th>
     <td class="monsterNone"></td>
@@ -1089,6 +1109,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">24</th>
     <td class="monsterNone"></td>
@@ -1116,6 +1137,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">25</th>
     <td class="monsterNone"></td>
@@ -1143,6 +1165,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">26</th>
     <td class="monsterNone"></td>
@@ -1170,6 +1193,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">27</th>
     <td class="monsterNone"></td>
@@ -1197,6 +1221,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">28</th>
     <td class="monsterNone"></td>
@@ -1224,6 +1249,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">29</th>
     <td class="monsterNone"></td>
@@ -1251,6 +1277,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">30</th>
     <td>Devil Kangaroo</td>
@@ -1278,6 +1305,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td>N'dubba 30yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">31</th>
     <td>Devil Kangaroo</td>
@@ -1305,6 +1333,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">32</th>
     <td>Devil Kangaroo</td>
@@ -1332,6 +1361,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">33</th>
     <td>Devil Kangaroo</td>
@@ -1359,6 +1389,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">34</th>
     <td>Devil Kangaroo</td>
@@ -1386,6 +1417,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">35</th>
     <td>Devil Kangaroo</td>
@@ -1413,6 +1445,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">36</th>
     <td>Devil Kangaroo</td>
@@ -1440,6 +1473,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">37</th>
     <td>Devil Kangaroo</td>
@@ -1467,6 +1501,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">38</th>
     <td>Devil Kangaroo</td>
@@ -1494,6 +1529,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">39</th>
     <td>Devil Kangaroo</td>
@@ -1521,6 +1557,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">40</th>
     <td>Devil Kangaroo</td>
@@ -1548,6 +1585,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">41</th>
     <td>Devil Kangaroo</td>
@@ -1575,6 +1613,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">42</th>
     <td>Devil Kangaroo</td>
@@ -1602,6 +1641,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">43</th>
     <td>Devil Kangaroo</td>
@@ -1629,6 +1669,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">44</th>
     <td>Devil Kangaroo</td>
@@ -1656,6 +1697,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">45</th>
     <td>Devil Kangaroo</td>
@@ -1683,6 +1725,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">46</th>
     <td>Devil Kangaroo</td>
@@ -1710,6 +1753,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">47</th>
     <td>Devil Kangaroo</td>
@@ -1737,6 +1781,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">48</th>
     <td>Devil Kangaroo</td>
@@ -1764,6 +1809,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">49</th>
     <td>Devil Kangaroo</td>
@@ -1791,6 +1837,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">50</th>
     <td>Devil Kangaroo</td>
@@ -1818,6 +1865,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">51</th>
     <td>Devil Kangaroo</td>
@@ -1845,6 +1893,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterGhost">Kamikaze</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">52</th>
     <td>Devil Kangaroo</td>
@@ -1872,6 +1921,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">53</th>
     <td>Devil Kangaroo</td>
@@ -1899,6 +1949,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">54</th>
     <td>Devil Kangaroo</td>
@@ -1926,6 +1977,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">55</th>
     <td>Devil Kangaroo</td>
@@ -1949,10 +2001,11 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
+    <td class="monsterItemChange">Nigiri Morph</td>
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">56</th>
     <td>Devil Kangaroo</td>
@@ -1980,6 +2033,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Dosukoi</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">57</th>
     <td>Devil Kangaroo</td>
@@ -2007,6 +2061,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">58</th>
     <td>Devil Kangaroo</td>
@@ -2034,6 +2089,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">59</th>
     <td>Devil Kangaroo</td>
@@ -2061,6 +2117,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">60</th>
     <td>Devil Kangaroo</td>
@@ -2088,6 +2145,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td>N'dubba 60yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">61</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2115,6 +2173,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">62</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2142,6 +2201,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">63</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2169,6 +2229,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">64</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2196,6 +2257,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">65</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2223,6 +2285,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">66</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2250,6 +2313,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">67</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2277,6 +2341,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">68</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2304,6 +2369,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">69</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2331,6 +2397,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">70</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2358,6 +2425,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td>N'dubba 70yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">71</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2385,6 +2453,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">72</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2412,6 +2481,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">73</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2439,6 +2509,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Horse Shogun</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">74</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2466,6 +2537,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">75</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2493,6 +2565,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">76</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2520,6 +2593,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">77</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2547,6 +2621,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td>N'dubba 77yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">78</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2574,6 +2649,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">79</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2601,6 +2677,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">80</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2628,6 +2705,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">81</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2655,6 +2733,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">82</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2682,6 +2761,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">83</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2709,6 +2789,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">84</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2736,6 +2817,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">85</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2763,6 +2845,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">86</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2790,6 +2873,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">87</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2817,6 +2901,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">88</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2844,6 +2929,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone">N'dubba 88yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">89</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2871,6 +2957,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">90</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2898,6 +2985,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td>N'dubba 90yr</td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">91</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2925,6 +3013,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">92</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2952,6 +3041,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">93</th>
     <td class="monsterWater">King Shotfish</td>
@@ -2979,6 +3069,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">94</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3006,6 +3097,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">95</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3033,6 +3125,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">96</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3060,6 +3153,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">97</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3087,6 +3181,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">98</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3114,6 +3209,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
   </tr>
+  <tr><td colspan="12" class="tableDivider2"></td></tr>
   <tr>
     <th rowspan="2">99</th>
     <td class="monsterWater">King Shotfish</td>
@@ -3152,9 +3248,9 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
 <table class="itemTable">
   <tr>
     <th colspan="3">Weapon</th>
-    <th rowspan="48" class="tableDivider"></th>
+    <th rowspan="21" class="tableDivider"></th>
     <th colspan="3">Grass</th>
-    <th rowspan="48" class="tableDivider"></th>
+    <th rowspan="21" class="tableDivider"></th>
     <th colspan="3">Staff</th>
   </tr>
   <tr class="tableCategory">

@@ -646,12 +646,12 @@ export const baseStyles = css`
     background-color: #ececec;
   }
   .tableDivider2 {
-    background-color: #def;
-    padding: 1px !important;
+    background-color: #bcddff;
+    padding-top: 2px !important;
   }
   .tableDivider3 {
     background-color: #ffe970;
-    padding: 1px !important;
+    padding-top: 1px !important;
   }
   .tableCategory th {
     font-weight: normal;

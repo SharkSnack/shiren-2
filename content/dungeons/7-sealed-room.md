@@ -226,6 +226,9 @@ so you could work on creating a Kaburasutegi before attempting a deeper run.<br/
 The others can be obtained from Onigashima Golden Intervals, excluding<br/>
 Crescent Arm which is a guaranteed reward for defeating Boss Oni again.
 
+Sacred Sword is only found inside the 2nd Sealed Room Golden Interval,<br/>
+so it's not an option for your first run.
+
 #### Weapon Seals
 
 <table class="itemTable">
@@ -304,7 +307,7 @@ Crescent Arm which is a guaranteed reward for defeating Boss Oni again.
 
 Fuuma Shield can be obtained from a Presto Pot inside Sealed Room,<br/>
 so you could work on creating a Helix Shield before attempting a deeper run.<br/>
-The others can be obtained in Onigashima.
+The others can be obtained in Onigashima, excluding Sacred Shield.
 
 If you have a Leather Shield+99 (弟弟弟弟弟) from playing Shrine's Hidden Hole,<br/>you can probably just run this dungeon using that shield and be fine.
 
@@ -3163,7 +3166,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
 
 #### First (6-10F, Return: 11F)
 
-<table class="monsterTablePostgame goldenMonsters">
+<table class="monsterTableRates goldenMonsters">
   <tr>
     <th rowspan="2">1</th>
     <td>Snacky</td>

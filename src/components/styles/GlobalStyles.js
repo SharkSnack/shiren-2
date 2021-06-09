@@ -752,6 +752,18 @@ export const baseStyles = css`
   .monsterHighStat2 {
     background-color: #ffdbb8;
   }
+  .itemEquipment {
+    background-color: #b0d9ff;
+  }
+  .itemScroll {
+    background-color: #ffcfcf;
+  }
+  .itemEdible {
+    background-color: #bfffbf;
+  }
+  .itemCurse {
+    background-color: #6699cc;
+  }
   /* end - tables.css */
 
   /* List styling */

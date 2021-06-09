@@ -21,26 +21,26 @@ and Shiren can set traps down without ending his turn.
   <li><a href="#dungeon-overview">Dungeon Overview</a></li>
   <li><a href="#basic-strategy">Basic Strategy</a>
     <ul>
-      <li><a href="#weapon">Defeating Enemies</a></li>
-      <li><a href="#shield">Pickaxe Technique</a></li>
-      <li><a href="#shield">Obtaining Food</a></li>
-      <li><a href="#shield">Leveling Shiren</a></li>
-      <li><a href="#other">Collecting Items</a></li>
+      <li><a href="#defeating-enemies">Defeating Enemies</a></li>
+      <li><a href="#pickaxe-technique">Pickaxe Technique</a></li>
+      <li><a href="#obtaining-food">Obtaining Food</a></li>
+      <li><a href="#leveling-shiren">Leveling Shiren</a></li>
+      <li><a href="#collecting-items">Collecting Items</a></li>
     </ul>
   </li>
-  <li><a href="#dungeon-overview">Important Items</a></li>
+  <li><a href="#important-items">Important Items</a></li>
   <li><a href="#floor-guide">Floor Guide</a>
     <ul>
       <li><a href="#1-3f">1-3F</a></li>
-      <li><a href="#1-3f">4-7F</a></li>
-      <li><a href="#1-3f">8-9F</a></li>
-      <li><a href="#1-3f">10-19F</a></li>
-      <li><a href="#1-3f">20-39F</a></li>
-      <li><a href="#1-3f">40-49F</a></li>
-      <li><a href="#1-3f">50-55F</a></li>
-      <li><a href="#1-3f">56-60F</a></li>
-      <li><a href="#1-3f">61-85F</a></li>
-      <li><a href="#1-3f">86-99F</a></li>
+      <li><a href="#4-7f">4-7F</a></li>
+      <li><a href="#8-9f">8-9F</a></li>
+      <li><a href="#10-19f">10-19F</a></li>
+      <li><a href="#20-39f">20-39F</a></li>
+      <li><a href="#40-49f">40-49F</a></li>
+      <li><a href="#50-55f">50-55F</a></li>
+      <li><a href="#56-60f">56-60F</a></li>
+      <li><a href="#61-85f">61-85F</a></li>
+      <li><a href="#86-99f">86-99F</a></li>
     </ul>
   </li>
   <li><a href="#golden-interval">Golden Interval</a></li>
@@ -486,7 +486,7 @@ go ahead and return to Napus Village using a Trapper Bracelet on 99F.
 
 #### Strategy
 
-There's a 100% chance for Golden Stairs to be hidden inside a wall tile between 50\~55F.<br/>You'll return to 56F after exiting from the Golden Interval area.
+There's a 100% chance for Golden Stairs to be hidden in a wall tile between 50\~55F.<br/>You'll return to 56F after exiting from the Golden Interval area.
 
 Golden Interval maps are shuffle type, so Tunnel Staff and Pitfalls can't be used,<br/>and you can't escape from the dungeon using a Trapper Bracelet.
 
@@ -504,7 +504,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
 
 |Category|Items|
 |-|-|
-|Weapon|Club (Use a Kengo's Katana)|
+|Weapon|Club (Use Kengo's Katana)|
 |Gitan|10~2000 Gitan|
 |Treasure|Traproid Shield|
 
@@ -949,7 +949,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterDrain">Twisty Hani</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td class="monsterWater">Dragon Shotfish</td>
+    <td class="monsterNone"></td>
   </tr>
   <tr>
     <td class="monsterNone"></td>
@@ -3540,6 +3540,6 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
 
 <div class="tableNotes">
   <p>
-    ※ 1 Trapper Bracelet is generated on the ground on 10F, or every floor after until you pick it up.
+    ※ Trapper Bracelet: 1 is generated on the ground on 10F, or every floor after until you pick it up.
   </p>
 </div>

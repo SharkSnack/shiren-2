@@ -239,7 +239,7 @@ Piko Hammer's attacks deal \~10 damage if you don't have a shield equipped.
 Slugs appear between 3\~5F, and can lower Shiren's strength with their licks,<br/>
 so use projectiles to defeat them from a distance if possible.
 
-There's a 30% chance for Golden Stairs to be hidden inside a wall between 3\~6F.<br/>
+There's a 30% chance for Golden Stairs to be hidden in a wall between 3\~6F.<br/>
 See the Golden Interval section of this page for details.
 
 ### Hoof Rock Wall (5F)

@@ -431,7 +431,7 @@ one-shot him,<br/>sending out ally monsters to handle the fight, or throwing an 
 
 #### Strategy
 
-There's a 20% chance for Golden Stairs to be hidden inside a wall tile between 8~15F.<br/>
+There's a 20% chance for Golden Stairs to be hidden in a wall tile between 8~15F.<br/>
 You'll return to 11F after exiting from the Golden Interval area, so if you're lucky,<br/>you may be able to find another Golden Stairs between 11~15F.
 
 One search method besides reading a Wall Collapse Scroll is to level up a Boy Cart,<br/>

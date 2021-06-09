@@ -526,7 +526,7 @@ The floor number = N'dubba's age. (example: 99F = N'dubba 99yr)
 
 #### Strategy
 
-There's a 30% chance for Golden Stairs to be hidden inside a wall tile between 6\~10F.<br/>You'll return to 11F after exiting from the Golden Interval area.
+There's a 30% chance for Golden Stairs to be hidden in a wall tile between 6\~10F.<br/>You'll return to 11F after exiting from the Golden Interval area.
 
 Snacky appears between 1\~2F and can cause enemy monsters to level up.<br/>If you're unlucky, you can end up with an Iai or other strong monster roaming the floor.<br/>Aside from that, the monster table doesn't include anything threatening.
 
@@ -552,7 +552,7 @@ Gamarra Shield is a collector's item that is also exclusive to this Golden Inter
 
 #### Strategy
 
-There's a 30% chance for Golden Stairs to be hidden inside a wall tile between 70\~80F.<br/>You'll return to 81F after exiting from the Golden Interval area.
+There's a 30% chance for Golden Stairs to be hidden in a wall tile between 70\~80F.<br/>You'll return to 81F after exiting from the Golden Interval area.
 
 Shihan makes a return, so don't let your guard down while you hunt for items.<br/>
 King Tusker and Monarch Tusker also make an appearance, which can be<br/>

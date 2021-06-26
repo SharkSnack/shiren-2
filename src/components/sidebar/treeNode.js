@@ -30,6 +30,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
     case "Shrine's Hidden Hole (B)":
       title = "Hidden Hole (B)";
       break;
+    case "Synthesis Seals":
+      title = "Seals";
+      break;
     default:
       // don't change title
   }

@@ -684,6 +684,22 @@ export const baseStyles = css`
   .itemTable td {
     padding: 3px;
   }
+  .sealTable td:nth-child(2){
+    text-align: center;
+  }
+  .sealTable th {
+    padding: 3px;
+  }
+  .sealTable td {
+    padding: 3px;
+  }
+  .sealTableCentered th {
+    padding: 3px;
+    text-align: center;
+  }
+  .sealTableCentered td {
+    padding: 3px;
+  }
   .tableNotes p {
     font-size: 13px;
   }
@@ -762,12 +778,31 @@ export const baseStyles = css`
     background-color: #bfffbf;
   }
   .itemCurse {
-    background-color: #6699cc;
+    background-color: #7aabdd;
+  }
+  .sealEquipment {
+    text-align: center;
+    background-color: #b0d9ff;
+  }
+  .sealScroll {
+    text-align: center;
+    background-color: #ffcfcf;
+  }
+  .sealEdible {
+    text-align: center;
+    background-color: #bfffbf;
+  }
+  .sealCurse {
+    text-align: center;
+    background-color: #7aabdd;
   }
   /* end - tables.css */
 
   /* List styling */
   .dungeonLinksUL li {
+    line-height: 1.3 !important;
+  }
+  .quickLinksUL li {
     line-height: 1.3 !important;
   }
   /* end list styling */

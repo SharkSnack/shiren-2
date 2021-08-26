@@ -36,7 +36,7 @@ but Shiren's level is not a factor for damage dealt when he doesn't have Trapper
 Dmg: Damage dealt by the trap when Shiren doesn't have Trapper status.<br/>
 Break: Chance of a trap breaking when Shiren has Trapper status.
 
-<table class="itemTable">
+<table class="trapTable">
   <tr>
     <th>Image</th>
     <th>Name</th>

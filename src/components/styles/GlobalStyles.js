@@ -683,11 +683,16 @@ export const baseStyles = css`
   }
   .itemTable th {
     text-align: center;
-  }
-  .itemTable th {
     padding: 3px;
   }
   .itemTable td {
+    padding: 3px;
+  }
+  .trapTable th {
+    text-align: center;
+    padding: 3px;
+  }
+  .trapTable td {
     padding: 3px;
   }
   .sealTable td:nth-child(2){
@@ -888,8 +893,11 @@ export const baseStyles = css`
     position: relative !important;
     background-color: #555;
   }
-  .itemTable img {
+  .trapTable img {
     position: relative !important;
+  }
+  .trapTable td:first-child {
+    background-color: #555;
   }
   /* end image */
   .githubBtn {

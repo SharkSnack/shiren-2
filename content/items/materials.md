@@ -30,7 +30,7 @@ metaDescription: "Complete castle material details for Shiren the Wanderer 2: On
 <p>
   Castle materials can only be found within the Shuten Trail dungeons,<br/>
   and are always generated on the ground, so monsters will never drop them.<br/>
-  <span class="cautionText">※ Perfect Wood can only be found in Shuten Trail Mid</span>.
+  <span class="cautionText">※ Perfect Wood can only be found in Shuten Trail Mid (2nd half)</span>.
 </p>
 
 <table class="centeredTable">
@@ -139,6 +139,10 @@ metaDescription: "Complete castle material details for Shiren the Wanderer 2: On
 
 ### Soil
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be used to sculpt a figure that<br/>wanders around and draws the<br/>attention of monsters. The figure<br/>is only good for the current floor.|
+
 Select [Make] to sculpt a 20 HP decoy that wanders around the floor on its own.<br/>
 Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
 but it's also useful for collecting higher level monsters for Monster Kingdom.
@@ -149,6 +153,10 @@ but it's also useful for collecting higher level monsters for Monster Kingdom.
 
 ### Good Soil
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be used to sculpt a figure that<br/>wanders around and draws the<br/>attention of monsters. The figure<br/>is only good for the current floor.|
+
 Select [Make] to sculpt a 35 HP decoy that wanders around the floor on its own.<br/>
 Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
 but it's also useful for collecting higher level monsters for Monster Kingdom.
@@ -158,6 +166,10 @@ but it's also useful for collecting higher level monsters for Monster Kingdom.
 |6000<br/>(15000)|1600|-|-|
 
 ### Perfect Soil
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Takes up 2 inventory slots.<br/>Can be used to sculpt a figure that<br/>wanders around and draws the<br/>attention of monsters. The figure<br/>is only good for the current floor.|
 
 Select [Make] to sculpt a 40 HP decoy that wanders around the floor on its own.<br/>
 Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
@@ -170,6 +182,10 @@ Takes up 2 inventory slots.
 
 ### Water
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Restores HP when used. The bottle<br/>is made of glass and can break if<br/>you trip.|
+
 Special water that repels Oni.<br/>
 Select [Use] to restore 50HP.<br/>
 No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
@@ -180,6 +196,10 @@ No effect when thrown at allies or monsters, but can be thrown at Oni to paralyz
 
 ### Good Water
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Restores HP and cures ailments<br/>when used. The bottle is made of<br/>glass and can break if you trip.|
+
 Special water that repels Oni.<br/>
 Select [Use] to restore 100HP and cure ailments.<br/>
 No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
@@ -189,6 +209,10 @@ No effect when thrown at allies or monsters, but can be thrown at Oni to paralyz
 |8000<br/>(15000)|1600|-|-|
 
 ### Perfect Water
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Takes up 2 inventory slots.<br/>Restores HP, strength, fullness,<br/>and cures ailments when used.<br/>The bottle is made of glass and can<br/>break if you trip.|
 
 Special water that repels Oni.<br/>
 Select [Use] to restore HP, fullness, and strength to max, and cure ailments.<br/>
@@ -201,6 +225,10 @@ Takes up 2 inventory slots.
 
 ### Wood
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be thrown at a monster to<br/>deal damage and knockback.|
+
 Throw it at an enemy to deal 30 damage and 5 tiles of knockback.
 
 |Buy|Sell|Phrase EN|Phrase JP|
@@ -208,6 +236,10 @@ Throw it at an enemy to deal 30 damage and 5 tiles of knockback.
 |3000|800|-|-|
 
 ### Good Wood
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be thrown at a monster to<br/>deal damage and knockback.|
 
 Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
 
@@ -217,9 +249,13 @@ Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
 
 ### Perfect Wood
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Takes up 2 inventory slots.<br/>Can be thrown at a monster to<br/>deal damage and knockback.|
+
 <p>
   Throw it at an enemy to deal 50 damage and 5 tiles of knockback.<br/>
-  <span style="color:orange;">Note that Perfect Wood can only be found in Shuten Trail Mid.</span><br/>
+  <span style="color:orange;">Perfect Wood can only be found in Shuten Trail Mid (2nd half).</span><br/>
   Takes up 2 inventory slots.
 </p>
 
@@ -228,6 +264,10 @@ Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
 |9000|2400|???|モダテプ|
 
 ### Rock
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Throw it to deal damage to nearby<br/>monsters. It may break if you trip.|
 
 Select [Throw] to make 4\~5 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
 If a 10 Damage Statue is present, each rock will deal 10 damage.
@@ -238,6 +278,10 @@ If a 10 Damage Statue is present, each rock will deal 10 damage.
 
 ### Good Rock
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Throw it to deal damage to nearby<br/>monsters. It may break if you trip.|
+
 Select [Throw] to make 7\~10 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
 If a 10 Damage Statue is present, each rock will deal 10 damage.
 
@@ -246,6 +290,10 @@ If a 10 Damage Statue is present, each rock will deal 10 damage.
 |6000<br/>(15000)|1600|-|-|
 
 ### Perfect Rock
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Takes up 2 inventory slots.<br/>Throw it to deal damage to nearby<br/>monsters. It may break if you trip.|
 
 Select [Throw] to make 12\~15 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
 If a 10 Damage Statue is present, each rock will deal 10 damage.<br/>
@@ -257,6 +305,10 @@ Takes up 2 inventory slots.
 
 ### Iron Sand
 
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be scattered to blind an enemy<br/>in front of you.|
+
 Throw at a target to inflict blindness.
 
 |Buy|Sell|Phrase EN|Phrase JP|
@@ -264,6 +316,10 @@ Throw at a target to inflict blindness.
 |3000|800|-|-|
 
 ### Good Iron Sand
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Can be scattered to blind enemies<br/>in a 1 tile radius.|
 
 Throw at a target to inflict blindness.<br/>
 Select [Scatter] to blind all characters in a 1 tile radius.
@@ -273,6 +329,10 @@ Select [Scatter] to blind all characters in a 1 tile radius.
 |6000<br/>(15000)|1600|-|-|
 
 ### Perfect Iron Sand
+
+|In-game Description|
+|-|
+|Castle building material.<br/>Takes up 2 inventory slots.<br/>Can be scattered to blind all<br/>enemies in the room.|
 
 Throw at a target to inflict blindness.<br/>
 Select [Scatter] to blind all characters in the room.<br/>

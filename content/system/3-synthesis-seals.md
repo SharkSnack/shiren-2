@@ -127,7 +127,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>5000</td>
     <td>2500</td>
     <td>Onigiri Sword</td>
-    <td>8% chance for a defeated enemy to turn into a Riceball.</td>
+    <td>8% chance for a defeated enemy to turn into an Onigiri.</td>
   </tr>
   <tr>
     <td class="sealEquipment">金</td>
@@ -190,7 +190,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>×</td>
     <td>10000</td>
     <td>5000</td>
-    <td>Wonder Pickaxe</td>
+    <td>Wonder Pick</td>
     <td>Can dig through walls, but not while inside a wall.<br/>The weapon never breaks from digging.</td>
   </tr>
   <tr>
@@ -230,8 +230,8 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>○</td>
     <td>1000</td>
     <td>500</td>
-    <td>Riceballs<br/>(Not Spoiled)</td>
-    <td>4% chance for a defeated enemy to turn into a Riceball.</td>
+    <td>Onigiri<br/>(Not Spoiled)</td>
+    <td>4% chance for a defeated enemy to turn into an Onigiri.</td>
   </tr>
   <tr>
     <td class="sealEdible">薬</td>
@@ -531,8 +531,8 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>○</td>
     <td>1000</td>
     <td>500</td>
-    <td>Riceballs<br/>(Not Spoiled)</td>
-    <td>4% chance for Shiren to turn into a riceball when hit.</td>
+    <td>Onigiri<br/>(Not Spoiled)</td>
+    <td>4% chance for Shiren to turn into an onigiri when hit.</td>
   </tr>
   <tr>
     <td class="sealEdible">薬</td>
@@ -820,7 +820,7 @@ It's sometimes cost efficient to mix seals with similar effects (天幸, 竜火,
     <td>99</td>
   </tr>
   <tr>
-    <td colspan="17">Chance enemy is turned into a Riceball (%).</td>
+    <td colspan="17">Chance enemy is turned into an Onigiri (%).</td>
   </tr>
   <tr>
     <td rowspan="2" class="sealEquipment">会</td>
@@ -866,7 +866,7 @@ It's sometimes cost efficient to mix seals with similar effects (天幸, 竜火,
     <td>-</td>
   </tr>
   <tr>
-    <td colspan="17">Chance enemy is turned into a Riceball (%).</td>
+    <td colspan="17">Chance enemy is turned into an Onigiri (%).</td>
   </tr>
   <tr>
     <td rowspan="2" class="sealEdible">薬</td>
@@ -1259,7 +1259,7 @@ It's sometimes cost efficient to mix seals with similar effects (天幸, 竜火,
     <td>-</td>
   </tr>
   <tr>
-    <td colspan="17">Chance to be turned into a riceball (%).</td>
+    <td colspan="17">Chance to be turned into an onigiri (%).</td>
   </tr>
   <tr>
     <td rowspan="2" class="sealEdible">薬</td>
@@ -1509,7 +1509,7 @@ It's sometimes cost efficient to mix seals with similar effects (天幸, 竜火,
   <tr>
     <td class="sealEquipment">サ</td>
     <td>×</td>
-    <td>Wonder Pickaxe</td>
+    <td>Wonder Pick</td>
     <td>Dig shortcuts or steal from shops without worrying about it breaking.</td>
   </tr>
   <tr>
@@ -1521,7 +1521,7 @@ It's sometimes cost efficient to mix seals with similar effects (天幸, 竜火,
   <tr>
     <td class="sealEdible">飯</td>
     <td>○</td>
-    <td>Riceballs<br/>(Not Spoiled)</td>
+    <td>Onigiri<br/>(Not Spoiled)</td>
     <td>Nearly guarantees you won't starve if used with 皮.</td>
   </tr>
   <tr>
@@ -1600,7 +1600,7 @@ while the 会 seal has the potential to deal more damage to all monsters.
     <td class="sealEquipment">サ</td>
     <td>×</td>
     <td>Nirvana Shield</td>
-    <td>Stops natural fullness depletion, eliminating the need to carry riceballs.<br/>Can be a problem if you lose the shield.</td>
+    <td>Stops natural fullness depletion, eliminating the need to carry onigiri.<br/>Can be a problem if you lose the shield.</td>
   </tr>
   <tr>
     <td class="sealEquipment">皮</td>
@@ -1743,7 +1743,7 @@ Pros and Cons in Table Format:
     <td class="sealEquipment">掘</td>
     <td>×</td>
     <td>Pickaxe</td>
-    <td>Synthesize a Wonder Pickaxe instead to avoid losing your weapon.<br/>(It's safe to dig up to 14 times, but can break after that)</td>
+    <td>Synthesize a Wonder Pick instead to avoid losing your weapon.<br/>(It's safe to dig up to 14 times, but can break after that)</td>
   </tr>
   <tr>
     <td class="sealEquipment">食</td>
@@ -1820,7 +1820,7 @@ Pros and Cons in Table Format:
     <td class="sealEquipment">サ</td>
     <td>×</td>
     <td>Nirvana Shield</td>
-    <td>Max fullness doesn't return to normal when the shield is unequipped,<br/>but can be increased again by eating Expand Seeds or riceballs.<br/>Equip the shield when your max fullness is 0% to increase it to 1%.</td>
+    <td>Max fullness doesn't return to normal when the shield is unequipped,<br/>but can be increased again by eating Expand Seeds or onigiri.<br/>Equip the shield when your max fullness is 0% to increase it to 1%.</td>
   </tr>
   <tr>
     <td class="sealEquipment">見</td>
@@ -1867,8 +1867,8 @@ Pros and Cons in Table Format:
   <tr>
     <td class="sealEdible">飯</td>
     <td>○</td>
-    <td>Riceballs<br/>(Not Spoiled)</td>
-    <td>Occasionally turns you into a riceball when you receive damage.</td>
+    <td>Onigiri<br/>(Not Spoiled)</td>
+    <td>Occasionally turns you into an onigiri when you receive damage.</td>
   </tr>
   <tr>
     <td class="sealEdible">消</td>

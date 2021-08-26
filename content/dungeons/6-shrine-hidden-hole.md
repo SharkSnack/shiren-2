@@ -196,7 +196,7 @@ HP and Attack values are those at the growth limit.
     <td>90</td>
     <td>85</td>
     <td>40</td>
-    <td>Enemies defeated by Nigiri Master always drop a Large Riceball.<br/>Use this ability to increase your max fullness to 200% early on.<br/>Doesn't have high stats, so don't let it fight stronger enemies.</td>
+    <td>Enemies defeated by Nigiri Master always drop a Large Onigiri.<br/>Use this ability to increase your max fullness to 200% early on.<br/>Doesn't have high stats, so don't let it fight stronger enemies.</td>
   </tr>
   <tr>
     <td class="monsterStrong">Hyper Gazer</td>
@@ -453,7 +453,7 @@ The best prevention is to discard the starting Escape Scroll and pick up the one
 but a Vexing Kappa can throw the 99F Escape Scroll at you to ruin your day if you're unlucky.
 
 Nigiri Morph (9\~10F, 17\~19F, 30\~36F, 50\~55F, 60\~75F) is also extremely dangerous,<br/>
-as it can transform ally monster pots into Large Riceballs.<br/>Seal it or have an ally monster be the one to fight it.<br/>
+as it can transform ally monster pots into Large Onigiri.<br/>Seal it or have an ally monster be the one to fight it.<br/>
 Have an ally monster walk ahead of you in hallways to avoid surprise attacks.
 
 ### 11-21F
@@ -3392,7 +3392,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th>Name</th>
     <th>F</th>
     <th>M</th>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td></td>
     <th colspan="3" style="background-color:#def;font-weight:bold;">Pot</th>
@@ -3444,13 +3444,13 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <td>Escape Scroll</td>
     <td title="Found on 10F, 20F, and 99F before the end loop.">※</td>
     <td></td>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="3"></td>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
   </tr>

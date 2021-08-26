@@ -161,7 +161,7 @@ Make use of traps, statues, scrolls, and thrown Gitan to defeat monsters.<br/>Le
 
 Tiny Phoenix, Yamikichi, Gale, Pumphantasm, Weather Doll, and other monsters<br/>that float won't activate the trap when they move onto a tile with a trap,<br/>and Piko Hammers will destroy traps instead of stepping on them.<br/>You'll have to get creative in how you deal with these monsters.
 
-For example, throw Gitan or step on an arrow trap to damage floating monsters,<br/>or step on a landmine or use an Explosion Scroll to wipe out enemies in a 1 tile radius.<br/>You can also read a Trap Activate Scroll when a floating monster is above a trap.<br/>Piko Hammers can be trapped by swinging a Swap Staff while you're standing on a trap.
+For example, throw Gitan or step on an arrow trap to damage floating monsters,<br/>or step on a landmine or use an Explosion Scroll to wipe out enemies in a 1 tile radius.<br/>You can also read a Trap Trigger Scroll when a floating monster is above a trap.<br/>Piko Hammers can be trapped by swinging a Swap Staff while you're standing on a trap.
 
 ### Pickaxe Technique
 
@@ -178,14 +178,14 @@ Dig out one wall tile in a room to trick the monster AI into thinking there's a 
 
 ### Obtaining Food
 
-Riceballs are only found in shops, so you'll have to be creative about obtaining food.
+Onigiri are only found in shops, so you'll have to be creative about obtaining food.
 
-Lure a Nigiri Morph onto a Poison Trap to reduce its strength to 0,<br/>and then have it transform single arrows into Large Riceballs.<br/>
-Increase max fullness to 200% using this method, and keep a few riceballs on hand.
+Lure a Nigiri Morph onto a Poison Trap to reduce its strength to 0,<br/>and then have it transform single arrows into Large Onigiri.<br/>
+Increase max fullness to 200% using this method, and keep a few onigiri on hand.
 
-Riceball Statues cause monsters to drop a Riceball when they're defeated.
+Onigiri Statues cause monsters to drop an Onigiri when they're defeated.
 
-As a last resort, you can use Spoil Traps to obtain Spoiled Riceballs.<br/>
+As a last resort, you can use Spoil Traps to obtain Spoiled Onigiri.<br/>
 Eat them when there are no enemies nearby, and ideally right after a level up<br/>to minimize the loss of experience points if you get the level down effect.
 
 ### Leveling Shiren
@@ -289,8 +289,8 @@ Requires a Sturdy Trap Statue for best results.
 
 ### Scroll
 
-* Wall Collapse Scroll
-    * Keep one on hand if you're aiming for a Traproid Shield from a Golden Interval.<br/>Consider reading one if you find a Sturdy Trap, Trip, or Riceball statue.
+* Great Hall Scroll
+    * Keep one on hand if you're aiming for a Traproid Shield from a Golden Interval.<br/>Consider reading one if you find a Sturdy Trap, Trip, or Onigiri statue.
 * Explosion Scroll
     * Can be used to one-shot Piko Hammers and floating monsters.
 
@@ -324,7 +324,7 @@ Requires a Sturdy Trap Statue for best results.
 ### Trap
 
 * Spoil Trap
-    * Turns a monster into a Spoiled Riceball, instantly defeating it.
+    * Turns a monster into a Spoiled Onigiri, instantly defeating it.
 * Landmine, Big Landmine
     * Explosions instantly defeat all enemies in a 1 tile radius.<br/>Great against floating enemies and Piko Hammer monsters.<br/>It's best to use Landmines to reduce the amount of damage Shiren takes.
 * Poison Trap
@@ -354,7 +354,7 @@ Requires a Sturdy Trap Statue for best results.
 
 * Sturdy Trap Statue
     * Level up Shiren early game, or collect items.
-* Riceball Statue
+* Onigiri Statue
     * Obtain food and increase max fullness to 200%.
 * Trip Statue
     * Shiren won't trip, so you can use it to collect items.
@@ -363,7 +363,7 @@ Requires a Sturdy Trap Statue for best results.
 * 10 Damage Statue
     * Reduces the amount of damage Shiren takes when stepping on landmines.<br/>Can be used to defeat a monster using direct attacks.
 * Ouch Statue
-    * Doesn't attack Shiren, so you can circle around it to defeat monsters.<br/>Eat Spoiled Riceballs near it for a bit of added safety.
+    * Doesn't attack Shiren, so you can circle around it to defeat monsters.<br/>Eat Spoiled Onigiri near it for a bit of added safety.
 
 # Floor Guide
 
@@ -401,9 +401,9 @@ It's still possible to defeat enemies with 5 or so punches at this point,<br/>bu
 
 Boy Cart (8\~9F), Ironhead (9\~11F), Nigiri Morph (8\~10F), and Gale (9\~10F) appear.
 
-Lower a Nigiri Morph's strength to 0 using a Poison Trap, and have it make riceballs.<br/>Leave important items on the ground, and aim to increase max fullness to 200%.
+Lower a Nigiri Morph's strength to 0 using a Poison Trap, and have it make onigiri.<br/>Leave important items on the ground, and aim to increase max fullness to 200%.
 
-Collect Iron Arrows from a Boy Cart if you have a Wall Collapse Scroll.<br/>
+Collect Iron Arrows from a Boy Cart if you have a Great Hall Scroll.<br/>
 Arrows don't deal much damage here, but are used to check for enemies in hallways.
 
 Level up a Boy Cart or Ironhead into a Cranky Tank or Gigahead for experience points.<br/>
@@ -457,7 +457,7 @@ Consider picking up a Trapper Bracelet if you don't already have one,<br/>as acc
 ### 50-55F
 
 Golden Stairs can always be found inside a breakable wall tile between 50\~55F.<br/>
-However, it won't be generated if there are no breakable walls on the floor,<br/>so make sure the proper condition is met before reading a Wall Collapse Scroll.<br/>
+However, it won't be generated if there are no breakable walls on the floor,<br/>so make sure the proper condition is met before reading a Great Hall Scroll.<br/>
 To reduce risk, go around the map a bit and defeat some enemies beforehand.
 
 ### 56-60F
@@ -3455,7 +3455,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>※</td>
     <td></td>
     <td></td>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3480,7 +3480,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <th>F</th>
     <th>S</th>
     <th>M</th>
-    <td>Trap Activate Scroll</td>
+    <td>Trap Trigger Scroll</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3531,7 +3531,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td></td>
     <td>X</td>
     <td colspan="4"></td>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td></td>
     <td>X</td>
     <td></td>

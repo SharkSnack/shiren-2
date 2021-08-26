@@ -156,7 +156,7 @@ If your equipment and stock of food are decent, go ahead and level up before pro
 The first real danger zone of this dungeon.
 
 Poison Arrow and Spoil traps are common in this area, so you'll want to keep<br/>
-riceballs inside Storage Pots to prevent them from turning into Spoiled Riceballs.
+onigiri inside Storage Pots to prevent them from turning into Spoiled Onigiri.
 
 Beware of Gazer, as it can hypnotize Shiren and make him perform a random action.<br/>
 If you're unlucky, you may find yourself eating Revival Grass or reading a Retreat Scroll.<br/>
@@ -200,7 +200,7 @@ On a side note, all unidentified items will be identified if you enter Shuten Tr
 |Katana|900|Pretty reliable weapon.|
 |Tribal Shield|1500|Average defense.|
 |Beetle Shield|7000|Higher defense.|
-|Giant Riceball|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
+|Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
 |Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
@@ -1298,7 +1298,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td></td>
   </tr>
   <tr>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -1318,7 +1318,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td></td>
   </tr>
   <tr>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -1328,7 +1328,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td rowspan="3" colspan="6"></td>
   </tr>
   <tr>
-    <td>Giant Riceball</td>
+    <td>Huge Onigiri</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -1336,7 +1336,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
     <td></td>
   </tr>
   <tr>
-    <td>Spoiled Riceball</td>
+    <td>Spoiled Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>

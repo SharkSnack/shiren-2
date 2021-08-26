@@ -27,7 +27,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <th>Sell</th>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#trap-activate-scroll">Trap Activate Scroll</a></td>
+    <td><a href="/shiren-2/items/scrolls#trap-trigger-scroll">Trap Trigger Scroll</a></td>
     <td>-</td>
     <td>200</td>
     <td>100</td>
@@ -204,7 +204,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td rowspan="2">700</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/scrolls#wall-collapse-scroll">Wall Collapse Scroll</a></td>
+    <td><a href="/shiren-2/items/scrolls#great-hall-scroll">Great Hall Scroll</a></td>
     <td>-</td>
     <td rowspan="3">2000</td>
     <td rowspan="2">1000</td>
@@ -953,7 +953,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
     <td>1000</td>
   </tr>
   <tr>
-    <td><a href="/shiren-2/items/weapons#manji-kabura">Manji-Kabura</a></td>
+    <td><a href="/shiren-2/items/weapons#kabura's-blade">Kabura's Blade</a></td>
     <td>-</td>
     <td>18</td>
     <td>5</td>
@@ -1024,7 +1024,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
   </tr>
   <tr class="tableCategory">
     <th colspan="6">Two-Handed</th>
-    <td><a href="/shiren-2/items/weapons#wonder-pickaxe">Wonder Pickaxe</a></td>
+    <td><a href="/shiren-2/items/weapons#wonder-pick">Wonder Pick</a></td>
     <td>サ</td>
     <td>13</td>
     <td>4</td>

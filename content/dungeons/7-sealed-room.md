@@ -145,7 +145,7 @@ Only one Ad Balloon can be obtained per save file, so don't discard it!
 # Presto Pot Items
 
 The Presto Pot item table for Sealed Room includes many rare weapons and shields,<br/>
-and the table doesn't seem to change based on floor number, so the idea is to bring<br/>Presto Pots and use them on 1F to obtain items like Manji-Kabura, Fuuma Shield,<br/>Echo Shield, etc. to help you prepare for a deeper run.
+and the table doesn't seem to change based on floor number, so the idea is to bring<br/>Presto Pots and use them on 1F to obtain items like Kabura's Blade, Fuuma Shield,<br/>Echo Shield, etc. to help you prepare for a deeper run.
 
 Use an Armordillo Pop in Onigashima or Shuten Trail Mid to obtain Presto Pots,<br/>
 and then collect a stack of 99 arrows to use as transformation fodder.<br/>
@@ -187,7 +187,7 @@ Remember, you need to trip the ally Mixer to collect the synthesized item,<br/>s
     <td>Kaburasutegi</td>
     <td>99</td>
     <td>12</td>
-    <td>Manji-Kabura (月, 火, 水, 木, 金) → Blacksmith.</td>
+    <td>Kabura's Blade (月, 火, 水, 木, 金) → Blacksmith.</td>
   </tr>
   <tr>
     <td>Sacred Sword</td>
@@ -214,14 +214,14 @@ Remember, you need to trip the ally Mixer to collect the synthesized item,<br/>s
     <td>Clear Onigashima again after finishing the story.</td>
   </tr>
   <tr>
-    <td>Manji-Kabura</td>
+    <td>Kabura's Blade</td>
     <td>18</td>
     <td>5</td>
     <td>Presto Pot in Sealed Room, or a secret phrase.</td>
   </tr>
 </table>
 
-Manji-Kabura can be obtained from a Presto Pot inside Sealed Room,<br/>
+Kabura's Blade can be obtained from a Presto Pot inside Sealed Room,<br/>
 so you could work on creating a Kaburasutegi before attempting a deeper run.<br/>
 The others can be obtained from Onigashima Golden Intervals, excluding<br/>
 Crescent Arm which is a guaranteed reward for defeating Boss Oni again.
@@ -360,7 +360,7 @@ If you have a Leather Shield+99 (弟弟弟弟弟) from playing Shrine's Hidden H
     * Rarely sold by Traders or shops in Onigashima.<br/>Read an Extinction Scroll in Road to the End to be able to write Extinction on it.
 * Escape Scroll
     * Keep 1 inside a Storage Pot, and read it if you feel like you've reached your limit.
-* Wall Collapse Scroll
+* Great Hall Scroll
     * Bring a bunch if you're aiming to collect rare items from Golden Intervals.<br/>Easier to obtain from Halfway Well than Onigashima.
 * Storage Pot
     * Lets you bring more items in, along with being able to stock Gitan as projectiles.
@@ -399,7 +399,7 @@ High level monsters near the end of the dungeon can overpower ally monsters,<br/
 * Shihan
     * Great for collecting exclusive equipment inside Golden Intervals,<br/>and has high enough stats that it can be used to fight enemies.
 * Cranky Tank
-    * Can be used to search for Golden Intervals if you have a Possession Staff.<br/>However, doing so takes a while, so just use Wall Collapse Scrolls.
+    * Can be used to search for Golden Intervals if you have a Possession Staff.<br/>However, doing so takes a while, so just use Great Hall Scrolls.
 * Nigiri Master
     * Solves hunger issues as long as the Nigiri Master stays alive.
 * Water Shinryu
@@ -448,7 +448,7 @@ Gitan is common, so they can potentially one-shot you by throwing Gitan.<br/>
 Use arrows and staves to defeat or stop them from throwing Gitan from a distance.
 
 There's a 30% chance for golden stairs to be generated inside a wall tile on 6\~10F,<br/>
-so read Wall Collapse Scrolls if you want to enter the first Golden Interval.<br/>
+so read Great Hall Scrolls if you want to enter the first Golden Interval.<br/>
 It takes more time, but you can level a Pop Tank up and control the Cranky Tank<br/>using a Possession Staff to break walls with cannonballs as well.
 
 ### 11-19F
@@ -3418,7 +3418,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td></td>
     <td></td>
     <td>X</td>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3515,7 +3515,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td></td>
   </tr>
   <tr>
-    <td>Manji-Kabura</td>
+    <td>Kabura's Blade</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -4049,7 +4049,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -4066,7 +4066,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -4083,7 +4083,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>X</td>
     <td></td>
     <td></td>
-    <td>Specialty Riceball</td>
+    <td>Special Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -4100,7 +4100,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Giant Riceball</td>
+    <td>Huge Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>

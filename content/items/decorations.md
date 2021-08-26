@@ -25,3 +25,11 @@ metaDescription: "Castle decorations list for Shiren the Wanderer 2: Oni Invasio
 |Parabolic Antenna|Road to the End (60F+)|-|
 |Dragon Shachihoko|Road to the End (80F+)|-|
 |Gold Shiren Statue|Road to the End (Clear Reward)|-|
+
+# Details
+
+All castle decorations share the same description:
+
+|In-game Description|
+|-|
+|What could this be?<br/>Bring it to your castle and<br/>something good will happen.<br/>Hurry back to Napus Village!|

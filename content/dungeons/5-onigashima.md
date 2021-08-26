@@ -237,7 +237,7 @@ Shoot arrows at Gazers (7\~8F) to defeat them before they get close.
 
 Shotfish (7\~9F) can turn all scrolls outside of pots into Wet Scrolls.
 
-Nigiri Morph (9\~10F) can transform your valuable items into Large Riceballs.<br/>
+Nigiri Morph (9\~10F) can transform your valuable items into Large Onigiri.<br/>
 Shoot arrows from a distance, or use an item if they got close - don't let them act.
 
 Fight Kengo (11\~12F) with your back against a wall or unequip your shield beforehand.
@@ -354,7 +354,7 @@ Watch out for Porky, Nigiri Boss, and Tiger Hurler in particular.
 
 Porky (17\~19F) tosses stones at targets within 2 tiles, even if they're outside of view.
 
-Nigiri Boss (19\~21F) turns Shiren into a riceball, reducing his defense to 0.
+Nigiri Boss (19\~21F) turns Shiren into an onigiri, reducing his defense to 0.
 
 Tiger Hurler (19\~21F) throws Shiren at monsters, onto traps, or into Monster Houses.
 
@@ -434,7 +434,7 @@ one-shot him,<br/>sending out ally monsters to handle the fight, or throwing an 
 There's a 20% chance for Golden Stairs to be hidden in a wall tile between 8~15F.<br/>
 You'll return to 11F after exiting from the Golden Interval area, so if you're lucky,<br/>you may be able to find another Golden Stairs between 11~15F.
 
-One search method besides reading a Wall Collapse Scroll is to level up a Boy Cart,<br/>
+One search method besides reading a Great Hall Scroll is to level up a Boy Cart,<br/>
 swing a Possession Staff to take control of them, and fire cannonballs to destroy walls.
 
 Ivory Sword and Ivory Shield are ingredients used in making Daisangen equipment,<br/>and
@@ -688,7 +688,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td>11</td>
     <td>28</td>
     <td>Normal</td>
-    <td>Turns an inventory item into a Large Riceball.</td>
+    <td>Turns an inventory item into a Large Onigiri.</td>
   </tr>
   <tr>
     <td>9-10</td>
@@ -928,7 +928,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td>15</td>
     <td>34</td>
     <td>Dragon</td>
-    <td>Turns all riceballs into Spoiled Riceballs.</td>
+    <td>Turns all onigiri into Spoiled Onigiri.</td>
   </tr>
   <tr>
     <td>16</td>
@@ -1038,7 +1038,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td>20</td>
     <td>65</td>
     <td>Normal</td>
-    <td>Turns a character into a riceball.</td>
+    <td>Turns a character into an onigiri.</td>
   </tr>
   <tr>
     <td>19-21</td>
@@ -1776,7 +1776,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td></td>
   </tr>
   <tr>
-    <td>Manji-Kabura</td>
+    <td>Kabura's Blade</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -1961,7 +1961,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -2494,7 +2494,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td>X</td>
   </tr>
   <tr>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2517,7 +2517,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td></td>
   </tr>
   <tr>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2540,7 +2540,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td></td>
   </tr>
   <tr>
-    <td>Giant Riceball</td>
+    <td>Huge Onigiri</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -2563,7 +2563,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td></td>
   </tr>
   <tr>
-    <td>Spoiled Riceball</td>
+    <td>Spoiled Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2580,7 +2580,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
     <td></td>
   </tr>
   <tr>
-    <td>Specialty Riceball</td>
+    <td>Special Onigiri</td>
     <td></td>
     <td>X</td>
     <td></td>

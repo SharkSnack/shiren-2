@@ -140,7 +140,7 @@ but Mixer and Kengo monsters can't be found inside the dungeon.
     <td>90</td>
     <td>85</td>
     <td>40</td>
-    <td>Enemies defeated by Nigiri Master always drop a Large Riceball.<br/>Use this ability to increase your max fullness to 200% early on.<br/>Doesn't have high stats, so don't let it fight stronger enemies.</td>
+    <td>Enemies defeated by Nigiri Master always drop a Large Onigiri.<br/>Use this ability to increase your max fullness to 200% early on.<br/>Doesn't have high stats, so don't let it fight stronger enemies.</td>
   </tr>
   <tr>
     <td class="monsterStrong">Hyper Gazer</td>
@@ -333,7 +333,7 @@ but Mixer and Kengo monsters can't be found inside the dungeon.
 Use Armordillo Pop's special attack to deal 10 damage + knockback until the target<br/>has 10 HP or less, and then have Shiren finish them.
 
 Knockback Staff can be used to safely deal the final blow,<br/>
-and you can one-shot Nigiri Master by throwing a riceball item.
+and you can one-shot Nigiri Master by throwing an onigiri item.
 
 #### High Exp Monsters (Early Game)
 
@@ -3342,16 +3342,16 @@ Vexing Kappas on 99F are the final obstacle of this dungeon.<br/>If they throw t
     <td></td>
   </tr>
   <tr class="tableCategory">
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td></td>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td></td>
     <th colspan="3" style="background-color:#def;font-weight:bold;">Pot</th>
   </tr>
   <tr class="tableCategory">
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td>Sanctuary Scroll</td>

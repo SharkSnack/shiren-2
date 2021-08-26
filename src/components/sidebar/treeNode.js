@@ -33,6 +33,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
     case "Synthesis Seals":
       title = "Seals";
       break;
+    case "Shiren's Allies":
+      title = "Allies";
+      break;
     default:
       // don't change title
   }

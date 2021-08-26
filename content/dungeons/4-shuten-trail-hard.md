@@ -64,7 +64,7 @@ but you'll likely struggle if you're not a seasoned wanderer.
   </tr>
   <tr>
     <th>Entrance</th>
-    <td>Upper left cave behind the waterfall in Napus Village.</td>
+    <td>Upper right cave behind the waterfall in Napus Village.</td>
   </tr>
 </table>
 
@@ -119,7 +119,7 @@ Unequip Pierce Bracelets before throwing a Synthesis Pot at a wall.
 Golden Intervals can be found starting with this dungeon.<br/>
 Golden Stairs may be buried in a wall between floors 3\~6F, and lead to a bonus area.<br/>
 You likely don't have a way to break walls to search for the stairs at this point in the game,<br/>
-but once you reach Onigashima, you can obtain and use Wall Collapse Scrolls.
+but once you reach Onigashima, you can obtain and use Great Hall Scrolls.
 
 The first half of Shuten Trail Hard has "Good" grade materials,<br/>
 and "Perfect" grade materials can be found during the second half.<br/>
@@ -181,7 +181,7 @@ If 回 is too difficult, you can substitute it with multiple 弟.
 You might be able to obtain a Dotanuki or Spark Sword from a Surprise Pot on 15F.<br/>
 If you do so, go ahead and switch to using it as a main weapon instead of a Katana.
 
-You could use Secret Phrases to obtain a Manji-Kabura, Homing Blade, and Angel Seed<br/>to create an extremely powerful weapon very early, but it breaks the balance of the game<br/>and can ruin the experience of the story, so it's not recommended to do so.
+You could use Secret Phrases to obtain a Kabura's Blade, Homing Blade, and Angel Seed<br/>to create an extremely powerful weapon very early, but it breaks the balance of the game<br/>and can ruin the experience of the story, so it's not recommended to do so.
 
 ### Shield
 
@@ -282,7 +282,7 @@ The Blacksmith can erase synthesis seals and repair cracked bracelets,<br/>so re
 |Katana|900|Pretty reliable weapon.|
 |Tribal Shield|1500|Average defense.|
 |Beetle Shield|7000|Higher defense.|
-|Giant Riceball|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
+|Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
 |Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
@@ -406,7 +406,7 @@ Though you can find better items elsewhere once you reach post-game,<br/>so it m
 There's a 30% chance for Golden Stairs to be hidden inside a wall tile between 3\~6F.<br/>
 You'll return to Shuten Trail Hard 7F after exiting from the Golden Interval area.
 
-It's best to wait until you unlock Onigashima so that you can obtain Wall Collapse Scrolls<br/>to make searching for the stairs easier, but if you're determined to find it before then:
+It's best to wait until you unlock Onigashima so that you can obtain Great Hall Scrolls<br/>to make searching for the stairs easier, but if you're determined to find it before then:
 
 * Use the Pickaxe you can obtain from a Secret Phrase.
 * Roll Cannonballs at the wall to break wall tiles with explosions.
@@ -417,7 +417,7 @@ The range of monsters varies a lot for the Golden Interval of Shuten Trail Hard.
 You'll want to prepare for the worst case scenario of Wolf Droid leveling up<br/>
 into a Gorilla Bot, or Ironhead leveling up into a Chainhead.
 
-Riceballs can't be found, so bring enough food to last the entire trip.<br/>
+Onigiri can't be found, so bring enough food to last the entire trip.<br/>
 There are usually many Heaven and Earth scrolls and Synthesis Pots,<br/>
 so it's a good area to visit to strengthen equipment if you're struggling in Onigashima.
 
@@ -1428,7 +1428,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -1445,7 +1445,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
     <td>X</td>
     <td></td>
     <td></td>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -1468,7 +1468,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
     <td></td>
     <td></td>
     <td></td>
-    <td>Giant Riceball</td>
+    <td>Huge Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -1491,7 +1491,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
     <td></td>
     <td></td>
     <td></td>
-    <td>Spoiled Riceball</td>
+    <td>Spoiled Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>

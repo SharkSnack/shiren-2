@@ -31,9 +31,13 @@ Locations Key:
 
 ### Voucher
 
+|In-game Description|
+|-|
+|◆◇◆ Bargain Sale! ◆◇◆<br/>Cheap! Cheap!<br/>2% discount per voucher!<br/>Gets used automatically when<br/>purchasing an item.<br/>You there, big boss! Buy! Buy!|
+
 Provides a 2% discount when buying items from shops.<br/>
 Up to 40 vouchers can be used per purchase. (80% off).<br/>
-Can be used a projectile, but only deals 1 damage.<br/>
+Can be used as a projectile, but only deals 1 damage.<br/>
 Traders will drop up to 25 vouchers when defeated.
 
 |Buy|Sell|Phrase EN|Phrase JP|
@@ -75,8 +79,12 @@ Locations:
 
 ### Water
 
+|In-game Description|
+|-|
+|Pour water to extinguish fire.<br/>There are many other uses, so try<br/>pouring water on various other<br/>things!|
+
 Water inside of a Water Pot.<br/>
-It can rust enemy weapons, spoil riceballs, destroy traps, put out fires.<br/>
+It can rust enemy weapons, spoil onigiri, destroy traps, and put out fires.<br/>
 It has many uses, so try splashing it on all sorts of things!
 
 |Buy|Sell|Phrase EN|Phrase JP|
@@ -85,9 +93,13 @@ It has many uses, so try splashing it on all sorts of things!
 
 ### N'dubba
 
+|In-game Description|
+|-|
+|There's a rumor of a N'dubba that<br/>is said to have disguised itself and<br/>waited so long to surprise a human,<br/>that their legs degraded and got<br/>shorter. Who knows if it's true...|
+
 N'dubba monster disguised as an item.<br/>
 Move an ally on top of a N'dubba, and then swap places with them to pick it up.<br/>
-Can be inserted into pots like other items, and Nigiri Morphs can transform it into a riceball.<br/>
+Can be inserted into pots like other items, and Nigiri Morphs can transform it into an onigiri.<br/>
 Throw it or place it on the ground to have it transform back into its monster form.
 
 |Buy|Sell|Phrase EN|Phrase JP|
@@ -95,6 +107,10 @@ Throw it or place it on the ground to have it transform back into its monster fo
 |-|-|-|-|
 
 ### Gitan
+
+|In-game Description|
+|-|
+|Money. It can also be thrown.|
 
 Money used to purchase goods and services.<br/>
 Can be thrown to deal damage equal to the amount of gitan divided by 10.<br/>
@@ -139,6 +155,10 @@ Locations:
 
 ### 1,000,000 Gitan
 
+|In-game Description|
+|-|
+|Money. You can one-shot most<br/>monsters by throwing it, but it's a<br/>bit wasteful.|
+
 1 million Gitan. Deals 10,000 damage when thrown.<br/>
 Bring multiple bags into dungeons when going for high scores, since it's worth so much.
 
@@ -147,6 +167,10 @@ Bring multiple bags into dungeons when going for high scores, since it's worth s
 |980000|500000|-|-|
 
 ### Shiren's Hand
+
+|In-game Description|
+|-|
+|Splendid hand of a person with a<br/>strong lifeline. They get back up<br/>no matter how many times they<br/>collapse. They will achieve<br/>happiness with their rich and<br/>meticulous personality.|
 
 Shiren's hand stuck inside of a Sticky Pot.<br/>
 The description offers much praise, to the point where you wonder if Shiren wrote it himself.

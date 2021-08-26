@@ -613,6 +613,12 @@ export const baseStyles = css`
   .centeredTable td {
     text-align: center;
   }
+  .inGameDescTable th {
+    height: 24.5px;
+  }
+  .statueTable td:not(:first-child) {
+    text-align: center;
+  }
   /* Price Table (Staves, Pots pages)*/
   .priceTable th {
     text-align: center;
@@ -796,6 +802,9 @@ export const baseStyles = css`
     text-align: center;
     background-color: #7aabdd;
   }
+  .itemPageImage {
+    background-color: #555;
+  }
   /* end - tables.css */
 
   /* List styling */
@@ -846,6 +855,41 @@ export const baseStyles = css`
     max-height: 200px;
     width: auto !important;
     padding: 5px;
+  }
+  .allyImage span {
+    margin-left: 0px !important;
+    background-image: none !important;
+    display: block !important;
+  }
+  .allyImage img {
+    height: auto !important;
+    width: auto !important;
+    padding: 1px;
+  }
+  .statueImage {
+    display: flex;
+  }
+  .statueImage span {
+    margin: 0px !important;
+    margin-right: 5px !important;
+  }
+  .statueImage img {
+    height: auto !important;
+    width: auto !important;
+    padding: 2px;
+    background-color: #555;
+    border-radius: 3px;
+    position: relative !important;
+  }
+  .gatsby-resp-image-background-image {
+    display: none !important;
+  }
+  .itemPageImage img {
+    position: relative !important;
+    background-color: #555;
+  }
+  .itemTable img {
+    position: relative !important;
   }
   /* end image */
   .githubBtn {

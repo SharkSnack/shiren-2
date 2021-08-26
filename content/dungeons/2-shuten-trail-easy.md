@@ -114,7 +114,7 @@ so step into a hallway and fight them one at a time if you see multiple monsters
 Recommended to get Shiren up to level 3 before proceeding to 3F.
 
 You won't have any of the items you picked up in Small Valley,<br/>
-so you'll start with just one Large Riceball the first time you enter.<br/>
+so you'll start with just one Large Onigiri the first time you enter.<br/>
 Be sure to check every room on each floor, picking up any items as you go.<br/>
 If you find equipment, go ahead and equip it right away.
 
@@ -154,7 +154,7 @@ Fight with your back against a wall to avoid dropping items when tripped.
 Hunger Puppet makes an appearance on 6F.
 
 Hunger Puppet can sing a song that lowers Shiren's fullness by 5%.<br/>
-You can buy some Giant Riceballs in the next area, so it's not a big deal.
+You can buy some Huge Onigiri in the next area, so it's not a big deal.
 
 ### Shuten Halfway
 
@@ -174,7 +174,7 @@ Can also remove synthesis seals and repair cracked bracelets.
 
 #### Trader's Shop
 
-Offers items for sale including Otogiriso, Giant Riceball, equipment, and scrolls.<br/>
+Offers items for sale including Otogiriso, Huge Onigiri, equipment, and scrolls.<br/>
 Since it's your first time through, go ahead and buy some Storage Pots and Otogiriso.<br/>
 The shop offers a strong Beetle Shield, but you likely can't afford it yet.<br/>
 Damage reduction from defense value doesn't make as much of a difference in Shiren 2<br/>compared to other games in the series, so it's not an essential purchase either way.
@@ -185,7 +185,7 @@ Damage reduction from defense value doesn't make as much of a difference in Shir
 |Katana|900|Pretty reliable weapon.|
 |Tribal Shield|1500|Average defense.|
 |Beetle Shield|7000|Higher defense.|
-|Giant Riceball|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
+|Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
 |Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
@@ -226,8 +226,8 @@ so if that happens, rush to the stairs while moving in a zig-zag pattern to avoi
 
 New arrivals for 9F include Nigiri Morph and Tiger Tosser.
 
-Nigiri Morph can transform an inventory item into a Large Riceball.<br/>
-It's particularly bad if a Storage Pot gets turned into a riceball since you
+Nigiri Morph can transform an inventory item into a Large Onigiri.<br/>
+It's particularly bad if a Storage Pot gets turned into an onigiri since you
 lose all contents,<br/>so don't hesitate to use items to attack from a distance or prevent it from acting.
 
 Tiger Tosser has high attack, and throws Shiren either at other monsters or onto traps.
@@ -421,7 +421,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td>11</td>
     <td>28</td>
     <td>Normal</td>
-    <td>Turns an inventory item into a Large Riceball.</td>
+    <td>Turns an inventory item into a Large Onigiri.</td>
   </tr>
   <tr>
     <td>10</td>
@@ -905,7 +905,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td></td>
   </tr>
   <tr>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -915,7 +915,7 @@ to stop the Oni from easily destroying sections of the castle during later event
     <td></td>
   </tr>
   <tr>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>

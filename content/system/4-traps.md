@@ -25,6 +25,12 @@ Hidden traps can be destroyed in one turn using a Mallet if Shiren ate Sight Gra
 Damage dealt by traps increases as Shiren levels up when he has Trapper status,<br/>
 but Shiren's level is not a factor for damage dealt when he doesn't have Trapper status.
 
+<ul class="quickLinksUL">
+  <li><a href="#trap-list">Trap List</a></li>
+  <li><a href="#trap-damage">Trap Damage</a></li>
+  <li><a href="#experience-points">Experience Points</a></li>
+</ul>
+
 ### Trap List
 
 Dmg: Damage dealt by the trap when Shiren doesn't have Trapper status.<br/>
@@ -39,175 +45,175 @@ Break: Chance of a trap breaking when Shiren has Trapper status.
     <th>Notes</th>
   </tr>
   <tr>
-    <td><img src="../images/trap/droplet.png" alt="Droplet"/></td>
+    <td><img src="../images/traps/droplet.png" alt="Droplet"/></td>
     <td>Droplet</td>
     <td>5</td>
     <td>6%</td>
     <td>A water droplet falls from above, dealing 5 damage.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/burr.png" alt="Burr"/></td>
+    <td><img src="../images/traps/burr.png" alt="Burr"/></td>
     <td>Burr</td>
     <td>9</td>
     <td>8%</td>
     <td>Chestnut burrs fall from above, dealing 9 damage.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/rockfall.png" alt="Rockfall"/></td>
+    <td><img src="../images/traps/rockfall.png" alt="Rockfall"/></td>
     <td>Rockfall</td>
     <td>13</td>
     <td>13%</td>
     <td>A large rock falls from above, dealing 13 damage.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/rockslide.png" alt="Rockslide"/></td>
+    <td><img src="../images/traps/rockslide.png" alt="Rockslide"/></td>
     <td>Rockslide</td>
     <td>30</td>
     <td>10%</td>
     <td>Multiple large rocks fall from above, dealing 30 damage.<br/>Hits all characters in a 1-tile radius around the trap,<br/>including underwater and frozen monsters.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/wood_arrow.png" alt="Arrow"/></td>
+    <td><img src="../images/traps/arrow.png" alt="Arrow"/></td>
     <td>Arrow</td>
     <td>5</td>
     <td>10%</td>
     <td>A Wooden Arrow comes flying from the right side of the direction<br/>the character is facing, dealing 5 damage.<br/>Can be evaded using Dodge Shield or Reflect Shield.<br/>The arrow can be collected if dodged or reflected at a wall.<br/>The arrow pierces through walls until it hits something.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/iron_arrow.png" alt="Iron Arrow"/></td>
+    <td><img src="../images/traps/iron_arrow.png" alt="Iron Arrow"/></td>
     <td>Iron Arrow</td>
     <td>10</td>
     <td>10%</td>
     <td>An Iron Arrow comes flying from the right side of the direction<br/>the character is facing, dealing 10 damage.<br/>Otherwise it's the same as Arrow Trap.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/poison_arrow.png" alt="Poison"/></td>
+    <td><img src="../images/traps/poison.png" alt="Poison"/></td>
     <td>Poison</td>
     <td>3~6</td>
     <td>10%</td>
     <td>A Poison Arrow comes flying from the right side of the direction<br/>the character is facing, dealing 3~6 damage and lowering strength.<br/>Can be evaded using Dodge Shield or Reflect Shield.<br/>The arrow can't be collected if dodged or reflected at a wall,<br/>and Mixers can't swallow poison arrows.<br/>The arrow pierces through walls until it hits something.<br/><br/>Shiren or ally: Lower strength by 1 point.<br/>Monster: Lower strength to 0. (Direct attacks deal 1 damage)</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/log.png" alt="Log"/></td>
+    <td><img src="../images/traps/log.png" alt="Log"/></td>
     <td>Log</td>
     <td>3~7</td>
     <td>8%</td>
     <td>A log comes flying from the right side of the direction the<br/>character is facing, dealing 3~7 damage and knockback.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/pitfall.png" alt="Pitfall"/></td>
+    <td><img src="../images/traps/pitfall.png" alt="Pitfall"/></td>
     <td>Pitfall</td>
     <td>3~6</td>
     <td>100%</td>
     <td>Deals 3~6 damage and makes you advance to the floor below.<br/>The floor advancing effect is nullified in areas like Napus Storage,<br/>boss rooms, or Shuffle Dungeon maps (excluding Shuten Mid 12F).<br/><br/>Monster: The monster falls into a void and vanishes.<br/>(Monsters defeated using Pitfalls never drop items).</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/trip_stone.png" alt="Trip"/></td>
+    <td><img src="../images/traps/trip_stone.png" alt="Trip"/></td>
     <td>Trip Stone</td>
     <td>2~4</td>
     <td>10%</td>
     <td>Deals 2~4 damage, and makes you drop items in front of you.<br/>Equipped items are never dropped when tripped.<br/>Carry a Balance Staff in your inventory to avoid tripping.<br/>Hoarding Statue prevents dropping items when tripped.<br/><br/>Monster: Deals 2~4 damage, and makes the monster drop 1 item.<br/>(Only 1 item can be obtained per monster)</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/landmine.png" alt="Landmine"/></td>
+    <td><img src="../images/traps/landmine.png" alt="Landmine"/></td>
     <td>Landmine</td>
     <td>50%</td>
     <td>8%</td>
     <td>Deals damage equal to 50% of Shiren's current HP.<br/>Shiren will collapse if he steps on it with 1 HP remaining.<br/>Destroys items, monsters, and walls in a 1-tile radius.<br/>Nearby explosions will also activate it. (excluding Cannonballs)</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/big_landmine.png" alt="Big Landmine"/></td>
+    <td><img src="../images/traps/big_landmine.png" alt="Big Landmine"/></td>
     <td>Big Landmine</td>
     <td>75%</td>
     <td>8%</td>
     <td>Same as Landmine, but deals damage equal to 75% of current HP.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/flood.png" alt="Flood"/></td>
+    <td><img src="../images/traps/flood.png" alt="Flood"/></td>
     <td>Flood</td>
     <td>75%</td>
     <td>100%</td>
-    <td>Deals damage equal to 75% of current HP to all characters.<br/>No effect on frozen monsters, and sleeping monsters wake up.<br/>Changes the position of items, characters, and statues.<br/>Turns riceballs into Spoiled Riceballs, and scrolls into Wet Scrolls.<br/>Riceballs and scrolls inside pots aren't affected by the flood.<br/><br/>If a shop was present, the entire floor will be treated as a shop,<br/>and Shopkeepers will wander in search for the stairs.<br/>Patient Bags will be sealed as a result of the flood.<br/>Floods can't occur in Shuffle Dungeon maps.</td>
+    <td>Deals damage equal to 75% of current HP to all characters.<br/>No effect on frozen monsters, and sleeping monsters wake up.<br/>Changes the position of items, characters, and statues.<br/>Turns onigiri into Spoiled Onigiri, and scrolls into Wet Scrolls.<br/>Onigiri and scrolls inside pots aren't affected by the flood.<br/><br/>If a shop was present, the entire floor will be treated as a shop,<br/>and Shopkeepers will wander in search for the stairs.<br/>Patient Bags will be sealed as a result of the flood.<br/>Floods can't occur in Shuffle Dungeon maps.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/rust.png" alt="Rust"/></td>
+    <td><img src="../images/traps/rust.png" alt="Rust"/></td>
     <td>Rust</td>
     <td>-</td>
     <td>13%</td>
     <td>Lowers equipped weapon and shield upgrade values by 1.<br/>No effect on plated (金 seal) or innately rustproof equipment.<br/>If activated by a thrown item, its upgrade value is lowered by 1.<br/><br/>Monster: Lower defense to 0.<br/>Slows Boy Cart, Pop Tank, and Cranky Tank.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/summon.png" alt="Summon"/></td>
+    <td><img src="../images/traps/summon.png" alt="Summon"/></td>
     <td>Summon</td>
     <td>-</td>
     <td>100%</td>
     <td>Summons 4 identical monsters from the floor's monster table.<br/>Summons fewer than 4 if there isn't enough room, but can summon<br/>inside water or walls if the chosen monster can traverse those tiles.<br/><br/>Monsters will act immediately after being summoned if the trap<br/>was activated using the [Ground] menu option, by a thrown item,<br/>or if stepped on while Shiren has Slow status.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/spin.png" alt="Spin"/></td>
+    <td><img src="../images/traps/spin.png" alt="Spin"/></td>
     <td>Spin</td>
     <td>-</td>
     <td>15%</td>
     <td>Confuses the character that stepped on it for 10 turns.<br/><br/>Monster: Confuses the monster that stepped on it for 20 turns.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/strip.png" alt="Strip"/></td>
+    <td><img src="../images/traps/strip.png" alt="Strip"/></td>
     <td>Strip</td>
     <td>-</td>
     <td>13%</td>
     <td>Unequips all equipped items. (weapon, shield, bracelets, projectile)<br/>Can't be used to free your hand from a Sticky Pot.<br/><br/>Monster: Permanently seals the monster.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/spoil.png" alt="Spoil"/></td>
+    <td><img src="../images/traps/spoil.png" alt="Spoil"/></td>
     <td>Spoil</td>
     <td>-</td>
     <td>8%</td>
-    <td>Turns all riceballs that aren't inside pots into Spoiled Riceballs.<br/>If the trap is activated by a thrown riceball,<br/>the item will turn into a Spoiled Riceball.<br/><br/>Monster: Turns the monster into a Spoiled Riceball, defeating it.<br/>(Monsters defeated by a Spoil Trap never drop items)</td>
+    <td>Turns all onigiri that aren't inside pots into Spoiled Onigiri.<br/>If the trap is activated by a thrown onigiri,<br/>the item will turn into a Spoiled Onigiri.<br/><br/>Monster: Turns the monster into a Spoiled Onigiri, defeating it.<br/>(Monsters defeated by a Spoil Trap never drop items)</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/bear.png" alt="Bear"/></td>
+    <td><img src="../images/traps/bear.png" alt="Bear"/></td>
     <td>Bear</td>
     <td>-</td>
     <td>6%</td>
     <td>Makes you unable to move for 3~7 turns.<br/>Characters caught in a Bear Trap can't evade attacks.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/slow.png" alt="Slow"/></td>
+    <td><img src="../images/traps/slow.png" alt="Slow"/></td>
     <td>Slow</td>
     <td>-</td>
     <td>10%</td>
     <td>Slows action speed for 10 turns.<br/><br/>Monster: Permanently slows action speed.<br/>(Sealing a monster cancels the effect)</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/sleep.png" alt="Sleep"/></td>
+    <td><img src="../images/traps/sleep.png" alt="Sleep"/></td>
     <td>Sleep</td>
     <td>-</td>
     <td>15%</td>
     <td>Puts a character to sleep for 5 turns.<br/>Characters that are sleeping can't evade attacks.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/spring.png" alt="Spring"/></td>
+    <td><img src="../images/traps/spring.png" alt="Spring"/></td>
     <td>Spring</td>
     <td>-</td>
     <td>10%</td>
     <td>Warps the character or item to a random location on the floor.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/monster.png" alt="Monster"/></td>
+    <td><img src="../images/traps/monster.png" alt="Monster"/></td>
     <td>Monster</td>
     <td>-</td>
     <td>-</td>
     <td>Transforms items in the room into monsters.<br/>Merchandise inside shops will also transform into monsters.<br/>No effect on items underfoot or scrolls stuck to the ground.<br/>If activated by a thrown item, only the thrown item transforms.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/chain.png" alt="Chain"/></td>
+    <td><img src="../images/traps/chain.png" alt="Chain"/></td>
     <td>Chain</td>
     <td>-</td>
     <td>7%</td>
     <td>Triggers other traps in a 1-tile radius, beginning from the top<br/>and moving in a clockwise direction.<br/><br/>Only found inside Halfway Well.</td>
   </tr>
   <tr>
-    <td><img src="../images/trap/one_way.png" alt="One-Way"/></td>
+    <td><img src="../images/traps/one_way_left.png" alt="One-Way"/></td>
     <td>One-Way</td>
     <td>-</td>
     <td>15%</td>

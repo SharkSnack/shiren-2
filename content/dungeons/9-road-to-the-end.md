@@ -209,7 +209,7 @@ Dragon Killer, Dotanuki, Spark Sword, and Ivory Sword are all good options.<br/>
     <td>Good balance of attack and slot count,<br/>and is much more common than the top tier options.</td>
   </tr>
   <tr>
-    <td>Manji-Kabura</td>
+    <td>Kabura's Blade</td>
     <td>18</td>
     <td>5</td>
     <td>Only 5 slots, but has high attack to make up for it.<br/>Found in Golden Intervals or from a Presto Pot.</td>
@@ -256,7 +256,7 @@ Dragon Killer, Dotanuki, Spark Sword, and Ivory Sword are all good options.<br/>
 
 The most important seals are 三, 回, and 飯.<br/>三 and 回 greatly help with fighting enemies, and 飯 reduces the risk of starvation.
 
-Don't synthesize 飯 onto your weapon if you only have 1 riceball on hand,<br/>unless you have a Leather Shield or are ready to perform Nigiri Morph Factory (9\~10F).
+Don't synthesize 飯 onto your weapon if you only have 1 onigiri on hand,<br/>unless you have a Leather Shield or are ready to perform Nigiri Morph Factory (9\~10F).
 
 If you have a Disposable Shield and Dried Bonito, synthesize the か seal<br/>onto the Disposable Sword to turn it into a long-lasting food source.
 
@@ -292,8 +292,8 @@ In any case, it's best to focus synthesizing seals that help early and mid game<
   <tr>
     <td class="itemEdible">飯</td>
     <td>A</td>
-    <td>Riceball items<br/>(except Spoiled)</td>
-    <td>4% chance for a defeated enemy to drop a Riceball.<br/>Better than 皮 since it lets you obtain food inside Golden Intervals.<br/>You'll want at least this or 皮, and some players synthesize both.</td>
+    <td>Onigiri items<br/>(except Spoiled)</td>
+    <td>4% chance for a defeated enemy to drop an Onigiri.<br/>Better than 皮 since it lets you obtain food inside Golden Intervals.<br/>You'll want at least this or 皮, and some players synthesize both.</td>
   </tr>
   <tr>
     <td class="itemEdible">弟</td>
@@ -368,7 +368,7 @@ In any case, it's best to focus synthesizing seals that help early and mid game<
 * Pickaxe
     * Particularly useful when you haven't found a Phantasm Bracelet.<br/>Dig a path before stealing, thin out enemies before entering a Monster House,<br/>create a hallway if you're about to be surrounded, etc.
 * Disposable Sword + Dried Bonito
-    * Synthesize the か seal onto the Disposable Sword to turn it into<br/>a food source worth 10 Large Riceballs. (1050% fullness)
+    * Synthesize the か seal onto the Disposable Sword to turn it into<br/>a food source worth 10 Large Onigiri. (1050% fullness)
 * Ironhead's Head + Fish Spear
     * Safely defeat underwater monsters like Shotfish, Spearfish, Orcan.<br/>However, Porky Stones can hit underwater enemies, and Shotfish can be ignored,<br/>so you might get more use out of the weapon by synthesizing 火 seals.
 
@@ -385,7 +385,7 @@ It's fine to synthesize any of the S, A, or B tier seals as you come across them
 The listed upgrade values are the final values after clearing the dungeon.<br/>It's possible to clear the dungeon with +10 or even +0 depending on your other items,<br/>and increasing strength has a much more visible effect on damage output,<br/>so don't put too much thought into weapon upgrade values.
 
 * Dragon Killer+25 (三回飯金ド仏目)
-    * Use Dragon Killer as a main weapon if you find a Golden Interval.<br/>三 to hit multiple enemies at once, and 回 to restore your HP.<br/>竜 (Innate) + ド仏目 gives you an advantage against certain types.<br/>飯 for occasional Riceball drops. Plays well with 皮 on a shield.<br/>金 (Red) protects upgrade value and other seals from 1 use<br/>of Monsoon Doll's special attack.
+    * Use Dragon Killer as a main weapon if you find a Golden Interval.<br/>三 to hit multiple enemies at once, and 回 to restore your HP.<br/>竜 (Innate) + ド仏目 gives you an advantage against certain types.<br/>飯 for occasional Onigiri drops. Plays well with 皮 on a shield.<br/>金 (Red) protects upgrade value and other seals from 1 use<br/>of Monsoon Doll's special attack.
 * Dotanuki+15 (三回飯金眠弟)
     * Use Dotanuki or Spark Sword if you didn't find a Golden Interval.<br/>This example uses 眠 and 弟 instead of type effective seals,<br/>which is better against monsters without a type like Shihan.
 * Spark Sword+10 (三回弟弟弟弟)
@@ -590,9 +590,9 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Pierce Bracelet
     * Bracelet that can be good or bad depending on how you use it.<br/>Throw items like Gitan, Poison Grass, or Flame Grass at a line of monsters,<br/>Thin out enemies inside a Monster House before entering it, etc.<br/>Always unequip it after you're done using it, or else you risk losing items<br/>when you try to synthesize using Mixer monsters.<br/>Shopkeepers and Traders will turn hostile if an item or arrow hits them,<br/>and the bracelet turns into a liability if it becomes cursed.
 * Blank Scroll
-    * Write the name of any scroll you've read in the past, and use it as that scroll.<br/>Blank:Extinction goes without saying for Archdragon or Typhoon,<br/>Blank:Sanctuary can be reused if you have a Water Pot,<br/>synthesize it with a weapon or shield to increase slot count by 1,<br/>Blank:Wall Collapse to search for Golden Intervals,<br/>Blank:Restock to hunt for shop-exclusive items like Phantasm Bracelet,<br/>Blank:Plating to repair cracked Scout or Phantasm bracelets, etc.<br/>Rare early on, but has a higher spawn rate from 50F. (Usually 2\~3 per run)
-* Wall Collapse Scroll
-    * Used to try and locate Golden Stairs between 6\~10F, 24\~29F, and 90\~95F.<br/>Golden Intervals provide strong items like Dragon Killer and Dragon Shield,<br/>so it's worth keeping any Wall Collapse Scrolls you come across.<br/>Bomber, Sleep, and No Magic statues can cause problems if they're present.<br/>Also used to steal from shops, or to rush stairs on Archdragon floors.
+    * Write the name of any scroll you've read in the past, and use it as that scroll.<br/>Blank:Extinction goes without saying for Archdragon or Typhoon,<br/>Blank:Sanctuary can be reused if you have a Water Pot,<br/>synthesize it with a weapon or shield to increase slot count by 1,<br/>Blank:Great Hall to search for Golden Intervals,<br/>Blank:Restock to hunt for shop-exclusive items like Phantasm Bracelet,<br/>Blank:Plating to repair cracked Scout or Phantasm bracelets, etc.<br/>Rare early on, but has a higher spawn rate from 50F. (Usually 2\~3 per run)
+* Great Hall Scroll
+    * Used to try and locate Golden Stairs between 6\~10F, 24\~29F, and 90\~95F.<br/>Golden Intervals provide strong items like Dragon Killer and Dragon Shield,<br/>so it's worth keeping any Great Hall Scrolls you come across.<br/>Bomber, Sleep, and No Magic statues can cause problems if they're present.<br/>Also used to steal from shops, or to rush stairs on Archdragon floors.
 * Restock Scroll
     * Basically lets you obtain up to an additional 9 items if read inside a shop,<br/>including shop-exclusives like Echo and Evasive shields, Phantasm Bracelet,<br/>or generally rare items like Razor Wind and Scout Bracelet.<br/>Don't discard any Restock Scrolls you come across.
 * Otogiriso
@@ -669,7 +669,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Purify Scroll
     * Basically the only way to remove curses besides using a Possession Staff<br/>to take control of a Straw Voodoll family monster.
 * Evaporate Scroll
-    * Collect items from islands, or retrieve items that fell in water.<br/>Freeze, Wall Collapse, and Sanctaruy scrolls can be used in a similar way.
+    * Collect items from islands, or retrieve items that fell in water.<br/>Freeze, Great Hall, and Sanctaruy scrolls can be used in a similar way.
 * Sanctuary Scroll
     * Escape tricky situations, or use it to clear out a Monster House.<br/>Remember that ranged attacks like Porkton's stone toss can still hit you.
 * Slumber Scroll
@@ -723,7 +723,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Synthesis Pot
     * Being able to synthesize on non-Mixer floors can be nice.<br/>If you find an unidentified pot with a size of 2, it's a Synthesis Pot.
 * Degrade Pot
-    * Container for riceballs, Strength Grass, Wall Collapse Scrolls, etc.<br/>Just don't insert weapons, shields, or staves.
+    * Container for onigiri, Strength Grass, Great Hall Scrolls, etc.<br/>Just don't insert weapons, shields, or staves.
 * Grass Pot
     * Often called useless, but it can weaken an entire Monster House<br/>if you insert Twisty Grass or Poison Grass.<br/>Some insert unneeded equipment to sell later.
 * Water Pot
@@ -733,7 +733,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 
 #### Misc.
 
-* Specialty Riceball
+* Special Onigiri
     * Found in shops, or on the ground between 15\~40F and 61\~99F.<br/>The ideal effect is the one that lets you identify items by picking them up,<br/>but being able to walk without waking enemies is also nice.
 * Cannonball
     * Dealing a fixed 40 damage is fantastic early on.<br/>Keep them inside a pot to avoid self-destructing from Gazer hypnosis.<br/>Can be used to break wall tiles, similar to a Pickaxe.
@@ -742,7 +742,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 
 Most items in this dungeon are found unidentified, so it's important to learn<br/>identification techniques rather than solely relying on Identify Pot and Identify Scroll.<br/>
 Compare prices, check effects, or narrow it down based on what you've found.<br/>
-Blank and Escape scrolls, projectiles, and riceballs are always identified.
+Blank and Escape scrolls, projectiles, and onigiri are always identified.
 
 ### Weapons & Shields
 
@@ -1010,10 +1010,10 @@ See the Price Chart page for staff prices.
 ### Scrolls
 
 Shiren 2 doesn't have negative effect scrolls like Grounded or Swift Foe,<br/>so you don't need to read unidentified scrolls while standing on the stairs.<br/>
-However, you might get surrounded if it happened to be a Wall Collapse Scroll,<br/>
+However, you might get surrounded if it happened to be a Great Hall Scroll,<br/>
 so it's best to read scrolls after you've explored and defeated some monsters.
 
-Wait until 9F to read unidentified scrolls in case it's a Wall Collapse Scroll<br/>so that you have a chance at discovering Golden Stairs.
+Wait until 9F to read unidentified scrolls in case it's a Great Hall Scroll<br/>so that you have a chance at discovering Golden Stairs.
 
 If you find a shop, go ahead and read scrolls that aren't in the 2000G price range,<br/>
 but consider keeping 500G and 1000G scrolls on hand for Monster Houses.<br/>(Possibilities in that price range include Lightning, Blaze, Shadow, and Fear)
@@ -1173,7 +1173,7 @@ Key: Floor, Presto, Surprise, Shop, Trader
     <td>X</td>
   </tr>
   <tr>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td rowspan="3">2000</td>
     <td rowspan="2">1000</td>
     <td>X</td>
@@ -1181,7 +1181,7 @@ Key: Floor, Presto, Surprise, Shop, Trader
     <td>X</td>
     <td></td>
     <td>X</td>
-    <td rowspan="3">Wall Collapse isn't in shops.<br/>If prompted, select a Storage Pot.<br/>Read on a floor that has a chance<br/>to have Golden Stairs.</td>
+    <td rowspan="3">Great Hall isn't in shops.<br/>If prompted, select a Storage Pot.<br/>Read on a floor that has a chance<br/>to have Golden Stairs.</td>
   </tr>
   <tr>
     <td>Sturdy Pot Scroll</td>
@@ -1525,7 +1525,7 @@ Piko Hammers can destroy statues, and floating enemies won't trip.<br/>Don't try
 
 Consider stealing from a shop if you come across one,<br/>especially if the merchandise includes Scout or Phantasm bracelets.<br/>Sell your items before stealing to obtain a large amount of Gitan.<br/>Having lots of Gitan lets you buy from Traders who are tricky to trip,<br/>and reduces the need to steal a second time.
 
-Read a Wall Collapse Scroll to safely steal if there's only 1 Shopkeeper.<br/>Use a Pickaxe or Tunnel Staff to create a path to the stairs,<br/>reposition the stairs using Knockback or Pull staves, etc.
+Read a Great Hall Scroll to safely steal if there's only 1 Shopkeeper.<br/>Use a Pickaxe or Tunnel Staff to create a path to the stairs,<br/>reposition the stairs using Knockback or Pull staves, etc.
 
 In Shiren 2, the Shopkeeper has to be in the shop for Thief Mode to trigger,<br/>so you can swing a Swap Staff or throw Warp Grass at the Shopkeeper.<br/>Asst. Managers who reflect magic replace Shopkeepers from 30F.
 
@@ -1537,21 +1537,21 @@ It's difficult to effectively progress through a dungeon without food.<br/>You n
 
 The ideal solution would be to use a Leather Shield to conserve food,<br/>or to synthesize the か seal onto a Disposable Sword.
 
-That said, you can secure food without those items between 9\~10F<br/>by having a Nigiri Morph create at least 2\~3 Large Riceballs.<br/>Weaken it by throwing Poison Grass or stepping on a Poison Trap,<br/>and then have it turn unneeded items or single arrows into riceballs.<br/>This can be done to increase max fullness to 200% if desired.
+That said, you can secure food without those items between 9\~10F<br/>by having a Nigiri Morph create at least 2\~3 Large Onigiri.<br/>Weaken it by throwing Poison Grass or stepping on a Poison Trap,<br/>and then have it turn unneeded items or single arrows into onigiri.<br/>This can be done to increase max fullness to 200% if desired.
 
-The 飯 seal can be synthesized onto a weapon on 9F,<br/>which grants a 4% chance for defeated enemies to drop a Riceball.<br/>This also reduces the risk of starvation inside Golden Intervals.<br/>If you have both 皮 and 飯 seals, you may even end up with extra riceballs.
+The 飯 seal can be synthesized onto a weapon on 9F,<br/>which grants a 4% chance for defeated enemies to drop an Onigiri.<br/>This also reduces the risk of starvation inside Golden Intervals.<br/>If you have both 皮 and 飯 seals, you may even end up with extra onigiri.
 
 ### Search for Golden Intervals
 
 Items found in Golden Intervals usually outweigh the risk of starvation,<br/>and include Dragon Killer, Dragon Shield, and Storage Pot,<br/>along with Heaven and Earth scrolls to upgrade equipment.
 
-The chance for golden stairs to be generated is 25% between 6\~10F,<br/>and 30% between 24\~29F, so it's more realistic to aim for the 2nd one,<br/>especially since you likely won't have any Wall Collapse Scrolls early on.
+The chance for golden stairs to be generated is 25% between 6\~10F,<br/>and 30% between 24\~29F, so it's more realistic to aim for the 2nd one,<br/>especially since you likely won't have any Great Hall Scrolls early on.
 
-Think carefully before writing Wall Collapse on a Blank Scroll.<br/>If you don't land the 30% chance, you'll have wasted an incredibly versatile item<br/>that could've been used to banish Archdragons from the dungeon,<br/>so only attempt it when you have 2\~3 Blank Scrolls.
+Think carefully before writing Great Hall on a Blank Scroll.<br/>If you don't land the 30% chance, you'll have wasted an incredibly versatile item<br/>that could've been used to banish Archdragons from the dungeon,<br/>so only attempt it when you have 2\~3 Blank Scrolls.
 
 Of course, it's perfectly possible to clear the dungeon without Golden Intervals.<br/>It's best to plan on not being able to enter one, since it's based on luck.<br/>Clearing this dungeon without entering one can be a bragging right, too.
 
-The 3rd Golden Interval is the easiest one to locate, since you'll have had plenty<br/>of time to collect Wall Collapse Scrolls before reaching such a high floor.<br/>However, by that point you don't really need the items found inside,<br/>so think of it as a place to collect souvenirs to bring home.
+The 3rd Golden Interval is the easiest one to locate, since you'll have had plenty<br/>of time to collect Great Hall Scrolls before reaching such a high floor.<br/>However, by that point you don't really need the items found inside,<br/>so think of it as a place to collect souvenirs to bring home.
 
 ### Don't hesitate to use items
 
@@ -1574,7 +1574,7 @@ Options include Swift Grass, Slow Staff, and Knockback Staff,<br/>along with thr
 * Cave Mamel
     * 5 HP, 500 Exp - Level up a Pit Mamel (1\~3F) 1 time.<br/>Snacky spawns on 1F, so this has a high chance of occuring naturally.<br/>Throw Gitan or a shield to one-shot it.
 * Nigiri Master
-    * 70 HP, 1600 Exp - Level up a Nigiri Trainee (3\~5F) 3 times,<br/>or a Nigiri Morph (9\~10F) 2 times. Throw any riceball to one-shot it.<br/>Possession Staff can be used to obtain riceballs.
+    * 70 HP, 1600 Exp - Level up a Nigiri Trainee (3\~5F) 3 times,<br/>or a Nigiri Morph (9\~10F) 2 times. Throw any onigiri to one-shot it.<br/>Possession Staff can be used to obtain onigiri.
 * Armordillo Pop
     * 70 HP, 700 Exp - Level up an Armordillo Bro (5\~6F) 1 time.<br/>Armordillo Bro will level up if the knockback damage from tackling<br/>Shiren ends up defeating a different monster.
 * Cranky Tank
@@ -1776,7 +1776,7 @@ Floor Guide Summary:
 |-|-|
 |1~8F|Check every room for items.<br/>Descend if Snacky creates too strong of a monster.<br/>If the last room is far, maybe skip it to conserve fullness.|
 |9~20F|Linger after checking rooms to collect items and level up.<br/>Perform Nigiri Morph Factory between 9\~10F.<br/>Mixers from 9F, and Mixermons from 12F.|
-|22~29F|Recommended to rush stairs.<br/>Strong monsters like Monarch Tusker, Sky Dragon.<br/>Read Wall Collapse Scrolls while standing on the stairs<br/>between 24~29F in hopes of revealing Golden Stairs.|
+|22~29F|Recommended to rush stairs.<br/>Strong monsters like Monarch Tusker, Sky Dragon.<br/>Read Great Hall Scrolls while standing on the stairs<br/>between 24~29F in hopes of revealing Golden Stairs.|
 |30~39F|It's fine to check rooms on these floors.<br/>Mixermons return, and Monster Pots are more common.<br/>Capture an Armordillo Pop if you find a Monster Pot.<br/>If there's an Archdragon, hurry to the stairs.|
 |40~49F|It's fine to rush stairs on these floors.<br/>Iai, Nigiri Master, and Escargon can be troublesome.<br/>Capture Shihan or Water Shinryu if you find a Monster Pot.|
 |50~59F|It's fine to rush stairs on these floors.<br/>More troublesome monsters like Monsoon Doll, Cranky Tank.<br/>Hunt Mr. Gyro for 2~3 Revival Grass if possible.|
@@ -1791,7 +1791,7 @@ Floor Guide Summary:
 
 Explore the entire floor and pick up any items on the ground until 20F.<br/>Dead ends and hallways have patterns, so make an effort to recognize them.<br/>Fewer steps means you deplete less fullness, and won't step on as many traps.<br/>There's no need to check hallways, so if you think there aren't any unvisited<br/>rooms left, go ahead and descend to the next floor.
 
-The first big challenge to overcome is the lack of food early on.<br/>If you're lucky enough to find riceballs on the ground, start checking for traps<br/>so that a Flood Trap or Spoil Trap doesn't turn them into Spoiled Riceballs.<br/>Insert riceballs into Storage, Degrade, or Grass pots to keep them safe.
+The first big challenge to overcome is the lack of food early on.<br/>If you're lucky enough to find onigiri on the ground, start checking for traps<br/>so that a Flood Trap or Spoil Trap doesn't turn them into Spoiled Onigiri.<br/>Insert onigiri into Storage, Degrade, or Grass pots to keep them safe.
 
 Shiren's level has a large impact on max HP and attack power early on.<br/>When in doubt, go with "floor number + 2" before descending.<br/>(Example: 3F = Lv5 Shiren before proceeding to 4F)
 
@@ -1914,7 +1914,7 @@ Pots:
 
 First, select [Insert] and cancel to check for Water Pot.<br/>
 Then select [Peek] and press L - if you hear a sound, it's a Storage Pot.<br/>
-If it turns out to be a Storage Pot, insert any riceballs you have right away.<br/>
+If it turns out to be a Storage Pot, insert any onigiri you have right away.<br/>
 After that, it's fine to insert items to check for Identify Pot,<br/>but understand the risk that it could be a Sticky Pot.
 
 ### 5-8F
@@ -1927,11 +1927,11 @@ If you found any arrows, shoot them at Gazers to avoid being hypnotized.<br/>Mr.
 
 Golden Stairs have a 25% chance to be hidden in a wall tile between 6\~10F,<br/>so this floor range is a good time to read unidentified scrolls.<br/>
 However, you'll return to 11F after the Golden Interval, so if you go too early<br/>you'll miss out on Nigiri Morphs for food and 2 floors of Mixer spawns.<br/>
-It's easy to collapse from starvation inside since Riceballs can't be found,<br/>so it's best to wait until 9\~10F to read unidentified scrolls.
+It's easy to collapse from starvation inside since Onigiri can't be found,<br/>so it's best to wait until 9\~10F to read unidentified scrolls.
 
 If you have a Possession Staff or Monster Pot, level up an Armordillo Bro<br/>between 5\~6F and use its special attack to make enemies trip and drop items.
 
-If you're out of riceballs, go to 9F instead of leveling up or collecting items.<br/>Nigiri Morphs appear between 9\~10F, so you can restock Large Riceballs.
+If you're out of onigiri, go to 9F instead of leveling up or collecting items.<br/>Nigiri Morphs appear between 9\~10F, so you can restock Large Onigiri.
 
 #### Collecting Arrows
 
@@ -1943,7 +1943,7 @@ Methods:
 
 * Possession Staff
     * Take control of a Boy Cart and use its special attack while facing a wall.
-* Wall Collapse Scroll
+* Great Hall Scroll
     * Keep a distance of at least 10 tiles between Shiren and a Boy Cart.<br/>
     * Knockback and Swap staves can be used to quickly gain distance.
 * Terrain
@@ -1990,7 +1990,7 @@ Mixer's HP and attack power increase every time it eats an item,<br/>so use item
 
 #### Nigiri Morph
 
-Nigiri Morph is needed to perform a technique called Nigiri Morph Factory.<br/>The idea is to intentionally let a Nigiri Morph turn items into Large Riceballs.
+Nigiri Morph is needed to perform a technique called Nigiri Morph Factory.<br/>The idea is to intentionally let a Nigiri Morph turn items into Large Onigiri.
 
 Steps:
 
@@ -1999,21 +1999,21 @@ Steps:
 3. Shoot single arrows at a wall to cover the ground with arrows.
 4. Step in place until a Nigiri Morph arrives.
 5. Hold B and step onto an arrow, and [Swap] it with an inventory item.
-6. Let the Nigiri Morph turn the single arrow into a Large Riceball.
-7. [Swap] the Large Riceball with another single arrow, repeat until satisfied.
+6. Let the Nigiri Morph turn the single arrow into a Large Onigiri.
+7. [Swap] the Large Onigiri with another single arrow, repeat until satisfied.
 
 ※ It helps to weaken the Nigiri Morph with a Poison Trap, Poison Grass, etc.
 
-Aim for 1\~2 riceballs at a time if you don't have a way to weaken the Nigiri Morph,<br/>and don't let your HP get so low that another enemy entering could end your run.<br/>
+Aim for 1\~2 onigiri at a time if you don't have a way to weaken the Nigiri Morph,<br/>and don't let your HP get so low that another enemy entering could end your run.<br/>
 Eat Sight Grass to save time and have a better chance at finding a Poison Trap,<br/>which can be used to instantly decrease a monster's strength to 0.
 
 Sanctuary Scroll, Miss Staff, Evasive Shield, and Poison Grass are also nice<br/>options to reduce damage if you're unable to locate a Poison Trap.<br/>Slow Staff and Otogiriso aren't ideal, but they can be used as well.
 
-If there's a Trader or you're starving and don't have time to place items<br/>and run into a Nigiri Morph, place the most important item under your feet<br/>and have it turn one of the other items in your inventory into a riceball.<br/>Losing 1 item isn't as bad as collapsing from starvation.
+If there's a Trader or you're starving and don't have time to place items<br/>and run into a Nigiri Morph, place the most important item under your feet<br/>and have it turn one of the other items in your inventory into an onigiri.<br/>Losing 1 item isn't as bad as collapsing from starvation.
 
 #### Other Monsters
 
-If you have one, read a Wall Collapse Scroll on 9F before descending.<br/>Even if you don't find Golden Stairs, this lets you collect arrows from Boy Cart.<br/>It's also possible to use a Possession Staff + Cranky Tank to search,<br/>but it's usually not worth the effort.
+If you have one, read a Great Hall Scroll on 9F before descending.<br/>Even if you don't find Golden Stairs, this lets you collect arrows from Boy Cart.<br/>It's also possible to use a Possession Staff + Cranky Tank to search,<br/>but it's usually not worth the effort.
 
 Straw Voodolls (9\~10F) curse equipped shields, making synthesis difficult.<br/>A Holy Shield or 祓 (shield) seal from a Purify Scroll blocks curses.<br/>Otherwise, simply unequip your shield before fighting Straw Voodolls.<br/>Kengo can disarm a cursed shield between 11\~12F if needed.
 
@@ -2039,7 +2039,7 @@ Water Pot can be used to seal a Cranky Tank, turning it into an easy 2300 exp.<b
 
 Twisty Hanis provide 300 exp and have a 35% item drop rate,<br/>but have 50 HP and 30 defense, making them tough to defeat quickly.<br/>Its special attack decreases Shiren's level by 1, so defeat it from a distance,<br/>equip a Level Lock Bracelet, swing a Seal Staff, use a Drain Buster, etc.
 
-Mixers and Mixermon appear at the same time between 12\~15F.<br/>Higher item drop rate monsters include Shagga (16%), Goat Pastor (16%),<br/>Bored Kappa (25%), and Bone Dragon (32%), so use riceballs you obtained<br/>earlier when you performed Nigiri Morph Factory to hunt these monsters,<br/>and synthesize using Mixers if you obtain a noteworthy item.
+Mixers and Mixermon appear at the same time between 12\~15F.<br/>Higher item drop rate monsters include Shagga (16%), Goat Pastor (16%),<br/>Bored Kappa (25%), and Bone Dragon (32%), so use onigiri you obtained<br/>earlier when you performed Nigiri Morph Factory to hunt these monsters,<br/>and synthesize using Mixers if you obtain a noteworthy item.
 
 Monster Houses are dangerous between 13\~15F since Pop Tanks<br/>can level up, Twisty Hanis wake up, Water Striders throw items, etc.<br/>Proceed carefully if you decide to take one on.
 
@@ -2057,7 +2057,7 @@ Rock Beast's body slam deals knockback and paralyzes Shiren for 3 turns.<br/>Tig
 
 Patient Bag (120 HP) stops moving at 30 HP or less, and explodes at 10 HP or less.<br/>The explosion is equivalent to a Big Landmine, so use arrows and punches<br/>to manage its HP to prevent it from exploding, or seal it with a Water Pot.
 
-Nigiri Boss turns Shiren into a riceball, reducing his defense to 0.<br/>It's extremely dangerous if your HP is low, or if there are other monsters nearby.<br/>Use Seal Staff, Shadow Scroll, Slumber Scroll, or Warp Grass if needed.<br/>If you have an Unlucky Staff or Twisty Grass, you can restock Large Riceballs.
+Nigiri Boss turns Shiren into an onigiri, reducing his defense to 0.<br/>It's extremely dangerous if your HP is low, or if there are other monsters nearby.<br/>Use Seal Staff, Shadow Scroll, Slumber Scroll, or Warp Grass if needed.<br/>If you have an Unlucky Staff or Twisty Grass, you can restock Large Onigiri.
 
 Snacky continues to appear until 20F, and can be problematic on these floors.<br/>16F is particularly risky since the monster table is smaller, resulting in a higher<br/>chance of a Monsoon Doll or Kamikaze being created.<br/>
 Porkchop and Boulder Beast can quickly end a run if you meet them in a hallway,<br/>so it's best to wait for them in a room if you don't have a Scout Bracelet.
@@ -2138,7 +2138,7 @@ Mixermon returns between 26\~40F, so synthesize if needed.<br/>The 目 seal is a
 #### 2nd Golden Interval
 
 Golden Stairs have a 30% chance to be hidden in a wall tile between 24\~29F,<br/>
-so read a Wall Collapse Scroll after you've defeated some enemies.<br/>
+so read a Great Hall Scroll after you've defeated some enemies.<br/>
 Be sure to read the scroll while standing on the stairs to avoid being<br/>caught in the middle of the room with Sky Dragons or Monarch Tuskers,<br/>and use Swift Grass or Swap Staff to quickly get to the Golden Stairs.
 
 If you're struggling, read the scroll on 24F in hopes of skipping 25\~29F,<br/>but if you're doing fine, read it between 26\~29F after synthesizing.<br/>If you're aiming for this Golden Interval, keep 1 Synthesis Pot on hand so you<br/>can switch your main equipment to a Dragon Killer / Dragon Shield right away.
@@ -2194,7 +2194,7 @@ Nailed Voodoll curses all of your equipped items at once.<br/>Weapons and shield
 
 Escargon warps from elsewhere and reflects magic bullets from staves,<br/>so it's best to swing staves like Slow or Seal when the target is adjacent to you.<br/>You can take advantage of its reflection to increase strength or turn invisible.
 
-Nigiri Master can turn both you and your items into riceballs,<br/>so either shoot arrows from a distance or use a Seal Staff.<br/>If you have extra riceballs, throw one at it to one-shot it.
+Nigiri Master can turn both you and your items into onigiri,<br/>so either shoot arrows from a distance or use a Seal Staff.<br/>If you have extra onigiri, throw one at it to one-shot it.
 
 Iai can disarm your weapon or shield, so fight with your back against a wall.<br/>It has high attack and defense, so you're unlikely to defeat it in 1 hit.<br/>If you step on a Summon Trap and get surrounded by 4 Iais,<br/>either eat Warp Grass or read a Fear Scroll.
 
@@ -2279,7 +2279,7 @@ Lashagga and Typhoon have the same attack stat and attack 3 times per turn,<br/>
 
 Your run is likely over if you lose your weapon or shield due to a Shihan,<br/>
 so use Seal or Slow staves, Phantasm Bracelet, or other items to stay safe.<br/>
-Read Evaporate, Freeze, or Wall Collapse scrolls if your equipment falls in water.<br/>
+Read Evaporate, Freeze, or Great Hall scrolls if your equipment falls in water.<br/>
 Consider throwing an Extiction Scroll at Shihan if you have one on hand.<br/>
 If you don't have any of these items, it's recommended to rush to the stairs.
 
@@ -2337,7 +2337,7 @@ or an 8-digit score using bags of 1,000,000 Gitan.
 
 #### 90-99F
 
-There's a 30% chance for Golden Stairs to be hidden in a wall between 90\~95F,<br/>so read Wall Collapse Scrolls if you want a Mijinha and Basilisk Shield.<br/>
+There's a 30% chance for Golden Stairs to be hidden in a wall between 90\~95F,<br/>so read Great Hall Scrolls if you want a Mijinha and Basilisk Shield.<br/>
 You can transfer your main weapon or shield to either option for fun,<br/>provided you have a Synthesis Pot on hand.
 
 Cave Mamel (90\~97F) shouldn't be too threatening since it has low defense<br/>in Shiren 2, unlike some of the other games in the series.
@@ -2366,9 +2366,9 @@ Notes that apply to all 3 Golden Intervals:
 * Storage Pots are also common.
     * Insert Gitan and use it as a projectile against tough monsters.
 * Sell equipment found in Golden Intervals to become rich.
-    * Manji-Kabura and Happy Shield are worth a lot in particular.
+    * Kabura's Blade and Happy Shield are worth a lot in particular.
 * Food and Grass can't be found on the ground, so be careful of hunger.
-    * Defeat monsters using a weapon with the 飯 seal to obtain Riceballs.
+    * Defeat monsters using a weapon with the 飯 seal to obtain Onigiri.
     * Keep a shield with the 皮 seal equipped to slow fullness depletion.
 * Monsters are stronger than regular floors.
     * Lashagga in the 2nd Golden Interval is particularly scary.
@@ -2388,7 +2388,7 @@ Notes that apply to all 3 Golden Intervals:
 
 There's a 25% chance for Golden Stairs to be hidden in a wall tile between 6\~10F.<br/>You'll return to 11F after exiting from the Golden Interval area.
 
-It's rare to find Wall Collapse Scrolls this early, so you're unlikely to visit this one.<br/>However, if you do get lucky, be sure to explore the entire map on each floor.
+It's rare to find Great Hall Scrolls this early, so you're unlikely to visit this one.<br/>However, if you do get lucky, be sure to explore the entire map on each floor.
 
 The monster table changes from 3F to include enemies with ranged attacks.<br/>
 Snacky also appears, often resulting in a Horse Samurai or Cranky Tank.<br/>
@@ -2401,7 +2401,7 @@ You'll skip key floors if you enter this Golden Interval too early:
 
 * 7\~9F - Hunt Mr. Drone for Strength Grass.
 * 9\~10F - Synthesize items using Mixers. (However, Mixers appear until 15F)
-* 9\~10F - Have Nigiri Morph make Large Riceballs for you.
+* 9\~10F - Have Nigiri Morph make Large Onigiri for you.
 
 So the downsides of entering this Golden Interval early can't be ignored.<br/>
 There's a high chance you'll starve if you enter it before Nigiri Morphs on 9F.<br/>
@@ -2412,7 +2412,7 @@ so it's best to enter it on 9F or 10F to limit the downsides.
 
 |Category|Items|
 |-|-|
-|Weapon|Ivory Sword, Dragon Killer, Manji-Kabura|
+|Weapon|Ivory Sword, Dragon Killer, Kabura's Blade|
 |Shield|Ivory Shield, Dragon Shield, Happy Shield|
 |Bracelet|No Control Bracelet (Use ally Shihan)|
 |Scroll|Heaven Scroll, Earth Scroll, Identify Scroll|
@@ -2451,7 +2451,7 @@ Arrow traps can be found, so it's a good idea to collect arrows<br/>
 
 |Category|Items|
 |-|-|
-|Weapon|Ivory Sword, Dragon Killer, Manji-Kabura|
+|Weapon|Ivory Sword, Dragon Killer, Kabura's Blade|
 |Shield|Ivory Shield, Dragon Shield, Happy Shield|
 |Bracelet|No Control Bracelet (Use ally Shihan)|
 |Scroll|Heaven Scroll, Earth Scroll, Identify Scroll|
@@ -2465,7 +2465,7 @@ Arrow traps can be found, so it's a good idea to collect arrows<br/>
 
 There's a 30% chance for Golden Stairs to be hidden in a wall tile between 90\~95F.<br/>You'll return to 95F after exiting from the Golden Interval area.
 
-You're nearly guaranteed to enter this one if you have 6 Wall Collapse Scrolls.<br/>
+You're nearly guaranteed to enter this one if you have 6 Great Hall Scrolls.<br/>
 If you're lucky, you can find another Golden Stairs on 95F after exiting.
 
 Basilisk Shield can be found, and the treasure chest always contains a Mijinha.<br/>
@@ -2480,7 +2480,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
 
 |Category|Items|
 |-|-|
-|Weapon|Ivory Sword, Dragon Killer, Manji-Kabura|
+|Weapon|Ivory Sword, Dragon Killer, Kabura's Blade|
 |Shield|Ivory Shield, Dragon Shield, Happy Shield, Basilisk Shield|
 |Bracelet|No Control Bracelet (Use ally Shihan)|
 |Scroll|Heaven Scroll, Earth Scroll, Identify Scroll|
@@ -5743,7 +5743,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td></td>
   </tr>
   <tr>
-    <td>Manji-Kabura</td>
+    <td>Kabura's Blade</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -6089,7 +6089,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Wall Collapse Scroll</td>
+    <td>Great Hall Scroll</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -6595,7 +6595,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <th>S</th>
     <th>T</th>
     <th>M</th>
-    <td>Riceball</td>
+    <td>Onigiri</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -6618,7 +6618,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td>X</td>
     <td></td>
     <td>X</td>
-    <td>Large Riceball</td>
+    <td>Large Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -6641,7 +6641,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td>X</td>
     <td>X</td>
     <td>X</td>
-    <td>Giant Riceball</td>
+    <td>Huge Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -6664,7 +6664,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Specialty Riceball</td>
+    <td>Special Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -6687,7 +6687,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td>Spoiled Riceball</td>
+    <td>Spoiled Onigiri</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -6795,7 +6795,7 @@ The following items have only been reported on certain floor ranges:
 |-|-|
 |2~29F|N'dubba, Mallet, Disposable Sword, Scale Shield, Beetle Shield, Happy Shield,<br/>Holy Shield, Tribal Shield, Halberd Shield, Parry Bracelet, Paper Thin Bracelet,<br/>Dragon Tile Bracelet, Bullseye Bracelet, Pierce Bracelet, Breadcrumb Bracelet,<br/>Salty Bracelet|
 |30~70F|N'dubba 25yr, Mallet, Disposable Sword, Scale Shield, Beetle Shield, Happy Shield,<br/>Holy Shield, Tribal Shield, Halberd Shield, Walrus Shield, Breadcrumb Bracelet,<br/>Salty Bracelet, Hunger Bracelet|
-|71~90|N'dubba 30yr, Walrus Shield, Golden Shield, Disposable Shield, Counter Shield,<br/>Pierce Bracelet, Heal Bracelet, No Control Bracelet, No Hunger Bracelet,<br/>Bend Bracelet, Wooden Arrow, Shrink Seed, Otogiriso, Weeds, Disaster Seed,<br/>Dragon Grass, Unlucky Seed, Herb, Squid Sushi Scroll, Lightning Scroll, Blaze Scroll,<br/>Sanctaruy Scroll, Shadow Scroll, Upgrade Pot, Surprise Pot, Riceball, Spoiled Riceball|
+|71~90|N'dubba 30yr, Walrus Shield, Golden Shield, Disposable Shield, Counter Shield,<br/>Pierce Bracelet, Heal Bracelet, No Control Bracelet, No Hunger Bracelet,<br/>Bend Bracelet, Wooden Arrow, Shrink Seed, Otogiriso, Weeds, Disaster Seed,<br/>Dragon Grass, Unlucky Seed, Herb, Squid Sushi Scroll, Lightning Scroll, Blaze Scroll,<br/>Sanctaruy Scroll, Shadow Scroll, Upgrade Pot, Surprise Pot, Onigiri, Spoiled Onigiri|
 
 <br/>
 

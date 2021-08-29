@@ -514,7 +514,7 @@ Be sure to visit it if you're looking to finish the equipment gallery, as there 
 
 Minotaur (78\~85F) and Megataur (86F\~) make an appearance near the end.<br/>
 Don't forget to capture them if you still need to register them to Monster Kingdom.<br/>
-The only way to capture a Taurus is to lower the level of a Minotaur or Megataur,<br/>
+The only way to capture a Taur is to lower the level of a Minotaur or Megataur,<br/>
 which can be done using items like Twisty Grass, Unlucky Seed, or Unlucky Staff.
 
 Remember to search for rare N'dubba ages if you wish to complete Monster Kingdom.<br/>
@@ -3283,7 +3283,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>King Tusker</td>
   </tr>
   <tr>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterDragon">Lashagga</td>
     <td>Tiger Chucker</td>
     <td class="monsterCyclops">Hyper Gazer</td>
@@ -3305,7 +3305,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>King Tusker</td>
   </tr>
   <tr>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterDragon">Lashagga</td>
     <td>Tiger Chucker</td>
     <td class="monsterCyclops">Hyper Gazer</td>
@@ -3327,7 +3327,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>King Tusker</td>
   </tr>
   <tr>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterDragon">Lashagga</td>
     <td>Tiger Chucker</td>
     <td class="monsterCyclops">Hyper Gazer</td>
@@ -3349,7 +3349,7 @@ N'dubbas appear on all floors, and the floor number = N'dubba's age.<br/>Example
     <td>King Tusker</td>
   </tr>
   <tr>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterDragon">Lashagga</td>
     <td>Tiger Chucker</td>
     <td class="monsterCyclops">Hyper Gazer</td>

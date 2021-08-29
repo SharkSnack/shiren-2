@@ -2124,7 +2124,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2152,7 +2152,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2180,7 +2180,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2208,7 +2208,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2236,7 +2236,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2264,7 +2264,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2292,7 +2292,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2320,7 +2320,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2348,7 +2348,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2376,7 +2376,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2404,7 +2404,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td>Menbell</td>
     <td class="monsterBomb">Cranky Tank</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2432,7 +2432,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2460,7 +2460,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2488,7 +2488,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2516,7 +2516,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2544,7 +2544,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2572,7 +2572,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2600,7 +2600,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2628,7 +2628,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2656,7 +2656,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2684,7 +2684,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2712,7 +2712,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2740,7 +2740,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2768,7 +2768,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2796,7 +2796,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2824,7 +2824,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2852,7 +2852,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2880,7 +2880,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2908,7 +2908,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2936,7 +2936,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterBone">Garm Dragon</td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>
@@ -2964,7 +2964,7 @@ A Trapper Bracelet won't be generated on 56F after exiting the Golden Interval,<
     <td class="monsterNone"></td>
     <td>Gottsuan</td>
     <td class="monsterWater">Water Shinryu</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Hyper Gazer</td>
   </tr>
   <tr>

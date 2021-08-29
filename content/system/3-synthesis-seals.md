@@ -1578,7 +1578,7 @@ while the 会 seal has the potential to deal more damage to all monsters.
 \+ Increase damage to all monsters.<br/>
 \+ Land critical hits without many 会 seals, if you're lucky.<br/>
 \- Chance is based on number of 会 seals. (1 = 35%, and +5% per additional seal)<br/>
-\- Difficult to obtain, since Lv2\~3 Taurus only appear at the end of post-game dungeons.
+\- Difficult to obtain, since Lv2\~3 Taur only appear at the end of post-game dungeons.
 
 仏ド目月竜龍:<br/>
 \+ Increase damage to a selection of monsters.<br/>

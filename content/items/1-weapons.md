@@ -2565,9 +2565,9 @@ Locations:
   </tr>
 </table>
 
-Two-handed weapon that has a 35% chance to deal a x1.5 damage critical hit.<br/>Taurus monsters only appear in post-game dungeons, so by the time you find one you might not need it.<br/>
+Two-handed weapon that has a 35% chance to deal a x1.5 damage critical hit.<br/>Taur monsters only appear in post-game dungeons, so by the time you find one you might not need it.<br/>
 That said, it's still a decent option to increase your damage output.<br/>
-Rare drop from Lv2+ Taurus monsters.
+Rare drop from Lv2+ Taur monsters.
 
 |Seal|Atk|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
 |-|-|-|-|-|-|-|-|-|

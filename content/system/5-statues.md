@@ -4,6 +4,37 @@ metaTitle: "Statues - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete list of statues for Shiren the Wanderer 2: Oni Invasion!"
 ---
 
+## Summary
+
+|Name|Monster|Notes|
+|-|-|-|
+|Ouch Statue|Shagga|Deals 18 damage to all characters within a 1 tile radius each turn.|
+|Pierce Statue|Horse Ronin|Thrown items will pierce through objects and walls.<br/>If a Kengo monster disarms you while this is present, the equipment will be lost.|
+|Onigiri Statue|Nigiri Morph|Defeated enemies turn into Onigiri. Not found in Road to the End or Sealed Room.|
+|Gitan Statue|Gamarra|Defeated enemies turn into Gitan. Not found in Sealed Room.|
+|Trip Statue|Dosukoi|Occasionally makes all characters in the room trip. Not found in Sealed Room.|
+|10 Damage Statue|Mamel|Converts all damage dealt in the room to 10 points.|
+|Identify Statue|N'dubba|Identify items by picking them up, or by putting them in / out of pots or Mamo.|
+|Bomber Statue|Droplet Ninja|Defeated enemies will explode, dealing damage equal to a Big Landmine.|
+|Gravity Statue|Golem|Only found in Halfway Well. Flying monsters can be trapped when this is present.|
+|Explosion Scroll|Patient Bag|The statue explodes when destroyed, dealing damage equal to a Big Landmine.|
+|Hoarder Statue|King Tusker|Cannot throw or place items when this statue is present.|
+|Scout Statue|Pumphantasm|Displays the location of monsters and items on the map for the current floor.|
+|Stone Toss Statue|Porky|Occasionally throws stones with 30 attack power at a random target.|
+|Sleep Statue|Sheep Priest|Occasionally puts all characters in the room to sleep.|
+|Knockback Statue|Stone Beast|Characters in the room receive 5 tiles of knockback when hit by direct attacks.|
+|No Magic Statue|Escargon|Nullifies all magic in the room. (Staves, scrolls, etc.)|
+|Decoy Statue|Snacky|Monsters prioritize attacking this statue over Shiren.|
+|Sturdy Trap Statue|Traproid|Only found in Halfway Well. Traps inside the room will never break.|
+
+##### Unused Statues
+
+|Name|Monster|Notes|
+|-|-|-|
+|Item Effect Statue|Bored Kappa|Throw an item at this statue and all monsters in the room receive the effect<br/>of getting hit by that item.|
+|Presto Statue|Copycat Mask|Monsters that move next to this statue will transform into different monsters.<br/>(Not functional)|
+|Dummy|Tiger Tosser|Description calls it Warp Statue. (Not functional)|
+
 ## Overview
 
 Statues are one of the new gimmicks introduced in Shiren 2, and are modeled after monsters.<br/>
@@ -42,37 +73,6 @@ They can also be generated blocking room entrances, but monsters usually destroy
 Statues will never be generated inside a Monster House.
 
 Lastly, an invisible and invincible statue can be generated under special conditions. (glitches section)
-
-## Summary
-
-|Name|Monster|Notes|
-|-|-|-|
-|Ouch Statue|Shagga|Deals 18 damage to all characters within a 1 tile radius each turn.|
-|Pierce Statue|Horse Ronin|Thrown items will pierce through objects and walls.<br/>If a Kengo monster disarms you while this is present, the equipment will be lost.|
-|Onigiri Statue|Nigiri Morph|Defeated enemies turn into Onigiri. Not found in Road to the End or Sealed Room.|
-|Gitan Statue|Gamarra|Defeated enemies turn into Gitan. Not found in Sealed Room.|
-|Trip Statue|Dosukoi|Occasionally makes all characters in the room trip. Not found in Sealed Room.|
-|10 Damage Statue|Mamel|Converts all damage dealt in the room to 10 points.|
-|Identify Statue|N'dubba|Identify items by picking them up, or by putting them in / out of pots or Mamo.|
-|Bomber Statue|Droplet Ninja|Defeated enemies will explode, dealing damage equal to a Big Landmine.|
-|Gravity Statue|Golem|Only found in Halfway Well. Flying monsters can be trapped when this is present.|
-|Explosion Scroll|Patient Bag|The statue explodes when destroyed, dealing damage equal to a Big Landmine.|
-|Hoarder Statue|King Tusker|Cannot throw or place items when this statue is present.|
-|Scout Statue|Pumphantasm|Displays the location of monsters and items on the map for the current floor.|
-|Stone Toss Statue|Porky|Occasionally throws stones with 30 attack power at a random target.|
-|Sleep Statue|Sheep Priest|Occasionally puts all characters in the room to sleep.|
-|Knockback Statue|Stone Beast|Characters in the room receive 5 tiles of knockback when hit by direct attacks.|
-|No Magic Statue|Escargon|Nullifies all magic in the room. (Staves, scrolls, etc.)|
-|Decoy Statue|Snacky|Monsters prioritize attacking this statue over Shiren.|
-|Sturdy Trap Statue|Traproid|Only found in Halfway Well. Traps inside the room will never break.|
-
-##### Unused Statues
-
-|Name|Monster|Notes|
-|-|-|-|
-|Item Effect Statue|Bored Kappa|Throw an item at this statue and all monsters in the room receive the effect<br/>of getting hit by that item.|
-|Presto Statue|Copycat Mask|Monsters that move next to this statue will transform into different monsters.<br/>(Not functional)|
-|Dummy|Tiger Tosser|Description calls it Warp Statue. (Not functional)|
 
 ## Location Chart
 

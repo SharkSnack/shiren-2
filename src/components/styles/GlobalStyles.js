@@ -893,6 +893,9 @@ export const baseStyles = css`
     position: relative !important;
     background-color: #555;
   }
+  .boxArt img {
+    position: relative !important;
+  }
   .trapTable img {
     position: relative !important;
   }

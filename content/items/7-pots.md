@@ -823,7 +823,7 @@ Effects:
   <li>Put out fires.</li>
   <li>Halves attack of monsters wielding weapons. (can stack)
     <ul>
-      <li>Ashigarudon, Yamikichi, Shagga, Gale, Kengo, Taurus families, Galaha.</li>
+      <li>Ashigarudon, Yamikichi, Shagga, Gale, Kengo, Taur families, Galaha.</li>
     </ul>
   </li>
   <li>Apply seal status to Bomb type monsters.

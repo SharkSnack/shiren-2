@@ -347,7 +347,7 @@ In any case, it's best to focus synthesizing seals that help early and mid game<
     <td class="itemEquipment">会</td>
     <td>C</td>
     <td>Minotaur's Axe</td>
-    <td>35% chance to deal a x1.5 damage critical hit.<br/>Dropped by Taurus family monsters between 78~99F.<br/>Almost never used, since by 78F you should have finalized synthesis.</td>
+    <td>35% chance to deal a x1.5 damage critical hit.<br/>Dropped by Taur family monsters between 78~99F.<br/>Almost never used, since by 78F you should have finalized synthesis.</td>
   </tr>
   <tr>
     <td class="itemEdible">幸</td>
@@ -661,7 +661,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 #### Scroll
 
 * Extinction Scroll
-    * Typically thrown at Archdragon, Cranky Tank, Shihan, or Typhoon.<br/>Which one depends on your equipment, seals, and items, so think carefully.<br/>Remember to check for Trickster Mask or Imposter Mask (47\~90F)!
+    * Typically thrown at Archdragon, Cranky Tank, Shihan, or Typhoon.<br/>Which one depends on your equipment, seals, and items, so think carefully.<br/>Remember to check for Trickster Mask or Impostor Mask (47\~90F)!
 * Identify Scroll
     * Identifies a selected item - think carefully before choosing.<br/>Prioritize grass items to try and find Herb, Life Grass, and Strength Grass.<br/>Pots are also an option since they can't be identified using an Identify Pot.
 * Plating Scroll
@@ -4210,7 +4210,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">60</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td>Devil Kangaroo</td>
     <td>Porkton</td>
     <td class="monsterNone"></td>
@@ -4240,7 +4240,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">61</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4270,7 +4270,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">62</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4300,7 +4300,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">63</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4330,7 +4330,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">64</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4360,7 +4360,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">65</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4390,7 +4390,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">66</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4420,7 +4420,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">67</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4450,7 +4450,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">68</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4480,7 +4480,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">69</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4510,7 +4510,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">70</th>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4540,7 +4540,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">71</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4570,7 +4570,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">72</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Porkton</td>
     <td class="monsterWater">Shotfish</td>
@@ -4600,7 +4600,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">73</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Shotfish</td>
@@ -4630,7 +4630,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">74</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Shotfish</td>
@@ -4660,7 +4660,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">75</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterWater">Shotfish</td>
@@ -4690,7 +4690,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">76</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterWater">Shotfish</td>
@@ -4720,7 +4720,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">77</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4750,7 +4750,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">78</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4780,7 +4780,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">79</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4810,7 +4810,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">80</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4840,7 +4840,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">81</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4870,7 +4870,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">82</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4900,7 +4900,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">83</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4930,7 +4930,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">84</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4960,7 +4960,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">85</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -4990,7 +4990,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">86</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -5020,7 +5020,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">87</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -5050,7 +5050,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">88</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -5080,7 +5080,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">89</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>
@@ -5110,7 +5110,7 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
   <tr>
     <th rowspan="2">90</th>
     <td class="monsterWater">King Shotfish</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterWater">Vexing Kappa</td>
     <td class="monsterNone"></td>

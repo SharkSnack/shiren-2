@@ -412,7 +412,7 @@ Many of these monsters are easier to find in Shuten trails, Onigashima, and Seal
 Enter this dungeon and read the Escape Scroll to obtain Monster Pots that can be used elsewhere.<br/>
 There are many ways to make a monster level up, including throwing Happy Grass (Grass Tosser),<br/>have it defeat a possessed monster (Possession Staff), feed the monster a Snacky (or Riku), etc.
 
-Monsters to look for in this dungeon would be Queen Spider, Taurus, Tiny Phoenix, and N'dubba.<br/>Special Monster Houses in this dungeon offer a nice chance to capture high level monsters.
+Monsters to look for in this dungeon would be Queen Spider, Taur, Tiny Phoenix, and N'dubba.<br/>Special Monster Houses in this dungeon offer a nice chance to capture high level monsters.
 
 ### Other Items
 
@@ -2122,7 +2122,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">60</th>
     <td>Devil Kangaroo</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2150,7 +2150,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">61</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2178,7 +2178,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">62</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2206,7 +2206,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">63</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2234,7 +2234,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">64</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2262,7 +2262,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">65</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2290,7 +2290,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">66</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2318,7 +2318,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">67</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2346,7 +2346,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">68</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2374,7 +2374,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">69</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2402,7 +2402,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">70</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2430,7 +2430,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">71</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2458,7 +2458,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">72</th>
     <td class="monsterWater">King Shotfish</td>
     <td>Porkton</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2486,7 +2486,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">73</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2514,7 +2514,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">74</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterNone"></td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterBomb">Gorilla Bot</td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2542,7 +2542,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">75</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td>Bellthoven</td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2570,7 +2570,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">76</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterBomb">Bear Borg</td>
@@ -2598,7 +2598,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">77</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2626,7 +2626,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">78</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2654,7 +2654,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">79</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2682,7 +2682,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">80</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2710,7 +2710,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">81</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2738,7 +2738,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">82</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2766,7 +2766,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">83</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2794,7 +2794,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">84</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2822,7 +2822,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">85</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td class="monsterNone"></td>
     <td class="monsterNone"></td>
@@ -2850,7 +2850,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">86</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td>Emperor Tusker</td>
     <td class="monsterWeapon">Megataur</td>
@@ -2878,7 +2878,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">87</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td>Emperor Tusker</td>
     <td class="monsterWeapon">Megataur</td>
@@ -2906,7 +2906,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">88</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td>Emperor Tusker</td>
     <td class="monsterWeapon">Megataur</td>
@@ -2934,7 +2934,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">89</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td>Emperor Tusker</td>
     <td class="monsterWeapon">Megataur</td>
@@ -2962,7 +2962,7 @@ Archdragons in Shiren 2 aren't very strong compared to other games in the series
     <th rowspan="2">90</th>
     <td class="monsterWater">King Shotfish</td>
     <td class="monsterWater">Vexing Kappa</td>
-    <td>Imposter Mask</td>
+    <td>Impostor Mask</td>
     <td class="monsterCyclops">Gigahead</td>
     <td>Emperor Tusker</td>
     <td class="monsterWeapon">Megataur</td>

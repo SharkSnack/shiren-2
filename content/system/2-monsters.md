@@ -1772,6 +1772,10 @@ Terrifyingly strong when maxed. Be wary of Gazers, since they can confuse her.
   </tr>
 </table>
 
+Monster spawned by Queen Spider. No special abilities.<br/>
+Not strong 1-on-1, but Queen Spider spawns them endlessly so it's easy to get swarmed.<br/>
+Appears as a regular monster in later dungeons, starting in Onigashima.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -1790,16 +1794,16 @@ Terrifyingly strong when maxed. Be wary of Gazers, since they can confuse her.
   <tr>
     <td>1</td>
     <td>Armor Spider</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>55</td>
+    <td>21</td>
+    <td>23</td>
+    <td>100</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>-</td>
+    <td>Direct attacks only.</td>
   </tr>
 </table>
 
@@ -1813,16 +1817,16 @@ Terrifyingly strong when maxed. Be wary of Gazers, since they can confuse her.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Armor Spider</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>105</td>
+    <td>71</td>
+    <td>Direct attacks only.</td>
   </tr>
 </table>
 
@@ -2033,7 +2037,7 @@ N'dubba 70yr is the strongest age as an ally.
     <td>38</td>
     <td>25</td>
     <td rowspan="9">Direct attacks only.</td>
-    <td rowspan="9">Special: Transform into an item.<br/>Can't be used if there's an item, trap, or<br/>stairs underfoot, or if the item limit for the<br/>floor is reached.<br/>Enemies ignore you, and projectiles miss.<br/>Lasts 10 turns. (Swift: 5, Slow: 20)<br/>Shiren can't act while disguised.<br/>Unlike enemy N'dubbas, characters can't<br/>step on you, so it can be used as a wall.<br/>Disguise is canceled if Shiren is defeated.<br/>Disguise is canceled if N'dubba is one-shot<br/>by a landmine or fire pillar while disguised.</td>
+    <td rowspan="9">Special: Transform into an item.<br/>Can't be used if there's an item, trap, or<br/>stairs underfoot, or if the item limit for the<br/>floor has been reached.<br/>Enemies ignore you, and projectiles miss.<br/>Lasts 10 turns. (Swift: 5, Slow: 20)<br/>Shiren can't act while disguised.<br/>Unlike enemy N'dubbas, characters can't<br/>step on you, so it can be used as a wall.<br/>Disguise is canceled if Shiren is defeated.<br/>Disguise is canceled if N'dubba is one-shot<br/>by a landmine or fire pillar while disguised.</td>
   </tr>
   <tr>
     <td>N'dubba 20yr</td>
@@ -2116,6 +2120,14 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Samurai-like monster. The No.1 disliked monster according to an official fan book.<br/>
+It can knock Shiren or Asuka's equipment away with a quick-draw sword strike.<br/>
+The only way to ensure safety is to seal it or throw an Extinction Scroll at it,<br/>since Shiren 2 lacks bracelets that protect against having equipment disarmed.<br/>
+Kengo's attack stat isn't high, so one strategy is to keep your shield unequipped.
+
+They can be used to unequip cursed equipment, but Iai and Shihan have very high attack,<br/>so you risk collapsing unless you pour water on them to decrease their attack power first.<br/>
+Not even a Kaburasutegi+99 can one-shot Shihan, unless you've increased your strength.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2134,48 +2146,53 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Kengo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>42</td>
+    <td>19</td>
+    <td>19</td>
+    <td>55</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>25%</td>
+    <td>Disarms shields.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Iai</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>69</td>
+    <td>48</td>
+    <td>1450</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>25%</td>
+    <td>Disarms shields, weapons.<br/>Item drop is always Kengo's Katana.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Shihan</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>125</td>
+    <td>90</td>
+    <td>65</td>
+    <td>2250</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>20%</td>
+    <td>Disarms shields, weapons, bracelets.<br/>Item drop is always Kengo's Katana.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+Its special attack knocks equipment away from monsters.<br/>
+Great for collecting secondary synthesis items to rapidly increase upgrade value.<br/>
+Shihan can knock bracelets away, so you can obtain Scout Bracelet with some luck.<br/>
+The chance to obtain a fixed item drop such as Minotaur's Axe using its special attack<br/>isn't 100%, but instead has the same odds as the monster's defeated drop rate.
 
 <table class="itemTable">
   <tr>
@@ -2185,34 +2202,34 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Kengo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>3</td>
+    <td>57</td>
+    <td>64</td>
+    <td>Special: Knock away a shield selected from the<br/>dungeons' floor item table.<br/>(Leather Shield if none in table)</td>
   </tr>
   <tr>
     <td>Iai</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>3</td>
+    <td>95</td>
+    <td>114</td>
+    <td>Same as Kengo, but also knocks away weapons.<br/>(Club if none in table)</td>
   </tr>
   <tr>
     <td>Shihan</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>3</td>
+    <td>140</td>
+    <td>135</td>
+    <td>Same as Iai, but also knocks away bracelets.<br/>(No Control Bracelet if none in table)</td>
   </tr>
 </table>
 
@@ -2231,6 +2248,11 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Powerful monster that carries an axe. Oddly, it doesn't appear in Power Houses.<br/>
+Very high HP and attack, and can deal brutal hits (monster version of critical hits).<br/>The damage multiplier for brutal hits increases each time it ranks up.<br/>
+Taur can only be encountered by lowering Minotaur or Megataur's level using items<br/>like Unlucky Staff, since it doesn't naturally spawn in any dungeon.<br/>
+Its brutal hits are guaranteed to hit, even if you have equipment that raises evasion.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2249,44 +2271,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Taur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>130</td>
+    <td>70</td>
+    <td>60</td>
+    <td>2500</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>0%</td>
+    <td>25%</td>
+    <td>Brutal hits deal x1.3 damage.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Minotaur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>150</td>
+    <td>80</td>
+    <td>68</td>
+    <td>3000</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>10%</td>
+    <td>25%</td>
+    <td>Brutal hits deal x1.4 damage.<br/>Item drop is always Minotaur's Axe.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Megataur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>165</td>
+    <td>110</td>
+    <td>75</td>
+    <td>5000</td>
+    <td>Weapon</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>15%</td>
+    <td>25%</td>
+    <td>Brutal hits deal x1.5 damage.<br/>Item drop is always Minotaur's Axe.</td>
   </tr>
 </table>
 
@@ -2300,34 +2322,34 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Taur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>1</td>
+    <td>4</td>
+    <td>140</td>
+    <td>110</td>
+    <td>25% chance to deal a x1.3 damage brutal hit.</td>
   </tr>
   <tr>
     <td>Minotaur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>0</td>
+    <td>4</td>
+    <td>150</td>
+    <td>100</td>
+    <td>25% chance to deal a x1.4 damage brutal hit.</td>
   </tr>
   <tr>
     <td>Megataur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>0</td>
+    <td>4</td>
+    <td>165</td>
+    <td>130</td>
+    <td>25% chance to deal a x1.5 damage brutal hit.</td>
   </tr>
 </table>
 
@@ -2348,6 +2370,11 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Monster that starts out as a weakling, but equips special shields at higher ranks.<br/>
+(Lv2: Counter Shield, Lv3: Echo Shield, Lv4: Reflect Shield)<br/>
+It never drops these shields, even if you use Kengo's special attack.<br/>
+Their stats are low, but it's easy to forget what their shields reflect at different ranks.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2366,58 +2393,58 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Ashigarudon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>6</td>
+    <td>Weapon</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>-</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Samuraidon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>23</td>
+    <td>12</td>
+    <td>12</td>
+    <td>18</td>
+    <td>Weapon</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>-</td>
+    <td>Reflects 25% damage received.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Taishodon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>31</td>
+    <td>16</td>
+    <td>19</td>
+    <td>38</td>
+    <td>Weapon</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>-</td>
+    <td>Reflects magic, except scrolls.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Tonosamadon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>30</td>
+    <td>33</td>
+    <td>250</td>
+    <td>Weapon</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>Reflects projectiles.</td>
   </tr>
 </table>
 
@@ -2431,43 +2458,43 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Ashigarudon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>4</td>
+    <td>30</td>
+    <td>45</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>Samuraidon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>4</td>
+    <td>43</td>
+    <td>52</td>
+    <td>Reflects 25% damage received.</td>
   </tr>
   <tr>
     <td>Taishodon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>4</td>
+    <td>51</td>
+    <td>56</td>
+    <td>Reflects magic, except scrolls.</td>
   </tr>
   <tr>
     <td>Tonosamadon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>4</td>
+    <td>85</td>
+    <td>70</td>
+    <td>Reflects projectiles.</td>
   </tr>
 </table>
 
@@ -2486,6 +2513,11 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Monster that resembles a pig. Throws stones at Shiren from a distance.<br/>
+It can throw stones at targets out of view, unlike monsters such as Wolf Droid.<br/>
+Reflect Shield can't reflect stones if a Pierce Statue is present.<br/>
+Doesn't attack if Shiren is inside a pot.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2504,44 +2536,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Porky</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>15</td>
+    <td>26</td>
+    <td>80</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>15%</td>
+    <td>45%</td>
+    <td>Stone homes at a target within 2 tiles.<br/>Item drop is always Porky Stone.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Porkchop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>105</td>
+    <td>55</td>
+    <td>60</td>
+    <td>1800</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>20%</td>
+    <td>25%</td>
+    <td>Stone homes at a target within 5 tiles.<br/>Item drop is always Porky Stone.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Porkton</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>120</td>
+    <td>60</td>
+    <td>63</td>
+    <td>2150</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>20%</td>
+    <td>12%</td>
+    <td>Stone homes at a target within 10 tiles.<br/>Item drop is always Porky Stone.</td>
   </tr>
 </table>
 
@@ -2555,33 +2587,33 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Porky</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>2</td>
+    <td>90</td>
+    <td>55</td>
     <td></td>
   </tr>
   <tr>
     <td>Porkchop</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>2</td>
+    <td>125</td>
+    <td>95</td>
     <td></td>
   </tr>
   <tr>
     <td>Porkton</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>2</td>
+    <td>140</td>
+    <td>100</td>
     <td></td>
   </tr>
 </table>
@@ -2603,6 +2635,11 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Monster that resembles a centaur. Shoots silver arrows.<br/>
+Also uses direct attacks, unlike the Bow Boy family.<br/>
+Silver arrows pierce through targets, so it can easily defeat other monsters.<br/>
+Horse Samurai is much stronger than Horse Ronin, so be careful where you stand.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2621,58 +2658,55 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Horse Ronin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>26</td>
+    <td>12</td>
+    <td>13</td>
+    <td>21</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>8%</td>
+    <td>50%</td>
+    <td rowspan="4">Shoots silver arrows.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Horse Samurai</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>79</td>
+    <td>35</td>
+    <td>39</td>
+    <td>800</td>
+    <td>-</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>60%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Horse Shogun</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>90</td>
+    <td>45</td>
+    <td>58</td>
+    <td>1950</td>
+    <td>-</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>60%</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Horse Emperor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>110</td>
+    <td>59</td>
+    <td>61</td>
+    <td>3100</td>
+    <td>-</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>60%</td>
   </tr>
 </table>
 
@@ -2686,43 +2720,40 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Horse Ronin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>46</td>
+    <td>32</td>
+    <td rowspan="4">Shoots silver arrows.</td>
   </tr>
   <tr>
     <td>Horse Samurai</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>99</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Horse Shogun</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>110</td>
+    <td>65</td>
   </tr>
   <tr>
     <td>Horse Emperor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>2</td>
+    <td>2</td>
+    <td>150</td>
+    <td>99</td>
   </tr>
 </table>
 
@@ -2741,6 +2772,12 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Tiger-like monster that throws Shiren and other monsters.<br/>
+Characters receive 5 damage when bumping into each other after one is thrown.<br/>
+If a thrown monster lands on a tile with a trap, the trap always activates.<br/>
+Monsters can be reflected by Reflect Shield, and will land next to Tiger Tosser.<br/>
+Higher ranks can toss Shiren into a Monster House, so don't underestimate them.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2759,44 +2796,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Tiger Tosser</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>33</td>
+    <td>16</td>
+    <td>15</td>
+    <td>35</td>
+    <td>-</td>
+    <td>35%</td>
+    <td>Low</td>
+    <td>16%</td>
+    <td>50%</td>
+    <td>Throws characters within 5 tiles.<br/>Throws Shiren onto visible traps.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Tiger Hurler</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>26</td>
+    <td>27</td>
+    <td>65</td>
+    <td>-</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>50%</td>
+    <td>Throws characters within 10 tiles.<br/>Throws Shiren onto hidden traps<br/>or into a monster house.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Tiger Chucker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>72</td>
+    <td>62</td>
+    <td>60</td>
+    <td>2400</td>
+    <td>-</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>50%</td>
+    <td>Same as Tiger Hurler, but 20 tiles.</td>
   </tr>
 </table>
 
@@ -2810,33 +2847,35 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Tiger Tosser</td>
+    <td>15</td>
+    <td>3</td>
+    <td>2</td>
+    <td>78</td>
+    <td>46</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="3">Can also throw statues.</td>
   </tr>
   <tr>
     <td>Tiger Hurler</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>3</td>
+    <td>2</td>
+    <td>85</td>
+    <td>56</td>
     <td></td>
   </tr>
   <tr>
     <td>Tiger Chucker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>3</td>
+    <td>2</td>
+    <td>117</td>
+    <td>92</td>
     <td></td>
   </tr>
 </table>
@@ -2856,6 +2895,13 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Incarnation of an elephant that wields magic. Swings various staves based on its rank.<br/>
+(Lv1: Seal Staff, Lv2: Slow Staff, Lv3: Quarter Staff)<br/>
+Its magic can be reflected by Echo Shield, and it can drop its staff when defeated.<br/>
+Monarch Tusker's Slow Staff and Emperor Tusker's Quarter Staff are notably dangerous.<br/>
+If you get hit by Slow Staff while slowed, you'll be paralyzed and unable to act for 3 turns.<br/>
+It can slow you again while paralyzed, creating an endless loop until you collapse.<br/>Oddly, it can't use its special attack if the item count for the floor has been reached.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2874,44 +2920,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>King Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>55</td>
+    <td>20</td>
+    <td>19</td>
+    <td>47</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>3%</td>
+    <td>30%</td>
+    <td>Swings a Seal Staff.<br/>Item drop is always Seal Staff.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Monarch Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>66</td>
+    <td>32</td>
+    <td>26</td>
+    <td>100</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>3%</td>
+    <td>35%</td>
+    <td>Swings a Slow Staff.<br/>Item drop is always Slow Staff.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Emperor Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>130</td>
+    <td>98</td>
+    <td>70</td>
+    <td>3500</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>23%</td>
+    <td>Swings a Quarter Staff.<br/>Item drop is always Quarter Staff.</td>
   </tr>
 </table>
 
@@ -2925,34 +2971,34 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>King Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>2</td>
+    <td>3</td>
+    <td>85</td>
+    <td>65</td>
+    <td>Swings a Seal Staff.</td>
   </tr>
   <tr>
     <td>Monarch Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>3</td>
+    <td>86</td>
+    <td>62</td>
+    <td>Swings a Slow Staff.</td>
   </tr>
   <tr>
     <td>Emperor Tusker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>2</td>
+    <td>3</td>
+    <td>140</td>
+    <td>113</td>
+    <td>Swings a Quarter Staff.</td>
   </tr>
 </table>
 
@@ -2971,6 +3017,12 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Support monster that resembles a kangaroo with bat wing-like ears.<br/>
+It swings beneficial staves at other monsters even if Shiren isn't in the room.<br/>
+Evil Kangaroo can defeat Ghost type monsters with its Heal Staff and level up.<br/>
+Devil Kangaroo is truly a devilish monster in Asuka Kenzan and GB2/DS2 since it swings<br/>a staff that both doubles or triples action speed and raises special use rate to 100%.<br/>
+However, it isn't much of a threat in Shiren 2 since it just swings an Invisible Staff.<br/>Therefore, the scariest one is Bat Kangaroo, who speeds up other monsters.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -2989,44 +3041,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Bat Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>44</td>
+    <td>16</td>
+    <td>17</td>
+    <td>52</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>40%</td>
+    <td>Swings a Swift Staff at monsters.<br/>Item drop is always Swift Staff.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Evil Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>55</td>
+    <td>24</td>
+    <td>20</td>
+    <td>60</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>40%</td>
+    <td>Swings a Heal Staff at monsters.<br/>Item drop is always Heal Staff.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Devil Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>37</td>
+    <td>40</td>
+    <td>450</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>20%</td>
+    <td>Swings an Invisible Staff at monsters.<br/>Item drop is always Invisible Staff.</td>
   </tr>
 </table>
 
@@ -3040,34 +3092,34 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Bat Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>3</td>
+    <td>1</td>
+    <td>104</td>
+    <td>36</td>
+    <td>Swings a Swift Staff.</td>
   </tr>
   <tr>
     <td>Evil Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>3</td>
+    <td>1</td>
+    <td>115</td>
+    <td>44</td>
+    <td>Swings a Heal Staff.</td>
   </tr>
   <tr>
     <td>Devil Kangaroo</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>3</td>
+    <td>1</td>
+    <td>125</td>
+    <td>57</td>
+    <td>Swings an Invisible Staff.</td>
   </tr>
 </table>
 
@@ -3086,6 +3138,12 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Monster that resembles a sheep dressed like a priest.<br/>It casts spells that temporarily reduce Shiren's stats based on its rank.<br/>
+(Lv1: Halves strength, Lv2: Halves max HP, Lv3: Halves level)<br/>
+The spell effects are stronger at higher ranks, but the spells don't last as long.<br/>
+The duration doesn't get extended if a spell is cast again while under the effect of a spell.<br/>
+All 3 spells can be reflected by Echo Shield, Sheep Priest's spell can be blocked by<br/>Salty Bracelet, and Gazelle Pope's spell can be blocked by Level Lock Bracelet.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3104,44 +3162,44 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Sheep Priest</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>27</td>
+    <td>14</td>
+    <td>14</td>
+    <td>32</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>30%</td>
+    <td>Halves max strength. (30 turns)<br/>Blocked by Echo Shield, Salty Bracelet.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Goat Pastor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>29</td>
+    <td>17</td>
+    <td>16</td>
+    <td>48</td>
+    <td>Magic</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>16%</td>
+    <td>30%</td>
+    <td>Halves max HP. (25 turns)<br/>Blocked by Echo Shield.<br/>Current HP is doubled when it wears off.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Gazelle Pope</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>87</td>
+    <td>55</td>
+    <td>55</td>
+    <td>2200</td>
+    <td>Magic</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>40%</td>
+    <td>Halves level. (20~30 turns)<br/>Blocked by Echo Shield, Level Lock Bracelet.<br/>Current HP remains when it wears off.</td>
   </tr>
 </table>
 
@@ -3155,34 +3213,34 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Sheep Priest</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>3</td>
+    <td>57</td>
+    <td>44</td>
+    <td>Halves attack power. (25 turns)</td>
   </tr>
   <tr>
     <td>Goat Pastor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>3</td>
+    <td>59</td>
+    <td>47</td>
+    <td>Halves max HP. (25 turns)</td>
   </tr>
   <tr>
     <td>Gazelle Pope</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>3</td>
+    <td>117</td>
+    <td>85</td>
+    <td>Halves level. (20~30 turns)<br/>Level is rounded up.</td>
   </tr>
 </table>
 
@@ -3203,6 +3261,17 @@ N'dubba 70yr is the strongest age as an ally.
   </tr>
 </table>
 
+Monster with a large mouth and onigiri-shaped head.<br/>
+Its special attack transforms inventory items or Shiren into onigiri.<br/>
+This can be disasterous if a Storage Pot full of key items turns into an onigiri.<br/>
+However, it can be used to turn extra items or single arrows into onigiri to<br/>stock up on food and increase max fullness.<br/>
+Shiren's attack and defense from equipment is set to 0 as an onigiri.
+
+Shiren 2 is more forgiving in that you won't collapse from stepping on a Spoil Trap<br/>or from receiving fire / explosion damage while turned into an onigiri.<br/>
+Nigiri monsters can be one-shot by thrown onigiri, though the throw can still miss.<br/>
+Equipped items will never be turned into Large Onigiri by Nigiri Morph.<br/>
+It only uses direct attacks when there is nothing in your inventory that can be<br/>turned into onigiri and Shiren is already turned into an onigiri.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3221,62 +3290,64 @@ N'dubba 70yr is the strongest age as an ally.
   <tr>
     <td>1</td>
     <td>Nigiri Trainee</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>12</td>
+    <td>5</td>
+    <td>6</td>
+    <td>6</td>
+    <td>-</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>5%</td>
+    <td>-</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Nigiri Morph</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>28</td>
+    <td>12</td>
+    <td>11</td>
+    <td>28</td>
+    <td>-</td>
+    <td>50%</td>
+    <td>Low</td>
+    <td>2%</td>
+    <td>25%</td>
+    <td>Turns 1 of Shiren or Mamo's<br/>items into a Large Onigiri.<br/>Equipped items are safe.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Nigiri Boss</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>55</td>
+    <td>24</td>
+    <td>20</td>
+    <td>65</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>25%</td>
+    <td>Inflicts onigiri status.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Nigiri Master</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>55</td>
+    <td>40</td>
+    <td>1600</td>
+    <td>-</td>
+    <td>40%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>25%</td>
+    <td>Inflicts onigiri status.<br/>Same as Nigiri Morph if Shiren<br/>or Mamo has onigiri status.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+No special attack, but monsters defeated by it have a higher chance to drop<br/>an onigiri based on the Nigiri monster's rank.
 
 <table class="itemTable">
   <tr>
@@ -3286,43 +3357,43 @@ N'dubba 70yr is the strongest age as an ally.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Nigiri Trainee</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>1</td>
+    <td>3</td>
+    <td>22</td>
+    <td>35</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>Nigiri Morph</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>1</td>
+    <td>3</td>
+    <td>38</td>
+    <td>42</td>
+    <td>Defeated enemies have a 50% chance<br/>to drop an Onigiri.</td>
   </tr>
   <tr>
     <td>Nigiri Boss</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>3</td>
+    <td>75</td>
+    <td>54</td>
+    <td>Defeated enemies drop an Onigiri.</td>
   </tr>
   <tr>
     <td>Nigiri Master</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>2</td>
+    <td>3</td>
+    <td>90</td>
+    <td>85</td>
+    <td>Defeated enemies drop a Large Onigiri.</td>
   </tr>
 </table>
 

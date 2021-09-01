@@ -6,11 +6,11 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer 2: Oni Invas
 
 ## Monster List
 
-Primary Element Order
+Primary Category Order
 
 <table class="itemTable">
   <tr>
-    <th>Element</th>
+    <th>Category</th>
     <th>Monsters (Family or Individual)</th>
     <th>Info</th>
   </tr>
@@ -70,7 +70,7 @@ Primary Element Order
     <td>Weak to 月 seal.</td>
   </tr>
   <tr>
-    <td>Water</td>
+    <td>Aquatic</td>
     <td>Bored Kappa | Water Strider | Spearfish | Orcan | Aqua Dragon | Shotfish</td>
     <td>Can act inside water.</td>
   </tr>
@@ -87,7 +87,7 @@ Primary Element Order
 </table>
 
 <div class="tableNotes">
-  <p>※ Monsters can have multiple elements. Check details section for more information.</p>
+  <p>※ Some monsters fit multiple categories. Check details section for more information.</p>
 </div>
 
 Monster Kingdom Order
@@ -268,7 +268,7 @@ Cave Mamels in Shiren 2 have somewhat lower defense than in other games.
     <td>2</td>
     <td>2</td>
     <td>2</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>0%</td>
     <td>1 Tile</td>
     <td>2%</td>
@@ -282,7 +282,6 @@ Cave Mamels in Shiren 2 have somewhat lower defense than in other games.
     <td>4</td>
     <td>4</td>
     <td>4</td>
-    <td>-</td>
     <td>0%</td>
     <td>1 Tile</td>
     <td>6%</td>
@@ -295,7 +294,6 @@ Cave Mamels in Shiren 2 have somewhat lower defense than in other games.
     <td>50</td>
     <td>55</td>
     <td>500</td>
-    <td>-</td>
     <td>100%</td>
     <td>1 Tile</td>
     <td>10%</td>
@@ -383,7 +381,7 @@ Its in-game sprite grows larger with each increase in rank.
     <td>3</td>
     <td>3</td>
     <td>3</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>40%</td>
     <td>High</td>
     <td>2%</td>
@@ -397,7 +395,6 @@ Its in-game sprite grows larger with each increase in rank.
     <td>9</td>
     <td>10</td>
     <td>12</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>3%</td>
@@ -410,7 +407,6 @@ Its in-game sprite grows larger with each increase in rank.
     <td>39</td>
     <td>39</td>
     <td>500</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>4%</td>
@@ -499,7 +495,7 @@ Higher ranks can only naturally be found in Halfway Well.
     <td>9</td>
     <td>6</td>
     <td>10</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>25%</td>
     <td>High</td>
     <td>2%</td>
@@ -513,7 +509,6 @@ Higher ranks can only naturally be found in Halfway Well.
     <td>30</td>
     <td>29</td>
     <td>350</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>5%</td>
@@ -527,7 +522,6 @@ Higher ranks can only naturally be found in Halfway Well.
     <td>55</td>
     <td>40</td>
     <td>1500</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>5%</td>
@@ -616,7 +610,7 @@ Carry a Balance Staff to avoid being tripped.
     <td>8</td>
     <td>8</td>
     <td>9</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>40%</td>
     <td>High</td>
     <td>3%</td>
@@ -630,7 +624,6 @@ Carry a Balance Staff to avoid being tripped.
     <td>9</td>
     <td>11</td>
     <td>11</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>3%</td>
@@ -644,7 +637,6 @@ Carry a Balance Staff to avoid being tripped.
     <td>37</td>
     <td>37</td>
     <td>700</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>3%</td>
@@ -745,7 +737,7 @@ Trap drop takes priority over synthesis seals like 飯 and 銭 when it comes to 
     <td>7</td>
     <td>7</td>
     <td>9</td>
-    <td>-</td>
+    <td rowspan="4">-</td>
     <td>25%</td>
     <td>High</td>
     <td>80%</td>
@@ -759,7 +751,6 @@ Trap drop takes priority over synthesis seals like 飯 and 銭 when it comes to 
     <td>17</td>
     <td>15</td>
     <td>35</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>60%</td>
@@ -773,7 +764,6 @@ Trap drop takes priority over synthesis seals like 飯 and 銭 when it comes to 
     <td>18</td>
     <td>16</td>
     <td>46</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>70%</td>
@@ -787,7 +777,6 @@ Trap drop takes priority over synthesis seals like 飯 and 銭 when it comes to 
     <td>33</td>
     <td>38</td>
     <td>300</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>70%</td>
@@ -907,7 +896,7 @@ The item drop will be lost if defeated over water.
     <td>8</td>
     <td>10</td>
     <td>8</td>
-    <td>Flying<br/>Swift 1</td>
+    <td rowspan="2">Flying<br/>Swift 1</td>
     <td>50%</td>
     <td>3 Tiles</td>
     <td>85%</td>
@@ -921,7 +910,6 @@ The item drop will be lost if defeated over water.
     <td>10</td>
     <td>15</td>
     <td>20</td>
-    <td>Flying<br/>Swift 1</td>
     <td>50%</td>
     <td>3 Tiles</td>
     <td>75%</td>
@@ -1020,7 +1008,7 @@ A body slam in a diagonal direction won't break walls.
     <td>27</td>
     <td>21</td>
     <td>40</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>35%</td>
     <td>High</td>
     <td>10%</td>
@@ -1034,7 +1022,6 @@ A body slam in a diagonal direction won't break walls.
     <td>28</td>
     <td>26</td>
     <td>85</td>
-    <td>-</td>
     <td>35%</td>
     <td>High</td>
     <td>4%</td>
@@ -1048,7 +1035,6 @@ A body slam in a diagonal direction won't break walls.
     <td>102</td>
     <td>71</td>
     <td>3100</td>
-    <td>-</td>
     <td>35%</td>
     <td>High</td>
     <td>32%</td>
@@ -1143,7 +1129,7 @@ You know it's one of these if a flying or amphibious monster is unable to move a
     <td>5</td>
     <td>5</td>
     <td>10</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>0%</td>
     <td>High</td>
     <td>1%</td>
@@ -1157,7 +1143,6 @@ You know it's one of these if a flying or amphibious monster is unable to move a
     <td>15</td>
     <td>25</td>
     <td>500</td>
-    <td>-</td>
     <td>0%</td>
     <td>High</td>
     <td>1%</td>
@@ -1170,7 +1155,6 @@ You know it's one of these if a flying or amphibious monster is unable to move a
     <td>20</td>
     <td>40</td>
     <td>700</td>
-    <td>-</td>
     <td>0%</td>
     <td>High</td>
     <td>2%</td>
@@ -1264,7 +1248,7 @@ Aqua Dragon, Shotfish, Tiny Phoenix, Escargon, Queen Spider.
     <td>18</td>
     <td>23</td>
     <td>100</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>25%</td>
     <td>High</td>
     <td>4%</td>
@@ -1278,7 +1262,6 @@ Aqua Dragon, Shotfish, Tiny Phoenix, Escargon, Queen Spider.
     <td>50</td>
     <td>49</td>
     <td>1600</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>2%</td>
@@ -1292,7 +1275,6 @@ Aqua Dragon, Shotfish, Tiny Phoenix, Escargon, Queen Spider.
     <td>55</td>
     <td>40</td>
     <td>1900</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>2%</td>
@@ -1390,7 +1372,7 @@ Merchandise in shops won't move as a result of a ground stamp.
     <td>29</td>
     <td>30</td>
     <td>120</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>25%</td>
     <td>High</td>
     <td>16%</td>
@@ -1404,7 +1386,6 @@ Merchandise in shops won't move as a result of a ground stamp.
     <td>75</td>
     <td>55</td>
     <td>1900</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>16%</td>
@@ -1418,7 +1399,6 @@ Merchandise in shops won't move as a result of a ground stamp.
     <td>94</td>
     <td>64</td>
     <td>3000</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>16%</td>
@@ -1893,7 +1873,7 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>10</td>
     <td>6</td>
     <td>16</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -1909,7 +1889,6 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>35</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
     <td>0%</td>
     <td>-</td>
     <td>Same as N'dubba. (Pink: 20-29yr)</td>
@@ -1923,7 +1902,6 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>20</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
     <td>0%</td>
     <td>-</td>
     <td>Same as N'dubba. 26yr-86yr = 20 exp.<br/>(Blue: 30-59yr)</td>
@@ -1935,7 +1913,7 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>86</td>
     <td>45</td>
     <td>20</td>
-    <td>Swift 1</td>
+    <td rowspan="3">Swift 1</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -1949,7 +1927,6 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>106</td>
     <td>50</td>
     <td>20</td>
-    <td>Swift 1</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -1963,7 +1940,6 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>120</td>
     <td>50</td>
     <td>20</td>
-    <td>Swift 1</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -1977,7 +1953,7 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>130</td>
     <td>50</td>
     <td>4500</td>
-    <td>-</td>
+    <td rowspan="2">-</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -1991,7 +1967,6 @@ Monster Kingdom requires an N'dubba of every color for completion.<br/>The easie
     <td>100</td>
     <td>20</td>
     <td>2500</td>
-    <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>0%</td>
@@ -2150,7 +2125,7 @@ Not even a Kaburasutegi+99 can one-shot Shihan, unless you've increased your str
     <td>19</td>
     <td>19</td>
     <td>55</td>
-    <td>Weapon</td>
+    <td rowspan="3">Weapon</td>
     <td>40%</td>
     <td>High</td>
     <td>0%</td>
@@ -2164,7 +2139,6 @@ Not even a Kaburasutegi+99 can one-shot Shihan, unless you've increased your str
     <td>69</td>
     <td>48</td>
     <td>1450</td>
-    <td>Weapon</td>
     <td>40%</td>
     <td>High</td>
     <td>3%</td>
@@ -2178,7 +2152,6 @@ Not even a Kaburasutegi+99 can one-shot Shihan, unless you've increased your str
     <td>90</td>
     <td>65</td>
     <td>2250</td>
-    <td>Weapon</td>
     <td>40%</td>
     <td>High</td>
     <td>3%</td>
@@ -2275,7 +2248,7 @@ Its brutal hits are guaranteed to hit, even if you have equipment that raises ev
     <td>70</td>
     <td>60</td>
     <td>2500</td>
-    <td>Weapon</td>
+    <td rowspan="3">Weapon</td>
     <td>40%</td>
     <td>Low</td>
     <td>0%</td>
@@ -2289,7 +2262,6 @@ Its brutal hits are guaranteed to hit, even if you have equipment that raises ev
     <td>80</td>
     <td>68</td>
     <td>3000</td>
-    <td>Weapon</td>
     <td>40%</td>
     <td>Low</td>
     <td>10%</td>
@@ -2303,7 +2275,6 @@ Its brutal hits are guaranteed to hit, even if you have equipment that raises ev
     <td>110</td>
     <td>75</td>
     <td>5000</td>
-    <td>Weapon</td>
     <td>40%</td>
     <td>Low</td>
     <td>15%</td>
@@ -2397,7 +2368,7 @@ Their stats are low, but it's easy to forget what their shields reflect at diffe
     <td>5</td>
     <td>5</td>
     <td>6</td>
-    <td>Weapon</td>
+    <td rowspan="4">Weapon</td>
     <td>25%</td>
     <td>High</td>
     <td>2%</td>
@@ -2411,7 +2382,6 @@ Their stats are low, but it's easy to forget what their shields reflect at diffe
     <td>12</td>
     <td>12</td>
     <td>18</td>
-    <td>Weapon</td>
     <td>25%</td>
     <td>High</td>
     <td>1%</td>
@@ -2425,7 +2395,6 @@ Their stats are low, but it's easy to forget what their shields reflect at diffe
     <td>16</td>
     <td>19</td>
     <td>38</td>
-    <td>Weapon</td>
     <td>25%</td>
     <td>High</td>
     <td>2%</td>
@@ -2439,7 +2408,6 @@ Their stats are low, but it's easy to forget what their shields reflect at diffe
     <td>30</td>
     <td>33</td>
     <td>250</td>
-    <td>Weapon</td>
     <td>25%</td>
     <td>High</td>
     <td>4%</td>
@@ -2540,7 +2508,7 @@ Doesn't attack if Shiren is inside a pot.
     <td>15</td>
     <td>26</td>
     <td>80</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>40%</td>
     <td>High</td>
     <td>15%</td>
@@ -2554,7 +2522,6 @@ Doesn't attack if Shiren is inside a pot.
     <td>55</td>
     <td>60</td>
     <td>1800</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>20%</td>
@@ -2568,7 +2535,6 @@ Doesn't attack if Shiren is inside a pot.
     <td>60</td>
     <td>63</td>
     <td>2150</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>20%</td>
@@ -2662,7 +2628,7 @@ Horse Samurai is much stronger than Horse Ronin, so be careful where you stand.
     <td>12</td>
     <td>13</td>
     <td>21</td>
-    <td>-</td>
+    <td rowspan="4">-</td>
     <td>40%</td>
     <td>Low</td>
     <td>8%</td>
@@ -2676,7 +2642,6 @@ Horse Samurai is much stronger than Horse Ronin, so be careful where you stand.
     <td>35</td>
     <td>39</td>
     <td>800</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -2689,7 +2654,6 @@ Horse Samurai is much stronger than Horse Ronin, so be careful where you stand.
     <td>45</td>
     <td>58</td>
     <td>1950</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -2702,7 +2666,6 @@ Horse Samurai is much stronger than Horse Ronin, so be careful where you stand.
     <td>59</td>
     <td>61</td>
     <td>3100</td>
-    <td>-</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -2800,7 +2763,7 @@ Higher ranks can toss Shiren into a Monster House, so don't underestimate them.
     <td>16</td>
     <td>15</td>
     <td>35</td>
-    <td>-</td>
+    <td rowspan="3">-</td>
     <td>35%</td>
     <td>Low</td>
     <td>16%</td>
@@ -2814,7 +2777,6 @@ Higher ranks can toss Shiren into a Monster House, so don't underestimate them.
     <td>26</td>
     <td>27</td>
     <td>65</td>
-    <td>-</td>
     <td>35%</td>
     <td>High</td>
     <td>16%</td>
@@ -2828,7 +2790,6 @@ Higher ranks can toss Shiren into a Monster House, so don't underestimate them.
     <td>62</td>
     <td>60</td>
     <td>2400</td>
-    <td>-</td>
     <td>35%</td>
     <td>High</td>
     <td>16%</td>
@@ -2924,7 +2885,7 @@ It can slow you again while paralyzed, creating an endless loop until you collap
     <td>20</td>
     <td>19</td>
     <td>47</td>
-    <td>Magic</td>
+    <td rowspan="3">Magic</td>
     <td>25%</td>
     <td>Low</td>
     <td>3%</td>
@@ -2938,7 +2899,6 @@ It can slow you again while paralyzed, creating an endless loop until you collap
     <td>32</td>
     <td>26</td>
     <td>100</td>
-    <td>Magic</td>
     <td>25%</td>
     <td>Low</td>
     <td>3%</td>
@@ -2952,7 +2912,6 @@ It can slow you again while paralyzed, creating an endless loop until you collap
     <td>98</td>
     <td>70</td>
     <td>3500</td>
-    <td>Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>3%</td>
@@ -3045,7 +3004,7 @@ However, it isn't much of a threat in Shiren 2 since it just swings an Invisible
     <td>16</td>
     <td>17</td>
     <td>52</td>
-    <td>Magic</td>
+    <td rowspan="3">Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -3059,7 +3018,6 @@ However, it isn't much of a threat in Shiren 2 since it just swings an Invisible
     <td>24</td>
     <td>20</td>
     <td>60</td>
-    <td>Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -3073,7 +3031,6 @@ However, it isn't much of a threat in Shiren 2 since it just swings an Invisible
     <td>37</td>
     <td>40</td>
     <td>450</td>
-    <td>Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>8%</td>
@@ -3166,7 +3123,7 @@ All 3 spells can be reflected by Echo Shield, Sheep Priest's spell can be blocke
     <td>14</td>
     <td>14</td>
     <td>32</td>
-    <td>Magic</td>
+    <td rowspan="3">Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>16%</td>
@@ -3180,7 +3137,6 @@ All 3 spells can be reflected by Echo Shield, Sheep Priest's spell can be blocke
     <td>17</td>
     <td>16</td>
     <td>48</td>
-    <td>Magic</td>
     <td>40%</td>
     <td>Low</td>
     <td>16%</td>
@@ -3194,7 +3150,6 @@ All 3 spells can be reflected by Echo Shield, Sheep Priest's spell can be blocke
     <td>55</td>
     <td>55</td>
     <td>2200</td>
-    <td>Magic</td>
     <td>25%</td>
     <td>High</td>
     <td>16%</td>
@@ -3294,7 +3249,7 @@ It only uses direct attacks when there is nothing in your inventory that can be<
     <td>5</td>
     <td>6</td>
     <td>6</td>
-    <td>-</td>
+    <td rowspan="4">-</td>
     <td>25%</td>
     <td>High</td>
     <td>5%</td>
@@ -3308,7 +3263,6 @@ It only uses direct attacks when there is nothing in your inventory that can be<
     <td>12</td>
     <td>11</td>
     <td>28</td>
-    <td>-</td>
     <td>50%</td>
     <td>Low</td>
     <td>2%</td>
@@ -3322,7 +3276,6 @@ It only uses direct attacks when there is nothing in your inventory that can be<
     <td>24</td>
     <td>20</td>
     <td>65</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>4%</td>
@@ -3336,7 +3289,6 @@ It only uses direct attacks when there is nothing in your inventory that can be<
     <td>55</td>
     <td>40</td>
     <td>1600</td>
-    <td>-</td>
     <td>40%</td>
     <td>High</td>
     <td>2%</td>
@@ -3412,6 +3364,18 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that eats thrown items, and if compatible, synthesizes them.<br/>
+Unlike Synthesis Pots, it can synthesize different categories like weapon + grass.<br/>
+Each item it eats powers it up: Current stats x (1.1 + (0.05 x number of items))<br/>
+It drops eaten items when tripped or defeated.<br/>
+However, making it trip won't reset the number of times it can synthesize.<br/>
+Higher ranks can eat more items. It can't eat thrown items with piercing properties.
+
+Recommended to check for Pierce Statues before throwing items.<br/>
+It eats items even when it's sleeping, but it won't eat items if sealed.<br/>
+It also eats traps, so you could use a Knockback Staff to have it eat a Pitfall,<br/>lead it into a shop, and then defeat it to make an easy exit inside the shop to steal.<br/>
+Mixergons found in Road to the End (50\~80F) could be a Copycat Mask monster,<br/>so consider shooting an arrow or throwing an unneeded item first. 
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3430,44 +3394,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Mixer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>32</td>
+    <td>19</td>
+    <td>16</td>
+    <td>45</td>
+    <td rowspan="3">-</td>
+    <td>45%</td>
+    <td>Low</td>
+    <td>1%</td>
+    <td>-</td>
+    <td>Eats 2 items and synthesizes them.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Mixermon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>25</td>
+    <td>21</td>
+    <td>58</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>1%</td>
+    <td>-</td>
+    <td>Eats 3 items and synthesizes them.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Mixergon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>121</td>
+    <td>48</td>
+    <td>52</td>
+    <td>2500</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>1%</td>
+    <td>-</td>
+    <td>Eats 4 items and synthesizes them.</td>
   </tr>
 </table>
 
@@ -3481,34 +3443,36 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Mixer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>57</td>
+    <td>44</td>
+    <td>Eats 2 thrown items and<br/>synthesizes them.<br/>Items lost if returned to pot.</td>
+    <td>Eats 2 items on the ground<br/>and synthesizes them.<br/>Also eats thrown items.</td>
   </tr>
   <tr>
     <td>Mixermon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>75</td>
+    <td>50</td>
+    <td colspan="2">Same as Mixer, but eats 3 items.</td>
   </tr>
   <tr>
     <td>Mixergon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>146</td>
+    <td>73</td>
+    <td colspan="2">Same as Mixer, but eats 4 items.</td>
   </tr>
 </table>
 
@@ -3527,6 +3491,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that resembles a Voodoo Doll. Its special attack curses equipment.<br/>
+Its curse can be blocked by a Holy Shield or 祓 seal. (Holy Shield or Purify Scroll)<br/>
+Curses are seals in Shiren 2, so it can only curse equipment if there's an open slot.<br/>
+Ranks 1 and 2 only curse Shiren or Asuka, but rank 3 also curses Mamo's items.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3545,48 +3514,49 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Straw Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>25</td>
+    <td>13</td>
+    <td>15</td>
+    <td>14</td>
+    <td rowspan="3">-</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>4%</td>
+    <td>19%</td>
+    <td>Curses equipped shields.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Nailed Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>42</td>
+    <td>50</td>
+    <td>800</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>25%</td>
+    <td>Curses all equipped items.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Spiked Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>66</td>
+    <td>54</td>
+    <td>1650</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>15%</td>
+    <td>Curses all equipment in inventory.<br/>Can't curse items in pots.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+No special attack, but using a Possession Staff on a Voodoll instantly removes curses.<br/>
+Pretty strong as an ally thanks to a higher growth limit.
 
 <table class="itemTable">
   <tr>
@@ -3596,34 +3566,36 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Straw Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>1</td>
+    <td>125</td>
+    <td>63</td>
+    <td rowspan="3">Direct attacks only.</td>
+    <td>Purifies equipped shields.</td>
   </tr>
   <tr>
     <td>Nailed Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>1</td>
+    <td>180</td>
+    <td>92</td>
+    <td>Purifies all equipped items.</td>
   </tr>
   <tr>
     <td>Spiked Voodoll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>1</td>
+    <td>200</td>
+    <td>116</td>
+    <td>Purifies all equipment in inventory.<br/>Can't purify items in pots.</td>
   </tr>
 </table>
 
@@ -3644,6 +3616,15 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that looks like a Teru Teru Bozu with an umbrella.<br/>
+Its creates a rain cloud that lowers an equipped item's upgrade value.<br/>
+It occasionally uses its special attack even if you don't have anything equipped.<br/>
+Lv1 only uses direct attacks, and Lv2-3 special attacks can be blocked by a 金 seal.
+
+However, Lv4 gains the powerful ability to tear off synthesized seals.<br/>
+It prioritizes erasing red 金 seals (Plating Scroll), so you can synthesize a red 金 seal<br/>instead of a blue 金 seal (Golden Sword, Golden Shield) to protect other seals.<br/>
+Unlike Gyandora, the number of seal slots remains the same after a seal is erased.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3662,62 +3643,62 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Weather Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+    <td rowspan="4">Floating</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Rainy Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>11</td>
+    <td>14</td>
+    <td>30</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>20%</td>
+    <td>Lowers upgrade value by 1.<br/>(Weapon)</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Stormy Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>20</td>
+    <td>21</td>
+    <td>70</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>25%</td>
+    <td>Lowers upgrade value by 1.<br/>(Weapon or shield)</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Monsoon Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>85</td>
+    <td>46</td>
+    <td>50</td>
+    <td>1450</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>18%</td>
+    <td>Erases 1 synthesized seal.<br/>Prioritizes red 金 seals, and lowers<br/>upgrade value by 1 at the same time.<br/>Won't erase the following seals:<br/>Weapon: 呪, 捨, 不, 超<br/>Shield: 呪, 捨, 重, 銀, 不, 超, 飯<br/>Lowers upgrade value by 1 if your<br/>equipment lacks erasable seals.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+Monsoon Doll is quite strong due to its high growth limit and ability to seal enemies.<br/>
+It's not the brightest, as it can waste turns trying to seal an enemy that is already sealed.
 
 <table class="itemTable">
   <tr>
@@ -3727,43 +3708,43 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Weather Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>5</td>
+    <td>2</td>
+    <td>56</td>
+    <td>26</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>Rainy Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>5</td>
+    <td>2</td>
+    <td>70</td>
+    <td>31</td>
+    <td>Lowers enemy defense by 35%.</td>
   </tr>
   <tr>
     <td>Stormy Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>5</td>
+    <td>2</td>
+    <td>115</td>
+    <td>40</td>
+    <td>Lowers enemy defense to 0.</td>
   </tr>
   <tr>
     <td>Monsoon Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>2</td>
+    <td>185</td>
+    <td>146</td>
+    <td>Seals an enemy.</td>
   </tr>
 </table>
 
@@ -3782,6 +3763,13 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster resembling a small walrus or sea lion that covers its head with cloth.<br/>
+Steals an item on the ground or from Shiren's inventory, and then warps away.<br/>
+Runs away from Shiren after stealing an item, and can go underwater.<br/>
+Lv2-3 can divide when they receive damage, creating a copy of itself.<br/>
+Iron Zaloklefts can steal equipped items, so place an unneeded item on the ground<br/>if one is next to you to avoid losing your equipment.<br/>That said, they don't have much HP, so you could try to defeat it in one hit.<br/>
+Only appears in Underwater Houses inside Road to the End.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3800,44 +3788,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>0</td>
+    <td>10</td>
+    <td>12</td>
+    <td rowspan="3">Amphibious</td>
+    <td>100%</td>
+    <td>3 Tiles</td>
+    <td>100%</td>
+    <td>50%</td>
+    <td>Steals an item on the ground or<br/>from Shiren's inventory and warps.<br/>Runs from Shiren after warping.<br/>Prioritizes the most recent item to<br/>fall on the ground over Shiren.<br/>Never attacks unless sealed.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Green Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>0</td>
+    <td>30</td>
+    <td>13</td>
+    <td>100%</td>
+    <td>3 Tiles</td>
+    <td>100%</td>
+    <td>40%</td>
+    <td>Same as Zalokleft.<br/>30% chance to divide when hit.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Iron Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>36</td>
+    <td>0</td>
+    <td>55</td>
+    <td>14</td>
+    <td>100%</td>
+    <td>3 Tiles</td>
+    <td>100%</td>
+    <td>30%</td>
+    <td>Same as Zalokleft, but also steals<br/>equipped items.<br/>Prioritizes Shiren over other items.<br/>25% chance to divide when hit.</td>
   </tr>
 </table>
 
@@ -3851,34 +3837,34 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>115</td>
+    <td>1</td>
+    <td rowspan="3">Drops its item when<br/>returning to its pot.</td>
+    <td rowspan="3">Use special after stealing to<br/>place the stolen item.<br/>Steals the item and warps<br/>even if you dash onto an item.</td>
   </tr>
   <tr>
     <td>Green Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>120</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Iron Zalokleft</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>136</td>
+    <td>1</td>
   </tr>
 </table>
 
@@ -3897,6 +3883,12 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that looks like a clasped purse. (Gamaguchi)<br/>
+Steals Gitan from Shiren, warps, and then runs away at double speed.<br/>
+Always drops Gitan when defeated, even if it didn't steal any from Shiren.<br/>
+Moves toward Gitan if it sees some on the floor, and then sits on top of it.<br/>
+Doesn't use direct attacks unless it's sealed.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -3915,44 +3907,41 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Gamarra</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>11</td>
+    <td>0</td>
+    <td>29</td>
+    <td>6</td>
+    <td rowspan="3">-</td>
+    <td>0%</td>
+    <td>1 Tile</td>
+    <td>100%</td>
+    <td>70%</td>
+    <td rowspan="2">Steals 30~2000 Gitan and warps.<br/>Runs away at x2 speed afterward.<br/>Prioritizes moving toward and<br/>sitting on Gitan if it hasn't stolen.<br/>Never attacks unless sealed.<br/>Item drop is always Gitan.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Gamagucci</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>16</td>
+    <td>0</td>
+    <td>35</td>
+    <td>25</td>
+    <td>0%</td>
+    <td>1 Tile</td>
+    <td>100%</td>
+    <td>80%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Gamagon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>0</td>
+    <td>65</td>
+    <td>300</td>
+    <td>0%</td>
+    <td>1 Tile</td>
+    <td>100%</td>
+    <td>25%</td>
+    <td>Same as Gamarra, but it drops<br/>Gitan worth x3 the amount that<br/>can be found on the ground.<br/>(Max: 2000 Gitan)</td>
   </tr>
 </table>
 
@@ -3966,34 +3955,34 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Gamarra</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>111</td>
+    <td>1</td>
+    <td>Steals 30~2000 Gitan and warps.<br/>Picks bag up and warps if it steps on Gitan.<br/>Can hold a maximum of 5000 Gitan.<br/>Drops its Gitan when returning to its pot.</td>
   </tr>
   <tr>
     <td>Gamagucci</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>116</td>
+    <td>1</td>
+    <td>Same as Gamarra. Can hold 10000 Gitan.</td>
   </tr>
   <tr>
     <td>Gamagon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>2</td>
+    <td>0</td>
+    <td>140</td>
+    <td>1</td>
+    <td>Same as Gamarra. Can hold 20000 Gitan.</td>
   </tr>
 </table>
 
@@ -4012,6 +4001,15 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster resembling a pterodactyl.<br/>
+Plucks items from Shiren's inventory and modifies them in negative ways.<br/>
+Plucked items fall to the ground beneath Gyadon.<br/>
+It uses direct attacks, unlike other monsters that steal from Shiren.<br/>
+It also performs its special attack against Asuka and Mamo.<br/>
+Gyandora is particularly mean, since it can lower synthesis slot count of equipment,<br/>including equipped items, or make items in pots vanish while reducing the pot's size.<br/>
+Its plucking special attack can be blocked by a Walrus Shield.<br/>
+For some unknown reason, it can appear in Magic Houses. 
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4030,48 +4028,48 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Gyadon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>23</td>
+    <td>17</td>
+    <td>90</td>
+    <td rowspan="3">Floating</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>50%</td>
+    <td>Plucks a staff from Shiren's inventory<br/>and lowers its use count by 1.<br/>Can't pluck staves in pots.<br/>The plucked item is lost if there's no<br/>space for the item below Gyadon.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>39</td>
+    <td>45</td>
+    <td>230</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>25%</td>
+    <td>Same as Gyadon, but also plucks pots,<br/>shrinking size by 1 if the pot wasn't full.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Gyandora</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>86</td>
+    <td>60</td>
+    <td>58</td>
+    <td>500</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>16%</td>
+    <td>Same as Gyairas, but also plucks full<br/>pots, shrinking size by 1 while making<br/>the selected slot's item vanish.<br/>Also plucks equipment, erasing a seal<br/>along with lowering slot count.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+It only uses direct attacks, despite having such an annoying ability as an enemy.
 
 <table class="itemTable">
   <tr>
@@ -4081,34 +4079,32 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Gyadon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>60</td>
+    <td>43</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>Gyairas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>85</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Gyandora</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>1</td>
+    <td>1</td>
+    <td>106</td>
+    <td>80</td>
   </tr>
 </table>
 
@@ -4127,6 +4123,13 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Dragon monster that can breathe fire to deal damage from a distance.<br/>
+The flame never misses and deals fixed damage. Higher ranks have greater range.<br/>
+竜 (Dragon Shield) and 火 (Flame Grass, Dragon Grass) seals reduce fire damage.<br/>
+It's often sleeping when it spawns, and has a high item drop rate.
+
+Archdragon's ability to breathe fire from anywhere on the current floor is quite mean,<br/>so keep some healing items on hand if you're in a dungeon where they can spawn.<br/>Archdragons can appear as early as 30F in Road to the End.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4145,44 +4148,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>37</td>
+    <td>38</td>
+    <td>350</td>
+    <td rowspan="3">Dragon</td>
+    <td>40%</td>
+    <td>Low</td>
+    <td>60%</td>
+    <td>50%</td>
+    <td>Breathes fire in a straight line.<br/>Flame deals 20 damage.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Sky Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>85</td>
+    <td>45</td>
+    <td>43</td>
+    <td>450</td>
+    <td>50%</td>
+    <td>Low</td>
+    <td>65%</td>
+    <td>25%</td>
+    <td>Breathes fire at a target within view.<br/>Flame deals 30 damage.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Archdragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>110</td>
+    <td>55</td>
+    <td>55</td>
+    <td>1300</td>
+    <td>60%</td>
+    <td>Low</td>
+    <td>70%</td>
+    <td>12%</td>
+    <td>Breathes fire at a target on the current<br/>floor, including those inside walls.<br/>Flame deals 35 damage.</td>
   </tr>
 </table>
 
@@ -4196,34 +4197,36 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30</td>
+    <td>2</td>
+    <td>2</td>
+    <td>140</td>
+    <td>97</td>
+    <td colspan="2">Breathes fire in a straight line. (20 damage)</td>
   </tr>
   <tr>
     <td>Sky Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>25</td>
+    <td>2</td>
+    <td>2</td>
+    <td>135</td>
+    <td>95</td>
+    <td colspan="2">Breathes fire at a target within view. (30 damage)</td>
   </tr>
   <tr>
     <td>Archdragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>2</td>
+    <td>2</td>
+    <td>150</td>
+    <td>95</td>
+    <td>Breathes fire at a target<br/>within view. (35 damage)</td>
+    <td>Breathes fire at a target on the<br/>current floor, including those<br/>inside walls. (35 damage)</td>
   </tr>
 </table>
 
@@ -4242,6 +4245,10 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Snake-like monster with four arms.<br/>Higher ranks attack multiple times during the same turn.<br/>
+The number of attacks doesn't change, even if its speed is doubled or tripled.<br/>
+However, sealing it removes this limit, so a double speed Shagga would attack twice.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4260,48 +4267,48 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Shagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>37</td>
+    <td>19</td>
+    <td>18</td>
+    <td>35</td>
+    <td rowspan="3">Dragon<br/>Weapon</td>
+    <td>30%</td>
+    <td>Low</td>
+    <td>16%</td>
+    <td>-</td>
+    <td>1 attack, regardless of speed.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Nashagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>85</td>
+    <td>36</td>
+    <td>50</td>
+    <td>1150</td>
+    <td>30%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>2 attacks, regardless of speed.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Lashagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>58</td>
+    <td>63</td>
+    <td>1500</td>
+    <td>30%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>3 attacks, regardless of speed.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+Possession allows for more attacks than when it's encountered as an enemy.
 
 <table class="itemTable">
   <tr>
@@ -4311,34 +4318,38 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Shagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>3</td>
+    <td>52</td>
+    <td>64</td>
+    <td>1 attack, regardless of speed.</td>
+    <td>3 attacks per turn.</td>
   </tr>
   <tr>
     <td>Nashagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>1</td>
+    <td>3</td>
+    <td>95</td>
+    <td>66</td>
+    <td>2 attacks, regardless of speed.</td>
+    <td>4 attacks per turn.</td>
   </tr>
   <tr>
     <td>Lashagga</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>1</td>
+    <td>3</td>
+    <td>105</td>
+    <td>73</td>
+    <td>3 attacks, regardless of speed.</td>
+    <td>5 attacks per turn.</td>
   </tr>
 </table>
 
@@ -4357,6 +4368,12 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster consisting of dragon bones.<br/>
+It has higher stats to make up for the lack of a special attack.<br/>
+The only monster to have 2 weaknesses, since it's both Ghost and Dragon type.<br/>
+Easily defeated by weapons that have 仏 (Ghost Sickle) and 竜 (Dragon Killer) seals.<br/>
+Bone Dragon has a higher item drop rate.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4375,44 +4392,40 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Bone Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>61</td>
+    <td>23</td>
+    <td>20</td>
+    <td>57</td>
+    <td rowspan="3">Dragon<br/>Ghost</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>32%</td>
+    <td>-</td>
+    <td rowspan="3">Direct attacks only.<br/>The only monster that has<br/>2 type-effective weaknesses.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Skull Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>48</td>
+    <td>35</td>
+    <td>400</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Garm Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>132</td>
+    <td>104</td>
+    <td>62</td>
+    <td>3500</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -4426,34 +4439,32 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Bone Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>2</td>
+    <td>3</td>
+    <td>101</td>
+    <td>83</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>Skull Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>2</td>
+    <td>3</td>
+    <td>110</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>Garm Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>2</td>
+    <td>3</td>
+    <td>142</td>
+    <td>119</td>
   </tr>
 </table>
 
@@ -4472,6 +4483,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster born from a pumpkin that went rotten as a result of no one eating it.<br/>
+It can pass through walls, and moves in a random pattern that resembles confusion.<br/>
+However, it unmistakably approaches Shiren despite its unpredictable movement.<br/>
+Shiren has a unique animation when he's hit by Pumphantasm monsters.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4490,44 +4506,40 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Pumphantasm</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>38</td>
+    <td>20</td>
+    <td>16</td>
+    <td>50</td>
+    <td rowspan="3">Ghost<br/>Flying<br/>Wall-clip</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td rowspan="3">Can pass through walls.<br/>Moves unpredictably.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Pumphantom</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>24</td>
+    <td>18</td>
+    <td>60</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Pumpking</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>60</td>
+    <td>43</td>
+    <td>950</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -4541,34 +4553,34 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Pumphantasm</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>5</td>
+    <td>53</td>
+    <td>95</td>
+    <td rowspan="3">Can pass through walls.<br/>Moves unpredictably.</td>
+    <td rowspan="3">Can pass through walls.<br/>Moves normally.</td>
   </tr>
   <tr>
     <td>Pumphantom</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>5</td>
+    <td>65</td>
+    <td>99</td>
   </tr>
   <tr>
     <td>Pumpking</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>5</td>
+    <td>95</td>
+    <td>135</td>
   </tr>
 </table>
 
@@ -4589,6 +4601,13 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Speed type monster that wields two swords.<br/>
+Higher ranks have increased action speed, and Typhoon can pass through walls.<br/>
+Typhoon detects Shiren from any location, so it'll rush at him if it's awake when it spawns.<br/>
+Avoid being ambushed by passing some turns at the start before heading into a hallway.<br/>
+Gale doesn't have the flying element, so it's the only one that can't move over water.<br/>
+Kamikaze doesn't naturally spawn inside Road to the End.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4607,58 +4626,58 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Gale</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>35</td>
+    <td>18</td>
+    <td>18</td>
+    <td>35</td>
+    <td>Ghost<br/>Weapon<br/>Floating<br/>Swift 1</td>
+    <td>50%</td>
+    <td>Low</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>Moves at double speed,<br/>but only attacks once.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Whirlwind</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>60</td>
+    <td>18</td>
+    <td>23</td>
+    <td>85</td>
+    <td>Ghost<br/>Weapon<br/>Flying<br/>Swift 1</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>Acts at double speed.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Kamikaze</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>33</td>
+    <td>55</td>
+    <td>200</td>
+    <td>Ghost<br/>Weapon<br/>Flying<br/>Swift 2</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>Acts at triple speed.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Typhoon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>133</td>
+    <td>58</td>
+    <td>66</td>
+    <td>4000</td>
+    <td>Ghost<br/>Weapon<br/>Flying<br/>Wall-clip<br/>Swift 2</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>-</td>
+    <td>Can pass through walls.<br/>Acts at triple speed.</td>
   </tr>
 </table>
 
@@ -4672,43 +4691,45 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Gale</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>2</td>
+    <td>2</td>
+    <td>45</td>
+    <td>28</td>
+    <td>Moves at double speed,<br/>but only attacks once.</td>
+    <td>Acts at double speed.</td>
   </tr>
   <tr>
     <td>Whirlwind</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>2</td>
+    <td>2</td>
+    <td>70</td>
+    <td>28</td>
+    <td colspan="2">Acts at double speed.</td>
   </tr>
   <tr>
     <td>Kamikaze</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>0</td>
+    <td>2</td>
+    <td>100</td>
+    <td>43</td>
+    <td colspan="2">Acts at triple speed.</td>
   </tr>
   <tr>
     <td>Typhoon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>0</td>
+    <td>2</td>
+    <td>133</td>
+    <td>68</td>
+    <td colspan="2">Can pass through walls.<br/>Acts at triple speed.</td>
   </tr>
 </table>
 
@@ -4727,6 +4748,10 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+A small reaper-like monster that rides on a cloud.<br/>
+No special abilities outside of having the floating element.<br/>
+Zurukichi has 101 HP, so it survives getting hit by Heal Staff or Otogiriso with 1 HP left.<br/>Its name includes Zurui, which is along the lines of cheating / unfair in Japanese,<br/>so you could say it's a fitting name for a Ghost type that survives with 1 HP.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4745,44 +4770,40 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Yamikichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td rowspan="3">Ghost<br/>Weapon<br/>Flying</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>6%</td>
+    <td>-</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Warukichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>21</td>
+    <td>16</td>
+    <td>12</td>
+    <td>25</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Zurukichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>101</td>
+    <td>49</td>
+    <td>35</td>
+    <td>790</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>6%</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -4796,34 +4817,32 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Yamikichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>25</td>
+    <td>36</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>Warukichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>36</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Zurukichi</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>116</td>
+    <td>79</td>
   </tr>
 </table>
 
@@ -4838,6 +4857,14 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that has the appearance of a Haniwa. (clay figure)<br/>
+Performs a twisty dance that lowers a target's level by 1.<br/>
+A Level Lock Bracelet nullifies the dance's level down effect.<br/>
+It can't use its special attack against a target that is already level 1.<br/>
+Always spawns asleep, and wakes up when you move within 1 tile of it.<br/>
+Its high special use rate means you'll rapidly lose levels if you don't defeat it quickly.<br/>
+However, it has a high item drop rate and offers a decent amount of experience,<br/>so it may be worth the trouble to attack it. If you do so, it's safer to attack<br/>from a distance using arrows, stones, or cannonballs.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4856,16 +4883,16 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Twisty Hani</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>30</td>
+    <td>30</td>
+    <td>300</td>
+    <td>Drain</td>
+    <td>100%</td>
+    <td>1 Tile</td>
+    <td>35%</td>
+    <td>80%</td>
+    <td>Lowers a target's level by 1.</td>
   </tr>
 </table>
 
@@ -4879,16 +4906,16 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Twisty Hani</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30</td>
+    <td>1</td>
+    <td>1</td>
+    <td>80</td>
+    <td>60</td>
+    <td>Lowers a target's level by 1.</td>
   </tr>
 </table>
 
@@ -4909,6 +4936,14 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that resembles a slug. Licks Shiren and lowers his strength.<br/>
+Salty Bracelet or the poison immunity effect from a Special Onigiri blocks its licks.<br/>
+Scale Shield (う and 消 seals) can't block the strength lowering effect of licks.<br/>
+Uses its special attack even if the target's strength is already 0.<br/>
+Thrown Antidote Grass deals 50 damage, which is enough to one-shot Lv1-2 slugs.<br/>
+Strength is extremely important in Shiren 2, so don't hesitate to use items.<br/>
+Lv3-4 can divide when they receive damage, creating a copy of itself.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -4927,58 +4962,55 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>11</td>
+    <td>4</td>
+    <td>6</td>
+    <td>5</td>
+    <td rowspan="4">Drain</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>20%</td>
+    <td>Lowers strength by 1.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Serious Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>10</td>
+    <td>18</td>
+    <td>35</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>35%</td>
+    <td>Lowers max strength by 1.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Rancor Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>38</td>
+    <td>41</td>
+    <td>690</td>
+    <td>50%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>18%</td>
+    <td>Lowers max strength by 2.<br/>20% chance to divide when hit.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Intolerable Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>45</td>
+    <td>40</td>
+    <td>750</td>
+    <td>50%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>12%</td>
+    <td>Lowers max strength by 3.<br/>15% chance to divide when hit.</td>
   </tr>
 </table>
 
@@ -4992,43 +5024,43 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>1</td>
+    <td>1</td>
+    <td>51</td>
+    <td>44</td>
+    <td>Lowers a target's attack by 10%.</td>
   </tr>
   <tr>
     <td>Serious Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>1</td>
+    <td>1</td>
+    <td>80</td>
+    <td>50</td>
+    <td>Lowers a target's attack by 20%.</td>
   </tr>
   <tr>
     <td>Rancor Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>1</td>
+    <td>1</td>
+    <td>110</td>
+    <td>78</td>
+    <td>Lowers a target's attack by 30%.</td>
   </tr>
   <tr>
     <td>Intolerable Slug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>2</td>
+    <td>1</td>
+    <td>145</td>
+    <td>85</td>
+    <td>Lowers a target's attack by 40%.</td>
   </tr>
 </table>
 
@@ -5047,6 +5079,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Scorpion monster that lunges its poisonous tail forward.<br/>
+(Lv1: Lowers strength by 1, Lv2: Slows, Lv3: Paralyzes for 3 turns)<br/>
+Stun Scorpion has top tier stats on top of its terrifying special attack,<br/>making it one of the hardest enemies to take on in the game.<br/>Always keep in mind that running away is a valid strategy.<br/>
+That said, Stun Scorpions provide lots of exp, so it may be worth the trouble to fight.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5065,44 +5102,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>28</td>
+    <td>15</td>
+    <td>17</td>
+    <td>30</td>
+    <td rowspan="3">Drain</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>30%</td>
+    <td>Lowers strength by 1.<br/>Nullified by Scale Shield and<br/>Special Onigiri's poison immunity.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Demon Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>65</td>
+    <td>27</td>
+    <td>24</td>
+    <td>95</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>25%</td>
+    <td>Slows action speed by 1 stage.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Stun Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>125</td>
+    <td>108</td>
+    <td>73</td>
+    <td>4900</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>20%</td>
+    <td>Paralyzes Shiren for 3 turns.</td>
   </tr>
 </table>
 
@@ -5116,34 +5151,34 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>43</td>
+    <td>45</td>
+    <td>Halves a target's attack.</td>
   </tr>
   <tr>
     <td>Demon Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>80</td>
+    <td>57</td>
+    <td>Slows action speed by 1 stage.</td>
   </tr>
   <tr>
     <td>Stun Scorpion</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>140</td>
+    <td>138</td>
+    <td>Paralyzes a target for 2 turns.</td>
   </tr>
 </table>
 
@@ -5164,6 +5199,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Marionette monster. Sings songs that lower fullness or max fullness.<br/>
+Song Bracelet nullifies the song's effect, but No Hunger Bracelet can't block it.<br/>
+Enemy Hunger Puppet monsters only use their special attack against Shiren.<br/>
+Uses its special attack even if Shiren's fullness or max fullness is at 0.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5182,58 +5222,55 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Hunger Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td rowspan="4">Drain</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>2%</td>
+    <td>35%</td>
+    <td>Lowers fullness by 5%.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Starve Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>52</td>
+    <td>18</td>
+    <td>22</td>
+    <td>50</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>35%</td>
+    <td>Lowers fullness by 10%.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Famine Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>40</td>
+    <td>43</td>
+    <td>810</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>20%</td>
+    <td>Lowers fullness by 30%.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Diet Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>48</td>
+    <td>49</td>
+    <td>1300</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>5%</td>
+    <td>18%</td>
+    <td>Lowers max fullness by 5%.</td>
   </tr>
 </table>
 
@@ -5247,43 +5284,45 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Hunger Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>65</td>
+    <td>59</td>
+    <td rowspan="4">Halves a target's HP.</td>
+    <td>Restores fullness by 5% if<br/>special is used on an enemy.</td>
   </tr>
   <tr>
     <td>Starve Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>102</td>
+    <td>68</td>
+    <td>Same as Hunger Puppet, but 7%.</td>
   </tr>
   <tr>
     <td>Famine Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>130</td>
+    <td>90</td>
+    <td>Same as Hunger Puppet, but 9%.</td>
   </tr>
   <tr>
     <td>Diet Puppet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>120</td>
+    <td>98</td>
+    <td>Same as Hunger Puppet, but 11%.</td>
   </tr>
 </table>
 
@@ -5302,6 +5341,21 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster with one large eye as a defining characteristic.<br/>
+Hypnotizes Shiren, making him use an item or perform an action at random.<br/>
+Shiren can't act after performing an action due to hypnosis.<br/>
+An Echo Shield (山 seal) reflects its hypnosis, inflicting confusion.<br/>
+Items inside Storage Pots are safe.
+
+Hypnotized actions:
+
+- Equipping/unequipping a weapon, shield, projectile, or bracelet.<br/>
+- Reading a scroll, swinging a staff, or eating grass or onigiri.<br/>
+- Inserting an item into a pot, or throwing a non-insertable pot. (ex: Monster Pot)<br/>
+- Throwing an item of any other category.
+
+<br/>
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5320,44 +5374,40 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>19</td>
+    <td>9</td>
+    <td>11</td>
+    <td>20</td>
+    <td rowspan="3">Cyclops<br/>Magic</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>25%</td>
+    <td rowspan="3">Hypnotizes Shiren, making him<br/>perform a random action.<br/>Confuses non-Shiren targets.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Super Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>32</td>
+    <td>35</td>
+    <td>200</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>30%</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Hyper Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>63</td>
+    <td>55</td>
+    <td>2000</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>30%</td>
   </tr>
 </table>
 
@@ -5371,34 +5421,32 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>34</td>
+    <td>39</td>
+    <td rowspan="3">Confuses a target.</td>
   </tr>
   <tr>
     <td>Super Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>65</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Hyper Gazer</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>115</td>
+    <td>93</td>
   </tr>
 </table>
 
@@ -5417,6 +5465,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Power monster that uses its head as a weapon.<br/>
+Its direct attack can hit a target from up to 3 tiles away.<br/>
+It attacks even if a monster is in-between, often resulting in the Ironhead leveling up.<br/>
+Items like Miss Staff and Sanctuary Scroll are effective.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5435,44 +5488,41 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Ironhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>21</td>
+    <td>19</td>
+    <td>43</td>
+    <td rowspan="3">Cyclops</td>
+    <td>35%</td>
+    <td>Low</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Attack hits 3 tiles ahead.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Chainhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>69</td>
+    <td>30</td>
+    <td>24</td>
+    <td>75</td>
+    <td>35%</td>
+    <td>Low</td>
+    <td>3%</td>
+    <td>-</td>
+    <td rowspan="2">Attack hits 3 tiles ahead.<br/>Item drop is always Ironhead's Head.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Gigahead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>140</td>
+    <td>120</td>
+    <td>71</td>
+    <td>3150</td>
+    <td>35%</td>
+    <td>Low</td>
+    <td>4%</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -5486,34 +5536,34 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Ironhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>2</td>
+    <td>3</td>
+    <td>70</td>
+    <td>66</td>
+    <td rowspan="3">Attack hits 3 tiles ahead.</td>
+    <td rowspan="3">Attack hits 4 tiles ahead.</td>
   </tr>
   <tr>
     <td>Chainhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>2</td>
+    <td>3</td>
+    <td>99</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>Gigahead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>2</td>
+    <td>3</td>
+    <td>150</td>
+    <td>135</td>
   </tr>
 </table>
 
@@ -5532,6 +5582,9 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+One-eyed golem that doesn't have a special attack.<br/>
+Similar to Ironhead, it appears in Power Houses despite being a Cyclops type.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5550,44 +5603,40 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>43</td>
+    <td>20</td>
+    <td>18</td>
+    <td>40</td>
+    <td rowspan="3">Cyclops</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>-</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Stone Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>40</td>
+    <td>40</td>
+    <td>550</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Magma Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>95</td>
+    <td>50</td>
+    <td>51</td>
+    <td>1250</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>-</td>
   </tr>
 </table>
 
@@ -5601,34 +5650,32 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>5</td>
+    <td>73</td>
+    <td>70</td>
+    <td rowspan="3">Direct attacks only.</td>
   </tr>
   <tr>
     <td>Stone Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>5</td>
+    <td>100</td>
+    <td>90</td>
   </tr>
   <tr>
     <td>Magma Golem</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>3</td>
+    <td>5</td>
+    <td>125</td>
+    <td>100</td>
   </tr>
 </table>
 
@@ -5647,6 +5694,11 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Robot monster that throws bombs at others.<br/>
+Higher ranks throw farther, but unlike Porky, it only lobs bombs at targets within view.<br/>
+Often levels up as a result of defeating monsters that get caught in the explosions.<br/>
+There's a drastic difference in stats between Wolf Droid and Gorilla Bot.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5665,44 +5717,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Wolf Droid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>52</td>
+    <td>20</td>
+    <td>20</td>
+    <td>60</td>
+    <td rowspan="3">Bomb</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>10%</td>
+    <td>25%</td>
+    <td>Lobs bombs that home in on a target<br/>within 2 tiles, dealing 15 damage.<br/>Immune to its own bomb blasts.<br/>Item drop is always Cannonball.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Gorilla Bot</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>95</td>
+    <td>69</td>
+    <td>58</td>
+    <td>1750</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>10%</td>
+    <td>25%</td>
+    <td>Same as Wolf Droid, but bombs deal<br/>20 damage and have a 5 tile range.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Bear Borg</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>120</td>
+    <td>80</td>
+    <td>63</td>
+    <td>2500</td>
+    <td>35%</td>
+    <td>Low</td>
+    <td>16%</td>
+    <td>12%</td>
+    <td>Same as Wolf Droid, but bombs deal<br/>25 damage and have a 10 tile range.</td>
   </tr>
 </table>
 
@@ -5716,34 +5766,36 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Wolf Droid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>0</td>
+    <td>4</td>
+    <td>52</td>
+    <td>60</td>
+    <td>Lobs bombs that home in<br/>on a target within 2 tiles,<br/>dealing 15 damage.</td>
+    <td>Same as ally, but can hit<br/>targets outside of view.</td>
   </tr>
   <tr>
     <td>Gorilla Bot</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>0</td>
+    <td>4</td>
+    <td>95</td>
+    <td>109</td>
+    <td colspan="2">Same as Wolf Droid, but bombs deal 20 damage<br/>and have a 5 tile range.</td>
   </tr>
   <tr>
     <td>Bear Borg</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>0</td>
+    <td>4</td>
+    <td>120</td>
+    <td>120</td>
+    <td colspan="2">Same as Wolf Droid, but bombs deal 25 damage<br/>and have a 10 tile range.</td>
   </tr>
 </table>
 
@@ -5758,6 +5810,14 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that looks like a bag. Explodes when it runs out of patience.<br/>
+Turns yellow at 50% HP, changes to red when its HP reaches 25%,<br/>and finally explodes when its HP ≤ 10.<br/>
+In more exact terms, it stops moving when the total damage reaches 90~109,<br/>and explodes with the power of a Big Landmine at 110~119.
+
+Use projectiles if needed to ensure you stay under the explosion threshold.<br/>
+Splash water on it to seal it, preventing it from being able to explode.<br/>
+Appears as early as 1F inside Sealed Room.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5776,16 +5836,16 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Patient Bag</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>120</td>
+    <td>16</td>
+    <td>15</td>
+    <td>200</td>
+    <td>Bomb</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>1%</td>
+    <td>-</td>
+    <td>Stops acting when HP ≤ 30.<br/>Explodes like a Big Landmine<br/>when HP ≤ 10. Also explodes if<br/>it gets hit by explosion damage.</td>
   </tr>
 </table>
 
@@ -5799,16 +5859,16 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Patient Bag</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30</td>
+    <td>4</td>
+    <td>1</td>
+    <td>240</td>
+    <td>46</td>
+    <td>Explosion HP thresholds are<br/>the same as enemy thresholds.</td>
   </tr>
 </table>
 
@@ -5829,6 +5889,14 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that changes appearance as it levels up.<br/>
+It shoots Wooden Arrows, Iron Arrows, or Cannonballs based on rank.<br/>
+It attacks even if a monster is in-between, sometimes resulting in it leveling up.<br/>
+Unlike some of the other games, Pop Tank acts at regular speed in Shiren 2.<br/>
+However, Boy Cart moves at regular speed instead of double speed.<br/>
+A Rust Trap will slow the action speed of Boy Cart, Pop Tank, and Cranky Tank.<br/>
+Doesn't use direct attacks unless it's sealed of confused.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5847,58 +5915,56 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Bow Boy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>17</td>
+    <td>11</td>
+    <td>10</td>
+    <td>14</td>
+    <td rowspan="2">-</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>60%</td>
+    <td>Shoots wooden arrows.<br/>Item drop is always Wooden Arrows.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Boy Cart</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>26</td>
+    <td>10</td>
+    <td>12</td>
+    <td>20</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>8%</td>
+    <td>65%</td>
+    <td>Shoots iron arrows.<br/>Tries to keep a 2 tile distance from<br/>Shiren at all times.<br/>Item drop is always Iron Arrows.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Pop Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>41</td>
+    <td>13</td>
+    <td>17</td>
+    <td>41</td>
+    <td>Bomb</td>
+    <td>25%</td>
+    <td>Low</td>
+    <td>0%</td>
+    <td>40%</td>
+    <td rowspan="2">Fires cannonballs. (20 damage)<br/>Can fire even if Shiren isn't lined up.<br/>Immune to its own cannonball blasts.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Cranky Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>95</td>
+    <td>20</td>
+    <td>52</td>
+    <td>2300</td>
+    <td>Bomb<br/>Swift 1</td>
+    <td>25%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>40%</td>
   </tr>
 </table>
 
@@ -5912,43 +5978,46 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Bow Boy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>32</td>
+    <td>41</td>
+    <td>Shoots wooden arrows.</td>
+    <td>Same as ally, but can<br/>use direct attacks.</td>
   </tr>
   <tr>
     <td>Boy Cart</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>41</td>
+    <td>40</td>
+    <td>Shoots iron arrows.</td>
+    <td>Same as ally, but can<br/>use direct attacks.</td>
   </tr>
   <tr>
     <td>Pop Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>13</td>
+    <td>1</td>
+    <td>2</td>
+    <td>54</td>
+    <td>39</td>
+    <td rowspan="2">Fires cannonballs.<br/>(20 damage)</td>
+    <td rowspan="2">Same as ally, but can<br/>use direct attacks.</td>
   </tr>
   <tr>
     <td>Cranky Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>1</td>
+    <td>2</td>
+    <td>105</td>
+    <td>40</td>
   </tr>
 </table>
 
@@ -5967,6 +6036,17 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Kappa monster that throws items at Shiren.<br/>
+It stands on an item and waits for Shiren to enter the room before throwing it.<br/>
+It can throw scrolls stuck to the ground, but can't throw stacks of arrows or stones.<br/>
+Thrown items can fall into unfilled pots, so leaving an open slot in a Storage Pot<br/>can be an effective way to collect thrown items without getting hit by them.<br/>
+You'll automatically equip thrown cursed equipment unless your inventory is full<br/>or your equipment for that category is already cursed.
+
+It's best to reserve some HP before entering rooms in case you get hit by Gitan.<br/>
+If you see Bored Kappas in a Monster House and don't want to miss out on items,<br/>you can seal them, shoot silver arrows, equip a Pierce Bracelet and shoot or<br/>throw other items from outside the room, read a Shadow Scroll, etc.<br/>
+Kappas throw items back if they miss, so be wary of throwing an Extinction Scroll.<br/>
+They can move on land and in water, but they can't attack while underwater.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -5985,44 +6065,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Bored Kappa</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>11</td>
+    <td>14</td>
+    <td>21</td>
+    <td rowspan="3">Amphibious</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>25%</td>
+    <td>70%</td>
+    <td>Moves toward items and tosses<br/>them in an arc at Shiren.<br/>Priorizes items over Shiren.<br/>Item homes at a target within 5 tiles.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Kappa Pest</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>20</td>
+    <td>30</td>
+    <td>450</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>80%</td>
+    <td>Same as Bored Kappa, but item<br/>homes at a target within 10 tiles.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Vexing Kappa</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>70</td>
+    <td>40</td>
+    <td>57</td>
+    <td>2050</td>
+    <td>35%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>80%</td>
+    <td>Same as Bored Kappa, but item<br/>homes at a target in the room.</td>
   </tr>
 </table>
 
@@ -6036,33 +6114,33 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Bored Kappa</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>70</td>
+    <td>61</td>
     <td></td>
   </tr>
   <tr>
     <td>Kappa Pest</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>100</td>
+    <td>70</td>
     <td></td>
   </tr>
   <tr>
     <td>Vexing Kappa</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>120</td>
+    <td>90</td>
     <td></td>
   </tr>
 </table>
@@ -6078,6 +6156,15 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Monster that can run on water. Boss of Shuten Trail Mid.<br/>
+3 Water Striders appear in the boss room of Shuten Trail Mid, and it appears<br/>as a regular enemy in later dungeons, starting in Onigashima.<br/>
+Acts at double speed, and picks up items and throws them at Shiren.<br/>
+Unlike Bored Kappas, it can carry items and throws them in a straight line.<br/>
+Thrown items never fall into pots, but will instead hit Shiren.<br/>
+It can move over water, and can pick up items that are underwater.<br/>
+Prioritizes picking up items, but focuses on Shiren for a bit after throwing an item.<br/>
+It tries to keep a distance of 2 tiles from Shiren while carrying an item.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6096,16 +6183,16 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Water Strider</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>54</td>
+    <td>18</td>
+    <td>20</td>
+    <td>100</td>
+    <td>Swift 1</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>60%</td>
+    <td>Can walk on water.<br/>Picks up an item and<br/>throws it at Shiren when<br/>he's lined up within 5 tiles.</td>
   </tr>
 </table>
 
@@ -6119,16 +6206,18 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally</th>
+    <th>Possession</th>
   </tr>
   <tr>
     <td>Water Strider</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>10</td>
+    <td>6</td>
+    <td>1</td>
+    <td>114</td>
+    <td>28</td>
+    <td>Drops its item when<br/>returning to its pot.</td>
+    <td>Special: Pick up an item,<br/>and press special again<br/>to throw the item.</td>
   </tr>
 </table>
 
@@ -6149,6 +6238,10 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   </tr>
 </table>
 
+Fish-like monster that can act both on land and inside water.<br/>
+Lv2-4 can attack while underwater, and runs toward water to heal at low HP.<br/>
+It has low defense, but HP is on the higher end.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6167,62 +6260,61 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
   <tr>
     <td>1</td>
     <td>Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>30</td>
+    <td>10</td>
+    <td>3</td>
+    <td>13</td>
+    <td rowspan="4">Amphibious</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Can't attack while underwater.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Lt. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>12</td>
+    <td>4</td>
+    <td>15</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>3%</td>
+    <td>-</td>
+    <td>Can attack while underwater.<br/>Runs underwater at ≤ 15 HP.<br/>Heals 5 HP per turn in water.<br/>Item drop is always Fish Spear.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Capt. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>16</td>
+    <td>5</td>
+    <td>22</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>-</td>
+    <td>Can attack while underwater.<br/>Runs underwater at ≤ 20 HP.<br/>Heals 7 HP per turn in water.<br/>Item drop is always Fish Spear.</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Adm. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>30</td>
+    <td>23</td>
+    <td>550</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>2%</td>
+    <td>-</td>
+    <td>Can attack while underwater.<br/>Runs underwater at ≤ 25 HP.<br/>Heals 9 HP per turn in water.<br/>Item drop is always Fish Spear.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+Oddly, Spearfish has the highest attack when raised to the growth limit.
 
 <table class="itemTable">
   <tr>
@@ -6232,42 +6324,42 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>1</td>
+    <td>80</td>
+    <td>60</td>
     <td></td>
   </tr>
   <tr>
     <td>Lt. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>55</td>
+    <td>27</td>
     <td></td>
   </tr>
   <tr>
     <td>Capt. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>65</td>
+    <td>31</td>
     <td></td>
   </tr>
   <tr>
     <td>Adm. Spearfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>115</td>
+    <td>45</td>
     <td></td>
   </tr>
 </table>

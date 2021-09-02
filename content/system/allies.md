@@ -202,7 +202,7 @@ She has higher base attack than Himakichi and Riku, and has average defense.<br/
 She can prove to be a reliable ally for the Shuten Trails and Onigashima, but like Himakichi and Riku,<br/>
 her inability to equip weapons or shields leaves her underpowered for Sealed Room.
 
-Despite being a member of the Oni family, nothing happens when Oni repelling Water is thrown at her.<br/>
+Despite being a member of the Oni family, nothing happens when Oni-repelling Water is thrown at her.<br/>
 ...Yes, someone was mean enough to try that.
 
 Fire Damage:

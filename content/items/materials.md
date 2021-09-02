@@ -188,7 +188,7 @@ Takes up 2 inventory slots.
 
 Special water that repels Oni.<br/>
 Select [Use] to restore 50HP.<br/>
-No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
+No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.
 
 |Buy|Sell|Phrase EN|Phrase JP|
 |-|-|-|-|
@@ -202,7 +202,7 @@ No effect when thrown at allies or monsters, but can be thrown at Oni to paralyz
 
 Special water that repels Oni.<br/>
 Select [Use] to restore 100HP and cure ailments.<br/>
-No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.
+No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.
 
 |Buy|Sell|Phrase EN|Phrase JP|
 |-|-|-|-|
@@ -216,7 +216,7 @@ No effect when thrown at allies or monsters, but can be thrown at Oni to paralyz
 
 Special water that repels Oni.<br/>
 Select [Use] to restore HP, fullness, and strength to max, and cure ailments.<br/>
-No effect when thrown at allies or monsters, but can be thrown at Oni to paralyze them.<br/>
+No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.<br/>
 Takes up 2 inventory slots.
 
 |Buy|Sell|Phrase EN|Phrase JP|

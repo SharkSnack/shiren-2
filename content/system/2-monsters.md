@@ -220,11 +220,152 @@ Other Enemies / Characters
 
 ## Overview
 
-Text
+#### Enemy Monsters
+
+Monsters generally roam around freely, and approach Shiren once they spot him.<br/>
+They spot Shiren when he enters the same room, or if he's within a 1 tile radius.<br/>(It seems they can also spot him within a 3 tile radius at times, but it's inconsistent)
+
+Some monsters can be found napping inside a room instead of roaming around.<br/>They have a variety of wake conditions, including being attacked, Shiren entering or<br/>exiting the room, Shiren approaching, etc.
+
+Some monsters have special attacks besides the regular damage dealing direct attacks.<br/>These include paralyzing Shiren, lowering strength, stealing an item, and so on.
+
+Shiren and monsters take turns with their actions.<br/>However, some monsters can act 2 or 3 times in the time it takes Shiren to take 1 action.<br/>They're referred to as "swift 1" and "swift 2" based on the number of extra actions they get.
+
+Some monsters can level up when they defeat a character other than Shiren.<br/>When that happens, HP, attack, and defense get reset to the new level's values.<br/>Monsters that defeat ally monsters won't level up, excluding defeating an ally Snacky<br/>or if you're adventuring in Shrine's Hidden Hole (B).
+
+The defense value of a monster is halved when a monster attacks another monster.
+
+Possession Staff can be used to take control of a monster and use their special attack.<br/>However, some possessed monster special attacks have different effects.
+
+The attack power of a monster is set to 1 if they're hit by a poison arrow.
+
+Green Zalokleft, Iron Zalokleft, Rancor Slug, and Intolerable Slug can divide when hit,<br/>creating a fresh copy of the monster that received damage - HP, strength, and status<br/>of the new copy have no relation to the one that was hit.<br/>
+They can't divide if there isn't an open tile in a 1 tile radius, or if they're sealed.
+
+#### Ally Monsters
+
+Ally monsters roam around freely like enemy monsters instead of following Shiren.<br/>
+They fight on their own, and will keep going until they collapse even if their HP gets low.
+
+Most of the characteristics of enemy monsters apply to ally monsters, such as<br/>Landmines instantly defeating them, and HP not regenerating as turns pass.<br/>You can [Call] ally monsters to have them return to their pots and fully restore HP.<br/>
+So really, the main difference between enemy and ally is how level ups are treated.
+
+Unlike ally characters, there's no way to check remaining HP of ally monsters.<br/>(Knowledge Staff displays their max HP, not their current HP)
 
 ## Table Explanation
 
-Text
+#### Defense
+
+Gets divided by 2 if a monster is attacking another monster.
+
+#### Element
+
+Think of elements as categories or types a monster falls into.<br/>
+Monsters can have multiple elements, which can also change within the same family.
+
+<table class="itemTable">
+  <tr>
+    <th>Elem.</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td>Swift 1</td>
+    <td>Acts 2 times in the time it takes Shiren to take 1 action.<br/>Slows to regular speed when sealed.</td>
+  </tr>
+  <tr>
+    <td>Swift 2</td>
+    <td>Acts 3 times in the time it takes Shiren to take 1 action.<br/>Slows to regular speed when sealed.</td>
+  </tr>
+  <tr>
+    <td>Slow</td>
+    <td>Acts 1 time in the time it takes Shiren to take 2 actions.<br/>Returns to regular speed when sealed.</td>
+  </tr>
+  <tr>
+    <td>Floating</td>
+    <td>Can't be trapped, and won't slip on ice.<br/>Can't move over water tiles.<br/>Element is nullified if a Gravity Statue is present.</td>
+  </tr>
+  <tr>
+    <td>Flying</td>
+    <td>Same as Floating, but can move over water and air tiles.</td>
+  </tr>
+  <tr>
+    <td>Wall-clip</td>
+    <td>Can move through and attack from inside breakable walls.<br/>Can detect Shiren from any position on the current floor.<br/>Can't move through walls in Shuffle Dungeon maps.</td>
+  </tr>
+  <tr>
+    <td>Aquatic</td>
+    <td>Can act in water, and is never generated on dry ground.<br/>Can't exit water, but some can attack from underwater.<br/>Can't move at all if forced onto land.</td>
+  </tr>
+  <tr>
+    <td>Amphibious</td>
+    <td>Can move both on land and inside water.</td>
+  </tr>
+  <tr>
+    <td>Magic</td>
+    <td>Special attack is treated as magic, meaning it can be reflected<br/>by Echo Shield (山 seal) and nullified by No Magic Statue.</td>
+  </tr>
+  <tr>
+    <td>Weapon</td>
+    <td>Pour water from a Water Pot to halve their attack power.</td>
+  </tr>
+  <tr>
+    <td>Cyclops</td>
+    <td>Receives more damage when hit by Cyclops Killer (目 seal).</td>
+  </tr>
+  <tr>
+    <td>Drain</td>
+    <td>Receives more damage when hit by Drain Killer (ド seal).</td>
+  </tr>
+  <tr>
+    <td>Ghost</td>
+    <td>Receives more damage when hit by Ghost Sickle (仏 seal).<br/>Receives damage instead of restoring HP from Herb,<br/>Otogiriso, and Heal Staff. (Tiny Phoenix still heals)</td>
+  </tr>
+  <tr>
+    <td>Dragon</td>
+    <td>Receives more damage when hit by Dragon Killer (竜 seal)<br/>or Ryujin Sword (龍 seal).</td>
+  </tr>
+  <tr>
+    <td>Bomb</td>
+    <td>Receives more damage when hit by Crescent Arm (月 seal).<br/>Blast Shield (爆 seal) reduces damage from their specials.<br/>Pour water from a Water Pot to seal them.</td>
+  </tr>
+</table>
+
+#### Sleep
+
+Chance monster is sleeping when generated.
+
+#### Wake
+
+<table class="itemTable">
+  <tr>
+    <th>Type</th>
+    <th>Condition</th>
+  </tr>
+  <tr>
+    <td>1 Tile</td>
+    <td>Wakes up when Shiren walks next to it.</td>
+  </tr>
+  <tr>
+    <td>3 Tiles</td>
+    <td>Wakes up when Shiren walks within 3 tiles of it.</td>
+  </tr>
+  <tr>
+    <td>Low</td>
+    <td>25% chance to wake up when Shiren enters or exits the room.<br/>45% chance to wake up when Shiren walks next to it.</td>
+  </tr>
+  <tr>
+    <td>High</td>
+    <td>45% chance to wake up when Shiren enters or exits the room.<br/>75% chance to wake up when Shiren walks next to it.</td>
+  </tr>
+</table>
+
+#### Drop
+
+Monster's item drop rate.
+
+#### SP
+
+Monster's special attack usage rate.
 
 ## Details
 
@@ -6379,6 +6520,11 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   </tr>
 </table>
 
+Amphibious monster that resembles an Orca.<br/>
+If Shiren walks next to it while it's underwater, it will perform a jumping attack<br/>that has double the power of a direct attack and can hit through corners.<br/>The monster will land 2 tiles forward on the opposite side afterward.<br/>
+The jumping attack can be blocked by Reflect Shield or Dodge Shield.<br/>
+Runs toward water to heal at low HP, but its recovery speed is slower than Spearfish.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6397,44 +6543,42 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Orcan</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>25</td>
+    <td>35</td>
+    <td>250</td>
+    <td rowspan="3">Amphibious</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>100%</td>
+    <td>Jump attack with x2 power of<br/>direct attack when underwater.<br/>Runs underwater at ≤ 20 HP.<br/>Heals 2 HP per turn in water.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Orcada</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>80</td>
+    <td>55</td>
+    <td>42</td>
+    <td>900</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>100%</td>
+    <td>Same as Orcan, but heals 3 HP<br/>per turn in water.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Orcaon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>90</td>
+    <td>60</td>
+    <td>62</td>
+    <td>2000</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>4%</td>
+    <td>100%</td>
+    <td>Same as Orcan, but heals 4 HP<br/>per turn in water.</td>
   </tr>
 </table>
 
@@ -6448,33 +6592,33 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Orcan</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>65</td>
+    <td>40</td>
     <td></td>
   </tr>
   <tr>
     <td>Orcada</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>95</td>
+    <td>70</td>
     <td></td>
   </tr>
   <tr>
     <td>Orcaon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>105</td>
+    <td>75</td>
     <td></td>
   </tr>
 </table>
@@ -6494,6 +6638,12 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   </tr>
 </table>
 
+Dragon type monster that can exhale icy breath that freezes targets.<br/>
+It can only move in water, but it can still attack if it somehow ends up on land.<br/>
+Due to its tall body, it can attack and take damage from targets on land.<br/>
+It won't be able to turn its body if the water it's standing in gets frozen.<br/>
+It can't exhale icy breath at a distant target unless it's in water,<br/>with the exception of when it's first sent out of its pot as an ally.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6512,48 +6662,51 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Aqua Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>55</td>
+    <td>22</td>
+    <td>19</td>
+    <td>100</td>
+    <td rowspan="3">Dragon<br/>Aquatic</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>15%</td>
+    <td>Exhales icy breath, dealing<br/>15 damage and freezing<br/>the target for 1 turn.<br/>Tries to line up with Shiren.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Sea Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>75</td>
+    <td>44</td>
+    <td>43</td>
+    <td>1000</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>20%</td>
+    <td>Same as Aqua Dragon, but<br/>breath deals 20 damage.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Water Shinryu</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>50</td>
+    <td>60</td>
+    <td>2500</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>16%</td>
+    <td>25%</td>
+    <td>Same as Aqua Dragon, but<br/>breath deals 25 damage.</td>
   </tr>
 </table>
 
 #### Ally / Possession Staff
+
+Use an Evaporate Scroll before throwing a Monster Pot when trying to capture one.<br/>
+Ally Aqua Dragon monsters can't move on land, so it can be used as a wall.<br/>
+It uses its icy breath special attack when you send it out of its pot, even on land.<br/>
+Water Shinryu has a high growth limit, so it becomes quite powerful when maxed.
 
 <table class="itemTable">
   <tr>
@@ -6563,33 +6716,33 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Aqua Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>70</td>
+    <td>52</td>
     <td></td>
   </tr>
   <tr>
     <td>Sea Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>2</td>
+    <td>90</td>
+    <td>74</td>
     <td></td>
   </tr>
   <tr>
     <td>Water Shinryu</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>1</td>
+    <td>2</td>
+    <td>150</td>
+    <td>150</td>
     <td></td>
   </tr>
 </table>
@@ -6609,6 +6762,13 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   </tr>
 </table>
 
+Monster that can only be generated inside water.<br/>
+Shotfish monsters can't move or attack when they're outside of water.<br/>
+Shoots water, dealing fixed damage and soaking Shiren's items for various effects.<br/>
+Throw stones or attack using a Fish Spear (水 seal) to deal damage to it from land.<br/>
+Evaporate or Great Hall scrolls remove all water on the current floor, leaving it vulnerable.<br/>
+It can occasionally be seen dueling with Himakichi underwater.
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6627,44 +6787,42 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>5</td>
+    <td>10</td>
+    <td>30</td>
+    <td rowspan="3">Dragon<br/>Aquatic</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>25%</td>
+    <td>30%</td>
+    <td>Shoots water, dealing 5 damage.<br/>Turns all scrolls into wet scrolls.<br/>Scrolls in pots are safe.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Dragon Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>29</td>
+    <td>16</td>
+    <td>15</td>
+    <td>34</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>25%</td>
+    <td>25%</td>
+    <td>Shoots water, dealing 7 damage.<br/>Turns all onigiri into spoiled onigiri.<br/>Onigiri in pots are safe.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>King Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>75</td>
+    <td>15</td>
+    <td>40</td>
+    <td>1800</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>25%</td>
+    <td>20%</td>
+    <td>Shoots water, dealing 11 damage.<br/>Lowers upgrade value of equipped<br/>weapon and shield by 1.<br/>Equipment with 金 seal are safe.</td>
   </tr>
 </table>
 
@@ -6678,33 +6836,33 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <th>Atk+</th>
     <th>Max HP</th>
     <th>Max Atk</th>
-    <th>Notes</th>
+    <th>Ally / Possession</th>
   </tr>
   <tr>
     <td>Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>30</td>
+    <td>20</td>
     <td></td>
   </tr>
   <tr>
     <td>Dragon Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>44</td>
+    <td>31</td>
     <td></td>
   </tr>
   <tr>
     <td>King Shotfish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>1</td>
+    <td>1</td>
+    <td>90</td>
+    <td>30</td>
     <td></td>
   </tr>
 </table>
@@ -6724,6 +6882,13 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   </tr>
 </table>
 
+Oni clan members who can be found in Onigashima.<br/>
+Small Oni lacks abilities, but has high stats compared to other early game monsters.<br/>
+Rocky Oni acts at double speed, and Stumpy Oni throws stones like Porky monsters.<br/>
+Lightning Scroll restores their HP, and thrown Oni-repelling Water inflicts stasis.<br/>
+Monster Pot and Possession Staff are ineffective against Oni.
+
+
 <table class="itemTable">
   <tr>
     <th>Lv</th>
@@ -6742,44 +6907,44 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Small Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>12</td>
+    <td>10</td>
+    <td>6</td>
+    <td>8</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Direct attacks only.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Rocky Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>60</td>
+    <td>15</td>
+    <td>20</td>
+    <td>70</td>
+    <td>Swift 1</td>
+    <td>0%</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Acts at double speed.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Stumpy Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>60</td>
+    <td>15</td>
+    <td>20</td>
+    <td>50</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>40%</td>
+    <td>Throws stones that home<br/>at a target within 3 tiles.<br/>Doesn't move during the<br/>Galaha boss fight.</td>
   </tr>
 </table>
 
@@ -6797,6 +6962,13 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/skinny_oni.png" alt="Skinny Oni Image"/></td>
   </tr>
 </table>
+
+Oni clan members who only appear during the Galaha boss fight in Onigashima.<br/>
+Shoots Iron Arrows from a distance, similar to Boy Carts.<br/>
+However, unlike Boy Carts, they make an effort to avoid shooting their Oni allies.<br/>
+Lv2-3 can only be seen if a Lanky Oni levels up during the boss fight.<br/>
+Lightning Scroll restores their HP, and thrown Oni-repelling Water inflicts stasis.<br/>
+Monster Pot and Possession Staff are ineffective against Oni.
 
 <table class="itemTable">
   <tr>
@@ -6816,44 +6988,43 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Lanky Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>9</td>
+    <td>18</td>
+    <td>60</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>40%</td>
+    <td>Shoots iron arrows.<br/>Only appears during<br/>Galaha boss fight.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Slender Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>41</td>
+    <td>10</td>
+    <td>16</td>
+    <td>50</td>
+    <td rowspan="2">Swift 1</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>40%</td>
+    <td rowspan="2">Shoots iron arrows.<br/>Tries to keep a 2 tile distance<br/>from
+Shiren at all times.<br/>Can't be found naturally.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Skinny Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>50</td>
+    <td>13</td>
+    <td>17</td>
+    <td>60</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>40%</td>
   </tr>
 </table>
 
@@ -6867,6 +7038,12 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/galaha.png" alt="Galaha Image"/></td>
   </tr>
 </table>
+
+Mid boss of Onigashima (16F). Has surprisingly mediocre stats for a boss.<br/>
+Issues orders at his squad of Oni to change formations during the fight.<br/>
+Once defeated, you can't fight him again until after you've defeated Boss Oni.<br/>
+Lightning Scroll restores his HP, and thrown Oni-repelling Water inflicts stasis.<br/>
+Monster Pot and Possession Staff are ineffective against Oni.
 
 <table class="itemTable">
   <tr>
@@ -6886,16 +7063,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Galaha</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>71</td>
+    <td>21</td>
+    <td>23</td>
+    <td>120</td>
+    <td>Weapon</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Issues orders at his squad.<br/>Avoids lining up with Shiren.</td>
   </tr>
 </table>
 
@@ -6909,6 +7086,11 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/boss_oni.png" alt="Boss Oni Image"/></td>
   </tr>
 </table>
+
+Boss of Onigashima. High offense and defense.<br/>
+Has many special abilities, including fire breath and curing ailments.<br/>
+Lightning Scroll restores his HP, and thrown Oni-repelling Water inflicts stasis.<br/>
+Monster Pot and Possession Staff are ineffective against Oni.
 
 <table class="itemTable">
   <tr>
@@ -6928,16 +7110,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Boss Oni</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>450</td>
+    <td>45</td>
+    <td>40</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>30%</td>
+    <td>Immune to fire, Spoil Trap, Pitfall.<br/>Breathes fire in a straight line that<br/>spreads 2 tiles left and right.<br/>Trips Shiren from any position.<br/>Has a move that knocks Shiren<br/>away, dealing 10 damage.<br/>Cures ailments if he receives<br/>damage while afflicted with one.</td>
   </tr>
 </table>
 
@@ -6955,6 +7137,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/manager.png" alt="Manager Image"/></td>
   </tr>
 </table>
+
+NPCs present in dungeon shops. Strongest characters in the game.<br/>
+Doesn't hesitate to punish thieves, and can yell for Sheriffs and Guard Dogs.<br/>
+Changes to enemy mode when Shiren either attacks them or steals.<br/>
+They attack monsters that deal damage to them, and can level up as a result.<br/>
+Shiren will perform an attack instead of initiating a conversation if he tries to talk<br/>while the shopkeeper is chasing a monster.
+
+They won't attack Shiren's body if they're attacked by a possessed monster.<br/>
+Higher ranks reflect magic or projectiles, but stats don't change after a level up.<br/>
+Example: Asst. Manager normally has 700 HP and 300 attack, but an Asst. Manager<br/>who leveled up from a Shopkeeper still only has 500 HP and 200 attack.
 
 <table class="itemTable">
   <tr>
@@ -6974,44 +7166,44 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Shopkeeper</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>500</td>
+    <td>200</td>
+    <td>50</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Blocks the shop's exit when<br/>you pick up merchandise.<br/>Turns hostile if you attack or steal.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Asst. Manager</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>700</td>
+    <td>300</td>
+    <td>70</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Shopkeeper.<br/>Reflects staff magic, and won't<br/>turn hostile when doing so.<br/>Replaces Shopkeepers in Road to<br/>the End starting on 30F.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Manager</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Asst. Manager.<br/>Also reflects projectiles, excluding<br/>those with piercing properties.<br/>Can't be found naturally.</td>
   </tr>
 </table>
 
@@ -7027,6 +7219,21 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/hawker.png" alt="Hawker Image"/></td>
   </tr>
 </table>
+
+Picks up a max of 10 items, leaving a Voucher in their place each time.<br/>
+Talking to Traders opens a window where you can buy items if your inventory isn't full.<br/>
+Prices are the same as dungeon shops, but you can't sell any items.<br/>
+Low attack but high HP, and turn hostile if attacked or if thief mode is active.<br/>
+Drops 25 Vouchers when defeated, and the items they were carrying vanish.
+
+Thief mode is triggered if Traders are defeated by actions performed by Shiren.<br/>
+Stepping on a Landmine won't trigger thief mode, but an Explosion Scroll will.<br/>
+However, if you have a Trapper Bracelet equipped, the Landmine will be deemed<br/>an action performed by Shiren, and so on. (Spoil Trap is excluded)
+
+Drops merchandise if tripped, and doesn't turn hostile or trigger thief mode.<br/>However, swinging a Balance Staff deals damage, so the Trader will turn hostile.<br/>
+You can trip them without risk using a Possessed Armordillo's special attack.<br/>
+Hawkers can only be found naturally inside Hawker Houses in Sealed Room.<br/>
+Hawkers approach Shiren and force the shop window to open, which can be annoying.
 
 <table class="itemTable">
   <tr>
@@ -7046,30 +7253,30 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Trader</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>500</td>
+    <td>10</td>
+    <td>50</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Found in Shuten Trail (Mid, Hard),<br/>Onigashima, Road to the End.<br/>Starting inventory of 2~6 items.<br/>Swaps items on ground with vouchers.<br/>No changes to behavior if sealed.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Hawker</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>700</td>
+    <td>10</td>
+    <td>70</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>High</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Approaches and forces a conversation.<br/>Acts like a Trader after buying an item.<br/>Good source of Angel Seeds.</td>
   </tr>
 </table>
 
@@ -7083,6 +7290,10 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/sheriff.png" alt="Sheriff Image"/></td>
   </tr>
 </table>
+
+NPCs who only appear when Shiren enters thief mode. No special abilities.<br/>
+Few spawn if a Monster House is present, so you could attempt to steal if you find one.<br/>
+They can be banished by an Extinction Scroll, but then more Guard Dogs will spawn<br/>in their place, so there's little point in doing so.
 
 <table class="itemTable">
   <tr>
@@ -7102,16 +7313,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Sheriff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>150</td>
+    <td>150</td>
+    <td>40</td>
+    <td>0</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Appears when thief mode is active.<br/>Takes the place of regular monsters.</td>
   </tr>
 </table>
 
@@ -7125,6 +7336,11 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/guard_dog.png" alt="Guard Dog Image"/></td>
   </tr>
 </table>
+
+NPCs that only appear when Shiren enters thief mode.<br/>
+Not as strong as Shopkeepers or Sheriffs, but acts at double speed.<br/>
+Few spawn if a Monster House is present, so you could attempt to steal if you find one.<br/>
+They can be banished by an Extinction Scroll, but then more Sheriffs will spawn<br/>in their place, so there's little point in doing so.
 
 <table class="itemTable">
   <tr>
@@ -7144,16 +7360,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Guard Dog</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>50</td>
+    <td>40</td>
+    <td>0</td>
+    <td>Swift 1</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Appears when thief mode is active.<br/>Takes the place of regular monsters.</td>
   </tr>
 </table>
 
@@ -7167,6 +7383,10 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/shuten_child.png" alt="Shuten Child Image"/></td>
   </tr>
 </table>
+
+NPCs who you end up having to rescue inside Sealed Room.<br/>
+You'll immediately return from the dungeon after talking to them.<br/>
+Reappears on the next floor if they happen to collapse on the current floor.
 
 <table class="itemTable">
   <tr>
@@ -7186,16 +7406,16 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Shuten Child</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>100</td>
+    <td>1</td>
+    <td>30</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Roams around without attacking.<br/>Return from the dungeon after<br/>you talk to them.</td>
   </tr>
 </table>
 
@@ -7209,6 +7429,15 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/clay_figure.png" alt="Clay Figure Image"/></td>
   </tr>
 </table>
+
+Clay figures made from Soil (castle material).<br/>
+Wanders around the floor on its own, chasing and attacking monsters.<br/>
+Shiren doesn't gain experience points when the figure defeats an enemy.<br/>
+The figure won't level up or grow in strength when it defeats monsters.<br/>
+Monsters level up when they defeat figures.
+
+Once it attacks a monster, it won't attack anything else until that monster is defeated.<br/>
+If it attacks Shiren while confused, it'll chase and attack Shiren until either collapses.
 
 <table class="itemTable">
   <tr>
@@ -7228,44 +7457,44 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Figure</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>15</td>
+    <td>20</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Made from Soil.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Good Figure</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>35</td>
+    <td>20</td>
+    <td>25</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Made from Good Soil.</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Great Figure</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>40</td>
+    <td>35</td>
+    <td>30</td>
+    <td>0</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Made from Perfect Soil.</td>
   </tr>
 </table>
 
@@ -7281,6 +7510,11 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
     <td class="itemPageImage"><img src="../images/monster/oni_doll_2.png" alt="monster_name Image"/></td>
   </tr>
 </table>
+
+Created by Napus villagers for training purposes. Only appears in the Training Hall.<br/>
+Doesn't move or attack, but still provides experience points when defeated.<br/>
+The amount of experience can be boosted by equipping a weapon with 幸 or 天 seals.<br/>
+They can drop onigiri or Gitan if your weapon has 飯, に, or 銭 seals,<br/>but the ケ seal has no effect.
 
 <table class="itemTable">
   <tr>
@@ -7300,29 +7534,29 @@ Oddly, Spearfish has the highest attack when raised to the growth limit.
   <tr>
     <td>1</td>
     <td>Oni Doll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>5</td>
+    <td>0</td>
+    <td>2</td>
+    <td>5</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Drops from the ceiling every few turns.<br/>Goes back up after a few turns.</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Oni Doll 2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>8</td>
+    <td>0</td>
+    <td>3</td>
+    <td>12</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Oni Doll, but grants more exp.<br/>Only appears 0~2 times per session.</td>
   </tr>
 </table>

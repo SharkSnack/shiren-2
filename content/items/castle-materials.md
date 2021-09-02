@@ -23,115 +23,115 @@ metaDescription: "Complete castle material details for Shiren the Wanderer 2: On
 |[Good Iron Sand](#good-iron-sand)|6000<br/>(15000)|1600|-|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in a 1 tile radius.|
 |[Perfect Iron Sand](#perfect-iron-sand)|9000|2400|はめんみ|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in the room.|
 
-※ "Good" grade materials can be purchased for 15,000G each at Shuten Summit.
+※ "Good" grade materials can be purchased for 15000 G each at Shuten Summit.
 
 # Location Chart
 
 <p>
   Castle materials can only be found within the Shuten Trail dungeons,<br/>
   and are always generated on the ground, so monsters will never drop them.<br/>
-  <span class="cautionText">※ Perfect Wood can only be found in Shuten Trail Mid (2nd half)</span>.
+  <span class="cautionText">※ Perfect Wood can only be found in the 2nd half of Shuten Trail Mid.</span>
 </p>
 
-<table class="centeredTable">
+<table>
   <tr>
     <th rowspan="2">Material</th>
     <th colspan="3">Shuten Trail</th>
   </tr>
   <tr>
-    <td>Easy</td>
-    <td>Mid</td>
-    <td>Hard</td>
+    <th>Easy</th>
+    <th>Mid</th>
+    <th>Hard</th>
   </tr>
   <tr>
-    <th>Soil</th>
-    <td style="background-color:lemonchiffon;">X</td>
-    <td style="background-color:lemonchiffon;"></td>
-    <td style="background-color:lemonchiffon;"></td>
+    <td style="background-color:lemonchiffon;">Soil</td>
+    <td style="text-align:center;">X</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Good Soil</th>
-    <td style="background-color:lemonchiffon;"></td>
-    <td style="background-color:lemonchiffon;">X</td>
-    <td style="background-color:lemonchiffon;">X</td>
+    <td style="background-color:lemonchiffon;">Good Soil</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Perfect Soil</th>
-    <td style="background-color:lemonchiffon;"></td>
-    <td style="background-color:lemonchiffon;"></td>
-    <td style="background-color:lemonchiffon;">X</td>
+    <td style="background-color:lemonchiffon;">Perfect Soil</td>
+    <td></td>
+    <td></td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Water</th>
-    <td style="background-color:#b5e3ff;">X</td>
-    <td style="background-color:#b5e3ff;"></td>
-    <td style="background-color:#b5e3ff;"></td>
+    <td style="background-color:rgb(181, 227, 255);">Water</td>
+    <td style="text-align:center;">X</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Good Water</th>
-    <td style="background-color:#b5e3ff;"></td>
-    <td style="background-color:#b5e3ff;">X</td>
-    <td style="background-color:#b5e3ff;">X</td>
+    <td style="background-color:rgb(181, 227, 255);">Good Water</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Perfect Water</th>
-    <td style="background-color:#b5e3ff;"></td>
-    <td style="background-color:#b5e3ff;"></td>
-    <td style="background-color:#b5e3ff;">X</td>
+    <td style="background-color:rgb(181, 227, 255);">Perfect Water</td>
+    <td></td>
+    <td></td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Wood</th>
-    <td style="background-color:papayawhip;">X</td>
-    <td style="background-color:papayawhip;"></td>
-    <td style="background-color:papayawhip;"></td>
+    <td style="background-color:papayawhip;">Wood</td>
+    <td style="text-align:center;">X</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Good Wood</th>
-    <td style="background-color:papayawhip;"></td>
-    <td style="background-color:papayawhip;">X</td>
-    <td style="background-color:papayawhip;">X</td>
+    <td style="background-color:papayawhip;">Good Wood</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Perfect Wood</th>
-    <td style="background-color:papayawhip;"></td>
-    <td style="background-color:papayawhip;">X</td>
-    <td style="background-color:papayawhip;"></td>
+    <td style="background-color:papayawhip;">Perfect Wood</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td></td>
   </tr>
   <tr>
-    <th>Rock</th>
-    <td style="background-color:#e6e6e6;">X</td>
-    <td style="background-color:#e6e6e6;"></td>
-    <td style="background-color:#e6e6e6;"></td>
+    <td style="background-color:rgb(230, 230, 230);">Rock</td>
+    <td style="text-align:center;">X</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Good Rock</th>
-    <td style="background-color:#e6e6e6;"></td>
-    <td style="background-color:#e6e6e6;">X</td>
-    <td style="background-color:#e6e6e6;">X</td>
+    <td style="background-color:rgb(230, 230, 230);">Good Rock</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Perfect Rock</th>
-    <td style="background-color:#e6e6e6;"></td>
-    <td style="background-color:#e6e6e6;"></td>
-    <td style="background-color:#e6e6e6;">X</td>
+    <td style="background-color:rgb(230, 230, 230);">Perfect Rock</td>
+    <td></td>
+    <td></td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Iron Sand</th>
-    <td style="background-color:rgb(193, 193, 193);">X</td>
-    <td style="background-color:rgb(193, 193, 193);"></td>
-    <td style="background-color:rgb(193, 193, 193);"></td>
+    <td style="background-color:rgb(193, 193, 193);">Iron Sand</td>
+    <td style="text-align:center;">X</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <th>Good Iron Sand</th>
-    <td style="background-color:rgb(193, 193, 193);"></td>
-    <td style="background-color:rgb(193, 193, 193);">X</td>
-    <td style="background-color:rgb(193, 193, 193);">X</td>
+    <td style="background-color:rgb(193, 193, 193);">Good Iron Sand</td>
+    <td></td>
+    <td style="text-align:center;">X</td>
+    <td style="text-align:center;">X</td>
   </tr>
   <tr>
-    <th>Perfect Iron Sand</th>
-    <td style="background-color:rgb(193, 193, 193);"></td>
-    <td style="background-color:rgb(193, 193, 193);"></td>
-    <td style="background-color:rgb(193, 193, 193);">X</td>
+    <td style="background-color:rgb(193, 193, 193);">Perfect Iron Sand</td>
+    <td></td>
+    <td></td>
+    <td style="text-align:center;">X</td>
   </tr>
 </table>
 

@@ -38,7 +38,6 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/index',
-      '/price-chart',
       '/items',
       '/system',
       '/dungeons',

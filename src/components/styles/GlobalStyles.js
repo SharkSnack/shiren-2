@@ -78,7 +78,7 @@ export const baseStyles = css`
     margin-top: 4px;
     background-color: #001934;
   }
-  .navBarToggle .iconBar:first-child {
+  .navBarToggle .iconBar:first-of-type {
     margin-top: 0px;
   }
   .video-responsive iframe {
@@ -205,7 +205,7 @@ export const baseStyles = css`
     border-top: 1px solid;
     list-style-type: none;
   }
-  .hitWrapper ul li:first-child {
+  .hitWrapper ul li:first-of-type {
     border-top: 0px;
     margin-top: 0px;
     color: black !important;
@@ -581,7 +581,7 @@ export const baseStyles = css`
     padding: 0;
   }
 
-  table tr:nth-child(2n) {
+  table tr:nth-of-type(2n) {
     background-color: #f8f8f8;
   }
 
@@ -601,8 +601,8 @@ export const baseStyles = css`
     padding: 3px 8px;
   }
 
-  table tr th :first-child,
-  table tr td :first-child {
+  table tr th :first-of-type,
+  table tr td :first-of-type {
     margin-top: 0;
   }
 
@@ -616,7 +616,7 @@ export const baseStyles = css`
   .inGameDescTable th {
     height: 24.5px;
   }
-  .statueTable td:not(:first-child) {
+  .statueTable td:not(:first-of-type) {
     text-align: center;
   }
   /* Price Table (Staves, Pots pages)*/
@@ -695,7 +695,7 @@ export const baseStyles = css`
   .trapTable td {
     padding: 3px;
   }
-  .sealTable td:nth-child(2){
+  .sealTable td:nth-of-type(2){
     text-align: center;
   }
   .sealTable th {
@@ -889,6 +889,12 @@ export const baseStyles = css`
   .gatsby-resp-image-background-image {
     display: none !important;
   }
+  .headingImage {
+    display: inline-block !important;
+  }
+  .headingImage img {
+    position: relative !important;
+  }
   .itemPageImage img {
     position: relative !important;
     background-color: #555;
@@ -899,7 +905,7 @@ export const baseStyles = css`
   .trapTable img {
     position: relative !important;
   }
-  .trapTable td:first-child {
+  .trapTable td:first-of-type {
     background-color: #555;
   }
   /* end image */

@@ -861,6 +861,17 @@ export const baseStyles = css`
     width: auto !important;
     padding: 5px;
   }
+  .otherImage span {
+    margin-left: 0px !important;
+    background-image: none !important;
+    display: block !important;
+  }
+  .otherImage img {
+    height: auto !important;
+    max-height: 240px;
+    width: auto !important;
+    padding: 5px;
+  }
   .allyImage span {
     margin-left: 0px !important;
     background-image: none !important;

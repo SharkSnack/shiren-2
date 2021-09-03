@@ -165,11 +165,14 @@ Enemy monsters never drop castle materials when you trip or defeat them.
 ### Castle Parts
 
 The 5 categories of castle materials are combined in various combinations to make castle parts.<br/>
-The combinations for each type of castle part are:
+
+As shown in the Castle Diagram:
 
 <div class="dungeonImage">
   <img src="../images/other/castle_diagram.png" alt="Castle Diagram Image"/>
 </div>
+
+The combinations for each type of castle part are:
 
 |Part|Materials|
 |-|-|
@@ -206,10 +209,41 @@ Completing the castle grants access to Onigashima, and the ending plays after cl
 
 ### Castle Decorations
 
+<div class="dungeonImage">
+  <img src="../images/other/castle_decoration.png" alt="Castle Decoration Image"/>
+</div>
+
 A variety of castle decorations can be obtained from post-game story events and dungeons.<br/>
 Collecting castle decorations and displaying them is part of the fun of post-game in Shiren 2.<br/>
 See the Castle Decorations page for details on where to obtain each decoration.
 
 ### Changing Parts / Golden Castle
 
+You can upgrade sections of your castle using higher grade castle parts.<br/>
+Try creating a Golden Castle by using Perfect grade castle parts for all sections.
+
 ### Fast Golden Castle
+
+It's possible to return to 11F in Shuten Trail Mid by falling into a Pitfall on 12F,<br/>so one way to quickly collect Perfect Wood would be to bring a Trapper Bracelet<br/>and numerous Pitfalls to repeat 11\~12F.
+
+Preparations:
+
+* Strong weapon
+* Strong shield
+* Scout Bracelet
+* Phantasm Bracelet
+* Revival Grass
+* Balance Staff
+* Warp Grass, Slumber Scroll, etc. for emergencies.
+* 10,000+ Gitan in case a Trader grabs castle materials.
+
+Steps:
+
+1. Level up at the Training Hall.
+    * Equip a sword with many 幸 seals (Happy Grass) to boost experience gain.
+2. Ride the cart to Shuten Halfway.
+    * Give all of your items to Mamo, and don't forget to bring Mamo along.
+3. Proceed to Shuten Mid or Hard for perfect materials.
+    * Use Scout Bracelet to locate items, and take shortcuts using Phantasm Bracelet.
+    * Kengo is the only monster you need to worry about.
+    * Each run takes 7 minutes or so if you have optimal movement.

@@ -15,7 +15,7 @@ export default {
     <h1 className="heading1" id={props.children.replace(/\s+/g, '-').toLowerCase()} {...props} />
   ),
   h2: props => (
-    <h2 className="heading2" id={props.children.replace(/\s+/g, '').toLowerCase()} {...props} />
+    <h2 className="heading2" id={props.children.replace(/\s+/g, '-').toLowerCase()} {...props} />
   ),
   h3: props => (
     <h3 className="heading3" id={props.children.replace(/\s+/g, '-').toLowerCase()} {...props} />

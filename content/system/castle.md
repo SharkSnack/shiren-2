@@ -8,6 +8,8 @@ metaDescription: "Castle Guide for Shiren the Wanderer 2: Oni Invasion!"
   <img src="../images/other/castle.png" alt="Castle Image"/>
 </div>
 
+## Overview
+
 As the story progresses, Shiren soon finds himself having to build a castle for the village.<br/>
 Castle Materials can be found within Shuten Mountain, and each category comes in 3 grades.
 

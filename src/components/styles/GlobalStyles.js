@@ -695,6 +695,21 @@ export const baseStyles = css`
   .trapTable td {
     padding: 3px;
   }
+  .statusTable th {
+    text-align: center;
+    padding: 3px;
+  }
+  .statusTable td {
+    padding: 1px;
+  }
+  .centeredTd {
+    text-align: center;
+  }
+  .statusImageTd {
+    text-align: center;
+    background-color: #4f597a;
+    color: lightgray;
+  }
   .sealTable td:nth-of-type(2){
     text-align: center;
   }
@@ -918,6 +933,9 @@ export const baseStyles = css`
   }
   .trapTable td:first-of-type {
     background-color: #555;
+  }
+  .statusTable img {
+    position: relative !important;
   }
   /* end image */
   .githubBtn {

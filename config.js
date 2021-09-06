@@ -38,9 +38,11 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/index',
+      '/guides',
       '/items',
       '/system',
       '/dungeons',
+      '/other',
     ],
     collapsedNav: [],
     links: [

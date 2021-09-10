@@ -81,7 +81,7 @@ Primary Category Order
   </tr>
   <tr>
     <td>Other</td>
-    <td>Shopkeeper | Trader | Sheriff | Guard Dog | Shuten Child | Clay Figure<br/>Oni Doll</td>
+    <td>Shopkeeper | Trader | Sheriff | Guard Dog | Shuten Child | Figure | Oni Doll</td>
     <td>Miscellaneous characters.</td>
   </tr>
 </table>
@@ -210,7 +210,7 @@ Other Enemies / Characters
   </tr>
   <tr>
     <td></td>
-    <td>Clay Figure</td>
+    <td>Figure</td>
   </tr>
   <tr>
     <td></td>
@@ -7419,14 +7419,14 @@ Reappears on the next floor if they happen to collapse on the current floor.
   </tr>
 </table>
 
-### Clay Figure
+### Figure
 
 <table>
   <tr>
-    <th>Clay Figure</th>
+    <th>Figure</th>
   </tr>
   <tr>
-    <td class="itemPageImage"><img src="../images/monster/clay_figure.png" alt="Clay Figure Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/clay_figure.png" alt="Figure Image"/></td>
   </tr>
 </table>
 

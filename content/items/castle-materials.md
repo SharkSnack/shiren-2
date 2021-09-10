@@ -9,19 +9,19 @@ metaDescription: "Complete castle material details for Shiren the Wanderer 2: On
 |-|-|-|-|-|
 |[Soil](#soil)|3000|800|-|Select [Make] to sculpt a decoy that has 20 HP.|
 |[Good Soil](#good-soil)|6000<br/>(15000)|1600|-|Select [Make] to sculpt a decoy that has 35 HP.|
-|[Perfect Soil](#perfect-soil)|9000|2400|びおんわ|Select [Make] to sculpt a decoy that has 40 HP.|
+|[Perfect Soil](#perfect-soil)|9000|2400|DOSHIN|Select [Make] to sculpt a decoy that has 40 HP.|
 |[Water](#water)|4000|800|-|Select [Use] to restore 50 HP.|
-|[Good Water](#good-water)|8000<br/>(15000)|1600|-|Select [Use] to restore 100 HP.<br/>Also cures ailments.|
-|[Perfect Water](#perfect-water)|12000|2400|ぱらぽき|Select [Use] to restore HP, fullness, and strength to max.<br/>Also cures ailments.|
+|[Good Water](#good-water)|8000<br/>(15000)|1600|-|Select [Use] to restore 100 HP. Also cures ailments.|
+|[Perfect Water](#perfect-water)|12000|2400|ELIXIR|Select [Use] to restore HP, fullness, and strength to max.<br/>Also cures ailments.|
 |[Wood](#wood)|3000|800|-|Throw it to deal 30 damage and 5 tiles of knockback.|
 |[Good Wood](#good-wood)|6000<br/>(15000)|1600|-|Throw it to deal 40 damage and 5 tiles of knockback.|
-|[Perfect Wood](#perfect-wood)|9000|2400|モダテプ|Throw it to deal 50 damage and 5 tiles of knockback.|
+|[Perfect Wood](#perfect-wood)|9000|2400|MAMO|Throw it to deal 50 damage and 5 tiles of knockback.|
 |[Rock](#rock)|3000|800|-|Select [Throw] to make 4~5 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
 |[Good Rock](#good-rock)|6000<br/>(15000)|1600|-|Select [Throw] to make 7~10 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
-|[Perfect Rock](#perfect-rock)|9000|2400|しみれれ|Select [Throw] to make 12~15 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
+|[Perfect Rock](#perfect-rock)|9000|2400|KRON|Select [Throw] to make 12~15 rocks fall from above,<br/>dealing 7 damage per rock to enemies in the room.|
 |[Iron Sand](#iron-sand)|3000|800|-|Throw at a target to inflict blindness.|
 |[Good Iron Sand](#good-iron-sand)|6000<br/>(15000)|1600|-|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in a 1 tile radius.|
-|[Perfect Iron Sand](#perfect-iron-sand)|9000|2400|はめんみ|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in the room.|
+|[Perfect Iron Sand](#perfect-iron-sand)|9000|2400|ORYU|Throw at a target to inflict blindness.<br/>Select [Scatter] to blind all characters in the room.|
 
 ※ "Good" grade materials can be purchased for 15000 G each at Shuten Summit.
 
@@ -147,9 +147,9 @@ Select [Make] to sculpt a 20 HP decoy that wanders around the floor on its own.<
 Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
 but it's also useful for collecting higher level monsters for Monster Kingdom.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|3000|800|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|3000|800|-|
 
 ### Good Soil
 
@@ -161,9 +161,9 @@ Select [Make] to sculpt a 35 HP decoy that wanders around the floor on its own.<
 Monsters that defeat decoys will level up, so it's not only useful for escaping sticky situations,<br/>
 but it's also useful for collecting higher level monsters for Monster Kingdom.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|6000<br/>(15000)|1600|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|6000<br/>(15000)|1600|-|
 
 ### Perfect Soil
 
@@ -176,9 +176,9 @@ Monsters that defeat decoys will level up, so it's not only useful for escaping 
 but it's also useful for collecting higher level monsters for Monster Kingdom.<br/>
 Takes up 2 inventory slots.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|9000|2400|???|びおんわ|
+|Buy|Sell|Phrase|
+|-|-|-|
+|9000|2400|DOSHIN|
 
 ### Water
 
@@ -190,9 +190,9 @@ Special water that repels Oni.<br/>
 Select [Use] to restore 50HP.<br/>
 No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|4000|800|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|4000|800|-|
 
 ### Good Water
 
@@ -204,9 +204,9 @@ Special water that repels Oni.<br/>
 Select [Use] to restore 100HP and cure ailments.<br/>
 No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|8000<br/>(15000)|1600|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|8000<br/>(15000)|1600|-|
 
 ### Perfect Water
 
@@ -219,9 +219,9 @@ Select [Use] to restore HP, fullness, and strength to max, and cure ailments.<br
 No effect when thrown at allies or monsters, but can be thrown at Oni to inflict stasis.<br/>
 Takes up 2 inventory slots.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|12000|2400|???|ぱらぽき|
+|Buy|Sell|Phrase|
+|-|-|-|
+|12000|2400|ELIXIR|
 
 ### Wood
 
@@ -231,9 +231,9 @@ Takes up 2 inventory slots.
 
 Throw it at an enemy to deal 30 damage and 5 tiles of knockback.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|3000|800|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|3000|800|-|
 
 ### Good Wood
 
@@ -243,9 +243,9 @@ Throw it at an enemy to deal 30 damage and 5 tiles of knockback.
 
 Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|6000<br/>(15000)|1600|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|6000<br/>(15000)|1600|-|
 
 ### Perfect Wood
 
@@ -259,9 +259,9 @@ Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
   Takes up 2 inventory slots.
 </p>
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|9000|2400|???|モダテプ|
+|Buy|Sell|Phrase|
+|-|-|-|
+|9000|2400|MAMO|
 
 ### Rock
 
@@ -272,9 +272,9 @@ Throw it at an enemy to deal 40 damage and 5 tiles of knockback.
 Select [Throw] to make 4\~5 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
 If a 10 Damage Statue is present, each rock will deal 10 damage.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|3000|800|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|3000|800|-|
 
 ### Good Rock
 
@@ -285,9 +285,9 @@ If a 10 Damage Statue is present, each rock will deal 10 damage.
 Select [Throw] to make 7\~10 rocks fall from above, dealing 7 damage per rock to enemies in the room.<br/>
 If a 10 Damage Statue is present, each rock will deal 10 damage.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|6000<br/>(15000)|1600|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|6000<br/>(15000)|1600|-|
 
 ### Perfect Rock
 
@@ -299,9 +299,9 @@ Select [Throw] to make 12\~15 rocks fall from above, dealing 7 damage per rock t
 If a 10 Damage Statue is present, each rock will deal 10 damage.<br/>
 Takes up 2 inventory slots.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|9000|2400|???|しみれれ|
+|Buy|Sell|Phrase|
+|-|-|-|
+|9000|2400|KRON|
 
 ### Iron Sand
 
@@ -311,9 +311,9 @@ Takes up 2 inventory slots.
 
 Throw at a target to inflict blindness.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|3000|800|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|3000|800|-|
 
 ### Good Iron Sand
 
@@ -324,9 +324,9 @@ Throw at a target to inflict blindness.
 Throw at a target to inflict blindness.<br/>
 Select [Scatter] to blind all characters in a 1 tile radius.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|6000<br/>(15000)|1600|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|6000<br/>(15000)|1600|-|
 
 ### Perfect Iron Sand
 
@@ -338,6 +338,6 @@ Throw at a target to inflict blindness.<br/>
 Select [Scatter] to blind all characters in the room.<br/>
 Takes up 2 inventory slots.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|9000|2400|???|はめんみ|
+|Buy|Sell|Phrase|
+|-|-|-|
+|9000|2400|ORYU|

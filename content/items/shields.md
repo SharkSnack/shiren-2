@@ -8,11 +8,11 @@ metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasio
 | Name | Seal | Def | Slot | Buy | Sell | Phrase | Info |
 |-|-|-|-|-|-|-|-|
 |[Wooden Shield](#wooden-shield)|-|2|1|2100|500|-|Found with +4 ~ +8 upgrade value.|
-|[Tribal Shield](#tribal-shield)|-|6|5|1500|700|んたぬれ|-|
+|[Tribal Shield](#tribal-shield)|-|6|5|1500|700|MAJORA|-|
 |[Sacred Shield](#sacred-shield)|-|8|16|12000|4000|-|-|
-|[Beetle Shield](#beetle-shield)|-|10|5|7000|3000|へめなの|-|
+|[Beetle Shield](#beetle-shield)|-|10|5|7000|3000|HERO|-|
 |[Ivory Shield](#ivory-shield)|-|12|5|10000|2000|-|Rustproof.|
-|[Fuuma Shield](#fuuma-shield)|-|16|6|15000|3500|ユクムス|-|
+|[Fuuma Shield](#fuuma-shield)|-|16|6|15000|3500|OZIDUAL|-|
 |[Daisangen Shield](#daisangen-shield)|-|30|5|48000|32000|-|Rustproof. Synthesize 3 中 seals onto an Ivory Shield.|
 |[Basilisk Shield](#basilisk-shield)|-|40|13|60000|10000|-|-|
 |[Helix Shield](#helix-shield)|-|50|12|55000|30000|-|-|
@@ -20,19 +20,19 @@ metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasio
 |[Evasive Shield](#evasive-shield)|見|2|5|10000|5000|-|Increases evasion to 35%.|
 |[Echo Shield](#echo-shield)|山|3|5|12000|4000|-|Reflects magic.|
 |[Golden Shield](#golden-shield)|金|4|4|10000|4000|-|Rustproof. (Blue seal)|
-|[Leather Shield](#leather-shield)|皮|4|5|2000|1000|どでとぴ|Halves hunger rate. Rustproof.|
+|[Leather Shield](#leather-shield)|皮|4|5|2000|1000|KOPPA|Halves hunger rate. Rustproof.|
 |[Dodge Shield](#dodge-shield)|身|5|4|15000|7500|-|Projectiles aimed at you will miss.|
-|[Holy Shield](#holy-shield)|祓|5|5|10000|2500|ドピセモ|Prevents your items from getting cursed.|
+|[Holy Shield](#holy-shield)|祓|5|5|10000|2500|SATORI|Prevents your items from getting cursed.|
 |[Gamarra Shield](#gamarra-shield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
-|[Scale Shield](#scale-shield)|う|6|5|6000|3000|ヌスネア|Prevents poison from decreasing strength.|
+|[Scale Shield](#scale-shield)|う|6|5|6000|3000|MATO|Prevents poison from decreasing strength.|
 |[Happy Shield](#happy-shield)|幸|6|5|15000|3500|-|Gain exp equal to 130% of damage received.|
 |[Walrus Shield](#walrus-shield)|ト|6|6|6000|1500|-|Prevents monsters from stealing items and Gitan.|
 |[Reflect Shield](#reflect-shield)|返|7|4|18000|5000|-|Reflects projectiles.|
-|[Counter Shield](#counter-shield)|バ|7|5|4000|1000|ぎぼびわ|Reflects 30% of damage received back at monsters.|
+|[Counter Shield](#counter-shield)|バ|7|5|4000|1000|KORBEN|Reflects 30% of damage received back at monsters.|
 |[Traproid Shield](#traproid-shield)|カ|8|4|12000|6000|-|Traps you step on will not activate.|
-|[Blast Shield](#blast-shield)|爆|8|5|5000|2000|ねぺなは|Reduces explosion damage by 30%.|
+|[Blast Shield](#blast-shield)|爆|8|5|5000|2000|PANDORA|Reduces explosion damage by 30%.|
 |[Dragon Shield](#dragon-shield)|竜|14|5|8000|4000|-|Reduces fire damage by 30%.|
-|[Heavy Shield](#heavy-shield)|重|15|3|3000|1200|ゾテソボ|Doubles hunger rate.|
+|[Heavy Shield](#heavy-shield)|重|15|3|3000|1200|WRIGHT|Doubles hunger rate.|
 |[Disposable Shield](#disposable-shield)|捨|40|3|1600|600|-|Decrease upgrade value by 1 when taking damage.|
 |[Halberd Shield](#halberd-shield)|-|7|5|13000|5000|-|Two-handed. Raises both attack and defense.|
 
@@ -69,9 +69,9 @@ Locations Key:
 Low defense, but comes with an upgrade value ranging from +4 to +8.<br/>
 It is never found cursed. Use as synthesis fodder to strengthen a stronger shield.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|2|1|2100|500|175|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|2|1|2100|500|175|-|-|
 
 Locations:
 
@@ -124,9 +124,9 @@ Locations:
 Can be useful as a synthesis seal container since it doesn't have an innate ability.<br/>
 It's a bit too weak to use as a main shield.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|6|5|1500|700|150|-|???|んたぬれ|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|6|5|1500|700|150|-|MAJORA|
 
 Locations:
 
@@ -179,9 +179,9 @@ Locations:
 This shield doesn't have an ability, but comes with max synthesis slots.<br/>
 Doesn't have very high defense, but the number of slots easily makes up for it.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|8|16|12000|4000|1200|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|8|16|12000|4000|1200|-|-|
 
 Locations:
 
@@ -234,9 +234,9 @@ Locations:
 Shield made out of a giant beetle shell. Doesn't have an innate ability.<br/>
 Pretty solid defense, and can be used as a main shield.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|10|5|7000|3000|700|-|???|へめなの|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|10|5|7000|3000|700|-|HERO|
 
 Locations:
 
@@ -290,9 +290,9 @@ Shield made of ivory. Rustproof.<br/>
 Transforms into Daisangen Shield with 3 中 seals.<br/>
 The rustproof ability won't transfer if used as synthesis fodder.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|12|5|10000|2000|1000|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|12|5|10000|2000|1000|-|-|
 
 Locations:
 
@@ -345,9 +345,9 @@ Locations:
 Shield with high defense. Good option as a main shield.<br/>
 Insert a Fuuma Shield+99 into a Presto Pot to transform it into a Helix Shield,<br/>though note that upgrade value and seals will reset if you do so.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|16|6|15000|3500|1500|-|???|ユムクス|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|16|6|15000|3500|1500|-|OZIDUAL|
 
 Locations:
 
@@ -401,9 +401,9 @@ Created by synthesizing 3 中 seals onto an Ivory Shield. Rustproof.<br/>
 Difficult to make due to the rarity of Dragon Tile Bracelets.<br/>
 Cannot be used as synthesis fodder.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|30|5|48000|32000|4800|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|30|5|48000|32000|4800|-|-|
 
 Locations:
 
@@ -456,9 +456,9 @@ Locations:
 Legendary shield exclusive to Shiren 2, and it's the 2nd strongest shield in the game.<br/>
 Very high defense and slot count, which makes it excellent as a main shield.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|40|13|60000|10000|6000|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|40|13|60000|10000|6000|-|-|
 
 Locations:
 
@@ -512,9 +512,9 @@ Strongest shield in the game.<br/>
 Obtained by inserting a Fuuma Shield+99 into a Presto Pot.<br/>
 Recommended to synthesize Blank Scrolls with Mixer monsters to increase the number of slots.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|50|12|55000|30000|5500|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|50|12|55000|30000|5500|-|-|
 
 Locations:
 
@@ -568,9 +568,9 @@ Created by synthesizing 3 重 seals onto a Heavy Shield.<br/>
 Shield that sets max fullness to 1% while also stopping hunger.<br/>
 Hunger Puppets can lower your fullness, and Kengo can disarm your shield, so still be careful.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|サ|1|1|40000|20000|4000|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|サ|1|1|40000|20000|4000|No|-|
 
 Locations:
 
@@ -623,9 +623,9 @@ Locations:
 Shield that makes it easier to evade direct attacks by increasing your evasion to 35%.<br/>
 Great seal to have, since higher evasion means bracelets last longer.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|見|2|5|10000|5000|1000|Yes|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|見|2|5|10000|5000|1000|Yes|-|
 
 Stacked Effect:
 
@@ -731,9 +731,9 @@ Locations:
 Reflects magic, including Gazer hypnosis, Tusker staves, Sheep Priest spells, and Grass Gainer.<br/>
 Cannot reflect Straw Voodoll curses, Twisty Hani dances, or Hunger Puppet songs.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|山|3|5|12000|4000|1200|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|山|3|5|12000|4000|1200|No|-|
 
 Locations:
 
@@ -787,9 +787,9 @@ Shield made out of gold. Low defense, but it will never rust.<br/>
 Provides a blue 金 seal when synthesized.<br/>
 Monsoon Dolls tear off red 金 seals first, but a blue 金 has the same odds to be erased as other seals.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|金|4|4|10000|4000|1000|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|金|4|4|10000|4000|1000|No|-|
 
 Locations:
 
@@ -842,9 +842,9 @@ Locations:
 Shield that halves your hunger rate. Rustproof.<br/>
 Ally Kengo will always fling a Leather Shield in dungeons where shields normally do not appear.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|皮|4|5|2000|1000|200|Yes|???|どでとぴ|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|皮|4|5|2000|1000|200|Yes|KOPPA|
 
 Stacked Effect:
 
@@ -951,9 +951,9 @@ Shield that lets you dodge projectiles, making it very easy to collect arrows.<b
 Cannonballs will still explode, and dodged objects can activate traps if you're standing on one.<br/>
 The 返 seal takes priority if you also have that synthesized.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|身|5|4|15000|7500|1500|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|身|5|4|15000|7500|1500|No|-|
 
 Locations:
 
@@ -1007,9 +1007,9 @@ Shield that prevents your items from getting cursed by Straw Voodoll monsters.<b
 Synthesizing a Purify Scroll with a Mixer monster provides the same effect.<br/>
 This shield is never found cursed.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|祓|5|5|10000|2500|1000|No|???|ドピセモ|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|祓|5|5|10000|2500|1000|No|SATORI|
 
 Locations:
 
@@ -1062,9 +1062,9 @@ Locations:
 Obtain Gitan equal to 10% of the amount of damage received from enemy attacks.<br/>
 It's quite rare, despite its lackluster ability.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|銭|5|5|4000|1600|400|Yes|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|銭|5|5|4000|1600|400|Yes|-|
 
 Stacked Effect:
 
@@ -1170,9 +1170,9 @@ Locations:
 Prevents poison arrows, poison grass, and Scorpion stings from lowering strength.<br/>
 Note that it doesn't prevent loss of strength from Slug licks or Spoiled Onigiri.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|う|6|5|6000|3000|600|No|???|ヌスネア|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|う|6|5|6000|3000|600|No|MATO|
 
 Locations:
 
@@ -1226,9 +1226,9 @@ Gain exp equal to 130% of the amount of damage you receive from attacks.<br/>
 Good to equip early on, but you'll want to switch to a stronger shield as you progress.<br/>
 Note that you won't gain exp from traps.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|幸|6|5|15000|3500|1500|Yes|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|幸|6|5|15000|3500|1500|Yes|-|
 
 Stacked Effect:
 
@@ -1335,9 +1335,9 @@ Shield modeled after a Zalokleft.<br/>
 Prevents item and Gitan theft by Zalokleft, Gamarra, and Gyadon monsters.<br/>
 It can't prevent Kengo monsters from disarming you, since disarming is not considered stealing.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|ト|6|6|6000|1500|600|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|ト|6|6|6000|1500|600|No|-|
 
 Locations:
 
@@ -1391,9 +1391,9 @@ Reflects projectiles, including cannonballs, porky stones, and monsters.<br/>
 If a reflected cannonball hits a Shopkeeper, they will attack you instead of the monster.<br/>
 Cannot reflect silver arrows or objects falling from above.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|返|7|4|18000|5000|1800|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|返|7|4|18000|5000|1800|No|-|
 
 Locations:
 
@@ -1447,9 +1447,9 @@ Shield that reflects 30% of damage received from physical attacks back at monste
 Note that reflected damage can still cause Slugs and Zaloklefts to divide.<br/>
 Cannot reflect damage if the target is inside a wall.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|バ|7|5|4000|1000|400|Yes|???|ぎぼびわ|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|バ|7|5|4000|1000|400|Yes|KORBEN|
 
 Stacked Effect:
 
@@ -1556,9 +1556,9 @@ Shield that prevents traps from activating.<br/>
 You can still choose to manually trigger traps if you're standing on one.<br/>
 One of the strongest seals in the game, to the point of being a balance breaker.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|カ|8|4|12000|6000|1200|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|カ|8|4|12000|6000|1200|No|-|
 
 Locations:
 
@@ -1611,9 +1611,9 @@ Locations:
 Shield that reduces damage from explosions by 30%.<br/>
 Explosion damage sources include landmines, bomber statues, Pop Tank, Wolf Roid, Patient Bag, etc.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|爆|8|5|5000|2000|500|Yes|???|ねぺなは|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|爆|8|5|5000|2000|500|Yes|PANDORA|
 
 Stacked Effect:
 
@@ -1720,9 +1720,9 @@ Shield that reduces fire damage by 30%.<br/>
 Can be used as a main shield, or as a secondary shield for floors with Archdragons.<br/>
 Pair it with a 火 seal to increase the fire damage reduction to 50%. (30% + 20% = 50%)
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|竜|14|5|8000|4000|800|Yes|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|竜|14|5|8000|4000|800|Yes|-|
 
 Stacked Effect:
 
@@ -1829,9 +1829,9 @@ Shield with high defense, but also doubles hunger rate.<br/>
 Synthesize a 皮 seal to counter the effect, but with only 3 slots, it's not really worth it.<br/>
 Synthesize 3 重 seals onto it to transform it into a Nirvana Shield.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|重|15|3|3000|1200|300|No|???|ゾテソボ|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|重|15|3|3000|1200|300|No|WRIGHT|
 
 Locations:
 
@@ -1884,9 +1884,9 @@ Locations:
 Starts out with very high defense, but loses 1 upgrade value every time you take damage.<br/>
 Fixed damage such as quarter staff will still lower its upgrade value, but traps,<br/>poison grass, surprise pot explosions, and fire pillars won't.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|捨|40|3|1600|600|160|No|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|捨|40|3|1600|600|160|No|-|
 
 Locations:
 
@@ -1940,9 +1940,9 @@ Two-handed shield that raises both attack and defense when equipped.<br/>
 Decent option early on, but you'll want to switch to stronger equipment as you progress.<br/>
 Can only be used as a base in synthesis.
 
-|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|-|-|-|
-|-|7|5|13000|5000|1300|-|-|-|
+|Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
+|-|-|-|-|-|-|-|-|
+|-|7|5|13000|5000|1300|-|-|
 
 Locations:
 

@@ -11,14 +11,14 @@ metaDescription: "Shuten Trail Mid dungeon guide for Shiren the Wanderer 2: Oni 
 Dungeon you can enter after clearing Shuten Trail Easy.
 
 There are more troublesome monsters compared to the first trail,<br/>
-and you'll want to be particularly careful while progressing<br/>
-through Dororo Creek, Wandering Cave, and Phantom Pass.<br/>
+and you'll want to be particularly careful while progressing through<br/>
+Dororo Creek, Wandering Cave, and Phantom Pass.<br/>
 
 There's a boss fight on 13F, so it's good to keep Shadow, Slumber,<br/>
 and Lightning scrolls on hand, along with Dragon and Swift grasses.
 
 <p>
-  <span class="cautionText">※ <a href="/shiren-2/items/materials#perfect-wood">Perfect Wood</a> can only be found in the second half of Shuten Trail Mid.</span>
+  <span class="cautionText">※ <a href="/shiren-2/items/materials#perfect-wood">Perfect Wood</a> can only be found in the 2nd half of Shuten Trail Mid.</span>
 </p>
 
 Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.

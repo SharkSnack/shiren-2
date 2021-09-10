@@ -27,7 +27,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td>-</td>
     <td rowspan="3">4000</td>
     <td rowspan="3">2000</td>
-    <td>リヒピシ</td>
+    <td>ICHIRO</td>
     <td>Thrown items pierce through walls and monsters.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td>-</td>
     <td rowspan="2">7500</td>
     <td>3000</td>
-    <td>メペング</td>
+    <td>MAYHEW</td>
     <td>Thrown items will always hit their target.</td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
   <tr>
     <td><a href="#scout-bracelet">Scout Bracelet</a></td>
     <td>-</td>
-    <td>ベゲトザ</td>
+    <td>ENDAR</td>
     <td>Reveals monster, item, and statue locations on the map.</td>
   </tr>
   <tr>
@@ -127,7 +127,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
   <tr>
     <td><a href="#no-hunger-bracelet">No Hunger Bracelet</a></td>
     <td>-</td>
-    <td>セダベタ</td>
+    <td>KUFUKU</td>
     <td>Stops natural fullness depletion.</td>
   </tr>
   <tr>
@@ -170,9 +170,9 @@ Locations Key:
 Protects against the level down effects of Twisty Hani's dance and Gazelle Pope spells.<br/>
 Doesn't prevent level down effects from eating or getting hit by grasses.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|3000|1500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|3000|1500|-|-|
 
 Locations:
 
@@ -217,9 +217,9 @@ Thrown items will fly forever, passing through walls and monsters.<br/>
 Be careful not to accidentally throw important items while it's equipped.<br/>
 Useful for clearing out a Monster House from outside the room or lines of monsters in hallways,<br/>but can cause accidents if the thrown item or projectile hits a Shopkeeper.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|4000|2000|-|???|リヒピシ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|4000|2000|-|ICHIRO|
 
 Locations:
 
@@ -264,9 +264,9 @@ Thrown items will always miss their target, including throwing items at Mixer mo
 Can be used to activate traps if a monster is standing on one.<br/>
 Provides a 中 seal which is needed for synthesizing Daisangen equipment.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|中|4000|2000|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|中|4000|2000|No|-|
 
 Locations:
 
@@ -311,9 +311,9 @@ Thrown items will fly in a random direction.<br/>
 There's no practical use for it, but it can be sold for a decent amount.<br/>
 Ally Shihan will always fling this bracelet in dungeons where bracelets normally do not appear.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|4000|2000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|4000|2000|-|-|
 
 Locations:
 
@@ -357,9 +357,9 @@ Locations:
 Protects against strength lowering Slug licks and Sheep Priest spells.<br/>
 It doesn't protect against strength loss from poisons, such as poison arrows and Scorpion stings.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|-|
 
 Locations:
 
@@ -404,9 +404,9 @@ Restores 5 HP per turn, but also doubles hunger rate.<br/>
 Plays well with Nirvana Shield and No Hunger Bracelet.<br/>
 Asuka can equip it without any negative side effects.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|-|
 
 Locations:
 
@@ -450,9 +450,9 @@ Locations:
 Thrown items will curve when hitting walls or corners.<br/>
 Porky stones and piercing items such as silver arrows won't be affected.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|-|
 
 Locations:
 
@@ -496,9 +496,9 @@ Locations:
 Prevents Hunger Puppet songs from lowering fullness or max fullness.<br/>
 Not very useful, but can be sold for a decent amount.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|-|
 
 Locations:
 
@@ -542,9 +542,9 @@ Locations:
 Makes you drop items randomly as you walk.<br/>
 No practical use for it, but it can be sold for a decent amount.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|-|
 
 Locations:
 
@@ -588,9 +588,9 @@ Locations:
 Increases strength by 3 while equipped.<br/>
 Has a higher selling price compared to other 5,000 Gitan bracelets.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|3400|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|3400|-|-|
 
 Locations:
 
@@ -634,9 +634,9 @@ Locations:
 Thrown items will always hit their target.<br/>
 Can be paired with Pierce Bracelet to quickly thin out groups of monsters.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|7500|3000|-|???|メペング|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|7500|3000|-|MAYHEW|
 
 Locations:
 
@@ -680,9 +680,9 @@ Locations:
 Your direct attacks turn into x5.0 damage super critical hits.<br/>
 However, the bracelet will shatter the moment you take damage.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|7500|1500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|7500|1500|-|-|
 
 Locations:
 
@@ -727,9 +727,9 @@ Lets you walk through walls and float over water.<br/>
 Drains HP equal to 5% of your max HP each turn inside a wall.<br/>
 Unequip over water or inside a wall to warp to a random room on the current floor.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|10000|5000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|10000|5000|-|-|
 
 Locations:
 
@@ -774,9 +774,9 @@ Reveals monster, item, and statue locations on the map.<br/>
 Possibly the strongest single item effect in the game.<br/>
 Some players personally ban its usage, due to it being a balance breaker.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|10000|5000|-|???|ベゲトザ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|10000|5000|-|ENDAR|
 
 Locations:
 
@@ -820,9 +820,9 @@ Locations:
 Increases evasion, halving the accuracy of monster direct attacks and projectiles.<br/>
 However, it's made of paper, so it will burn up if you take fire damage.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|15000|7500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|15000|7500|-|-|
 
 Locations:
 
@@ -869,9 +869,9 @@ The attacking monster will level up if it defeats another monster due to this ef
 Bracelets will still take damage when successfully redirecting attacks.<br/>
 Asuka will not redirect attacks when she has this bracelet equipped.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|15000|7500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|15000|7500|-|-|
 
 Locations:
 
@@ -916,9 +916,9 @@ Stops hunger. No negative side effects.<br/>
 Doesn't prevent HP loss if your fullness is already at 0%.<br/>
 It only stops natural hunger depletion, so Hunger Puppet songs will still lower fullness.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|15000|7500|-|???|セダベタ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|15000|7500|-|KUFUKU|
 
 Locations:
 
@@ -962,9 +962,9 @@ Locations:
 Doubles hunger rate.<br/>
 There's no practical use for it, but it can be sold for a large sum of Gitan.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|15000|7500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|15000|7500|-|-|
 
 Locations:
 
@@ -1011,9 +1011,9 @@ Note that defeating a Trader using traps triggers thief mode.<br/>
 Pair it with a Scout Bracelet to display all traps on the current floor on the map.<br/>
 It's not mentioned in the description, but modifiers that lower attack and exp gain<br/>are applied like inside the "Halfway Well" dungeon while it's equipped.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|25000|1000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|25000|1000|-|-|
 
 Locations:
 

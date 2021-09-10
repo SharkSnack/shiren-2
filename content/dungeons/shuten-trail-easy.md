@@ -228,7 +228,7 @@ New arrivals for 9F include Nigiri Morph and Tiger Tosser.
 
 Nigiri Morph can transform an inventory item into a Large Onigiri.<br/>
 It's particularly bad if a Storage Pot gets turned into an onigiri since you
-lose all contents,<br/>so don't hesitate to use items to attack from a distance or prevent it from acting.
+lose all contents,<br/>so don't hesitate to use items to either attack from a distance or prevent it from acting.
 
 Tiger Tosser has high attack, and throws Shiren either at other monsters or onto traps.
 
@@ -247,8 +247,8 @@ you take per encounter, along with a greater risk of getting hit by special atta
 There are usually multiple castle materials on the ground in this area,<br/>
 so search every room to collect as many as you can.<br/>
 Materials found in Shuten Trail Easy are of the lowest grade, so you'll likely<br/>
-want to switch to higher grade materials after building up the castle a bit<br/>
-to stop the Oni from easily destroying sections of the castle during later events.
+want to switch to higher grade materials after building up the castle a bit to<br/>
+stop the Oni from easily destroying sections of the castle during later events.
 
 # Monsters
 

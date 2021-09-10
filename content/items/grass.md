@@ -27,7 +27,7 @@ metaDescription: "Complete grass details for Shiren the Wanderer 2: Oni Invasion
     <td>薬</td>
     <td>100</td>
     <td>50</td>
-    <td>マジナイ</td>
+    <td>PHRASE</td>
     <td>Restores 25 HP. Increases max HP by 2 if already max.<br/>Used in synthesizing a Healing Sword.</td>
   </tr>
   <tr>
@@ -87,14 +87,14 @@ metaDescription: "Complete grass details for Shiren the Wanderer 2: Oni Invasion
     <td>-</td>
     <td rowspan="4">500</td>
     <td>100</td>
-    <td>おたべは</td>
+    <td>MURRAY</td>
     <td>Deals a random negative effect to characters in the room.</td>
   </tr>
   <tr>
     <td><a href="#otogiriso">Otogiriso</a></td>
     <td>弟</td>
     <td rowspan="3">250</td>
-    <td>ノザノサ</td>
+    <td>SECRET</td>
     <td>Restores 100 HP. Increases max HP by 4 if already max.<br/>Used in synthesizing a Healing Sword.</td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ metaDescription: "Complete grass details for Shiren the Wanderer 2: Oni Invasion
     <td>-</td>
     <td>2500</td>
     <td>1250</td>
-    <td>ヨワハゼ</td>
+    <td>CLOVER</td>
     <td>Revives you if you collapse while carrying it.<br/>No effect if it's inside a pot.</td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ metaDescription: "Complete grass details for Shiren the Wanderer 2: Oni Invasion
     <td>天</td>
     <td>3000</td>
     <td>1500</td>
-    <td>アトノセ</td>
+    <td>KAMINA</td>
     <td>Increases level by 3.</td>
   </tr>
 </table>
@@ -195,9 +195,9 @@ Locations Key:
 Restores 5% fullness like all other grasses, but otherwise doesn't have an effect.<br/>
 Revival Grass turns into this grass after taking effect.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|50|25|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|50|25|-|-|
 
 Locations:
 
@@ -242,9 +242,9 @@ Restores 25 HP. Increases max HP by 2 points if HP is already at max.<br/>
 Can be thrown at Ghost type monsters to deal 25 damage.<br/>
 The 薬 seal restores a small amount of HP when you attack (weapon) or take damage (shield),<br/>and is 1 of the 3 seals needed to synthesize a Healing Sword.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|薬|100|50|Yes|???|マジナイ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|薬|100|50|Yes|PHRASE|
 
 Stacked Effect:
 
@@ -338,9 +338,9 @@ Decreases level by 1 when eaten.<br/>
 Can be thrown at a monster to decrease their level by 1.<br/>
 Plays well with Pierce Bracelet.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|300|150|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|300|150|-|-|
 
 Locations:
 
@@ -385,9 +385,9 @@ Increases action speed by 1 stage for 12 turns.<br/>
 Max action speed stage is +2, where you get 3 actions per turn.<br/>
 If thrown at a monster, the target will gain a permanent action speed boost.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|300|150|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|300|150|-|-|
 
 Locations:
 
@@ -432,9 +432,9 @@ Warps you to a random room on the current floor when eaten.<br/>
 Can be thrown at a monster to warp them instead.<br/>
 Nice for escaping sticky situations, but you might jump out of the frying pan and into the fire.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|300|150|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|300|150|-|-|
 
 Locations:
 
@@ -479,9 +479,9 @@ Increases max HP by 5 points when eaten.<br/>
 Provides the 命 seal when synthesized, which is used in synthesizing a Healing Sword.<br/>
 When synthesized onto a shield, the 命 seal increases the shield's base defense by 2 points.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|命|400|200|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|命|400|200|Yes|-|
 
 Stacked Effect:
 
@@ -574,9 +574,9 @@ Locations:
 Increases max fullness by 10% when eaten. (Max fullness maxes out at 200%)<br/>
 You might as well eat it right away instead of waiting to find Boost Grass.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|400|200|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|400|200|-|-|
 
 Locations:
 
@@ -620,9 +620,9 @@ Locations:
 Decreases max fullness by 10% when eaten. (Lowest max fullness value is 0%)<br/>
 Nothing good will come from keeping it on hand, so sell it, insert it into a Presto Pot, or discard it.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|400|200|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|400|200|-|-|
 
 Locations:
 
@@ -668,9 +668,9 @@ Can be thrown at Slug monsters to deal 50 damage.<br/>
 The 消 seal is equivalent to the う seal from a Scale Shield, and blocks poison.<br/>
 Note that both of these seal are unable to block Slug licks.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|消|400|200|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|消|400|200|No|-|
 
 Locations:
 
@@ -715,9 +715,9 @@ Lowers your level to 1 and reduces current HP to 1 when eaten.<br/>
 Provides the 超 seal if synthesized, which curses the equipment<br/>and lowers your level by 1 every time you attack (weapon) or take damage (shield).<br/>
 Likely the most dangerous item in the game, but only appears in shops inside Road to the End (71F+).
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|超|400|200|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|超|400|200|No|-|
 
 Locations:
 
@@ -762,9 +762,9 @@ Makes you tell a joke, pun, or story which deals a random effect to characters i
 Effects include slow, sleep, confusion, paralysis, freeze, anger NPCs, and \~30 damage.<br/>
 If no one else is in the room, you become the target of the effect.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|500|100|-|???|おたべは|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|500|100|-|MURRAY|
 
 Locations:
 
@@ -810,9 +810,9 @@ Can be thrown at Ghost type monsters to deal 100 damage.<br/>
 The 弟 seal restores some HP when you attack (weapon) or take damage (shield),<br/>and is 1 of the 3 seals used in synthesizing a Healing Sword.<br/>
 Excellent to synthesize onto shields in particular.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|弟|500|250|Yes|???|ノザノサ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|弟|500|250|Yes|SECRET|
 
 Stacked Effect:
 
@@ -905,9 +905,9 @@ Locations:
 Grass that allows you to see hidden traps and invisible monsters.<br/>
 Also cures blindness. The effect wears off if you become blinded after eating it.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|500|250|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|500|250|-|-|
 
 Locations:
 
@@ -952,9 +952,9 @@ Perform a ranged fire attack that deals 63~77 damage when eaten.<br/>
 Can also be thrown to deal 45~55 damage.<br/>
 The 火 seal lets you perform a ranged fire attack when you swing your weapon at max HP,<br/>or reduces fire damage if synthesized onto a shield.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|火|500|250|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|火|500|250|Yes|-|
 
 Stacked Effect:
 
@@ -1071,9 +1071,9 @@ Can also be thrown to deal 40~49 damage.<br/>
 The 火 seal lets you perform a ranged fire attack when you swing your weapon at max HP,<br/>or reduces fire damage if synthesized onto a shield.<br/>
 Basically a weaker Dragon Grass, but worth more Gitan.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|火|700|350|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|火|700|350|Yes|-|
 
 Stacked Effect:
 
@@ -1190,9 +1190,9 @@ Also doubles the effectiveness of Grass Gainer, Grass Tosser, and Grass Effect P
 Some grasses don't gain boosted effects, such as Revival, Sight, Antidote, etc.<br/>
 Often used before strength grass.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -1238,9 +1238,9 @@ Often used with Grass Gainer, Grass Toss taff, or Boost Grass to increase gains.
 The ち seal increases a weapon's base attack by 2 points.<br/>
 Mr. Drone always drops this grass.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|ち|1500|700|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|ち|1500|700|Yes|-|
 
 Stacked Effect:
 
@@ -1336,9 +1336,9 @@ Deals 5 damage, lowers strength by 1 point, and inflicts slow when eaten.<br/>
 Can be thrown at a monster to inflict slow and reduce its attack (x0.6).<br/>
 Note that it has the same price as Strength Grass.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1500|700|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1500|700|-|-|
 
 Locations:
 
@@ -1384,9 +1384,9 @@ Can be thrown at a monster to increase its level by 1.<br/>
 The 幸 seal increases exp gained from defeating monsters (weapon),<br/>or grants exp as a portion of the damage you receive (shield).<br/>
 Mr. Helico has a 85% chance to drop this grass.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|幸|2000|1000|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|幸|2000|1000|Yes|-|
 
 Stacked Effect:
 
@@ -1504,9 +1504,9 @@ Decreases level by 3 when eaten.<br/>
 Can be thrown at a monster to lower its level by 3.<br/>
 If synthesized, the 不 seal lowers equipment strength by a significant amount.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|不|2000|1000|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|不|2000|1000|Yes|-|
 
 Stacked Effect:
 
@@ -1601,9 +1601,9 @@ Doesn't activate if it's inside of a pot, and turns into Weeds after taking effe
 HP, strength, and fullness is restored to max upon reviving.<br/>
 Mr. Gyro has a 75% chance to drop this grass.<br/>
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|2500|1250|-|???|ヨワハゼ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|2500|1250|-|CLOVER|
 
 Locations:
 
@@ -1651,9 +1651,9 @@ Can be used with Grass Gain staff or Boost Grass to increase gains.<br/>
 The 天 seal increases exp gained from defeating monsters (weapon),<br/>or provides exp as a portion of the damage you receive (shield).<br/>
 Excellent to synthesize onto a main weapon.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|天|3000|1500|Yes|???|アトノセ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|天|3000|1500|Yes|KAMINA|
 
 Stacked Effect:
 

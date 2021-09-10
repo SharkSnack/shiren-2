@@ -6,15 +6,15 @@ metaDescription: "Complete projectile details for Shiren the Wanderer 2: Oni Inv
 
 # Summary
 |Name|Power|Seal|Buy|Sell|Count|Phrase|Info|
-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |[Wooden Arrow](#wooden-arrow)|-2|-|20|2|5~9|-|Low attack power.|
 |[Iron Arrow](#iron-arrow)|6|-|60|10|4~8|-|High attack power.|
 |[Silver Arrow](#silver-arrow)|0|銀|80|20|4~6|-|Pierces through walls and enemies.|
-|[Critical Arrow](#critical-arrow)|2|-|120|40|10~15|ゴムニブ|Chance to deal a critical hit.|
+|[Critical Arrow](#critical-arrow)|2|-|120|40|10~15|MINAMO|Chance to deal a critical hit.|
 |[Razor Arrow](#razor-arrow)|0|-|200|80|13~18|-|The arrows fly in a 3-way pattern and<br/>pierce through walls and enemies.|
 |[Stone](#stone)|8|-|100|50|3~6|-|Deal damage to a target 2 tiles forward.|
-|[Porky Stone](#porky-stone)|12|-|150|70|3~6|ウロクロ|Homes in on a target within 2 tiles<br/>of the direction you're facing|
-|[Cannonball](#cannonball)|-|-|100|50|1~3|ジソデブ|Rolls up to 10 tiles forward and creates<br/>an explosion that deals 40 damage.|
+|[Porky Stone](#porky-stone)|12|-|150|70|3~6|HEIJI|Homes in on a target within 2 tiles<br/>of the direction you're facing|
+|[Cannonball](#cannonball)|-|-|100|50|1~3|KICHIZO|Rolls up to 10 tiles forward and creates<br/>an explosion that deals 40 damage.|
 
 # Details
 
@@ -43,9 +43,9 @@ Arrows are often inserted into a Presto Pot one at a time.<br/>
 Bow Boy monsters shoot these arrows.<br/>
 Found in sets of 5\~9.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|-2|20|2|-|-|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|-2|20|2|-|
 
 Locations:
 
@@ -91,9 +91,9 @@ Can be transformed into Silver Arrows using a Plating Scroll, but the count will
 Bow Cart monsters shoot these arrows.<br/>
 Found in sets of 4\~8.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|6|60|10|-|-|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|6|60|10|-|
 
 Locations:
 
@@ -140,9 +140,9 @@ However, the equipment will be lost if it's thrown, or if a Kengo monster flings
 Horse Ronin monsters shoot these arrows.<br/>
 Found in sets of 4\~6.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|銀|0|80|20|-|-|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|銀|0|80|20|-|
 
 Locations:
 
@@ -187,9 +187,9 @@ Has a 40% chance to deal a x1.5 damage critical hit.<br/>
 Critical arrows thrown by Kappa monsters may also deal a critical hit.<br/>
 Found in sets of 10\~15.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|2|120|40|???|ゴムニブ|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|2|120|40|MINAMO|
 
 Locations:
 
@@ -235,9 +235,9 @@ Only uses 1 arrow per use, making it an excellent option to clear out monster ho
 However, you may accidentally hit shopkeepers or traders elsewhere on the map.<br/>
 Found in sets of 13\~18.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|0|200|80|-|-|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|0|200|80|-|
 
 Locations:
 
@@ -284,9 +284,9 @@ One of the few ways to deal with monsters that are underwater or inside walls.<b
 Can activate traps where it lands.<br/>
 Found in sets of 3\~6.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|8|100|50|-|-|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|8|100|50|-|
 
 Locations:
 
@@ -334,9 +334,9 @@ Can activate traps where it lands.<br/>
 Porky monsters may drop these stones.<br/>
 Found in sets of 3\~6.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|12|150|70|???|ウロクロ|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|12|150|70|HEIJI|
 
 Locations:
 
@@ -382,9 +382,9 @@ Activates all traps along the path, and cannot hit underwater monsters.<br/>
 Occasionally explodes if dropped while tripping.<br/>
 Found in sets of 1\~3.
 
-|Seal|Power|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|-|100|50|???|ジソデブ|
+|Seal|Power|Buy|Sell|Phrase|
+|-|-|-|-|-|
+|-|-|100|50|KICHIZO|
 
 Locations:
 

@@ -7,10 +7,10 @@ metaDescription: "List of miscellaneous items for Shiren the Wanderer 2: Oni Inv
 # Summary
 |Name|Buy|Sell|Phrase|Info|
 |-|-|-|-|-|
-|[Voucher](#voucher)|2|1|ごあはも|Provides a 2% discount when buying items from shops.<br/>Up to 40 vouchers can be used per purchase. (80% off)|
+|[Voucher](#voucher)|2|1|DENDEN|Provides a 2% discount when buying items from shops.<br/>Up to 40 vouchers can be used per purchase. (80% off)|
 |[Water](#water)|-|-|-|Water inside of a Water Pot.|
 |[N'dubba](#n'dubba)|-|-|-|N'dubba monster disguised as an item.|
-|[Gitan](#gitan)|-|-|ダシシヨ<br/>ガミメノ<br/>つこめの|Deals damage equal to amount / 10 when thrown.|
+|[Gitan](#gitan)|-|-|GITAN<br/>TAO<br/>SANJU|Deals damage equal to amount / 10 when thrown.|
 |[1,000,000 Gitan](#1,000,000-gitan)|980000|500000|-|Deals 10,000 damage when thrown.|
 |[Shiren's Hand](#shiren's-hand)|-|-|-|Shiren's hand stuck inside a Sticky Pot.|
 
@@ -40,9 +40,9 @@ Up to 40 vouchers can be used per purchase. (80% off).<br/>
 Can be used as a projectile, but only deals 1 damage.<br/>
 Traders will drop up to 25 vouchers when defeated.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|2|1|???|ごあはも|
+|Buy|Sell|Phrase|
+|-|-|-|
+|2|1|DENDEN|
 
 Locations:
 
@@ -83,13 +83,13 @@ Locations:
 |-|
 |Pour water to extinguish fire.<br/>There are many other uses, so try<br/>pouring water on various other<br/>things!|
 
-Water inside of a Water Pot.<br/>
+Water inside a Water Pot.<br/>
 It can rust enemy weapons, spoil onigiri, destroy traps, and put out fires.<br/>
 It has many uses, so try splashing it on all sorts of things!
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|-|-|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|-|-|-|
 
 ### N'dubba
 
@@ -98,13 +98,13 @@ It has many uses, so try splashing it on all sorts of things!
 |There's a rumor of a N'dubba that<br/>is said to have disguised itself and<br/>waited so long to surprise a human,<br/>that their legs degraded and got<br/>shorter. Who knows if it's true...|
 
 N'dubba monster disguised as an item.<br/>
-Move an ally on top of a N'dubba, and then swap places with them to pick it up.<br/>
+Move an ally on top of a N'dubba, and then switch positions with them to pick it up.<br/>
 Can be inserted into pots like other items, and Nigiri Morphs can transform it into an onigiri.<br/>
 Throw it or place it on the ground to have it transform back into its monster form.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|-|-|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|-|-|-|
 
 ### Gitan
 
@@ -116,9 +116,9 @@ Money used to purchase goods and services.<br/>
 Can be thrown to deal damage equal to the amount of gitan divided by 10.<br/>
 Deals a minimum of 1 damage, and a maximum of 9,999 damage.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|-|-|???<br/>???<br/>???|ダシシヨ<br/>ガミメノ<br/>つこめの|
+|Buy|Sell|Phrase|
+|-|-|-|
+|-|-|GITAN<br/>TAO<br/>SANJU|
 
 Locations:
 
@@ -162,9 +162,9 @@ Locations:
 1 million Gitan. Deals 10,000 damage when thrown.<br/>
 Bring multiple bags into dungeons when going for high scores, since it's worth so much.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|980000|500000|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|980000|500000|-|
 
 ### Shiren's Hand
 
@@ -175,6 +175,6 @@ Bring multiple bags into dungeons when going for high scores, since it's worth s
 Shiren's hand stuck inside of a Sticky Pot.<br/>
 The description offers much praise, to the point where you wonder if Shiren wrote it himself.
 
-|Buy|Sell|Phrase EN|Phrase JP|
-|-|-|-|-|
-|-|-|-|-|
+|Buy|Sell|Phrase|
+|-|-|-|
+|-|-|-|

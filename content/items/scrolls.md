@@ -33,7 +33,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 2: Oni Invasio
   <tr>
     <td><a href="#lightning-scroll">Lightning Scroll</a></td>
     <td>-</td>
-    <td>しでもろ</td>
+    <td>DORAS</td>
     <td>Deals 25~30 damage to all monsters in the room.</td>
   </tr>
   <tr>
@@ -97,13 +97,13 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 2: Oni Invasio
     <td>-</td>
     <td rowspan="3">1200</td>
     <td rowspan="3">600</td>
-    <td>ぬべりか<br/>ゆめだい</td>
+    <td>KWEH<br/>ALYNNE</td>
     <td>Increases your equipped weapon's upgrade value by 1.</td>
   </tr>
   <tr>
     <td><a href="#earth-scroll">Earth Scroll</a></td>
     <td>-</td>
-    <td>ネリグキ</td>
+    <td>HARPU</td>
     <td>Increases your equipped shield's upgrade value by 1.</td>
   </tr>
   <tr>
@@ -174,7 +174,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 2: Oni Invasio
     <td>-</td>
     <td>5000</td>
     <td rowspan="3">2500</td>
-    <td>ムビルプ</td>
+    <td>NEMURI</td>
     <td>Write a scroll you've read before, and then use this as that scroll.<br/>Synthesize to increase an equipment's slot count by 1.</td>
   </tr>
   <tr>
@@ -256,9 +256,9 @@ Triggers all traps in the room.<br/>
 Only works when you have the Trapper status.<br/>
 Perhaps it can be used to trap flying monsters.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|200|100|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|200|100|-|-|
 
 Locations:
 
@@ -303,9 +303,9 @@ Identifies an unidentified item, revealing its name and uses if it's a staff.<br
 Occasionally identifies all items not inside pots when read.<br/>
 The 識 seal reveals disguised and invisible monsters when you attack them (weapon)<br/>or take damage from their attacks (shield).
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|識|500|250|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|識|500|250|No|-|
 
 Locations:
 
@@ -351,9 +351,9 @@ However, Oni are immune to lightning and are healed by it instead.<br/>
 Lightning will strike all monsters in a 1 tile radius if you're in a hallway.<br/>
 Lightning cannot hit monsters inside walls.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|500|250|-|???|しでもろ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|500|250|-|DORAS|
 
 Locations:
 
@@ -398,9 +398,9 @@ Creates fire pillars around Shiren that deal 20 damage per turn.<br/>
 Great for wiping out monster houses early on, but you might burn allies and items as well.<br/>
 Some enemies are immune to fire damage, such as Tiny Phoenix.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|500|250|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|500|250|-|-|
 
 Locations:
 
@@ -447,9 +447,9 @@ The 帰 seal lets you keep the weapon or shield it's synthesized onto if you col
 It can't prevent equipment loss by other means, such as Kengo monsters flinging it away.<br/>
 Always found identified.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|帰|500|250|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|帰|500|250|No|-|
 
 Locations:
 
@@ -494,9 +494,9 @@ Restores 20% fullness when eaten.<br/>
 Cannot be eaten if it's unidentified or if your mouth is sealed shut.<br/>
 Eating it also registers it in the Blank Scroll list.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|500|250|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|500|250|-|-|
 
 Locations:
 
@@ -543,9 +543,9 @@ The 祓 seal prevents your weapon from getting cursed (weapon),<br/>or prevents 
 For some reason, the 祓 seal doesn't transfer when synthesized onto different equipment.<br/>
 If synthesized onto equipment with the 呪 seal, the 呪 seal is erased but it doesn't gain the 祓 seal.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|祓|1000|500|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|祓|1000|500|No|-|
 
 Locations:
 
@@ -589,9 +589,9 @@ Locations:
 Freezes all water on the floor, trapping underwater monsters in ice.<br/>
 Underwater items float to the surface, so it can be used to recover items that fell in water.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -636,9 +636,9 @@ Summons up to 4 shadows that distract enemies for 10 turns.<br/>
 The shadows won't attack enemies, but they will draw the attention of almost any attack,<br/>including Archdragon's floor-wide fire breath.<br/>
 Keep in mind that you can get hit by ranged attacks that pass through the shadows,<br/>such as Ironhead's direct attacks or Pop Tank's cannonballs.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -683,9 +683,9 @@ Removes all traps in the room.<br/>
 Useful for monster houses, but not really worth taking up a spot in your inventory.<br/>
 Can be used after a Great Hall Scroll to guarantee a safe path to the stairs.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -730,9 +730,9 @@ Inflicts fear to all monsters within a 1 tile radius of Shiren for 10 turns.<br/
 Fearful monsters will attack in the opposite direction, as if they're afraid something is behind them.<br/>
 This scroll also works on monsters inside walls.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -779,9 +779,9 @@ Guaranteed floor item on specific floors of post-game dungeons.<br/>
 Can be used to steal by inserting merchandise into Storage Pots before reading.<br/>
 Always found identified.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1000|500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1000|500|-|-|
 
 Locations:
 
@@ -825,9 +825,9 @@ Locations:
 Increases your equipped weapon's upgrade value by 1.<br/>
 Note that it cannot remove curses.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1200|600|-|???<br/>???|ぬべりか<br/>ゆめだい|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1200|600|-|KWEH<br/>ALYNNE|
 
 Locations:
 
@@ -873,9 +873,9 @@ Locations:
 Increases your equipped shield's upgrade value by 1.<br/>
 Note that it cannot remove curses.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1200|600|-|???|ネリグキ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1200|600|-|HARPU|
 
 Locations:
 
@@ -923,9 +923,9 @@ Monsters will act twice as fast when they wake up.<br/>
 The 眠 seal grants a chance to put a monster to sleep for 5 turns when you attack it (weapon),<br/>or receive damage from a monster's direct attack (shield).<br/>
 Sleep induced by the seal won't grant a speed increase after the monster wakes up.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|眠|1200|600|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|眠|1200|600|Yes|-|
 
 Stacked Effect:
 
@@ -1020,9 +1020,9 @@ Water-only monsters will be unable to move, and some won't even be able to attac
 Nice to have for recovering items that fall into water.<br/>
 Useful for capturing underwater monsters such as Shotfish.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1500|750|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1500|750|-|-|
 
 Locations:
 
@@ -1067,9 +1067,9 @@ Deals damage in a similar fashion to Landmines.<br/>
 Place it on the ground and perform a direct attack to make it explode.<br/>
 This is considered as an attack by Shiren, so if you blow up shop items or NPCs such as Traders,<br/>you'll be chased by Guard Dogs and Sherrifs.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|1500|750|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|1500|750|-|-|
 
 Locations:
 
@@ -1115,9 +1115,9 @@ Water, ice, and unbreakable walls all vanish.<br/>
 Best way to search for Golden Intervals, and also makes it easier to steal from shops.<br/>
 Some care must be taken when reading it, or else you might find yourself waking up a monster house,<br/>or being under the effect of floor-wide statue effects.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|2000|1000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|2000|1000|-|-|
 
 Locations:
 
@@ -1162,9 +1162,9 @@ Makes the selected pot unbreakable for the duration of the current adventure.<br
 Good for storage, water, and monster pots, but can be bad if used on sticky or synthesis pots.<br/>
 You'll get a game over if a Bored Kappa monster throws an unbreakable sticky pot at you,<br/>even if you have Revival Grass on hand.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|2000|1000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|2000|1000|-|-|
 
 Locations:
 
@@ -1208,9 +1208,9 @@ Locations:
 Expands the selected pot, increasing its size by 1.<br/>
 No effect if it's read on a pot that is already at the max size of 8.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|2000|1100|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|2000|1100|-|-|
 
 Locations:
 
@@ -1254,9 +1254,9 @@ Locations:
 Suctions out all contents from a selected pot, including items, monsters,<br/>and even pent-up anger from inside a Surprise Pot.<br/>
 Great for reusing expanded Presto or Upgrade pots.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|3000|1500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|3000|1500|-|-|
 
 Locations:
 
@@ -1301,9 +1301,9 @@ Makes a weapon or shield rustproof with a red 金 seal. Cannot remove curses.<br
 Can also repair bracelets, or transform iron arrows into silver arrows.<br/>
 Monsoon Dolls will tear off a red 金 seal before any other seal, so this scroll effectively<br/>protects your synthesized seals against a single use of Monsoon Doll's special attack.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|金|4000|2000|No|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|金|4000|2000|No|-|
 
 Locations:
 
@@ -1349,9 +1349,9 @@ Specialty shops will only restock items within the same category.<br/>
 For small shops, you may need to expand the shop's size by breaking its walls to get all 9 items.<br/>
 N'dubbas can be included in the restocked merchandise.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|4000|2000|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|4000|2000|-|-|
 
 Locations:
 
@@ -1396,9 +1396,9 @@ Select the name of any scroll you've read before, and this scroll will act as th
 You can revert the scroll back to a blank state by splashing water on it.<br/>
 When used as a secondary item in synthesis with a Mixer monster,<br/>the equipment's slot count will increase by 1, up to a max of 16 slots.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|5000|2500|-|???|ムビルプ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|5000|2500|-|NEMURI|
 
 Locations:
 
@@ -1443,9 +1443,9 @@ Place it on the ground to create a safe zone where monsters adjacent to the scro
 You can still get hit by ranged attacks while standing on the scroll.<br/>
 No effect if read instead of being placed on the ground.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|7500|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|7500|2500|-|-|
 
 Locations:
 
@@ -1493,9 +1493,9 @@ Makes stairs and all items on the current floor hop around when placed on the gr
 Shop items won't jump around, but disguised N'dubbas will.<br/>
 You can deactivate the effect by splashing water on or burning the scroll,<br/>using items such as Water Pot, Fire Staff, or Blaze Scroll.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|7500|2500|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|7500|2500|-|-|
 
 Locations:
 
@@ -1541,9 +1541,9 @@ Other ranks in the monster's family will still appear.<br/>
 Example: Banish Pit Mamel → Mamel and Cave Mamel still appear.<br/>
 Note that only 1 monster can be banished at a time, so if a second scroll is thrown at a monster,<br/>the first monster will start appearing again.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|25000|400|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|25000|400|-|-|
 
 Locations:
 

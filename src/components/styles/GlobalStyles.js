@@ -688,6 +688,10 @@ export const baseStyles = css`
   .itemTable td {
     padding: 3px;
   }
+  .galleryTable td {
+    text-align: center;
+    padding: 2px;
+  }
   .trapTable th {
     text-align: center;
     padding: 3px;
@@ -886,6 +890,15 @@ export const baseStyles = css`
     max-height: 240px;
     width: auto !important;
     padding: 5px;
+  }
+  .galleryImage span {
+    margin-left: 0px !important;
+    background-image: none !important;
+    display: block !important;
+  }
+  .galleryImage span img {
+    height: auto !important;
+    width: 590px;
   }
   .allyImage span {
     margin-left: 0px !important;

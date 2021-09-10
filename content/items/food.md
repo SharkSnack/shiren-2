@@ -35,13 +35,13 @@ metaDescription: "Complete food details for Shiren the Wanderer 2: Oni Invasion!
     <td>飯</td>
     <td rowspan="2">200</td>
     <td rowspan="2">100</td>
-    <td>ほにがけ</td>
+    <td>PEKEJI</td>
     <td>Restores 100% fullness. Increases max fullness by 5% if full.</td>
   </tr>
   <tr>
     <td><a href="#special-onigiri">Special Onigiri</a></td>
     <td>飯</td>
-    <td>ゼポプタ</td>
+    <td>KOYORI</td>
     <td>Restores 30% fullness, and grants a random positive effect.<br/>Increases max fullness by 2% if full.</td>
   </tr>
   <tr>
@@ -79,9 +79,9 @@ Restores 35% fullness, but deals 4 damage and comes with a negative side effect.
 Negative effects include level-1, strength-3, confusion, sleep, and blindness.<br/>
 Increases max fullness by 1% if full.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|-|40|1|-|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|-|40|1|-|-|
 
 Locations:
 
@@ -126,9 +126,9 @@ Restores 50% fullness. Increases max fullness by 3% if full.<br/>
 Provides the 飯 seal when synthesized onto equipment.<br/>
 Commonly synthesized onto a secondary weapon early game to help avoid starvation.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|飯|100|50|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|飯|100|50|Yes|-|
 
 Stacked Effect:
 
@@ -222,9 +222,9 @@ Restores 100% fullness. Increases max fullness by 5% if full.<br/>
 You'll always start with a Large Onigiri when entering dungeons.<br/>
 Nigiri Morph monsters transform items into this onigiri.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|飯|200|100|Yes|???|ほにがけ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|飯|200|100|Yes|PEKEJI|
 
 Stacked Effect:
 
@@ -318,9 +318,9 @@ Restores 30% fullness, and comes with a positive side effect.<br/>
 Positive effects include strength+1, HP recovery, item identification, sleep immunity,<br/>walk without waking sleeping monsters, stop hunger, and poison immunity.<br/>
 Increases max fullness by 2% if full.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|飯|200|100|Yes|???|ゼポプタ|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|飯|200|100|Yes|KOYORI|
 
 Stacked Effect:
 
@@ -413,9 +413,9 @@ Locations:
 Restores fullness to max, and also increases max fullness by 7%.<br/>
 The best onigiri in the game. Keep it safe from spoiling by placing it inside a storage pot.
 
-|Seal|Buy|Sell|Stack|Phrase EN|Phrase JP|
-|-|-|-|-|-|-|
-|飯|300|150|Yes|-|-|
+|Seal|Buy|Sell|Stack|Phrase|
+|-|-|-|-|-|
+|飯|300|150|Yes|-|
 
 Stacked Effect:
 

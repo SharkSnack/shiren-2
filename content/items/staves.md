@@ -63,7 +63,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 2: Oni Invasion
     <td rowspan="2">500</td>
     <td rowspan="2">25</td>
     <td>0~1</td>
-    <td>どなそぐ</td>
+    <td>MOMO</td>
     <td>Protects you from tripping.<br/>Can be used to make a target trip and drop an item.</td>
   </tr>
   <tr>
@@ -180,7 +180,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 2: Oni Invasion
   <tr>
     <th></th>
     <th colspan="9">Buy</th>
-    <td rowspan="21" style="background-color: #ececec;"></td>
+    <th class="tableDivider" rowspan="21"></th>
     <th colspan="9">Sell</th>
   </tr>
   <tr>
@@ -936,8 +936,7 @@ Found with 0\~1 uses.
     <th>5</th>
     <th>6</th>
     <th>7</th>
-    <th>Phrase EN</th>
-    <th>Phrase JP</th>
+    <th>Phrase</th>
   </tr>
   <tr>
     <th>Buy</th>
@@ -950,8 +949,7 @@ Found with 0\~1 uses.
     <td>1250</td>
     <td>1300</td>
     <td>1350</td>
-    <td>???</td>
-    <td>どなそぐ</td>
+    <td>MOMO</td>
   </tr>
   <tr>
     <th>Sell</th>

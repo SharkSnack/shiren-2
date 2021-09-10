@@ -31,7 +31,7 @@ If you're interested in testing, join the <a href="https://discord.gg/5y7UDFc">S
 
 Join the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server and post in #shiren-2 (under Patch Feedback).
 
-Don't bother reporting errors if you use save states.
+Save state usage can cause issues due to the way the game constantly writes,<br/>so don't bother reporting errors if you use save states.
 
 ### Does this game run on X device?
 
@@ -77,7 +77,7 @@ No, the order of seals doesn't matter for stacked effects.
 
 ### Where can I find Perfect Wood?
 
-Perfect Wood can only be found in the 2nd half of Shuten Trail Mid (8F+).<br/>
+Perfect Wood can only be found in the 2nd half of Shuten Trail Mid (8\~12F).<br/>
 It can't be found in Shuten Trail Hard.
 
 ### Which monster should I capture in Road to the End?

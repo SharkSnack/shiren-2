@@ -85,7 +85,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer 2: Oni Invasion!"
     <td>4000</td>
     <td>200</td>
     <td>2~4</td>
-    <td>ざくぬに</td>
+    <td>GAIBARA</td>
     <td>Insert items to fuse them together.<br/>Can only synthesize weapons with weapons,<br/>shields with shields, or staves with staves.</td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer 2: Oni Invasion!"
   <tr>
     <th></th>
     <th colspan="8">Buy</th>
-    <td rowspan="15" style="background-color: #ececec;"></td>
+    <th rowspan="15" class="tableDivider"></th>
     <th colspan="8">Sell</th>
   </tr>
   <tr>
@@ -1006,8 +1006,7 @@ Found in sizes 2\~4.
     <th>4</th>
     <th>5</th>
     <th>6</th>
-    <th>Phrase EN</th>
-    <th>Phrase JP</th>
+    <th>Phrase</th>
   </tr>
   <tr>
     <th>Buy</th>
@@ -1019,8 +1018,7 @@ Found in sizes 2\~4.
     <td>9600</td>
     <td>10000</td>
     <td>10400</td>
-    <td>???</td>
-    <td>ざくぬに</td>
+    <td>GAIBARA</td>
   </tr>
   <tr>
     <th>Sell</th>

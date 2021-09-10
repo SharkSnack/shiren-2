@@ -1,6 +1,6 @@
 ---
 title: "Synthesis Seals"
-metaTitle: "Seals - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Synthesis Seals - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete list of seals for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

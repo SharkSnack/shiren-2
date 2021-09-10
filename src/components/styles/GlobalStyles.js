@@ -844,6 +844,12 @@ export const baseStyles = css`
   .cautionText {
     color: orange;
   }
+  .blueText {
+    color: #66f;
+  }
+  .redText {
+    color: #f66;
+  }
 
   /* Image styling */
   img {

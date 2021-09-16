@@ -934,6 +934,12 @@ export const baseStyles = css`
   .gatsby-resp-image-background-image {
     display: none !important;
   }
+  .gatsby-resp-image-wrapper {
+    display: inline-block !important;
+  }
+  .relativeImage img {
+    position: relative !important;
+  }
   .headingImage {
     display: inline-block !important;
   }
@@ -955,6 +961,10 @@ export const baseStyles = css`
   }
   .statusTable img {
     position: relative !important;
+  }
+  .screenshotImage {
+    width: 300px;
+    height: auto;
   }
   /* end image */
   .githubBtn {

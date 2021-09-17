@@ -94,7 +94,14 @@ Other notable monsters include Monsoon Doll, Gazelle Pope, Hyper Gazer, and Shih
 
 Yes, upgrade value and seals will be lost when the Katana+99 turns into a Fiery Fuuma.
 
-This is also the case when the following weapons or shields are created:<br/>
-Kaburasutegi, Daisangen Sword, Ryujin Sword, Wonder Pick, Healing Sword,<br/>
-Helix Shield, Daisangen Shield, Nirvana Shield.
+This occurs when any of the following weapons or shields are created:
 
+- Fiery Fuuma
+- Kaburasutegi
+- Daisangen Sword
+- Ryujin Sword
+- Wonder Pick
+- Healing Sword
+- Helix Shield
+- Daisangen Shield
+- Nirvana Shield

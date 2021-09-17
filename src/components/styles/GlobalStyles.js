@@ -931,11 +931,20 @@ export const baseStyles = css`
     border-radius: 3px;
     position: relative !important;
   }
+  .trapTable .gatsby-resp-image-wrapper {
+    display: block !important;
+  }
+  .itemPageImage .gatsby-resp-image-wrapper {
+    display: block !important;
+  }
   .gatsby-resp-image-background-image {
     display: none !important;
   }
   .gatsby-resp-image-wrapper {
     display: inline-block !important;
+  }
+  .trapTable img {
+    
   }
   .relativeImage img {
     position: relative !important;

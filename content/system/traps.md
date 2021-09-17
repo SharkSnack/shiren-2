@@ -45,7 +45,7 @@ Break: Chance of a trap breaking when Shiren has Trapper status.
     <th>Notes</th>
   </tr>
   <tr>
-    <td><img src="../images/traps/droplet.png" alt="Droplet"/></td>
+    <td><img class="trapImage" src="../images/traps/droplet.png" alt="Droplet"/></td>
     <td>Droplet</td>
     <td>5</td>
     <td>6%</td>

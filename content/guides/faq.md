@@ -37,7 +37,7 @@ Steps (Online):
 4. Click "Apply Patch"
 
 Steps (Drag-and-drop):
-1. Download patcher script: https://www.mediafire.com/file/im0vuzdvzbkro9p/PatchShiren_-_Shiren_2_Oni_Invasion%2521_Shiren_Castle%2521_%2528English_Translation_v1.0%2529.7z/file
+1. Download patcher script: https://www.mediafire.com/file/thtypgr3aqnvg9r/PatchShiren_-_Shiren_2_Oni_Invasion%2521_Shiren_Castle%2521_%2528English_Translation_v1.0%2529.7z/file
 2. Place the patch file in the same folder as the script.
 3. Follow the included readme.
 

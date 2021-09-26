@@ -180,10 +180,10 @@ This page lists the entries displayed when a Knowledge Staff is swung at a targe
 
 |Name|Description|Dialogue|
 |-|-|-|
-|Droplet Ninja|||
-|Landmine Ninja|||
-|Summon Ninja|||
-|Bomber Ninja|||
+|Droplet Ninja|HP 12 Points<br/>Droplet Ninja keeps a scroll close<br/>to its chest at all times.<br/>《1st Rule of Shinobi》<br/>Throw down a Droplet Trap upon<br/>your death! You absolutely must<br/>do so. Lalala, you'll probably<br/>throw one on the ground.|Poof! Here's a droplet!|
+|Landmine Ninja|HP 30 Points<br/>Landmine Ninja keeps a scroll<br/>close to its chest at all times.<br/>《2nd Rule of Shinobi》<br/>Throw down a Landmine upon<br/>your death! You absolutely must<br/>do so. Lalala, you'll probably<br/>throw one on the ground.|Poof! Landmine Time!|
+|Summon Ninja|HP 32 Points<br/>Summon Ninja keeps a scroll<br/>close to its chest at all times.<br/>《3rd Rule of Shinobi》<br/>Throw down a Summon Trap upon<br/>your death! You absolutely must<br/>do so. Lululu, you'll probably<br/>throw one on the ground.|Poof! Poof...<br/>Here's a summon!|
+|Bomber Ninja|HP 69 Points<br/>Bomber Ninja keeps a scroll<br/>close to its chest at all times.<br/>《4th Rule of Shinobi》<br/>Throw down a Big Landmine upon<br/>your death! You absolutely must<br/>do so. Hahahan, you'll probably<br/>throw one on the ground.|Poof! Time for a big<br/>landmine!|
 
 #### monster_family_name
 

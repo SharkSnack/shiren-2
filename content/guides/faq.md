@@ -24,8 +24,36 @@ This page provides answers to frequently asked questions.
 
 ### How do I play Shiren 2 in English?
 
-The English patch created by ozidual and sharksnack hasn't been released yet.<br/>
-If you're interested in testing, join the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server for details.
+Version 1.0 of the English Patch created by Ozidual and SharkSnack is available!
+
+Patch Download: http://www.romhacking.net/translations/6293/
+
+How to Patch:
+
+Steps (Online):
+1. Go to: https://www.romhacking.net/patch/
+2. Select ROM (Big Endian format, so .z64)
+3. Select patch
+4. Click "Apply Patch"
+
+Steps (Drag-and-drop):
+1. Download patcher script: https://www.mediafire.com/file/im0vuzdvzbkro9p/PatchShiren_-_Shiren_2_Oni_Invasion%2521_Shiren_Castle%2521_%2528English_Translation_v1.0%2529.7z/file
+2. Place the patch file in the same folder as the script.
+3. Follow the included readme.
+
+Steps (Manual):
+1. Download Flips - the bps patcher: https://www.romhacking.net/utilities/1040/
+2. Run Flips
+3. Select the patch. "Shiren 2 Oni Invasion! Shiren Castle! (English Translation v1.0).bps"
+2. Select ROM (Big Endian format, so .z64)
+3. Select output ROM
+
+If you have trouble, feel free to ask questions in the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server.<br/>
+However, DO NOT ask for or link to ROMs.
+
+On the 64drive, after selecting the ROM, you may need to choose "256K" next to Force Save.
+
+If you're using a playtest patch save file, deposit items in storage and return to<br/>Napus Village before starting the game in version 1.0.
 
 ### How do I provide feedback?
 
@@ -45,7 +73,13 @@ Anything not in the above list is untested, and you're on your own.
 
 ### Fix for graphics issues in Project64?
 
-Join the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server and check the #announcements channel.
+Steps:
+1. Go to: https://github.com/gonetz/GLideN64/issues/2421#issuecomment-756394160
+2. Download "build.zip".
+3. Copy win32 version of GLideN64.dll to PJ64's plugin folder.
+4. In PJ64's configuration, select the "rev.8e417951" plugin for graphics.
+5. Go to: Options → Graphics Settings → Frame Buffer.
+6. Change "Copy video card frame buffer to N64 memory" to "Synchronous".
 
 ### Anything I should know before playing?
 

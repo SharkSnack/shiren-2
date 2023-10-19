@@ -17,7 +17,7 @@ make castle parts out of them at the summit, and then return to Napus Village.
 Clearing this trail unlocks Shuten Trail Mid
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#floor-guide">Floor Guide</a>
     <ul>
       <li><a href="#green-forest-(1-2f)">Green Forest (1-2F)</a></li>
@@ -39,9 +39,9 @@ Clearing this trail unlocks Shuten Trail Mid
   <li><a href="#items">Items</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>Clear Small Valley.</td>
@@ -52,7 +52,7 @@ Clearing this trail unlocks Shuten Trail Mid
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>10F</td>
@@ -124,9 +124,9 @@ so it's only recommended for those who aren't confident in their abilities.
 
 ### Bamboo Forest (3-4F)
 
-Monsters include Weather Doll, Ashigarudon, Slug, Yamikichi, and Piko Hammer.
+Monsters include Weather Doll, Ashigarudon, Sluggy, Yamikichi, and Piko Hammer.
 
-Slugs have a special attack that lowers strength, so avoid letting them act first.<br/>
+Sluggy has a special attack that lowers strength, so avoid letting it act first.<br/>
 If there's a 1 tile gap between you and a monster, stay still and perform an attack<br/>
 to have the monster approach you instead of you moving toward them.
 
@@ -187,7 +187,7 @@ Damage reduction from defense value doesn't make as much of a difference in Shir
 |Beetle Shield|7000|Higher defense.|
 |Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
-|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
+|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Sluggy.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
 |Purify Scroll|1000|Removes curses from equipped items.<br/>Unnecessary for Shuten Trail Easy.|
 |Storage Pot[5]|1500|Insert and take out items freely.<br/>Stock up on these if possible.|
@@ -252,7 +252,7 @@ stop the Oni from easily destroying sections of the castle during later events.
 
 # Monsters
 
-<table class="monsterTable">
+<table class="monsterList">
   <tr>
     <th>F</th>
     <th>Name</th>
@@ -315,7 +315,7 @@ stop the Oni from easily destroying sections of the castle during later events.
   </tr>
   <tr>
     <td>3-4</td>
-    <td>Slug</td>
+    <td>Sluggy</td>
     <td>11</td>
     <td>4</td>
     <td>6</td>
@@ -457,97 +457,105 @@ stop the Oni from easily destroying sections of the castle during later events.
 
 # Monster Table
 
-<table class="monsterTableRates">
-  <tr>
-    <th>1</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td class="monsterDrain">Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td class="monsterDrain">Slug</td>
-    <td>Piko Hammer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td>Droplet Ninja</td>
-    <td>Armordillo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Piko Hammer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td>Droplet Ninja</td>
-    <td>Armordillo</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterNone"></td>
-    <td>Piko Hammer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td>N'dubba</td>
-    <td class="monsterWater">Zalokleft</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>8</th>
-    <td>N'dubba</td>
-    <td class="monsterWater">Zalokleft</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Horse Ronin</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>9</th>
-    <td>N'dubba</td>
-    <td>Tiger Tosser</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Horse Ronin</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>10</th>
-    <td>Landmine Ninja</td>
-    <td>Tiger Tosser</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Sheep Priest</td>
-    <td class="monsterDragon">Shagga</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="6" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td>Piko Hammer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Droplet Ninja</td>
+      <td>Armordillo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Piko Hammer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Droplet Ninja</td>
+      <td>Armordillo</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterNone"></td>
+      <td>Piko Hammer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>N'dubba</td>
+      <td class="monsterWater">Zalokleft</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>N'dubba</td>
+      <td class="monsterWater">Zalokleft</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Horse Ronin</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>N'dubba</td>
+      <td>Tiger Tosser</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Horse Ronin</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Landmine Ninja</td>
+      <td>Tiger Tosser</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Sheep Priest</td>
+      <td class="monsterDragon">Shagga</td>
+    </tr>
+  </tbody>
 </table>
 
 # Items
@@ -559,9 +567,9 @@ stop the Oni from easily destroying sections of the castle during later events.
 <table class="itemTable">
   <tr>
     <th colspan="4">Weapon</th>
-    <th rowspan="33" class="tableDivider"></th>
+    <th rowspan="29" class="tableDivider"></th>
     <th colspan="4">Grass</th>
-    <th rowspan="33" class="tableDivider"></th>
+    <th rowspan="29" class="tableDivider"></th>
     <th colspan="4">Staff</th>
   </tr>
   <tr class="tableCategory">
@@ -898,7 +906,7 @@ stop the Oni from easily destroying sections of the castle during later events.
     <th>F</th>
     <th>P</th>
     <th>M</th>
-    <td rowspan="7" colspan="4"></td>
+    <td rowspan="3" colspan="4"></td>
     <td>Wood</td>
     <td>X</td>
     <td></td>

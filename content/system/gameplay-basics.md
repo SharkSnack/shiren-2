@@ -710,7 +710,7 @@ Actions that never crack or shatter:
 - Droplet or Flood traps.
 
 So, there's no need to unequip bracelets when you're fighting Bow Boy or Boy Cart.<br/>
-They also don't need to be unequipped when being hit by Archdragon or Porkton special attacks.<br/>
+They also don't need to be unequipped when being hit by Archdragon or Porkon special attacks.<br/>
 If your bracelets are already cracked, they don't need to be unequipped when fighting Cranky Tank.
 
 ### Fire Pillars
@@ -910,7 +910,7 @@ Items:
 
 Monsters:
 
-- Slug family
+- Sluggy family
 - Scorpion
 - Sheep Priest
 - Mr. Drone (Strength Grass)
@@ -924,7 +924,7 @@ Other:
 #### Monster Strength (Attack)
 
 For monsters, attack = strength + 1.<br/>
-Attack ranges from 1\~9999, except for Gamarras and Zaloklefts, which have 0 attack. (-1 strength)<br/>
+Attack ranges from 1\~9999, except for Froggos and Zaloklefts, which have 0 attack. (-1 strength)<br/>
 Mixer monsters can increase their attack beyond 9999 by swallowing items.<br/>
 
 #### Things that modify enemy and ally monster attack
@@ -934,11 +934,11 @@ Ally monster strength will be reset when they return to their pot.
 - Sheep Priest spell = x0.5 (25 turns)
 - Scorpion sting = x0.5
 - Water Pot = x0.5 (Monsters with weapons only)
-- Intolerable Slug lick = x0.6
+- Venom Sluggy lick = x0.6
 - Poison Grass = x0.6
-- Rancor Slug lick = x0.7
-- Serious Slug lick = x0.8
-- Slug lick = x0.9
+- Rancor Sluggy lick = x0.7
+- Bitter Sluggy lick = x0.8
+- Sluggy lick = x0.9
 - Poison Trap = Strength set to 0
 - Strength Grass = Strength +1
 

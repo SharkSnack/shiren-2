@@ -25,7 +25,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
   </li>
   <li><a href="#stacked-effects">Stacked Effects</a></li>
   <li><a href="#popular-seals">Popular Seals</a></li>
-  <li><a href="#seals-requiring-caution">Seals Requiring Caution</a></li>
+  <li><a href="#questionable-seals">Questionable Seals</a></li>
 </ul>
 
 ### Seal List
@@ -94,7 +94,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>○</td>
     <td>8000</td>
     <td>4000</td>
-    <td>Gamarra Whip</td>
+    <td>Froggo Whip</td>
     <td>30% chance for a defeated enemy to turn into Gitan.</td>
   </tr>
   <tr>
@@ -443,7 +443,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>○</td>
     <td>2000</td>
     <td>800</td>
-    <td>Gamarra Shield</td>
+    <td>Froggo Shield</td>
     <td>Gain Gitan equal to 10% of damage received.</td>
   </tr>
   <tr>
@@ -452,7 +452,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>3000</td>
     <td>1500</td>
     <td>Scale Shield</td>
-    <td>Prevents strength loss from poisons.<br/>Doesn't prevent strength loss from Slug licks.</td>
+    <td>Prevents strength loss from poisons.<br/>Doesn't prevent strength loss from Sluggy licks.</td>
   </tr>
   <tr>
     <td class="sealEquipment">幸</td>
@@ -572,7 +572,7 @@ Gyandora and Monsoon Doll special attacks can also remove seals at random.
     <td>800</td>
     <td>400</td>
     <td>Antidote Grass</td>
-    <td>Prevents strength loss from poisons.<br/>Doesn't prevent strength loss from Slug licks.</td>
+    <td>Prevents strength loss from poisons.<br/>Doesn't prevent strength loss from Sluggy licks.</td>
   </tr>
   <tr>
     <td class="sealEdible">幸</td>
@@ -1728,7 +1728,7 @@ Pros and Cons in Table Format:
 |身|No|No|Yes|Yes|Yes|
 |返|Yes|Yes|No|No|No|
 
-### Seals Requiring Caution
+### Questionable Seals
 
 #### Weapon
 
@@ -1832,13 +1832,13 @@ Pros and Cons in Table Format:
     <td class="sealEquipment">う</td>
     <td>×</td>
     <td>Scale Shield</td>
-    <td>Protects strength from poison arrows, Poison Grass, and Scorpions,<br/>but doesn't block strength lowering Slug licks.</td>
+    <td>Protects strength from poison arrows, Poison Grass, and Scorpions,<br/>but doesn't block strength lowering Sluggy licks.</td>
   </tr>
   <tr>
     <td class="sealEquipment">バ</td>
     <td>○</td>
     <td>Counter Shield</td>
-    <td>The stronger your shield, the less damage you reflect.<br/>Rancor and Intolerable slugs can divide from reflected damage.<br/>The reflect animation slows down the pace of the game.</td>
+    <td>The stronger your shield, the less damage you reflect.<br/>Rancor Sluggy and Venom Sluggy can divide from reflected damage.<br/>The reflect animation slows down the pace of the game.</td>
   </tr>
   <tr>
     <td class="sealEquipment">幸</td>
@@ -1849,7 +1849,7 @@ Pros and Cons in Table Format:
   <tr>
     <td class="sealEquipment">銭</td>
     <td>○</td>
-    <td>Gamarra Shield</td>
+    <td>Froggo Shield</td>
     <td>The stronger your shield, the less Gitan you gain.<br/>It doesn't provide much Gitan either way, so it's a wasted slot.</td>
   </tr>
   <tr>
@@ -1874,7 +1874,7 @@ Pros and Cons in Table Format:
     <td class="sealEdible">消</td>
     <td>×</td>
     <td>Antidote Grass</td>
-    <td>Protects strength from poison arrows, Poison Grass, and Scorpions,<br/>but doesn't block strength lowering Slug licks.</td>
+    <td>Protects strength from poison arrows, Poison Grass, and Scorpions,<br/>but doesn't block strength lowering Sluggy licks.</td>
   </tr>
   <tr>
     <td class="sealEdible">命</td>

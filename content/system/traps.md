@@ -227,7 +227,7 @@ Trap damage scales with Shiren's level when he has Trapper status.
 
 Key: Level, Droplet, Arrow, Burr, Iron Arrow, Rockfall, Rockslide, Trip Stone, Poison, Pitfall, Log.
 
-<table class="itemTable">
+<table class="priceTableMedium">
   <tr>
     <th>Lv</th>
     <th>Drop</th>
@@ -2357,7 +2357,7 @@ This section shows the exp multiplier for a chain where the enemy is not defeate
 
 n = Number of traps that successfully trapped an enemy prior to the Chain Trap activating.<br/>N = Number of traps that successfully trapped an enemy due to a Chain Trap activating.<br/>m = Number of Chain Traps (max: 1) 
 
-<table class="itemTable">
+<table class="priceTableMedium">
   <tr>
     <th>N(m)\n</th>
     <th>0</th>

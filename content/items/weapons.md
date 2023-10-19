@@ -25,7 +25,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 2: Oni Invasio
 |[Crescent Arm](#crescent-arm)|月|14|6|50000|25000|-|Deals x1.5 damage to Bomb types.|
 |[Dragon Killer](#dragon-killer)|竜|15|7|10000|5000|-|Deals x1.5 damage to Dragon types.|
 |[Ryujin Sword](#ryujin-sword)|龍|25|7|30000|15000|-|Deals x2.0 damage to Dragon types.<br/>Synthesize 3 竜 seals onto a Dragon Killer.|
-|[Gamarra Whip](#gamarra-whip)|銭|2|4|16000|8000|-|30% chance to turn defeated monsters into Gitan.|
+|[Froggo Whip](#froggo-whip)|銭|2|4|16000|8000|-|30% chance to turn defeated monsters into Gitan.|
 |[Pickaxe](#pickaxe)|掘|2|5|3500|1600|KAMBE|Dig through walls. Breaks after digging for a while.|
 |[Gobo](#gobo)|食|3|2|500|250|-|Can be eaten to restore fullness by 20%. Lost if eaten.|
 |[Homing Blade](#homing-blade)|必|3|3|10000|5000|RELIX|Raises attack accuracy to 100%.|
@@ -856,7 +856,7 @@ Locations:
 </table>
 
 Weapon that deals x1.5 damage to Drain type monsters.<br/>
-(Slug, Scorpion, Hunger Puppet families, and Twisty Hani)<br/>
+(Sluggy, Scorpion, Hunger Puppet families, and Twisty Hani)<br/>
 Nice seal to have, since the special attacks of Drain type monsters can be quite bothersome.
 
 |Seal|Atk|Slots|Buy|Sell|+1|Stack|Phrase|
@@ -1384,7 +1384,7 @@ Locations:
   </tr>
 </table>
 
-### Gamarra Whip
+### Froggo Whip
 
 <table>
   <tr>
@@ -1393,9 +1393,9 @@ Locations:
   </tr>
   <tr>
     <td class="itemPageImage">
-      <img src="../images/weapons/gamarra_whip.png" alt="Gamarra Whip Image"/>
+      <img src="../images/weapons/gamarra_whip.png" alt="Froggo Whip Image"/>
     </td>
-    <td>Whip that hosts the spirit of a<br/>Gamarra obsessed with Gitan.<br/>Enemies occasionally turn into<br/>Gitan when defeated.</td>
+    <td>Whip that hosts the spirit of a<br/>Froggo obsessed with Gitan.<br/>Enemies occasionally turn into<br/>Gitan when defeated.</td>
   </tr>
 </table>
 

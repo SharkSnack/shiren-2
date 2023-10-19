@@ -74,7 +74,7 @@ metaDescription: "Complete grass details for Shiren the Wanderer 2: Oni Invasion
     <td><a href="#antidote-grass">Antidote Grass</a></td>
     <td>消</td>
     <td>-</td>
-    <td>Restores lost strength to max.<br/>Deals 50 damage to Slugs when thrown.</td>
+    <td>Restores lost strength to max.<br/>Deals 50 damage to Sluggy when thrown.</td>
   </tr>
   <tr>
     <td><a href="#disaster-seed">Disaster Seed</a></td>
@@ -664,9 +664,9 @@ Locations:
 |Restores strength back to max.|
 
 Restores lost strength to max when eaten.<br/>
-Can be thrown at Slug monsters to deal 50 damage.<br/>
+Can be thrown at Sluggy monsters to deal 50 damage.<br/>
 The 消 seal is equivalent to the う seal from a Scale Shield, and blocks poison.<br/>
-Note that both of these seal are unable to block Slug licks.
+Note that both of these seal are unable to block Sluggy licks.
 
 |Seal|Buy|Sell|Stack|Phrase|
 |-|-|-|-|-|

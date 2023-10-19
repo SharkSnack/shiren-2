@@ -23,7 +23,7 @@ There's a boss fight against Galaha on 16F,<br/>
 and then a final showdown against Boss Oni on 25F.
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#important-items">Important Items</a>
     <ul>
       <li><a href="#weapon">Weapon</a></li>
@@ -46,12 +46,12 @@ and then a final showdown against Boss Oni on 25F.
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
-  <li><a href="#no-carry-in-guide">No Carry-in Guide</a></li>
+  <li><a href="#no-items-guide">No Items Guide</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>Complete the castle.</td>
@@ -62,7 +62,7 @@ and then a final showdown against Boss Oni on 25F.
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>25F</td>
@@ -144,7 +144,7 @@ If 回 is too difficult, you can substitute with multiple 弟.
   <tr>
     <td>ド</td>
     <td>Drain Buster</td>
-    <td>Deal x1.5 damage to Drain types. (Slug, Hunger Puppet, Scorpion, etc.)</td>
+    <td>Deal x1.5 damage to Drain types. (Sluggy, Hunger Puppet, Scorpion, etc.)</td>
   </tr>
   <tr>
     <td>仏</td>
@@ -459,7 +459,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
 
 # Monsters
 
-<table class="monsterTable">
+<table class="monsterList">
   <tr>
     <th>F</th>
     <th>Name</th>
@@ -522,7 +522,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
   </tr>
   <tr>
     <td>3-5</td>
-    <td>Nigiri Trainee</td>
+    <td>Nigiri Novice</td>
     <td>12</td>
     <td>5</td>
     <td>6</td>
@@ -712,7 +712,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
   </tr>
   <tr>
     <td>9-11</td>
-    <td>Gamagucci</td>
+    <td>Froggucci</td>
     <td>16</td>
     <td>0</td>
     <td>35</td>
@@ -872,7 +872,7 @@ It allows you to walk on air and pass through walls, along with warping to a ran
   </tr>
   <tr>
     <td>14-15</td>
-    <td>Serious Slug</td>
+    <td>Bitter Sluggy</td>
     <td>40</td>
     <td>10</td>
     <td>18</td>
@@ -1137,381 +1137,389 @@ It allows you to walk on air and pass through walls, along with warping to a ran
 ### Dungeon
 
 <table class="monsterTablePostgame">
-  <tr>
-    <th>1</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td>Pit Mamel</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td>Pit Mamel</td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="monsterNone"></td>
-    <td>Nigiri Trainee</td>
-    <td>Pit Mamel</td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td>Small Oni</td>
-    <td>Nigiri Trainee</td>
-    <td class="monsterNone"></td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td>Armordillo Bro</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td>Small Oni</td>
-    <td>Nigiri Trainee</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Spearfish</td>
-    <td>Armordillo Bro</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td>Small Oni</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterWater">Spearfish</td>
-    <td>Armordillo Bro</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterWater">Capt. Spearfish</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td>N'dubba</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>8</th>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterDrain">Scorpion</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterWater">Capt. Spearfish</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td>N'dubba</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>9</th>
-    <td>Gamagucci</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Sheep Priest</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterItem">Mixer</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td>N'dubba</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>10</th>
-    <td>Gamagucci</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Sheep Priest</td>
-    <td>Summon Ninja</td>
-    <td class="monsterItem">Mixer</td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterItem">Mr. Helico</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-    <td class="monsterCyclops">Golem</td>
-  </tr>
-  <tr>
-    <th>11</th>
-    <td>Gamagucci</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td>Sheep Priest</td>
-    <td>Summon Ninja</td>
-    <td class="monsterItem">Mixer</td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Golem</td>
-  </tr>
-  <tr>
-    <th>12</th>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td>Sheep Priest</td>
-    <td>Summon Ninja</td>
-    <td class="monsterItem">Mixer</td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>13</th>
-    <td>Armor Spider</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>14</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterDrain">Serious Slug</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td>Rocky Oni</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>15</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterDrain">Serious Slug</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td>Rocky Oni</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>16</th>
-    <td>Galaha</td>
-    <td>Small Oni</td>
-    <td>Rocky Oni</td>
-    <td>Stumpy Oni</td>
-    <td>Lanky Oni</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>17</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td>Porky</td>
-    <td class="monsterItemChange">Stormy Doll</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>18</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td>Porky</td>
-    <td class="monsterItemChange">Stormy Doll</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td>Rock Beast</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>19</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td>Porky</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterBomb">Patient Bag</td>
-    <td>Rock Beast</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td class="monsterWater">Green Zalokleft</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <th>20</th>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterBomb">Patient Bag</td>
-    <td>Rock Beast</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Green Zalokleft</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <th>21</th>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterBomb">Patient Bag</td>
-    <td>Rock Beast</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Green Zalokleft</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <th>22</th>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td>Copycat Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>23</th>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td>Copycat Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>24</th>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>25</th>
-    <td>Boss Oni</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="12" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td class="monsterNone"></td>
+      <td>Nigiri Novice</td>
+      <td>Pit Mamel</td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Small Oni</td>
+      <td>Nigiri Novice</td>
+      <td class="monsterNone"></td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td>Armordillo Bro</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Small Oni</td>
+      <td>Nigiri Novice</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Spearfish</td>
+      <td>Armordillo Bro</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Small Oni</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterWater">Spearfish</td>
+      <td>Armordillo Bro</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterWater">Capt. Spearfish</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td>N'dubba</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterDrain">Scorpion</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterWater">Capt. Spearfish</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td>N'dubba</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Froggucci</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Sheep Priest</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterItem">Mixer</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td>N'dubba</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Froggucci</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Sheep Priest</td>
+      <td>Summon Ninja</td>
+      <td class="monsterItem">Mixer</td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterItem">Mr. Helico</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+      <td class="monsterCyclops">Golem</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Froggucci</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td>Sheep Priest</td>
+      <td>Summon Ninja</td>
+      <td class="monsterItem">Mixer</td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Golem</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td>Sheep Priest</td>
+      <td>Summon Ninja</td>
+      <td class="monsterItem">Mixer</td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Armor Spider</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterDrain">Bitter Sluggy</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td>Rocky Oni</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterDrain">Bitter Sluggy</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td>Rocky Oni</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Galaha</td>
+      <td>Small Oni</td>
+      <td>Rocky Oni</td>
+      <td>Stumpy Oni</td>
+      <td>Lanky Oni</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td>Porky</td>
+      <td class="monsterItemChange">Stormy Doll</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td>Porky</td>
+      <td class="monsterItemChange">Stormy Doll</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td>Rock Beast</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td>Porky</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterBomb">Patient Bag</td>
+      <td>Rock Beast</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td class="monsterWater">Green Zalokleft</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterBomb">Patient Bag</td>
+      <td>Rock Beast</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Green Zalokleft</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterBomb">Patient Bag</td>
+      <td>Rock Beast</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Green Zalokleft</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td>Copycat Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td>Copycat Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Boss Oni</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">
@@ -1520,55 +1528,63 @@ It allows you to walk on air and pass through walls, along with warping to a ran
 
 ### Golden Interval
 
-<table class="monsterTableRates goldenMonsters">
-  <tr>
-    <th>1</th>
-    <td>Gamagucci</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-    <td>Summon Ninja</td>
-    <td>Landmine Ninja</td>
-    <td>Sheep Priest</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterCyclops">Golem</td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Gamagucci</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Summon Ninja</td>
-    <td>Landmine Ninja</td>
-    <td>Sheep Priest</td>
-    <td>Goat Pastor</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterCyclops">Golem</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Summon Ninja</td>
-    <td>Landmine Ninja</td>
-    <td>Sheep Priest</td>
-    <td>Goat Pastor</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterDrain">Serious Slug</td>
-    <td class="monsterDragon">Shagga</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td>Goat Pastor</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td>Armor Spider</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightGold">F</th>
+      <th colspan="9" class="highlightGold">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Froggucci</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+      <td>Summon Ninja</td>
+      <td>Landmine Ninja</td>
+      <td>Sheep Priest</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterCyclops">Golem</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Froggucci</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Summon Ninja</td>
+      <td>Landmine Ninja</td>
+      <td>Sheep Priest</td>
+      <td>Goat Pastor</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterCyclops">Golem</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Summon Ninja</td>
+      <td>Landmine Ninja</td>
+      <td>Sheep Priest</td>
+      <td>Goat Pastor</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterDrain">Bitter Sluggy</td>
+      <td class="monsterDragon">Shagga</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td>Goat Pastor</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td>Armor Spider</td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">
@@ -2632,9 +2648,9 @@ The following items have only been reported on certain floor ranges:
 |1~15F|Leather Shield, Holy Shield|
 |17~24F|Power Pole, Dragon Tile Bracelet, Cannonball, Synthesis Pot|
 
-# No Carry-in Guide
+# No Items Guide
 
-The trickiest part of this ruleset is the two boss fights.<br/>
+The trickiest part of this "no carry-in items" ruleset is the two boss fights.<br/>
 Look for items like Swift Grass, Warp Grass, Blaze Scroll, and Blank Scroll to get past Galaha.<br/>
 Store 4500 Gitan inside a Storage Pot and throw it at Boss Oni to one-shot him.
 
@@ -2691,13 +2707,13 @@ If you weren't able to make a Cave Mamel earlier, you can try to gain more level
 
 ### 7-12F
 
-Notable monsters include Mr. Drone (7~9F), Nigiri Morph (9~10F),<br/>Gamagucci (9~11F), and Mixer (9~12F).
+Notable monsters include Mr. Drone (7~9F), Nigiri Morph (9~10F),<br/>Froggucci (9~11F), and Mixer (9~12F).
 
 Other monsters like Gazer and Scorpion can be troublesome,<br/>but Wooden Arrows
 are common so you shouldn't have too much trouble.
 
 Prioritize synthesizing as many Otogiriso onto your shield as you can.<br/>
-Let Gamagucci steal a large amount of Gitan instead of defeating it right away,<br/>and place the dropped Gitan inside a Storage Pot.
+Let Froggucci steal a large amount of Gitan instead of defeating it right away,<br/>and place the dropped Gitan inside a Storage Pot.
 
 Things will only get harder from here, so go with the expectation<br/>that you won't be able to replenish items much from this point.
 

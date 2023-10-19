@@ -159,8 +159,7 @@ The location of each category and grade of material is shown in the following ta
 
 As you can see, Perfect grade castle materials can be found in Shuten Trail Hard,<br/>
 while Shuten Trail Easy only has Normal grade materials.<br/>
-However, <span class="cautionText">Perfect Wood can only be found in the 2nd half of Shuten Trail Mid.</span><br/>
-Likewise, Perfect grade materials can only be found in the 2nd half of Shuten Trail Hard.<br/>It's easy to forget, so try to remember that when going on adventures.
+However, <span class="cautionText">Perfect Wood can only be found in the 2nd half of Shuten Trail Mid.</span><br/>Non-wood Perfect grade materials can only be found in the 2nd half of Shuten Trail Hard.<br/>It's easy to forget, so try to remember that when going on adventures.
 
 Enemy monsters never drop castle materials when you trip or defeat them.
 

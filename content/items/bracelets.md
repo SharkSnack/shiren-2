@@ -354,7 +354,7 @@ Locations:
 |-|
 |Prevents slug licks from lowering<br/>your strength.|
 
-Protects against strength lowering Slug licks and Sheep Priest spells.<br/>
+Protects against strength lowering Sluggy licks and Sheep Priest spells.<br/>
 It doesn't protect against strength loss from poisons, such as poison arrows and Scorpion stings.
 
 |Seal|Buy|Sell|Stack|Phrase|

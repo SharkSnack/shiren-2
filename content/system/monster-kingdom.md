@@ -63,7 +63,7 @@ It might be fun to visit these zones every now and then, and recall where you me
 |Lv1|Lv2|Lv3|Lv4|
 |-|-|-|-|
 |Taur|Minotaur|Megataur|-|
-|Porky|Porkchop|Porkton|-|
+|Porky|Porko|Porkon|-|
 |King Tusker|Monarch Tusker|Emperor Tusker|-|
 |Horse Ronin|Horse Samurai|Horse Shogun|Horse Emperor|
 |Bat Kangaroo|Evil Kangaroo|Devil Kangaroo|-|
@@ -93,7 +93,7 @@ There are a total of 9 colors based on the N'dubba's age.
 
 |Lv1 |  Lv2 |  Lv3 |  Lv4|
 |-|-|-|-|
-|Pumphantasm  | Pumphantom | Pumpking | -|
+|Pumphantasm  | Pumphantom | Pumpanshee | -|
 |Tiny Phoenix | - |  - |  -|
 |Weather Doll | Rainy Doll | Stormy Doll |  Monsoon Doll|
 |Gale | Whirlwind |  Kamikaze | Typhoon|
@@ -114,7 +114,7 @@ Armor Spider and Queen Spider are in the same enclosure.
 |-|-|-|-|
 |Dragon|  Sky Dragon|  Archdragon|  -|
 |Gazer |  Super Gazer |  Hyper Gazer |  -|
-|Slug | Serious Slug|  Rancor Slug|   Intolerable Slug|
+|Sluggy | Bitter Sluggy|  Rancor Sluggy| Venom Sluggy|
 |Shagga|  Nashagga|  Lashagga | -|
 |Escargon|  -|   -  | -|
 |Scorpion  |Demon Scorpion | Stun Scorpion |  -|
@@ -130,7 +130,7 @@ Armor Spider and Queen Spider are in the same enclosure.
 
 |Lv1 |  Lv2|   Lv3  | Lv4|
 |-|-|-|-|
-|Nigiri Trainee | Nigiri Morph | Nigiri Boss |  Nigiri Master|
+|Nigiri Novice | Nigiri Morph | Nigiri Boss |  Nigiri Master|
 |Straw Voodoll  | Nailed Voodoll | Spiked Voodoll | -|
 |Wolf Droid | Gorilla Bot |  Bear Borg |  -|
 |Ironhead | Chainhead  | Gigahead | -|
@@ -182,7 +182,7 @@ but the grass will never be thrown at Shiren.
 |Lv1  | Lv2 |  Lv3   |Lv4|
 |-|-|-|-|
 |Mamel  | Pit Mamel  | Cave Mamel|  -|
-|Gamarra |  Gamagucci |  Gamagon  | -|
+|Froggo |  Froggucci |  Froggon  | -|
 |Twisty Hani |  -|   - |  -|
 |Chintala | Mid Chintala | Big Chintala  |-|
 |Hunger Puppet |  Starve Puppet |  Famine Puppet |  Diet Puppet|
@@ -254,7 +254,7 @@ The trickiest monsters to capture are likely Queen Spider and each of the N'dubb
     - It reflects thrown items including Monster Pots, so it needs to be sealed first.<br/>Use a Seal Staff, Monsoon Doll, or King Tusker to seal it.
 - Copycat Mask
     - It's always disguised as another monster when it spawns, so reveal its disguise first.<br/>Get hit by a direct attack while equipped with a shield that has the 識 seal (Identify Scroll),<br/>or seal it using a Seal Staff, Monsoon Doll, or King Tusker.<br/>Copycat Masks can't be found in Sealed Room, so search 22\~23F of Onigashima instead.<br/>They have low attack power, so it's easier to level it up using Happy Grass<br/>or Happy Staff instead of trying to have it defeat another monster.
-- Zalokleft, Gamarra Families
+- Zalokleft, Froggo Families
     - These two monster families basically have 0 attack power,<br/>so use items like Happy Grass or Happy Staff to level them up instead.
 - Mr. Drone Family
     - Capturing it while it's hovering over water results in a submerged Monster Pot,<br/>so be extra careful when capturing it in Dororo Creek (Shuten Trail Mid 6~7F),<br/>since Freeze, Evaporate, and Great Hall scrolls don't take effect in Shuffle Dungeon maps.<br/>Use items like Happy Grass or Happy Staff to level it up.
@@ -312,48 +312,48 @@ This list is ordered using the in-game order when taking monsters out of Monster
     <td>Cave Mamel</td>
     <td>Twisty Hani</td>
     <td>Hyper Gazer</td>
-    <td>Slug</td>
+    <td>Sluggy</td>
     <td>N'dubba 88~89yr</td>
   </tr>
   <tr>
     <td>Dragon</td>
     <td>Taur</td>
     <td>Chintala</td>
-    <td>Serious Slug</td>
+    <td>Bitter Sluggy</td>
     <td>N'dubba 90~98yr</td>
   </tr>
   <tr>
     <td>Sky Dragon</td>
     <td>Minotaur</td>
     <td>Mid Chintala</td>
-    <td>Rancor Slug</td>
+    <td>Rancor Sluggy</td>
     <td>N'dubba 99yr</td>
   </tr>
   <tr>
     <td>Archdragon</td>
     <td>Megataur</td>
     <td>Big Chintala</td>
-    <td>Intolerable Slug</td>
+    <td>Venom Sluggy</td>
     <td>Tiny Phoenix</td>
   </tr>
   <tr>
-    <td>Gamarra</td>
-    <td>Nigiri Trainee</td>
+    <td>Froggo</td>
+    <td>Nigiri Novice</td>
     <td>Porky</td>
     <td>N'dubba 1~19yr</td>
     <td>Shagga</td>
   </tr>
   <tr>
-    <td>Gamagucci</td>
+    <td>Froggucci</td>
     <td>Nigiri Morph</td>
-    <td>Porkchop</td>
+    <td>Porko</td>
     <td>N'dubba 20~29yr</td>
     <td>Nashagga</td>
   </tr>
   <tr>
-    <td>Gamagon</td>
+    <td>Froggon</td>
     <td>Nigiri Boss</td>
-    <td>Porkton</td>
+    <td>Porkon</td>
     <td>N'dubba 30~59yr</td>
     <td>Lashagga</td>
   </tr>
@@ -400,7 +400,7 @@ This list is ordered using the in-game order when taking monsters out of Monster
     <td>Bear Borg</td>
   </tr>
   <tr>
-    <td>Pumpking</td>
+    <td>Pumpanshee</td>
     <td>Armordillo Pop</td>
     <td>Whirlwind</td>
     <td>Boy Cart</td>

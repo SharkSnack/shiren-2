@@ -24,7 +24,7 @@ and Lightning scrolls on hand, along with Dragon and Swift grasses.
 Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#floor-guide">Floor Guide</a>
     <ul>
       <li><a href="#quiet-cave-(1-2f)">Quiet Cave (1-2F)</a></li>
@@ -43,9 +43,9 @@ Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.
   <li><a href="#items">Items</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>Clear Shuten Trail Easy.</td>
@@ -56,7 +56,7 @@ Clearing this dungeon opens up a sidequest that unlocks Shuten Trail Hard.
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>13F</td>
@@ -126,9 +126,9 @@ On a side note, the music for this area is slightly different than the first tra
 
 ### Ravine Stream (3-4F)
 
-New monsters include Yamikichi and Nigiri Trainee, along with Droplet Ninja on 4F.
+New monsters include Yamikichi and Nigiri Novice, along with Droplet Ninja on 4F.
 
-Both Nigiri Trainee and Yamikichi only use direct attacks,<br/>
+Both Nigiri Novice and Yamikichi only use direct attacks,<br/>
 so they shouldn't be too threatening as long as you leveled up a bit.<br/>
 Yamikichi floats on a cloud, so it can cut corners while chasing you.
 
@@ -202,7 +202,7 @@ On a side note, all unidentified items will be identified if you enter Shuten Tr
 |Beetle Shield|7000|Higher defense.|
 |Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
-|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
+|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Sluggy.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
 |Purify Scroll|1000|Removes curses from equipped items.<br/>Unnecessary for Shuten Trail Easy.|
 |Storage Pot[5]|1500|Insert and take out items freely.<br/>Stock up on these if possible.|
@@ -297,7 +297,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
 
 # Monsters
 
-<table class="monsterTable">
+<table class="monsterList">
   <tr>
     <th>F</th>
     <th>Name</th>
@@ -360,7 +360,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
   </tr>
   <tr>
     <td>3-4</td>
-    <td>Nigiri Trainee</td>
+    <td>Nigiri Novice</td>
     <td>12</td>
     <td>5</td>
     <td>6</td>
@@ -400,7 +400,7 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
   </tr>
   <tr>
     <td>6-7</td>
-    <td>Gamarra</td>
+    <td>Froggo</td>
     <td>11</td>
     <td>0</td>
     <td>29</td>
@@ -592,150 +592,158 @@ There are hidden traps, so consider eating Sight Grass if you happen to have one
 
 # Monster Table
 
-<table class="monsterTableRates">
-  <tr>
-    <th>1</th>
-    <td>Mamel</td>
-    <td>Pit Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Pit Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>Nigiri Trainee</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td>Nigiri Trainee</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td>Bow Boy</td>
-    <td>Mid Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Droplet Ninja</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="monsterNone"></td>
-    <td>Gamarra</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td>N'dubba</td>
-    <td>Gamarra</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterItem">Mr. Helico</td>
-  </tr>
-  <tr>
-    <th>8</th>
-    <td>N'dubba</td>
-    <td>Boy Cart</td>
-    <td class="monsterDrain">Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>9</th>
-    <td>N'dubba</td>
-    <td>Boy Cart</td>
-    <td>Tiger Tosser</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>10</th>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td>Tiger Tosser</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>11</th>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td>Summon Ninja</td>
-    <td>Goat Pastor</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>12</th>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td>Summon Ninja</td>
-    <td>Goat Pastor</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>13</th>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="8" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Nigiri Novice</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Nigiri Novice</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Bow Boy</td>
+      <td>Mid Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Droplet Ninja</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td class="monsterNone"></td>
+      <td>Froggo</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>N'dubba</td>
+      <td>Froggo</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterItem">Mr. Helico</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>N'dubba</td>
+      <td>Boy Cart</td>
+      <td class="monsterDrain">Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>N'dubba</td>
+      <td>Boy Cart</td>
+      <td>Tiger Tosser</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td>Tiger Tosser</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td>Summon Ninja</td>
+      <td>Goat Pastor</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td>Summon Ninja</td>
+      <td>Goat Pastor</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+  </tbody>
 </table>
 
 # Items

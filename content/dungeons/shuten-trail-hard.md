@@ -28,7 +28,7 @@ but you'll likely struggle if you're not a seasoned wanderer.
 </p>
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#important-items">Important Items</a>
     <ul>
       <li><a href="#weapon">Weapon</a></li>
@@ -55,9 +55,9 @@ but you'll likely struggle if you're not a seasoned wanderer.
   <li><a href="#items">Items</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>Clear Shuten Trail Mid,<br/>and complete the Ancient Manuscript sidequest.</td>
@@ -68,7 +68,7 @@ but you'll likely struggle if you're not a seasoned wanderer.
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>15F</td>
@@ -154,7 +154,7 @@ If 回 is too difficult, you can substitute it with multiple 弟.
   <tr>
     <td>ド</td>
     <td>Drain Buster</td>
-    <td>Deal x1.5 damage to Drain types. (Slug, Hunger Puppet, Scorpion, etc.)</td>
+    <td>Deal x1.5 damage to Drain types. (Sluggy, Hunger Puppet, Scorpion, etc.)</td>
   </tr>
   <tr>
     <td>仏</td>
@@ -232,11 +232,11 @@ Recommended to get Shiren up to level 4 before proceeding to 3F.
 
 ### Mountain Cave (3-4F)
 
-Piko Hammer and Slug make an appearance starting on 3F.
+Piko Hammer and Sluggy make an appearance starting on 3F.
 
 Piko Hammer's attacks deal \~10 damage if you don't have a shield equipped.
 
-Slugs appear between 3\~5F, and can lower Shiren's strength with their licks,<br/>
+Sluggys appears between 3\~5F, and can lower Shiren's strength with their licks,<br/>
 so use projectiles to defeat them from a distance if possible.
 
 There's a 30% chance for Golden Stairs to be hidden in a wall between 3\~6F.<br/>
@@ -284,7 +284,7 @@ The Blacksmith can erase synthesis seals and repair cracked bracelets,<br/>so re
 |Beetle Shield|7000|Higher defense.|
 |Huge Onigiri|300|Restores fullness to max,<br/>and increases max fullness by 7%.|
 |Otogiriso|500|Restores 100 HP when eaten.<br/>Increases max HP by 4 if HP is full.|
-|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Slugs.|
+|Antidote Grass|400|Restores strength to max.<br/>Buy it if you got licked by Sluggy.|
 |Identify Scroll|500|Identifies a selected item.<br/>Unnecessary for Shuten Trail Easy.|
 |Purify Scroll|1000|Removes curses from equipped items.<br/>Unnecessary for Shuten Trail Easy.|
 |Storage Pot[5]|1500|Insert and take out items freely.<br/>Stock up on these if possible.|
@@ -421,7 +421,7 @@ Onigiri can't be found, so bring enough food to last the entire trip.<br/>
 There are usually many Heaven and Earth scrolls and Synthesis Pots,<br/>
 so it's a good area to visit to strengthen equipment if you're struggling in Onigashima.
 
-Onigiri Sword and Gamarra Whip are exclusively found in treasure chests<br/>at the end of this dungeon's Golden Interval.<br/>
+Onigiri Sword and Froggo Whip are exclusively found in treasure chests<br/>at the end of this dungeon's Golden Interval.<br/>
 
 Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 
@@ -435,11 +435,11 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 |Scroll|Heaven Scroll, Earth Scroll, Sanctuary Scroll, Slumber Scroll|
 |Pot|Synthesis Pot|
 |Gitan|10~2000 Gitan|
-|Treasure|Onigiri Sword, Gamarra Whip, No Hunger Bracelet|
+|Treasure|Onigiri Sword, Froggo Whip, No Hunger Bracelet|
 
 # Monsters
 
-<table class="monsterTable">
+<table class="monsterList">
   <tr>
     <th>F</th>
     <th>Name</th>
@@ -492,7 +492,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
   </tr>
   <tr>
     <td>3-4</td>
-    <td>Nigiri Trainee</td>
+    <td>Nigiri Novice</td>
     <td>12</td>
     <td>5</td>
     <td>6</td>
@@ -512,7 +512,7 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
   </tr>
   <tr>
     <td>3-5</td>
-    <td>Slug</td>
+    <td>Sluggy</td>
     <td>11</td>
     <td>4</td>
     <td>6</td>
@@ -726,168 +726,184 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 
 ### Dungeon
 
-<table class="monsterTableRates">
-  <tr>
-    <th>1</th>
-    <td>Mamel</td>
-    <td>Pit Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Pit Mamel</td>
-    <td>Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>Piko Hammer</td>
-    <td>Nigiri Trainee</td>
-    <td>Armordillo</td>
-    <td class="monsterDrain">Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td>Piko Hammer</td>
-    <td>Nigiri Trainee</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterDrain">Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>5</th>
-    <td class="monsterNone"></td>
-    <td>Bow Boy</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterDrain">Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>6</th>
-    <td class="monsterWater">Zalokleft</td>
-    <td>Bow Boy</td>
-    <td>Droplet Ninja</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>7</th>
-    <td class="monsterWater">Zalokleft</td>
-    <td>Bow Boy</td>
-    <td>Tiger Tosser</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>8</th>
-    <td class="monsterWater">Zalokleft</td>
-    <td class="monsterNone"></td>
-    <td>Tiger Tosser</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>9</th>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterItem">Mixer</td>
-    <td>Tiger Tosser</td>
-    <td>Boy Cart</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>10</th>
-    <td class="monsterCyclops">Golem</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>11</th>
-    <td class="monsterCyclops">Golem</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>12</th>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>13</th>
-    <td>King Tusker</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td>Bat Kangaroo</td>
-    <td>Stone Beast</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterBone">Bone Dragon</td>
-  </tr>
-  <tr>
-    <th>14</th>
-    <td>King Tusker</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td>Bat Kangaroo</td>
-    <td>Stone Beast</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterBone">Bone Dragon</td>
-  </tr>
-  <tr>
-    <th>15</th>
-    <td>Queen Spider</td>
-    <td>Armor Spider</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="6" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Piko Hammer</td>
+      <td>Nigiri Novice</td>
+      <td>Armordillo</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Piko Hammer</td>
+      <td>Nigiri Novice</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td class="monsterNone"></td>
+      <td>Bow Boy</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td class="monsterWater">Zalokleft</td>
+      <td>Bow Boy</td>
+      <td>Droplet Ninja</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td class="monsterWater">Zalokleft</td>
+      <td>Bow Boy</td>
+      <td>Tiger Tosser</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td class="monsterWater">Zalokleft</td>
+      <td class="monsterNone"></td>
+      <td>Tiger Tosser</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterItem">Mixer</td>
+      <td>Tiger Tosser</td>
+      <td>Boy Cart</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td class="monsterCyclops">Golem</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td class="monsterCyclops">Golem</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>King Tusker</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td>Bat Kangaroo</td>
+      <td>Stone Beast</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterBone">Bone Dragon</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>King Tusker</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td>Bat Kangaroo</td>
+      <td>Stone Beast</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterBone">Bone Dragon</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Queen Spider</td>
+      <td>Armor Spider</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+  </tbody>
 </table>
 
 ### Golden Interval
 
-<table class="monsterTableRates goldenMonsters">
-  <tr>
-    <th rowspan="2">1-4</th>
-    <td class="monsterCyclops">Ironhead</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterCyclops">Golem</td>
-    <td>Boy Cart</td>
-    <td class="monsterDrain">Slug</td>
-    <td>Droplet Ninja</td>
-    <td>Tiger Tosser</td>
-    <td>Chintala</td>
-  </tr>
-  <tr>
-    <td class="monsterWater">Zalokleft</td>
-    <td>Bow Boy</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterBone">Bone Dragon</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td>Bat Kangaroo</td>
-    <td class="monsterNone"></td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightGold">F</th>
+      <th colspan="8" class="highlightGold">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">1-4</th>
+      <td class="monsterCyclops">Ironhead</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterCyclops">Golem</td>
+      <td>Boy Cart</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td>Droplet Ninja</td>
+      <td>Tiger Tosser</td>
+      <td>Chintala</td>
+    </tr>
+    <tr>
+      <td class="monsterWater">Zalokleft</td>
+      <td>Bow Boy</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterBone">Bone Dragon</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td>Bat Kangaroo</td>
+      <td class="monsterNone"></td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">
@@ -903,9 +919,9 @@ Synthesizing Onigiri Sword onto your main weapon will make hunger a non-issue.
 <table class="itemTable">
   <tr>
     <th colspan="7">Weapon</th>
-    <th rowspan="40" class="tableDivider"></th>
+    <th rowspan="39" class="tableDivider"></th>
     <th colspan="7">Scroll</th>
-    <th rowspan="40" class="tableDivider"></th>
+    <th rowspan="39" class="tableDivider"></th>
     <th colspan="7">Staff</th>
   </tr>
   <tr class="tableCategory">

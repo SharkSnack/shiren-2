@@ -23,7 +23,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 2: Oni Invasio
 |[Leather Shield](#leather-shield)|皮|4|5|2000|1000|KOPPA|Halves hunger rate. Rustproof.|
 |[Dodge Shield](#dodge-shield)|身|5|4|15000|7500|-|Projectiles aimed at you will miss.|
 |[Holy Shield](#holy-shield)|祓|5|5|10000|2500|SATORI|Prevents your items from getting cursed.|
-|[Gamarra Shield](#gamarra-shield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
+|[Froggo Shield](#froggo-shield)|銭|5|5|4000|1600|-|Gain Gitan equal to 10% of damage received.|
 |[Scale Shield](#scale-shield)|う|6|5|6000|3000|MATO|Prevents poison from decreasing strength.|
 |[Happy Shield](#happy-shield)|幸|6|5|15000|3500|-|Gain exp equal to 130% of damage received.|
 |[Walrus Shield](#walrus-shield)|ト|6|6|6000|1500|-|Prevents monsters from stealing items and Gitan.|
@@ -1044,7 +1044,7 @@ Locations:
   </tr>
 </table>
 
-### Gamarra Shield
+### Froggo Shield
 
 <table>
   <tr>
@@ -1053,9 +1053,9 @@ Locations:
   </tr>
   <tr>
     <td class="itemPageImage">
-      <img src="../images/shields/gamarra.png" alt="Gamarra Shield Image"/>
+      <img src="../images/shields/gamarra.png" alt="Froggo Shield Image"/>
     </td>
-    <td>Receive Gitan when you get hit.<br/>This shield hosts the spirit of a<br/>Gamarra very fond of Gitan.</td>
+    <td>Receive Gitan when you get hit.<br/>This shield hosts the spirit of a<br/>Froggo very fond of Gitan.</td>
   </tr>
 </table>
 
@@ -1168,7 +1168,7 @@ Locations:
 </table>
 
 Prevents poison arrows, poison grass, and Scorpion stings from lowering strength.<br/>
-Note that it doesn't prevent loss of strength from Slug licks or Spoiled Onigiri.
+Note that it doesn't prevent loss of strength from Sluggy licks or Spoiled Onigiri.
 
 |Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
 |-|-|-|-|-|-|-|-|
@@ -1332,7 +1332,7 @@ Locations:
 </table>
 
 Shield modeled after a Zalokleft.<br/>
-Prevents item and Gitan theft by Zalokleft, Gamarra, and Gyadon monsters.<br/>
+Prevents item and Gitan theft by Zalokleft, Froggo, and Gyadon monsters.<br/>
 It can't prevent Kengo monsters from disarming you, since disarming is not considered stealing.
 
 |Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|
@@ -1444,7 +1444,7 @@ Locations:
 </table>
 
 Shield that reflects 30% of damage received from physical attacks back at monsters.<br/>
-Note that reflected damage can still cause Slugs and Zaloklefts to divide.<br/>
+Note that reflected damage can still cause Sluggy and Zalokleft monsters to divide.<br/>
 Cannot reflect damage if the target is inside a wall.
 
 |Seal|Def|Slots|Buy|Sell|+1|Stack|Phrase|

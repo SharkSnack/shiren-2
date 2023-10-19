@@ -6,6 +6,132 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer 2: Oni Invas
 
 ## Monster List
 
+Monster Kingdom Order
+
+<table class="monsterPageTable">
+  <tr>
+    <th colspan="6">Monster (Family)</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#mamel">Mamel</a></td>
+    <td><a href="#porky">Porky</a></td>
+    <td class="highlightGray"><a href="#hunger-puppet">Hunger Puppet</a></td>
+    <td><a href="#horse-ronin">Horse Ronin</a></td>
+    <td class="highlightGray"><a href="#piko-hammer">Piko Hammer</a></td>
+    <td><a href="#spearfish">Spearfish</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#dragon">Dragon</a></td>
+    <td><a href="#kengo">Kengo</a></td>
+    <td class="highlightGray"><a href="#armordillo">Armordillo</a></td>
+    <td><a href="#wolf-droid">Wolf Droid</a></td>
+    <td class="highlightGray"><a href="#dosukoi">Dosukoi</a></td>
+    <td><a href="#golem">Golem</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#froggo">Froggo</a></td>
+    <td><a href="#sluggy">Sluggy</a></td>
+    <td class="highlightGray"><a href="#patient-bag">Patient Bag</a></td>
+    <td><a href="#ironhead">Ironhead</a></td>
+    <td class="highlightGray"><a href="#sheep-priest">Sheep Priest</a></td>
+    <td><a href="#yamikichi">Yamikichi</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#zalokleft">Zalokleft</a></td>
+    <td><a href="#n'dubba">N'dubba</a></td>
+    <td class="highlightGray"><a href="#copycat-mask">Copycat Mask</a></td>
+    <td><a href="#bat-kangaroo">Bat Kangaroo</a></td>
+    <td class="highlightGray"><a href="tiger-tosser">Tiger Tosser</a></td>
+    <td><a href="#scorpion">Scorpion</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#twisty-hani">Twisty Hani</a></td>
+    <td><a href="#tiny-phoenix">Tiny Phoenix</a></td>
+    <td class="highlightGray"><a href="#weather-doll">Weather Doll</a></td>
+    <td><a href="#escargon">Escargon</a></td>
+    <td class="highlightGray"><a href="#gyadon">Gyadon</a></td>
+    <td><a href="#bone-dragon">Bone Dragon</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#taur">Taur</a></td>
+    <td><a href="#shagga">Shagga</a></td>
+    <td class="highlightGray"><a href="#gale">Gale</a></td>
+    <td><a href="#mixer">Mixer</a></td>
+    <td class="highlightGray"><a href="#ashigarudon">Ashigarudon</a></td>
+    <td><a href="#stone-beast">Stone Beast</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#nigiri-novice">Nigiri Novice</a></td>
+    <td><a href="#schubell">Schubell</a></td>
+    <td class="highlightGray"><a href="#mr.-drone">Mr. Drone</a></td>
+    <td><a href="#snacky">Snacky</a></td>
+    <td class="highlightGray"><a href="#shotfish">Shotfish</a></td>
+    <td><a href="#armor-spider">Armor Spider</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#gazer">Gazer</a></td>
+    <td><a href="#pumphantasm">Pumphantasm</a></td>
+    <td class="highlightGray"><a href="#king-tusker">King Tusker</a></td>
+    <td><a href="#droplet-ninja">Droplet Ninja</a></td>
+    <td class="highlightGray"><a href="#orcan">Orcan</a></td>
+    <td><a href="#queen-spider">Queen Spider</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#chintala">Chintala</a></td>
+    <td><a href="#straw-voodoll">Straw Voodoll</a></td>
+    <td class="highlightGray"><a href="#bow-boy">Bow Boy</a></td>
+    <td><a href="#bored-kappa">Bored Kappa</a></td>
+    <td class="highlightGray"><a href="#aqua-dragon">Aqua Dragon</a></td>
+    <td><a href="#water-strider">Water Strider</a></td>
+  </tr>
+</table>
+
+Other Enemies / Characters
+
+<table class="monsterPageTable">
+  <tr>
+    <th colspan="2">Oni / Character (Family)</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#small-oni">Small Oni</a></td>
+    <td><a href="#shopkeeper">Shopkeeper</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#lanky-oni">Lanky Oni</a></td>
+    <td><a href="#trader">Trader</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#galaha">Galaha</a></td>
+    <td><a href="#sheriff">Sheriff</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGray"><a href="#boss-oni">Boss Oni</a></td>
+    <td><a href="#guard-dog">Guard Dog</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3" class="highlightGray"></td>
+    <td><a href="#shuten-child">Shuten Child</a></td>
+  </tr>
+  <tr>
+    <td><a href="#figure">Figure</a></td>
+  </tr>
+  <tr>
+    <td><a href="#oni-doll">Oni Doll</a></td>
+  </tr>
+</table>
+
 Primary Category Order
 
 <table class="itemTable">
@@ -36,12 +162,12 @@ Primary Category Order
   </tr>
   <tr>
     <td>Item</td>
-    <td>Nigiri Trainee | Mixer | Straw Voodoll | Weather Doll</td>
+    <td>Nigiri Novice | Mixer | Straw Voodoll | Weather Doll</td>
     <td>Interacts with items.</td>
   </tr>
   <tr>
     <td>Theft</td>
-    <td>Zalokleft | Gamarra | Gyadon</td>
+    <td>Zalokleft | Froggo | Gyadon</td>
     <td>Steals items or Gitan.</td>
   </tr>
   <tr>
@@ -56,7 +182,7 @@ Primary Category Order
   </tr>
   <tr>
     <td>Drain</td>
-    <td>Twisty Hani | Slug | Scorpion | Hunger Puppet</td>
+    <td>Twisty Hani | Sluggy | Scorpion | Hunger Puppet</td>
     <td>Weak to ド seal.</td>
   </tr>
   <tr>
@@ -90,134 +216,6 @@ Primary Category Order
   <p>※ Some monsters fit multiple categories. Check details section for more information.</p>
 </div>
 
-Monster Kingdom Order
-
-<table class="itemTable">
-  <tr>
-    <th colspan="6">Monster (Family)</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
-  </tr>
-  <tr>
-    <td>Mamel</td>
-    <td>Porky</td>
-    <td>Hunger Puppet</td>
-    <td>Horse Ronin</td>
-    <td>Piko Hammer</td>
-    <td>Spearfish</td>
-  </tr>
-  <tr>
-    <td>Dragon</td>
-    <td>Kengo</td>
-    <td>Armordillo</td>
-    <td>Wolf Droid</td>
-    <td>Dosukoi</td>
-    <td>Golem</td>
-  </tr>
-  <tr>
-    <td>Gamarra</td>
-    <td>Slug</td>
-    <td>Patient Bag</td>
-    <td>Ironhead</td>
-    <td>Sheep Priest</td>
-    <td>Yamikichi</td>
-  </tr>
-  <tr>
-    <td>Zalokleft</td>
-    <td>N'dubba</td>
-    <td>Copycat Mask</td>
-    <td>Bat Kangaroo</td>
-    <td>Tiger Tosser</td>
-    <td>Scorpion</td>
-  </tr>
-  <tr>
-    <td>Twisty Hani</td>
-    <td>Tiny Phoenix</td>
-    <td>Weather Doll</td>
-    <td>Escargon</td>
-    <td>Gyadon</td>
-    <td>Bone Dragon</td>
-  </tr>
-  <tr>
-    <td>Taur</td>
-    <td>Shagga</td>
-    <td>Gale</td>
-    <td>Mixer</td>
-    <td>Ashigarudon</td>
-    <td>Stone Beast</td>
-  </tr>
-  <tr>
-    <td>Nigiri Trainee</td>
-    <td>Schubell</td>
-    <td>Mr. Drone</td>
-    <td>Snacky</td>
-    <td>Shotfish</td>
-    <td>Armor Spider</td>
-  </tr>
-  <tr>
-    <td>Gazer</td>
-    <td>Pumphantasm</td>
-    <td>King Tusker</td>
-    <td>Droplet Ninja</td>
-    <td>Orcan</td>
-    <td>Queen Spider</td>
-  </tr>
-  <tr>
-    <td>Chintala</td>
-    <td>Straw Voodoll</td>
-    <td>Bow Boy</td>
-    <td>Bored Kappa</td>
-    <td>Aqua Dragon</td>
-    <td>Water Strider</td>
-  </tr>
-</table>
-
-Other Enemies / Characters
-
-<table class="itemTable">
-  <tr>
-    <th colspan="2">Oni / Character (Family)</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-  </tr>
-  <tr>
-    <td>Small Oni</td>
-    <td>Shopkeeper</td>
-  </tr>
-  <tr>
-    <td>Lanky Oni</td>
-    <td>Trader</td>
-  </tr>
-  <tr>
-    <td>Galaha</td>
-    <td>Sheriff</td>
-  </tr>
-  <tr>
-    <td>Boss Oni</td>
-    <td>Guard Dog</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Shuten Child</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Figure</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Oni Doll</td>
-  </tr>
-</table>
-
 ## Overview
 
 #### Enemy Monsters
@@ -239,7 +237,7 @@ Possession Staff can be used to take control of a monster and use their special 
 
 The attack power of a monster is set to 1 if they're hit by a poison arrow.
 
-Green Zalokleft, Iron Zalokleft, Rancor Slug, and Intolerable Slug can divide when hit,<br/>creating a fresh copy of the monster that received damage - HP, strength, and status<br/>of the new copy have no relation to the one that was hit.<br/>
+Green Zalokleft, Iron Zalokleft, Rancor Sluggy, and Venom Sluggy can divide when hit,<br/>creating a fresh copy of the monster that received damage - HP, strength, and status<br/>of the new copy have no relation to the one that was hit.<br/>
 They can't divide if there isn't an open tile in a 1 tile radius, or if they're sealed.
 
 #### Ally Monsters
@@ -792,7 +790,7 @@ Armordillo's special attack makes a monster drop 1 item.<br/>
 The ability to rapidly obtain new items is so powerful, you're nearly guaranteed<br/>
 to clear the dungeon if you capture an Armordillo Pop in Road to the End.<br/>
 The dropped items are selected from the current floor's item table.<br/>
-Note that Gamarra monsters will always drop Gitan.
+Note that Froggo monsters will always drop Gitan.
 
 <table class="itemTable">
   <tr>
@@ -1242,7 +1240,7 @@ A body slam in a diagonal direction won't break walls.
 
 Disguises itself as other monsters, but can't copy their special attacks or stats.<br/>
 Its disguise is canceled when sealed, and it can be identified with a Knowledge Staff.<br/>
-Never disguises itself as Dosukoi, Gamarra, Zalokleft, Orcan, Spearfish, or N'dubba.<br/>
+Never disguises itself as Dosukoi, Froggo, Zalokleft, Orcan, Spearfish, or N'dubba.<br/>
 Mixergons on 50\~80F in Road to the End could be a disguised Copycat Mask monster.<br/>
 Seal a monster before throwing an Extinction Scroll, just to ensure it's not one of these.<br/>
 Never spawns asleep, so sleeping monsters are always real. (Excluding monster houses)<br/>
@@ -2612,13 +2610,13 @@ Their stats are low, but it's easy to forget what their shields reflect at diffe
 <table>
   <tr>
     <th>Porky</th>
-    <th>Porkchop</th>
-    <th>Porkton</th>
+    <th>Porko</th>
+    <th>Porkon</th>
   </tr>
   <tr>
     <td class="itemPageImage"><img src="../images/monster/porky.png" alt="Porky Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/porkchop.png" alt="Porkchop Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/porkton.png" alt="Porkton Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/porkchop.png" alt="Porko Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/porkton.png" alt="Porkon Image"/></td>
   </tr>
 </table>
 
@@ -2658,7 +2656,7 @@ Doesn't attack if Shiren is inside a pot.
   </tr>
   <tr>
     <td>2</td>
-    <td>Porkchop</td>
+    <td>Porko</td>
     <td>105</td>
     <td>55</td>
     <td>60</td>
@@ -2671,7 +2669,7 @@ Doesn't attack if Shiren is inside a pot.
   </tr>
   <tr>
     <td>3</td>
-    <td>Porkton</td>
+    <td>Porkon</td>
     <td>120</td>
     <td>60</td>
     <td>63</td>
@@ -2706,7 +2704,7 @@ Doesn't attack if Shiren is inside a pot.
     <td></td>
   </tr>
   <tr>
-    <td>Porkchop</td>
+    <td>Porko</td>
     <td>20</td>
     <td>1</td>
     <td>2</td>
@@ -2715,7 +2713,7 @@ Doesn't attack if Shiren is inside a pot.
     <td></td>
   </tr>
   <tr>
-    <td>Porkton</td>
+    <td>Porkon</td>
     <td>20</td>
     <td>1</td>
     <td>2</td>
@@ -3340,17 +3338,17 @@ All 3 spells can be reflected by Echo Shield, Sheep Priest's spell can be blocke
   </tr>
 </table>
 
-### Nigiri Trainee
+### Nigiri Novice
 
 <table>
   <tr>
-    <th>Nigiri Trainee</th>
+    <th>Nigiri Novice</th>
     <th>Nigiri Morph</th>
     <th>Nigiri Boss</th>
     <th>Nigiri Master</th>
   </tr>
   <tr>
-    <td class="itemPageImage"><img src="../images/monster/nigiri_trainee.png" alt="Nigiri Trainee Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/nigiri_trainee.png" alt="Nigiri Novice Image"/></td>
     <td class="itemPageImage"><img src="../images/monster/nigiri_morph.png" alt="Nigiri Morph Image"/></td>
     <td class="itemPageImage"><img src="../images/monster/nigiri_boss.png" alt="Nigiri Boss Image"/></td>
     <td class="itemPageImage"><img src="../images/monster/nigiri_master.png" alt="Nigiri Master Image"/></td>
@@ -3385,7 +3383,7 @@ It only uses direct attacks when there is nothing in your inventory that can be<
   </tr>
   <tr>
     <td>1</td>
-    <td>Nigiri Trainee</td>
+    <td>Nigiri Novice</td>
     <td>12</td>
     <td>5</td>
     <td>6</td>
@@ -3453,7 +3451,7 @@ No special attack, but monsters defeated by it have a higher chance to drop<br/>
     <th>Ally / Possession</th>
   </tr>
   <tr>
-    <td>Nigiri Trainee</td>
+    <td>Nigiri Novice</td>
     <td>10</td>
     <td>1</td>
     <td>3</td>
@@ -4009,18 +4007,18 @@ Only appears in Underwater Houses inside Road to the End.
   </tr>
 </table>
 
-### Gamarra
+### Froggo
 
 <table>
   <tr>
-    <th>Gamarra</th>
-    <th>Gamagucci</th>
-    <th>Gamagon</th>
+    <th>Froggo</th>
+    <th>Froggucci</th>
+    <th>Froggon</th>
   </tr>
   <tr>
-    <td class="itemPageImage"><img src="../images/monster/gamarra.png" alt="Gamarra Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/gamagucci.png" alt="Gamagucci Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/gamagon.png" alt="Gamagon Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/gamarra.png" alt="Froggo Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/gamagucci.png" alt="Froggucci Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/gamagon.png" alt="Froggon Image"/></td>
   </tr>
 </table>
 
@@ -4047,7 +4045,7 @@ Doesn't use direct attacks unless it's sealed.
   </tr>
   <tr>
     <td>1</td>
-    <td>Gamarra</td>
+    <td>Froggo</td>
     <td>11</td>
     <td>0</td>
     <td>29</td>
@@ -4061,7 +4059,7 @@ Doesn't use direct attacks unless it's sealed.
   </tr>
   <tr>
     <td>2</td>
-    <td>Gamagucci</td>
+    <td>Froggucci</td>
     <td>16</td>
     <td>0</td>
     <td>35</td>
@@ -4073,7 +4071,7 @@ Doesn't use direct attacks unless it's sealed.
   </tr>
   <tr>
     <td>3</td>
-    <td>Gamagon</td>
+    <td>Froggon</td>
     <td>40</td>
     <td>0</td>
     <td>65</td>
@@ -4082,7 +4080,7 @@ Doesn't use direct attacks unless it's sealed.
     <td>1 Tile</td>
     <td>100%</td>
     <td>25%</td>
-    <td>Same as Gamarra, but it drops<br/>Gitan worth x3 the amount that<br/>can be found on the ground.<br/>(Max: 2000 Gitan)</td>
+    <td>Same as Froggo, but it drops<br/>Gitan worth x3 the amount that<br/>can be found on the ground.<br/>(Max: 2000 Gitan)</td>
   </tr>
 </table>
 
@@ -4099,7 +4097,7 @@ Doesn't use direct attacks unless it's sealed.
     <th>Ally / Possession</th>
   </tr>
   <tr>
-    <td>Gamarra</td>
+    <td>Froggo</td>
     <td>50</td>
     <td>2</td>
     <td>0</td>
@@ -4108,22 +4106,22 @@ Doesn't use direct attacks unless it's sealed.
     <td>Steals 30~2000 Gitan and warps.<br/>Picks bag up and warps if it steps on Gitan.<br/>Can hold a maximum of 5000 Gitan.<br/>Drops its Gitan when returning to its pot.</td>
   </tr>
   <tr>
-    <td>Gamagucci</td>
+    <td>Froggucci</td>
     <td>50</td>
     <td>2</td>
     <td>0</td>
     <td>116</td>
     <td>1</td>
-    <td>Same as Gamarra. Can hold 10000 Gitan.</td>
+    <td>Same as Froggo. Can hold 10000 Gitan.</td>
   </tr>
   <tr>
-    <td>Gamagon</td>
+    <td>Froggon</td>
     <td>50</td>
     <td>2</td>
     <td>0</td>
     <td>140</td>
     <td>1</td>
-    <td>Same as Gamarra. Can hold 20000 Gitan.</td>
+    <td>Same as Froggo. Can hold 20000 Gitan.</td>
   </tr>
 </table>
 
@@ -4615,12 +4613,12 @@ Bone Dragon has a higher item drop rate.
   <tr>
     <th>Pumphantasm</th>
     <th>Pumphantom</th>
-    <th>Pumpking</th>
+    <th>Pumpanshee</th>
   </tr>
   <tr>
     <td class="itemPageImage"><img src="../images/monster/pumphantasm.png" alt="Pumphantasm Image"/></td>
     <td class="itemPageImage"><img src="../images/monster/pumphantom.png" alt="Pumphantom Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/pumpking.png" alt="Pumpking Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/pumpking.png" alt="Pumpanshee Image"/></td>
   </tr>
 </table>
 
@@ -4672,7 +4670,7 @@ Shiren has a unique animation when he's hit by Pumphantasm monsters.
   </tr>
   <tr>
     <td>3</td>
-    <td>Pumpking</td>
+    <td>Pumpanshee</td>
     <td>80</td>
     <td>60</td>
     <td>43</td>
@@ -4716,7 +4714,7 @@ Shiren has a unique animation when he's hit by Pumphantasm monsters.
     <td>99</td>
   </tr>
   <tr>
-    <td>Pumpking</td>
+    <td>Pumpanshee</td>
     <td>15</td>
     <td>1</td>
     <td>5</td>
@@ -5060,20 +5058,20 @@ However, it has a high item drop rate and offers a decent amount of experience,<
   </tr>
 </table>
 
-### Slug
+### Sluggy
 
 <table>
   <tr>
-    <th>Slug</th>
-    <th>Serious Slug</th>
-    <th>Rancor Slug</th>
-    <th>Intolerable Slug</th>
+    <th>Sluggy</th>
+    <th>Bitter Sluggy</th>
+    <th>Rancor Sluggy</th>
+    <th>Venom Sluggy</th>
   </tr>
   <tr>
-    <td class="itemPageImage"><img src="../images/monster/slug.png" alt="Slug Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/serious_slug.png" alt="Serious Slug Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/rancor_slug.png" alt="Rancor Slug Image"/></td>
-    <td class="itemPageImage"><img src="../images/monster/intolerable_slug.png" alt="Intolerable Slug Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/slug.png" alt="Sluggy Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/serious_slug.png" alt="Bitter Sluggy Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/rancor_slug.png" alt="Rancor Sluggy Image"/></td>
+    <td class="itemPageImage"><img src="../images/monster/intolerable_slug.png" alt="Venom Sluggy Image"/></td>
   </tr>
 </table>
 
@@ -5081,7 +5079,7 @@ Monster that resembles a slug. Licks Shiren and lowers his strength.<br/>
 Salty Bracelet or the poison immunity effect from a Special Onigiri blocks its licks.<br/>
 Scale Shield (う and 消 seals) can't block the strength lowering effect of licks.<br/>
 Uses its special attack even if the target's strength is already 0.<br/>
-Thrown Antidote Grass deals 50 damage, which is enough to one-shot Lv1-2 slugs.<br/>
+Thrown Antidote Grass deals 50 damage, which is enough to one-shot Lv1-2 Sluggys.<br/>
 Strength is extremely important in Shiren 2, so don't hesitate to use items.<br/>
 Lv3-4 can divide when they receive damage, creating a copy of itself.
 
@@ -5102,7 +5100,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
   </tr>
   <tr>
     <td>1</td>
-    <td>Slug</td>
+    <td>Sluggy</td>
     <td>11</td>
     <td>4</td>
     <td>6</td>
@@ -5116,7 +5114,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
   </tr>
   <tr>
     <td>2</td>
-    <td>Serious Slug</td>
+    <td>Bitter Sluggy</td>
     <td>40</td>
     <td>10</td>
     <td>18</td>
@@ -5129,7 +5127,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
   </tr>
   <tr>
     <td>3</td>
-    <td>Rancor Slug</td>
+    <td>Rancor Sluggy</td>
     <td>70</td>
     <td>38</td>
     <td>41</td>
@@ -5142,7 +5140,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
   </tr>
   <tr>
     <td>4</td>
-    <td>Intolerable Slug</td>
+    <td>Venom Sluggy</td>
     <td>65</td>
     <td>45</td>
     <td>40</td>
@@ -5168,7 +5166,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
     <th>Ally / Possession</th>
   </tr>
   <tr>
-    <td>Slug</td>
+    <td>Sluggy</td>
     <td>40</td>
     <td>1</td>
     <td>1</td>
@@ -5177,7 +5175,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
     <td>Lowers a target's attack by 10%.</td>
   </tr>
   <tr>
-    <td>Serious Slug</td>
+    <td>Bitter Sluggy</td>
     <td>40</td>
     <td>1</td>
     <td>1</td>
@@ -5186,7 +5184,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
     <td>Lowers a target's attack by 20%.</td>
   </tr>
   <tr>
-    <td>Rancor Slug</td>
+    <td>Rancor Sluggy</td>
     <td>40</td>
     <td>1</td>
     <td>1</td>
@@ -5195,7 +5193,7 @@ Lv3-4 can divide when they receive damage, creating a copy of itself.
     <td>Lowers a target's attack by 30%.</td>
   </tr>
   <tr>
-    <td>Intolerable Slug</td>
+    <td>Venom Sluggy</td>
     <td>40</td>
     <td>2</td>
     <td>1</td>

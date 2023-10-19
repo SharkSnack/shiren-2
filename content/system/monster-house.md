@@ -259,7 +259,7 @@ All other Monster Houses are called "Special Monster House".<br/>
 These only appear in Sealed Room, Road to the End, and Shrine's Hidden Hole between 1\~99F.
 
 Special Monster Houses can contain monsters outside of the current floor's monster table,<br/>
-including high level monsters. (ex: Gigahead, Porkton, Typhoon on 12F of Road to the End).<br/>
+including high level monsters. (ex: Gigahead, Porkon, Typhoon on 12F of Road to the End).<br/>
 They're typically extremely dangerous, especially if you begin the floor in the middle of one.<br/>
 However, a Sanctuary Scroll is usually enough to deal with Cyclops, Drain, and Ghost houses.
 
@@ -289,7 +289,7 @@ Otogiriso to deal 100 damage to monsters in the room while healing yourself.
 
 - Twisty Hani
 - Scorpion
-- Slug
+- Sluggy
 - Hunger Puppet
 
 These don't have fast movement or ranged attacks, but instead have tricky special attacks.<br/>
@@ -320,7 +320,7 @@ so be careful where you stand to avoid ending up with an extra Gigahead in the r
 
 Many of these monsters not only have high attack power, but also have high HP.<br/>
 One of the most dangerous types due to the presence of Porkys and Tiger Tossers.<br/>
-Porkton throws stones from up to 10 tiles away even if you're on a Sanctuary Scroll.<br/>
+Porkon throws stones from up to 10 tiles away even if you're on a Sanctuary Scroll.<br/>
 竜 (Dragon Killer) and 龍 (Ryujin Sword) seals help against Shaggas and Bone Dragons,<br/>
 while the 目 seal (Cyclops Killer) helps against Ironheads and Golems.<br/>
 It's a great type for experience points, but it might be best to ignore it due to the risk.
@@ -383,10 +383,10 @@ If the Aquatic House is generated on a floor that is one large room with water t
 ### Theft House
 
 - Zalokleft
-- Gamarra
+- Froggo
 
 Special Monster House that can only be seen in Sealed Room.<br/>
-Only Zaloklefts and Gamarras appear, so there's no immediate danger of collapsing.<br/>
+Only Zaloklefts and Froggos appear, so there's no immediate danger of collapsing.<br/>
 However, Iron Zaloklefts can steal equipped items, so you'll want the ト seal (Walrus Shield).<br/>
 Sealed Room doesn't have much for rare items that can be found on the ground,<br/>so it might be best to just ignore it.
 

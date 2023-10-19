@@ -36,11 +36,6 @@ Steps (Online):
 3. Select patch
 4. Click "Apply Patch"
 
-Steps (Drag-and-drop):
-1. Download patcher script: https://www.mediafire.com/file/vdlkjpd7y9ss85q/PatchShiren_-_Shiren_2_Oni_Invasion%2521_Shiren_Castle%2521_%2528English_Translation_v1.01%2529.7z/file
-2. Place the patch file in the same folder as the script.
-3. Follow the included readme.
-
 Steps (Manual):
 1. Download Flips - the bps patcher: https://www.romhacking.net/utilities/1040/
 2. Run Flips
@@ -53,11 +48,9 @@ However, DO NOT ask for or link to ROMs.
 
 On the 64drive, after selecting the ROM, you may need to choose "256K" next to Force Save.
 
-If you're using a playtest patch save file, deposit items in storage and return to<br/>Napus Village before starting the game in version 1.0.
-
 ### How do I provide feedback?
 
-Join the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server and post in #shiren-2 (under Patch Feedback).
+Join the <a href="https://discord.gg/5y7UDFc">Shiren the Wanderer</a> Discord server and post in #shiren-2-english (under "Patches / Projects").
 
 Save state usage can cause issues due to the way the game constantly writes,<br/>so don't bother reporting errors if you use save states.
 
@@ -85,7 +78,7 @@ Steps:
 
 1. This game is a prequel to Shiren 1, and is the first game in the timeline.<br/>That said, each game in the series features a self-contained story, so you don't<br/>need to have played other games in the series to understand and enjoy the story.
 
-2. There's a glitch that hard-locks the game, so it's recommended to read through the Glitches page.<br/>This glitch is in the original ROM, and wasn't introduced by the English patch.
+2. There's a very obscure glitch that hard-locks the game.<br/>Basically, don't swing a weapon that has a 火 seal while standing at the very edge of a Shuffle style map.<br/>※ This glitch is in the original ROM, and wasn't introduced by the English patch.
 
 3. Asuka and Mamo will lose their items if [Return to Napus Village] is selected at the main menu.<br/>
 This applies even if Asuka and Mamo weren't brought along for the current adventure.<br/>

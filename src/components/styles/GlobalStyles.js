@@ -24,12 +24,9 @@ export const baseStyles = css`
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
-      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
-      'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-
+    font-family: 'Roboto';
     font-size: 16px;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
   }
 
   a {
@@ -37,9 +34,6 @@ export const baseStyles = css`
     /* color: #663399; */
   }
 
-  body {
-    font-family: 'Roboto';
-  }
   .visibleMobile {
     display: none;
   }
@@ -573,10 +567,11 @@ export const baseStyles = css`
   table {
     padding: 0;
     font-size: 14px;
+    border-collapse: collapse;
   }
 
   table tr {
-    border-top: 1px solid #cccccc;
+    border-top: 1px solid #919191;
     margin: 0;
     padding: 0;
   }
@@ -587,7 +582,7 @@ export const baseStyles = css`
 
   table tr th {
     font-weight: bold;
-    border: 1px solid #cccccc;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -595,7 +590,7 @@ export const baseStyles = css`
   }
 
   table tr td {
-    border: 1px solid #cccccc;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -647,6 +642,18 @@ export const baseStyles = css`
   .priceTablePots td {
     font-size: 13.5px;
   }
+  .priceTableMedium th {
+    text-align: center;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  .priceTableMedium td {
+    text-align: center;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
   .tableDivider {
     font-weight: normal;
     background-color: #ececec;
@@ -667,11 +674,33 @@ export const baseStyles = css`
   .overviewTable th {
     background-color: #ddfff7;
   }
+  .dungeonOverview {
+    margin-bottom: 8px;
+  }
+  .dungeonOverview th {
+    background-color: #ddfff7;
+    font-weight: normal;
+    padding: 4px 8px;
+  }
+  .dungeonOverview td {
+    padding: 4px 8px;
+  }
+  .dungeonTable th {
+    font-weight: normal;
+  }
   .monsterTable th {
-    padding: 4px;
+    font-weight: normal;
+    text-align: center;
+    padding: 2.5px;
+    background-color: #f9fbff;
   }
   .monsterTable td {
-    padding: 4px;
+    text-align: center;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    font-size: 13.5px;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -680,6 +709,44 @@ export const baseStyles = css`
   .monsterTableSmall td {
     padding: 2px;
     font-size: 13px;
+  }
+  .monsterPageTable th {
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .monsterPageTable td {
+    text-align: center;
+    padding: 3px;
+  }
+  .monsterList td:nth-of-type(1) {
+    background-color: #f7f7f7;
+    text-align: left;
+  }
+  .monsterList td:nth-of-type(2) {
+    background-color: #fffff6;
+    text-align: left;
+  }
+  .monsterList td:nth-of-type(8) {
+    text-align: left;
+  }
+  .monsterList td {
+    text-align: center;
+    padding: 4px;
+  }
+  .monsterList th {
+    font-weight: normal;
+  }
+  .dungeonItemTable th {
+    font-weight: normal;
+    background-color: #ececec;
+    text-align: center;
+    padding: 4px;
+  }
+  .dungeonItemTable td {
+    text-align: center;
+    min-width: 30px;
+    padding: 4px;
   }
   .itemTable th {
     text-align: center;
@@ -744,6 +811,7 @@ export const baseStyles = css`
     font-size: 12.5px;
   }
   .monsterTablePostgame th {
+    background-color: #f9fbff;
     text-align: center;
     padding: 1px;
     font-size: 12px;
@@ -828,6 +896,21 @@ export const baseStyles = css`
   }
   .itemPageImage {
     background-color: #555;
+  }
+  .highlightGray {
+    background-color: #f7f7f7 !important;
+  }
+  .highlightPurple {
+    background-color: #e6e6fa !important;
+  }
+  .highlightLightblue {
+    background-color: #eef6ff !important;
+  }
+  .highlightYellow {
+    background-color: #ffffe4 !important;
+  }
+  .highlightGold {
+    background-color: #ffed8e !important;
   }
   /* end - tables.css */
 

@@ -14,15 +14,15 @@ Be sure to read all of the messages that appear on-screen if you're new to the s
 Once you clear this dungeon, you won't be able to challenge it again later.
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>After the opening scene.</td>
@@ -33,7 +33,7 @@ Once you clear this dungeon, you won't be able to challenge it again later.
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>3F</td>
@@ -82,7 +82,7 @@ You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
 
 # Monsters
 
-<table class="monsterTable">
+<table class="monsterList">
   <tr>
     <th>F</th>
     <th>Name</th>
@@ -117,22 +117,30 @@ You'll auto-clear the dungeon if you somehow end up collapsing 20 times.
 
 # Monster Table
 
-<table class="monsterTableRates">
-  <tr>
-    <th>1</th>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td>Mamel</td>
-    <td>Chintala</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="2" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Mamel</td>
+      <td>Chintala</td>
+    </tr>
+  </tbody>
 </table>
 
 # Items

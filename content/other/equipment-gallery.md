@@ -51,7 +51,7 @@ The location of each weapon on the wall:
     <td>Pickaxe</td>
     <td colspan="3">Gobo</td>
     <td colspan="3">Disposable Sword</td>
-    <td colspan="2">Gamarra Whip</td>
+    <td colspan="2">Froggo Whip</td>
   </tr>
   <tr>
     <td>Onigiri Sword</td>
@@ -111,7 +111,7 @@ The location of each shield on the wall:
     <td>Scale Shield</td>
     <td>Disposable Shield</td>
     <td>Traproid Shield</td>
-    <td>Gamarra Shield</td>
+    <td>Froggo Shield</td>
   </tr>
   <tr>
     <td>Reflect Shield</td>

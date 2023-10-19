@@ -25,7 +25,7 @@ If you successfully reach the end, you'll find yourself arriving at a strange<br
 new area unlike any other location in the game, and your save file<br/>will gain a Shiren icon.
 
 <ul class="dungeonLinksUL">
-  <li><a href="#dungeon-overview">Dungeon Overview</a></li>
+  <li><a href="#overview">Overview</a></li>
   <li><a href="#important-items">Important Items</a>
     <ul>
       <li><a href="#3-sacred-treasures">3 Sacred Treasures</a></li>
@@ -86,9 +86,9 @@ new area unlike any other location in the game, and your save file<br/>will gain
   <li><a href="#items">Items</a></li>
 </ul>
 
-# Dungeon Overview
+# Overview
 
-<table class="overviewTable">
+<table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
     <td>Clear Halfway Well.</td>
@@ -99,7 +99,7 @@ new area unlike any other location in the game, and your save file<br/>will gain
   </tr>
 </table>
 
-<table>
+<table class="dungeonTable">
   <tr>
     <th>Floors</th>
     <td>99F</td>
@@ -287,7 +287,7 @@ In any case, it's best to focus synthesizing seals that help early and mid game<
     <td class="itemEquipment">ド</td>
     <td>A</td>
     <td>Drain Buster</td>
-    <td>Deal x1.5 damage to Drain type monsters.<br/>(Slug, Hunger Puppet, Scorpion families, and Twisty Hani)</td>
+    <td>Deal x1.5 damage to Drain type monsters.<br/>(Sluggy, Hunger Puppet, Scorpion families, and Twisty Hani)</td>
   </tr>
   <tr>
     <td class="itemEdible">飯</td>
@@ -469,7 +469,7 @@ The most important seals are 皮, 山, 見, and 弟.<br/>
 見 is overshadowed a bit by the others, but a higher chance of evading attacks<br/>means bracelets last longer, so don't underestimate its value.<br/>
 Echo Shield and Evasive Shield are shop-exclusive, so try not to collapse<br/>if you're lucky enough to obtain them.
 
-う and 消 prevent strength loss from poison arrows, Scorpions (8F),<br/>and Poison Grass, but it doesn't prevent strength loss from Slug licks,<br/>so consider it a nice option for early game only - not worth synthesizing<br/>unless you hate stepping on Poison Traps.
+う and 消 prevent strength loss from poison arrows, Scorpions (8F),<br/>and Poison Grass, but it doesn't prevent strength loss from Sluggy licks,<br/>so consider it a nice option for early game only - not worth synthesizing<br/>unless you hate stepping on Poison Traps.
 
 Really, just eat Antidote Grass to restore strength, and losing a few points<br/>won't have much impact once you've increased your max strength.<br/>
 
@@ -504,7 +504,7 @@ Really, just eat Antidote Grass to restore strength, and losing a few points<br/
     <td class="itemEquipment">ト</td>
     <td>A</td>
     <td>Walrus Shield</td>
-    <td>Zaloklefts don't appear in Road to the End, and Gamarras<br/>aren't an issue, so it's basically for Gyadon monsters.<br/>Gyandoras can erase seals, so aim to synthesize it by 50F.</td>
+    <td>Zaloklefts don't appear in Road to the End, and Froggos<br/>aren't an issue, so it's basically for Gyadon monsters.<br/>Gyandoras can erase seals, so aim to synthesize it by 50F.</td>
   </tr>
   <tr>
     <td class="itemEdible">弟</td>
@@ -534,7 +534,7 @@ Really, just eat Antidote Grass to restore strength, and losing a few points<br/
     <td class="itemEquipment">バ</td>
     <td>B</td>
     <td>Counter Shield</td>
-    <td>Reflects a portion of damage received back at the enemy.<br/>Most effective when your attack power is low, but it can<br/>make Rancor Slug and Intolerable Slug divide.</td>
+    <td>Reflects a portion of damage received back at the enemy.<br/>Most effective when your attack power is low, but it can<br/>make Rancor Sluggy and Venom Sluggy divide.</td>
   </tr>
   <tr>
     <td class="itemEquipment">竜</td>
@@ -596,7 +596,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Restock Scroll
     * Basically lets you obtain up to an additional 9 items if read inside a shop,<br/>including shop-exclusives like Echo and Evasive shields, Phantasm Bracelet,<br/>or generally rare items like Razor Wind and Scout Bracelet.<br/>Don't discard any Restock Scrolls you come across.
 * Otogiriso
-    * Restore 100 HP, increase max HP by 4, synthesize it onto a weapon or shield,<br/>use it to create a Healing Sword, or throw it at a Ghost type monster.<br/>Recommended to synthesize it onto a weapon or shield to increase<br/>your chances of progressing past early game, though some players skip<br/>弟 seals if they obtain stronger, rarer seals like 三, 回, 山, and 見.<br/>Keep 2\~3 on hand for Archdragon and Porkton floors.
+    * Restore 100 HP, increase max HP by 4, synthesize it onto a weapon or shield,<br/>use it to create a Healing Sword, or throw it at a Ghost type monster.<br/>Recommended to synthesize it onto a weapon or shield to increase<br/>your chances of progressing past early game, though some players skip<br/>弟 seals if they obtain stronger, rarer seals like 三, 回, 山, and 見.<br/>Keep 2\~3 on hand for Archdragon and Porkon floors.
 * Revival Grass
     * Fully restores HP, strength, and fullness if you collapse.<br/>Recommended to keep at least 1\~3 outside of pots at all times.<br/>Don't get lazy or let your guard down just because you have Revival Grass.<br/>Hunt Mr. Gyro (50\~59F) for Revival Grass drops if possible. (75% drop rate)<br/>Can't be found on the ground starting from 51F.
 * Strength Grass + Boost Grass + Grass Gainer or Grass Tosser
@@ -623,7 +623,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Level Lock Bracelet
     * Twisty Hanis have a high item drop rate, and this lets you hunt them safely.<br/>It's the only bracelet with a purchase price of 3000G / selling price of 1500G.
 * Salty Bracelet
-    * Scale Shield (う or 消 seal) can't block Slug licks, so you'll need this bracelet.<br/>Especially nice on floors where Rancor Slug or Intolerable Slug appears.
+    * Scale Shield (う or 消 seal) can't block Sluggy licks, so you'll need this bracelet.<br/>Especially nice on floors where Rancor Sluggy or Venom Sluggy appears.
 * Dragon Tile Bracelet
     * Shop-exclusive, and only found until 29F.<br/>Lets you collect items using a Trip Stone, or make use of other traps.<br/>It's needed to create Daisangen equipment, so try to bring it home safely.
 * Paper Thin Bracelet
@@ -671,7 +671,7 @@ Revival Grass to bounce back from accidental collapses,<br/>Strength Grass + Boo
 * Evaporate Scroll
     * Collect items from islands, or retrieve items that fell in water.<br/>Freeze, Great Hall, and Sanctaruy scrolls can be used in a similar way.
 * Sanctuary Scroll
-    * Escape tricky situations, or use it to clear out a Monster House.<br/>Remember that ranged attacks like Porkton's stone toss can still hit you.
+    * Escape tricky situations, or use it to clear out a Monster House.<br/>Remember that ranged attacks like Porkon's stone toss can still hit you.
 * Slumber Scroll
     * Escape tricky situations by inflicting sleep for 10 turns.<br/>Monsters have increased action speed (1 stage) when they wake up.<br/>Nice in case you step on a Summon Trap, and can also be synthesized.
 * Fear Scroll
@@ -855,7 +855,7 @@ Difficult to determine:
   </tr>
   <tr>
     <td>Salty Bracelet</td>
-    <td>Blocked Slug or Sheep Priest special attacks.</td>
+    <td>Blocked Sluggy or Sheep Priest special attacks.</td>
   </tr>
   <tr>
     <td>Song Bracelet</td>
@@ -1574,7 +1574,7 @@ Options include Swift Grass, Slow Staff, and Knockback Staff,<br/>along with thr
 * Cave Mamel
     * 5 HP, 500 Exp - Level up a Pit Mamel (1\~3F) 1 time.<br/>Snacky spawns on 1F, so this has a high chance of occuring naturally.<br/>Throw Gitan or a shield to one-shot it.
 * Nigiri Master
-    * 70 HP, 1600 Exp - Level up a Nigiri Trainee (3\~5F) 3 times,<br/>or a Nigiri Morph (9\~10F) 2 times. Throw any onigiri to one-shot it.<br/>Possession Staff can be used to obtain onigiri.
+    * 70 HP, 1600 Exp - Level up a Nigiri Novice (3\~5F) 3 times,<br/>or a Nigiri Morph (9\~10F) 2 times. Throw any onigiri to one-shot it.<br/>Possession Staff can be used to obtain onigiri.
 * Armordillo Pop
     * 70 HP, 700 Exp - Level up an Armordillo Bro (5\~6F) 1 time.<br/>Armordillo Bro will level up if the knockback damage from tackling<br/>Shiren ends up defeating a different monster.
 * Cranky Tank
@@ -1624,7 +1624,7 @@ Lastly, if you're aiming for a Basilisk Shield from the 3rd Golden Interval,<br/
     * 150 HP and 150 attack, and can inflict freeze with its icy breath.<br/>It can't move on land, so there's no risk of it wandering away.
 * Hyper Gazer
     * Shuts down special attacks and direct attacks by confusing targets.<br/>115 HP and 93 attack, so it's not as strong as Monsoon Doll.
-* Intolerable Slug
+* Venom Sluggy
     * 145 HP and 85 attack, and drastically lowers a target's attack power.
 * Tiny Phoenix
     * Restores Shiren's HP, though it's not always guaranteed to use it.
@@ -1666,7 +1666,7 @@ The following table lists ally monster stats, location, and characteristics.<br/
     <td>Deals 3 tiles knockback and<br/>makes target drop an item.</td>
   </tr>
   <tr>
-    <td>Intolerable Slug</td>
+    <td>Venom Sluggy</td>
     <td>40</td>
     <td>145</td>
     <td>83</td>
@@ -1780,7 +1780,7 @@ Floor Guide Summary:
 |30~39F|It's fine to check rooms on these floors.<br/>Mixermons return, and Monster Pots are more common.<br/>Capture an Armordillo Pop if you find a Monster Pot.<br/>If there's an Archdragon, hurry to the stairs.|
 |40~49F|It's fine to rush stairs on these floors.<br/>Iai, Nigiri Master, and Escargon can be troublesome.<br/>Capture Shihan or Water Shinryu if you find a Monster Pot.|
 |50~59F|It's fine to rush stairs on these floors.<br/>More troublesome monsters like Monsoon Doll, Cranky Tank.<br/>Hunt Mr. Gyro for 2~3 Revival Grass if possible.|
-|60~69F|Recommended to rush stairs.<br/>Porkchop and Porkton's stones are annoying.<br/>It's fine to visit a shop if you see one from this point on.|
+|60~69F|Recommended to rush stairs.<br/>Porko and Porkon's stones are annoying.<br/>It's fine to visit a shop if you see one from this point on.|
 |70~79F|Recommended to rush stairs.<br/>Power monsters like Lashagga, Shihan, Boulder Beast.|
 |80~89F|Recommended to rush stairs.<br/>Top tier threats like Typhoon and Megataur appear.|
 |90~99F|Recommended to rush stairs.<br/>Check for Golden Stairs between 90~95F if you want.|
@@ -1811,7 +1811,7 @@ Shops, Traders, and Monster Houses can be generated on the following floors:
 #### Monsters
 
 Snacky (1\~20F), Mamel (1\~2F), Chintala (1\~2F), Pit Mamel (1\~3F),<br/>
-Ashigarudon (2\~4F), Yamikichi (2\~4F), Slug (3\~5F), Piko Hammer (4\~6F), etc.
+Ashigarudon (2\~4F), Yamikichi (2\~4F), Sluggy (3\~5F), Piko Hammer (4\~6F), etc.
 
 Most enemies only use direct attacks, but Shiren has low HP so it's easy to collapse.<br/>Pit Mamels are always generated awake, and deal up to 4 damage without a shield,<br/>so don't dash in rooms, and don't enter hallways when your HP is 8 or less.
 
@@ -1824,7 +1824,7 @@ Cave Mamels have very high attack and defense, but only 5 HP, so you can<br/>eas
 
 Avoid picking up Gitan between 1\~3F, since it can be used as a projectile<br/>to one-shot a Cave Mamel provided the bag is worth 50G or more,<br/>or thrown at other leveled up enemies like Mid Chintala or Samuraidon.
 
-Slugs can lower your strength, so use projectiles or staves from a distance.<br/>
+Sluggy can lower your strength, so use projectiles or staves from a distance.<br/>
 Antidote Grass is rarely identified this early, so it might be a while before<br/>you get a chance to restore lost strength.
 
 Even experienced players can collapse from unwinnable situations on 1\~4F,<br/>such as not having an item to deal with a leveled up monster, or stepping<br/>on a Summon Trap without an escape item, and so on.
@@ -2025,7 +2025,7 @@ Taishodon (10\~12F) reflects magic, so you can use Strength Grass +<br/>Boost Gr
 
 Kengo (11\~12F) can fling your equipped shield away, sending it behind you.<br/>Fight with your back against a wall, or unequip your shield beforehand.<br/>If you have a Possession Staff, level up a Kengo into an Iai or Shihan<br/>and take control of it to collect weapons, shields, and bracelets.
 
-If you find a Monster House, try to clear it out for items.<br/>However, Special Monster Houses can appear starting on 12F,<br/>so avoid Power Houses (Porkton) and Ghost Houses (Typhoon)<br/>if you're not confident.
+If you find a Monster House, try to clear it out for items.<br/>However, Special Monster Houses can appear starting on 12F,<br/>so avoid Power Houses (Porkon) and Ghost Houses (Typhoon)<br/>if you're not confident.
 
 ### 13-15F
 
@@ -2060,7 +2060,7 @@ Patient Bag (120 HP) stops moving at 30 HP or less, and explodes at 10 HP or les
 Nigiri Boss turns Shiren into an onigiri, reducing his defense to 0.<br/>It's extremely dangerous if your HP is low, or if there are other monsters nearby.<br/>Use Seal Staff, Shadow Scroll, Slumber Scroll, or Warp Grass if needed.<br/>If you have an Unlucky Staff or Twisty Grass, you can restock Large Onigiri.
 
 Snacky continues to appear until 20F, and can be problematic on these floors.<br/>16F is particularly risky since the monster table is smaller, resulting in a higher<br/>chance of a Monsoon Doll or Kamikaze being created.<br/>
-Porkchop and Boulder Beast can quickly end a run if you meet them in a hallway,<br/>so it's best to wait for them in a room if you don't have a Scout Bracelet.
+Porko and Boulder Beast can quickly end a run if you meet them in a hallway,<br/>so it's best to wait for them in a room if you don't have a Scout Bracelet.
 
 Mixermons can't be found between 21\~25F, so synthesize before proceeding.<br/>Shiren's level doesn't matter as much as seals and strength from this point on.<br/>For seals, ド, 目, 仏, (weapon), and 弟, バ, 火 (shield) all help between 22\~29F.<br/>However, save at least 1 Otogiriso and Slumber Scroll for emergencies.
 
@@ -2149,13 +2149,13 @@ Be warned that Lashagga appears from 3F inside this Golden Interval.<br/>It's an
 
 #### Monsters
 
-Armorillo Pop (30\~39F), Orcan (30\~43F), Kappa Pest (30\~49F),<br/>Gyairas (30\~49F), Archdragon (30\~59F), Adm. Spearfish (30\~59F),<br/>Rancor Slug (32\~40F), Nashagga (35\~43F), etc.
+Armorillo Pop (30\~39F), Orcan (30\~43F), Kappa Pest (30\~49F),<br/>Gyairas (30\~49F), Archdragon (30\~59F), Adm. Spearfish (30\~59F),<br/>Rancor Sluggy (32\~40F), Nashagga (35\~43F), etc.
 
 Archdragon is often generated asleep and rarely spawns, but it breathes fire<br/>(35 damage) from anywhere on the floor, and can hit you even inside a wall.<br/>
 A shield with 竜, 火, and multiple 弟 seals greatly reduces fire damage,<br/>
 and the fastest way to deal with it is to throw an Extinction Scroll at it.
 
-Rancor Slug lowers max strength by 2 and occasionally divides when it<br/>receives damage, causing a fresh Rancor Slug to be generated.<br/>
+Rancor Sluggy lowers max strength by 2 and occasionally divides when it<br/>receives damage, causing a fresh Rancor Sluggy to be generated.<br/>
 The remainder of the dungeon will be a struggle if you lose strength here,<br/>so equip a Scout or Salty bracelet, or use an item like Seal Staff.
 
 Waterways are generated more frequently from this point on.<br/>
@@ -2184,11 +2184,11 @@ Use this to your advantage by inserting Strength Grass into a Grass Tosser<br/>a
 
 ### 40-49F
 
-Pumpking (37\~45F), Intolerable Slug (39\~47F), Nailed Voodoll (40\~49F),<br/>Escargon (40\~80F), Iai (43\~55F), Nigiri Master (45\~57F), etc.
+Pumpanshee (37\~45F), Venom Sluggy (39\~47F), Nailed Voodoll (40\~49F),<br/>Escargon (40\~80F), Iai (43\~55F), Nigiri Master (45\~57F), etc.
 
-Pumpking can attack inside walls, so be careful about Phantasm Bracelet usage.
+Pumpanshee can attack inside walls, so be careful about Phantasm Bracelet usage.
 
-Intolerable Slug lowers max strength by 3, and can divide like Rancor Slug.<br/>Be extra careful between 39\~40F, as both Rancor and Intolerable slugs appear.
+Venom Sluggy lowers max strength by 3, and can divide like Rancor Sluggy.<br/>Be extra careful between 39\~40F, as both Rancor Sluggy and Venom Sluggy appear.
 
 Nailed Voodoll curses all of your equipped items at once.<br/>Weapons and shields can be protected by filling their synthesis slots,<br/>but bracelets can only be protected by synthesizing a 祓 (shield) seal.<br/>Save a Purify Scroll to remove curses from Scout and Phantasm bracelets,<br/>or use a Possession Staff on a Nailed Voodoll to do the same.
 
@@ -2260,15 +2260,15 @@ Be careful of the following:
 
 Projectile zone where Silver Arrows, Stones, and Bombs fly from any direction.
 
-Menbell (53\~70F), Bellthoven (60\~75F), Porkchop (56\~71F), Porkton (60\~72F),<br/>Horse Shogun (57\~73F), Horse Emperor (60\~77F), Gorilla Bot (60\~74F),<br/>Bear Borg (60\~76F), etc.
+Menbell (53\~70F), Bellthoven (60\~75F), Porko (56\~71F), Porkon (60\~72F),<br/>Horse Shogun (57\~73F), Horse Emperor (60\~77F), Gorilla Bot (60\~74F),<br/>Bear Borg (60\~76F), etc.
 
-Archdragons finally go away at 60F, but Porkchop and Porkton now appear.<br/>Their stone toss hits harder than Archdragon's fire if your shield is weak,<br/>so use Phantasm Bracelet and Tunnel Staff to take them out quickly.<br/>(They won't throw stones while you're inside a wall)
+Archdragons finally go away at 60F, but Porko and Porkon now appear.<br/>Their stone toss hits harder than Archdragon's fire if your shield is weak,<br/>so use Phantasm Bracelet and Tunnel Staff to take them out quickly.<br/>(They won't throw stones while you're inside a wall)
 
 Beware of Hyper Gazer (63\~90F) if you don't have the 山 seal,<br/>
 as its hypnosis could force you to eat valuable Revival Grass.
 
 Iai, Nigiri Master, and Monsoon Doll go away, so there's less risk of item loss.<br/>
-However, Hyper Gazer, Gyandora, and Tiger Chucker are still around,<br/>so don't only focus on Porkchop and Porkton, or else you'll be hypnotized,<br/>tossed across the map, or your equipment will get ruined by Gyandora.
+However, Hyper Gazer, Gyandora, and Tiger Chucker are still around,<br/>so don't only focus on Porko and Porkon, or else you'll be hypnotized,<br/>tossed across the map, or your equipment will get ruined by Gyandora.
 
 ### 70-85F
 
@@ -2493,2999 +2493,3015 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
 ### Dungeon
 
 <table class="monsterTablePostgame">
-  <tr>
-    <th>1</th>
-    <td>Snacky</td>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td>Pit Mamel</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th>2</th>
-    <td>Snacky</td>
-    <td>Mamel</td>
-    <td>Chintala</td>
-    <td>Pit Mamel</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th>3</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Pit Mamel</td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td>Nigiri Trainee</td>
-    <td class="monsterDrain">Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th>4</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Yamikichi</td>
-    <td>Weather Doll</td>
-    <td class="monsterWeapon">Ashigarudon</td>
-    <td>Nigiri Trainee</td>
-    <td class="monsterDrain">Slug</td>
-    <td>Piko Hammer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">5</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Nigiri Trainee</td>
-    <td class="monsterDrain">Slug</td>
-    <td>Piko Hammer</td>
-    <td>Mid Chintala</td>
-    <td>Armordillo</td>
-  </tr>
-  <tr>
-    <td>Armordillo Bro</td>
-    <td>Droplet Ninja</td>
-    <td>Bow Boy</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">6</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Piko Hammer</td>
-    <td class="monsterNone"></td>
-    <td>Armordillo</td>
-  </tr>
-  <tr>
-    <td>Armordillo Bro</td>
-    <td>Droplet Ninja</td>
-    <td>Bow Boy</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td>Gamarra</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">7</th>
-    <td>Snacky</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Boy Cart</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Bow Boy</td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td>Gamarra</td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">8</th>
-    <td>Snacky</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Boy Cart</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterWater">Capt. Spearfish</td>
-    <td class="monsterDrain">Scorpion</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Spearfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Lt. Spearfish</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">9</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td>Boy Cart</td>
-    <td class="monsterItem">Mr. Drone</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Tiger Tosser</td>
-    <td>Horse Ronin</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-  </tr>
-  <tr>
-    <td>Gamagucci</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">10</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Tiger Tosser</td>
-    <td>Horse Ronin</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-  </tr>
-  <tr>
-    <td>Gamagucci</td>
-    <td class="monsterItemChange">Nigiri Morph</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterItem">Mr. Helico</td>
-    <td class="monsterCyclops">Golem</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">11</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td>Summon Ninja</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td>Gamagucci</td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Golem</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">12</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td>Summon Ninja</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Landmine Ninja</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">13</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Goat Pastor</td>
-    <td class="monsterItem">Mixermon</td>
-    <td>Armor Spider</td>
-    <td>King Tusker</td>
-    <td class="monsterBone">Bone Dragon</td>
-    <td>Stone Beast</td>
-    <td>Bat Kangaroo</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">14</th>
-    <td>Snacky</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td>King Tusker</td>
-    <td class="monsterBone">Bone Dragon</td>
-    <td>Stone Beast</td>
-    <td>Bat Kangaroo</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterDrain">Serious Slug</td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">15</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Pop Tank</td>
-    <td class="monsterWater">Water Strider</td>
-    <td class="monsterGhost">Pumphantom</td>
-    <td class="monsterItem">Mixer</td>
-    <td class="monsterBomb">Wolf Droid</td>
-    <td class="monsterDrain">Serious Slug</td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">16</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterItemChange">Stormy Doll</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">17</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterItemChange">Stormy Doll</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterItemChange">Gyadon</td>
-    <td>Porky</td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td>Evil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">18</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterItemChange">Stormy Doll</td>
-    <td class="monsterGhost">Whirlwind</td>
-    <td class="monsterItemChange">Gyadon</td>
-    <td>Porky</td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td>Evil Kangaroo</td>
-    <td>Rock Beast</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">19</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Porky</td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterCyclops">Chainhead</td>
-    <td class="monsterWater">Aqua Dragon</td>
-    <td>Evil Kangaroo</td>
-    <td>Rock Beast</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Patient Bag</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Twisty Hani</td>
-    <td class="monsterWater">Bored Kappa</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">20</th>
-    <td>Snacky</td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Evil Kangaroo</td>
-    <td>Rock Beast</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Patient Bag</td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 20yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">21</th>
-    <td class="monsterNone"></td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Evil Kangaroo</td>
-    <td>Rock Beast</td>
-    <td>Tiger Hurler</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Patient Bag</td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 20yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">22</th>
-    <td class="monsterNone"></td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Starve Puppet</td>
-    <td class="monsterItemChange">Nigiri Boss</td>
-    <td>Copycat Mask</td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 20yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">23</th>
-    <td class="monsterNone"></td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Copycat Mask</td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">24</th>
-    <td class="monsterNone"></td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">25</th>
-    <td class="monsterNone"></td>
-    <td>Schubell</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">26</th>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td>Monarch Tusker</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">27</th>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">28</th>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Demon Scorpion</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 26yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">29</th>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 26yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">30</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 27yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">31</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Super Gazer</td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 27yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">32</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Bomber Ninja</td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 28yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">33</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 28yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">34</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 29yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">35</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Stone Golem</td>
-    <td class="monsterWeapon">Tonosamadon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 29yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">36</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 30yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">37</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 30yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">38</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 31yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">39</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td>Armordillo Pop</td>
-    <td>Big Chintala</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td class="monsterNone"></td>
-    <td>Dosukoi</td>
-    <td>N'dubba 31yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">40</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterDrain">Rancor Slug</td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItem">Mixermon</td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 32yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">41</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Famine Puppet</td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 32yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">42</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Zurukichi</td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 33yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">43</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDragon">Nashagga</td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcan</td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 33yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">44</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Horse Samurai</td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 34yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">45</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Pumpking</td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 34yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">46</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterCyclops">Magma Golem</td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 35yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">47</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Intolerable Slug</td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td>N'dubba 35yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">48</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">49</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Nailed Voodoll</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Gamagon</td>
-    <td class="monsterItemChange">Gyairas</td>
-    <td class="monsterWater">Kappa Pest</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">50</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">51</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">52</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">53</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">54</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">55</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterWeapon">Iai</td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">56</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Dosukoi</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">57</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Nigiri Master</td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">58</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterNone"></td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Trickster Mask</td>
-    <td class="monsterItemChange">Monsoon Doll</td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">59</th>
-    <td class="monsterDragon">Archdragon</td>
-    <td class="monsterWater">Adm. Spearfish</td>
-    <td>Devil Kangaroo</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Sea Dragon</td>
-    <td class="monsterWater">Orcada</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Trickster Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Spiked Voodoll</td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">60</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td>Devil Kangaroo</td>
-    <td>Porkton</td>
-    <td class="monsterNone"></td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterDrain">Diet Puppet</td>
-  </tr>
-  <tr>
-    <td class="monsterItem">Mr. Gyro</td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">61</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">62</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">63</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">64</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">65</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td>Gazelle Pope</td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">66</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">67</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">68</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">69</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterWater">Dragon Shotfish</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">70</th>
-    <td class="monsterNone"></td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterNone"></td>
-    <td>Menbell</td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td>N'dubba 50yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">71</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Porkchop</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">72</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td>Porkton</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">73</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Horse Shogun</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">74</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterBomb">Gorilla Bot</td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">75</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterNone"></td>
-    <td>Bellthoven</td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">76</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterWater">Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterBomb">Bear Borg</td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterNone"></td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">77</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Horse Emperor</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterBomb">Cranky Tank</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">78</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">79</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">80</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Hakkeyoi</td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterItemChange">Gyandora</td>
-    <td>Mixergon</td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td>Escargon</td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">81</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">82</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">83</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">84</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">85</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Minotaur</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">86</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td>King Tusker</td>
-    <td>Devil Kangaroo</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">87</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterDragon">Lashagga</td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td>King Tusker</td>
-    <td>Devil Kangaroo</td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">88</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td>King Tusker</td>
-    <td>Devil Kangaroo</td>
-    <td>Tiger Chucker</td>
-    <td>Monarch Tusker</td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">89</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Orcaon</td>
-    <td class="monsterWeapon">Shihan</td>
-    <td>Boulder Beast</td>
-    <td class="monsterBone">Garm Dragon</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td>King Tusker</td>
-    <td>Devil Kangaroo</td>
-    <td>Tiger Chucker</td>
-    <td>Monarch Tusker</td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">90</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td>Impostor Mask</td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterCyclops">Hyper Gazer</td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWeapon">Shihan</td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td>Monarch Tusker</td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">91</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">92</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiny Phoenix</td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td>Gottsuan</td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">93</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">94</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>N'dubba 60yr</td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">95</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td>Tiger Chucker</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">96</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">97</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td>Cave Mamel</td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">98</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="14" class="tableDivider2"></td></tr>
-  <tr>
-    <th rowspan="2">99</th>
-    <td class="monsterWater">King Shotfish</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Vexing Kappa</td>
-    <td class="monsterNone"></td>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-    <td class="monsterDrain">Stun Scorpion</td>
-    <td class="monsterGhost">Typhoon</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterWater">Water Shinryu</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
+  <thead>
+    <tr>
+      <th class="highlightPurple">F</th>
+      <th colspan="12" class="highlightPurple">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Snacky</td>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th>2</th>
+      <td>Snacky</td>
+      <td>Mamel</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th>3</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Pit Mamel</td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td>Nigiri Novice</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th>4</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Yamikichi</td>
+      <td>Weather Doll</td>
+      <td class="monsterWeapon">Ashigarudon</td>
+      <td>Nigiri Novice</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td>Piko Hammer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">5</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Nigiri Novice</td>
+      <td class="monsterDrain">Sluggy</td>
+      <td>Piko Hammer</td>
+      <td>Mid Chintala</td>
+      <td>Armordillo</td>
+    </tr>
+    <tr>
+      <td>Armordillo Bro</td>
+      <td>Droplet Ninja</td>
+      <td>Bow Boy</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">6</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Piko Hammer</td>
+      <td class="monsterNone"></td>
+      <td>Armordillo</td>
+    </tr>
+    <tr>
+      <td>Armordillo Bro</td>
+      <td>Droplet Ninja</td>
+      <td>Bow Boy</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td>Froggo</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">7</th>
+      <td>Snacky</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Boy Cart</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Bow Boy</td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td>Froggo</td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">8</th>
+      <td>Snacky</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Boy Cart</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterWater">Capt. Spearfish</td>
+      <td class="monsterDrain">Scorpion</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Spearfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Lt. Spearfish</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">9</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td>Boy Cart</td>
+      <td class="monsterItem">Mr. Drone</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Tiger Tosser</td>
+      <td>Horse Ronin</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">10</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Tiger Tosser</td>
+      <td>Horse Ronin</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td class="monsterItemChange">Nigiri Morph</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterItem">Mr. Helico</td>
+      <td class="monsterCyclops">Golem</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">11</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td>Summon Ninja</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Golem</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">12</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td>Summon Ninja</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Landmine Ninja</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">13</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Goat Pastor</td>
+      <td class="monsterItem">Mixermon</td>
+      <td>Armor Spider</td>
+      <td>King Tusker</td>
+      <td class="monsterBone">Bone Dragon</td>
+      <td>Stone Beast</td>
+      <td>Bat Kangaroo</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">14</th>
+      <td>Snacky</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td>King Tusker</td>
+      <td class="monsterBone">Bone Dragon</td>
+      <td>Stone Beast</td>
+      <td>Bat Kangaroo</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterDrain">Bitter Sluggy</td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">15</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Pop Tank</td>
+      <td class="monsterWater">Water Strider</td>
+      <td class="monsterGhost">Pumphantom</td>
+      <td class="monsterItem">Mixer</td>
+      <td class="monsterBomb">Wolf Droid</td>
+      <td class="monsterDrain">Bitter Sluggy</td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">16</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterItemChange">Stormy Doll</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">17</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterItemChange">Stormy Doll</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterItemChange">Gyadon</td>
+      <td>Porky</td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td>Evil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">18</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterItemChange">Stormy Doll</td>
+      <td class="monsterGhost">Whirlwind</td>
+      <td class="monsterItemChange">Gyadon</td>
+      <td>Porky</td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td>Evil Kangaroo</td>
+      <td>Rock Beast</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">19</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Porky</td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterCyclops">Chainhead</td>
+      <td class="monsterWater">Aqua Dragon</td>
+      <td>Evil Kangaroo</td>
+      <td>Rock Beast</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Patient Bag</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Twisty Hani</td>
+      <td class="monsterWater">Bored Kappa</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">20</th>
+      <td>Snacky</td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Evil Kangaroo</td>
+      <td>Rock Beast</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Patient Bag</td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 20yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">21</th>
+      <td class="monsterNone"></td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Evil Kangaroo</td>
+      <td>Rock Beast</td>
+      <td>Tiger Hurler</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Patient Bag</td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 20yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">22</th>
+      <td class="monsterNone"></td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Starve Puppet</td>
+      <td class="monsterItemChange">Nigiri Boss</td>
+      <td>Copycat Mask</td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 20yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">23</th>
+      <td class="monsterNone"></td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Copycat Mask</td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">24</th>
+      <td class="monsterNone"></td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">25</th>
+      <td class="monsterNone"></td>
+      <td>Schubell</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">26</th>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td>Monarch Tusker</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">27</th>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">28</th>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Demon Scorpion</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 26yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">29</th>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 26yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">30</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 27yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">31</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Super Gazer</td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 27yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">32</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Bomber Ninja</td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 28yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">33</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 28yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">34</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 29yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">35</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Stone Golem</td>
+      <td class="monsterWeapon">Tonosamadon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 29yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">36</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 30yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">37</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 30yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">38</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 31yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">39</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td>Armordillo Pop</td>
+      <td>Big Chintala</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td class="monsterNone"></td>
+      <td>Dosukoi</td>
+      <td>N'dubba 31yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">40</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterDrain">Rancor Sluggy</td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItem">Mixermon</td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 32yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">41</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Famine Puppet</td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 32yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">42</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Zurukichi</td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 33yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">43</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDragon">Nashagga</td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcan</td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 33yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">44</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Horse Samurai</td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 34yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">45</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Pumpanshee</td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 34yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">46</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterCyclops">Magma Golem</td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 35yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">47</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Venom Sluggy</td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td>N'dubba 35yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">48</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">49</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Nailed Voodoll</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Froggon</td>
+      <td class="monsterItemChange">Gyairas</td>
+      <td class="monsterWater">Kappa Pest</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">50</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">51</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">52</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">53</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">54</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">55</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterWeapon">Iai</td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">56</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Dosukoi</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">57</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Nigiri Master</td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">58</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterNone"></td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Trickster Mask</td>
+      <td class="monsterItemChange">Monsoon Doll</td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">59</th>
+      <td class="monsterDragon">Archdragon</td>
+      <td class="monsterWater">Adm. Spearfish</td>
+      <td>Devil Kangaroo</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Sea Dragon</td>
+      <td class="monsterWater">Orcada</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Trickster Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Spiked Voodoll</td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">60</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td>Devil Kangaroo</td>
+      <td>Porkon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterDrain">Diet Puppet</td>
+    </tr>
+    <tr>
+      <td class="monsterItem">Mr. Gyro</td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">61</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">62</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">63</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">64</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">65</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td>Gazelle Pope</td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">66</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">67</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">68</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">69</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterWater">Dragon Shotfish</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">70</th>
+      <td class="monsterNone"></td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterNone"></td>
+      <td>Menbell</td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td>N'dubba 50yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">71</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Porko</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">72</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td>Porkon</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">73</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Horse Shogun</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">74</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterBomb">Gorilla Bot</td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">75</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterNone"></td>
+      <td>Bellthoven</td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">76</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterWater">Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterBomb">Bear Borg</td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterNone"></td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">77</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Horse Emperor</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterBomb">Cranky Tank</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">78</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">79</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">80</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Hakkeyoi</td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterItemChange">Gyandora</td>
+      <td>Mixergon</td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td>Escargon</td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">81</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">82</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">83</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">84</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">85</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Minotaur</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">86</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td>King Tusker</td>
+      <td>Devil Kangaroo</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">87</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterDragon">Lashagga</td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td>King Tusker</td>
+      <td>Devil Kangaroo</td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">88</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td>King Tusker</td>
+      <td>Devil Kangaroo</td>
+      <td>Tiger Chucker</td>
+      <td>Monarch Tusker</td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">89</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Orcaon</td>
+      <td class="monsterWeapon">Shihan</td>
+      <td>Boulder Beast</td>
+      <td class="monsterBone">Garm Dragon</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td>King Tusker</td>
+      <td>Devil Kangaroo</td>
+      <td>Tiger Chucker</td>
+      <td>Monarch Tusker</td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">90</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td>Impostor Mask</td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterCyclops">Hyper Gazer</td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWeapon">Shihan</td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td>Monarch Tusker</td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">91</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">92</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiny Phoenix</td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td>Gottsuan</td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">93</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">94</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>N'dubba 60yr</td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">95</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td>Tiger Chucker</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">96</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">97</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">98</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="14" class="tableDivider2"></td></tr>
+    <tr>
+      <th rowspan="2">99</th>
+      <td class="monsterWater">King Shotfish</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Vexing Kappa</td>
+      <td class="monsterNone"></td>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+      <td class="monsterDrain">Stun Scorpion</td>
+      <td class="monsterGhost">Typhoon</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterWater">Water Shinryu</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+  </tbody>
 </table>
 
 ### Golden Interval
 
 #### First (6-10F, Return: 11F)
 
-<table class="monsterTableRates goldenMonsters">
-  <tr>
-    <th>1</th>
-    <td>Snacky</td>
-    <td>Gamarra</td>
-    <td>Horse Ronin</td>
-    <td class="monsterDrain">Hunger Puppet</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="10" class="tableDivider3"></td></tr>
-  <tr>
-    <th rowspan="2">2</th>
-    <td>Snacky</td>
-    <td class="monsterDrain">Scorpion</td>
-    <td>Horse Ronin</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td class="monsterCyclops">Gazer</td>
-    <td class="monsterNone"></td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterNone"></td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr><td colspan="10" class="tableDivider3"></td></tr>
-  <tr>
-    <th rowspan="2">3</th>
-    <td>Snacky</td>
-    <td class="monsterDrain">Scorpion</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Summon Ninja</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterGhost">Warukichi</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Tiger Tosser</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Pop Tank</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td>Gamagucci</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td class="monsterCyclops">Golem</td>
-    <td>Landmine Ninja</td>
-  </tr>
-  <tr><td colspan="10" class="tableDivider3"></td></tr>
-  <tr>
-    <th rowspan="2">4</th>
-    <td>Snacky</td>
-    <td>Goat Pastor</td>
-    <td class="monsterGhost">Pumphantasm</td>
-    <td class="monsterWeapon">Samuraidon</td>
-    <td>Summon Ninja</td>
-    <td class="monsterWeapon">Kengo</td>
-    <td class="monsterWeapon">Taishodon</td>
-    <td class="monsterDragon">Shagga</td>
-    <td>Tiger Tosser</td>
-  </tr>
-  <tr>
-    <td class="monsterBomb">Pop Tank</td>
-    <td>Sheep Priest</td>
-    <td class="monsterGhost">Gale</td>
-    <td class="monsterItemChange">Rainy Doll</td>
-    <td class="monsterItemChange">Straw Voodoll</td>
-    <td>Gamagucci</td>
-    <td class="monsterCyclops">Ironhead</td>
-    <td class="monsterCyclops">Golem</td>
-    <td>Landmine Ninja</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightGold">F</th>
+      <th colspan="9" class="highlightGold">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Snacky</td>
+      <td>Froggo</td>
+      <td>Horse Ronin</td>
+      <td class="monsterDrain">Hunger Puppet</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="10" class="tableDivider3"></td></tr>
+    <tr>
+      <th>2</th>
+      <td>Snacky</td>
+      <td class="monsterDrain">Scorpion</td>
+      <td>Horse Ronin</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td class="monsterCyclops">Gazer</td>
+      <td class="monsterNone"></td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterNone"></td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr><td colspan="10" class="tableDivider3"></td></tr>
+    <tr>
+      <th rowspan="2">3</th>
+      <td>Snacky</td>
+      <td class="monsterDrain">Scorpion</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Summon Ninja</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterGhost">Warukichi</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Tiger Tosser</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Pop Tank</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td>Froggucci</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td class="monsterCyclops">Golem</td>
+      <td>Landmine Ninja</td>
+    </tr>
+    <tr><td colspan="10" class="tableDivider3"></td></tr>
+    <tr>
+      <th rowspan="2">4</th>
+      <td>Snacky</td>
+      <td>Goat Pastor</td>
+      <td class="monsterGhost">Pumphantasm</td>
+      <td class="monsterWeapon">Samuraidon</td>
+      <td>Summon Ninja</td>
+      <td class="monsterWeapon">Kengo</td>
+      <td class="monsterWeapon">Taishodon</td>
+      <td class="monsterDragon">Shagga</td>
+      <td>Tiger Tosser</td>
+    </tr>
+    <tr>
+      <td class="monsterBomb">Pop Tank</td>
+      <td>Sheep Priest</td>
+      <td class="monsterGhost">Gale</td>
+      <td class="monsterItemChange">Rainy Doll</td>
+      <td class="monsterItemChange">Straw Voodoll</td>
+      <td>Froggucci</td>
+      <td class="monsterCyclops">Ironhead</td>
+      <td class="monsterCyclops">Golem</td>
+      <td>Landmine Ninja</td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">
@@ -5494,35 +5510,43 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
 
 #### Second (24-49F, Return: 30F)
 
-<table class="monsterTableRates goldenMonsters">
-  <tr>
-    <th>1</th>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>2</th>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterNone"></td>
-  </tr>
-  <tr>
-    <th>3</th>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDragon">Lashagga</td>
-  </tr>
-  <tr>
-    <th>4</th>
-    <td class="monsterDragon">Sky Dragon</td>
-    <td class="monsterBone">Skull Dragon</td>
-    <td class="monsterDragon">Dragon</td>
-    <td class="monsterDragon">Lashagga</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightGold">F</th>
+      <th colspan="4" class="highlightGold">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterNone"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDragon">Lashagga</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td class="monsterDragon">Sky Dragon</td>
+      <td class="monsterBone">Skull Dragon</td>
+      <td class="monsterDragon">Dragon</td>
+      <td class="monsterDragon">Lashagga</td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">
@@ -5531,13 +5555,21 @@ These three have fixed item drops, so the only way to obtain additional<br/>Basi
 
 #### Third (90-95F, Return: 95F)
 
-<table class="monsterTableRates goldenMonsters">
-  <tr>
-    <th>1-4</th>
-    <td class="monsterCyclops">Gigahead</td>
-    <td>Emperor Tusker</td>
-    <td class="monsterWeapon">Megataur</td>
-  </tr>
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th class="highlightGold">F</th>
+      <th colspan="3" class="highlightGold">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1-4</th>
+      <td class="monsterCyclops">Gigahead</td>
+      <td>Emperor Tusker</td>
+      <td class="monsterWeapon">Megataur</td>
+    </tr>
+  </tbody>
 </table>
 
 <div class="tableNotes">

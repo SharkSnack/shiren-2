@@ -48,10 +48,10 @@ requiring the use of a Great Hall Scroll rather than pickaxes or cannoballs.
 
 |Dungeon|Floor|Return|Chance|Exclusive Items|
 |-|-|-|-|-|
-|Shuten Trail Hard|3~6F|7F|30%|Onigiri Sword, Gamarra Whip|
+|Shuten Trail Hard|3~6F|7F|30%|Onigiri Sword, Froggo Whip|
 |Onigashima|8~15F|11F|20%|-|
 |Halfway Well|50~55F|56F|100%|Traproid Shield|
-|Sealed Room (1st)|6~10F|11F|30%|Homing Blade, Gamarra Shield|
+|Sealed Room (1st)|6~10F|11F|30%|Homing Blade, Froggo Shield|
 |Sealed Room (2nd)|70~80F|81F|30%|Sacred Sword, Sacred Shield, Iron Hammer,<br/>Dodge Shield, Reflect Shield, Critical Bracelet|
 |Road to the End (1st)|6~10F|11F|25%|-|
 |Road to the End (2nd)|24~29F|30F|30%|-|
@@ -85,7 +85,7 @@ Shuffle Dungeons will never generate Monster Houses.
 |Scroll|Heaven Scroll, Earth Scroll, Sanctuary Scroll, Slumber Scroll|
 |Pot|Synthesis Pot|
 |Gitan|10\~2000 Gitan|
-|Treasure|Onigiri Sword, Gamarra Whip, No Hunger Bracelet|
+|Treasure|Onigiri Sword, Froggo Whip, No Hunger Bracelet|
 
 ### Onigashima
 
@@ -119,7 +119,7 @@ Shuffle Dungeons will never generate Monster Houses.
 |Category|Items|
 |-|-|
 |Weapon|Homing Blade|
-|Shield|Gamarra Shield|
+|Shield|Froggo Shield|
 |Bracelet|Parry Bracelet, Paper Thin Bracelet|
 |Scroll|Heaven Scroll, Earth Scroll|
 |Gitan|10\~2000 Gitan|

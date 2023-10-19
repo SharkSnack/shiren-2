@@ -257,7 +257,7 @@ Whereas status conditions include many negative effects, most Shiren-exclusive e
     <th>Cure</th>
   </tr>
   <tr>
-    <td class="statusImageTd"><img src="../images/status/starvation.png" alt="Starvation"/>(UI Darkens)</td>
+    <td class="statusImageTd"><img src="../images/status/starvation.png" alt="Starvation"/><br/>(UI Darkens)</td>
     <td class="centeredTd">Starving</td>
     <td class="centeredTd">-</td>
     <td>Condition that occurs when fullness reaches 0%.<br/>Natural HP recovery stops, and instead Shiren<br/>will lose 1 HP per turn until he collapses.<br/>Allies and monsters don't have hunger.<br/>Can be cured by possessing a Hunger Puppet<br/>monster and using their special attack.<br/>iDash is disabled.</td>
@@ -300,7 +300,7 @@ Whereas status conditions include many negative effects, most Shiren-exclusive e
     <td class="statusImageTd">None</td>
     <td class="centeredTd">Poison<br/>Immune</td>
     <td class="centeredTd">Floor</td>
-    <td>Special Onigiri effect.<br/>Prevents strength loss from Poison Arrows,<br/>Poison Grass, Scorpion, Sheep Priest, and Slugs.<br/>Basically Scale Shield + Salty Bracelet, but can't<br/>prevent strength loss from Spoiled Onigiri.<br/>A glitch exists where the effect can be negated.</td>
+    <td>Special Onigiri effect.<br/>Prevents strength loss from Poison Arrows,<br/>Poison Grass, Scorpion, Sheep Priest, and Sluggy.<br/>Basically Scale Shield + Salty Bracelet, but can't<br/>prevent strength loss from Spoiled Onigiri.<br/>A glitch exists where the effect can be negated.</td>
     <td>Special Onigiri</td>
     <td>-</td>
   </tr>

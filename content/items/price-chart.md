@@ -897,10 +897,10 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
   <tr>
     <td class="highlightGray"><a href="/shiren-2/items/weapons#nagamaki">Nagamaki</a></td>
     <td>-</td>
-    <td>2</td>
-    <td>1</td>
-    <td>3000</td>
-    <td>1500</td>
+    <td>6</td>
+    <td>4</td>
+    <td>700</td>
+    <td>300</td>
     <td class="highlightGray"><a href="/shiren-2/items/weapons#gobo">Gobo</a></td>
     <td>食</td>
     <td>3</td>
@@ -911,10 +911,10 @@ metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
   <tr>
     <td class="highlightGray"><a href="/shiren-2/items/weapons#sacred-sword">Sacred Sword</a></td>
     <td>-</td>
-    <td>3</td>
-    <td>3</td>
-    <td>400</td>
-    <td>200</td>
+    <td>8</td>
+    <td>14</td>
+    <td>45000</td>
+    <td>20000</td>
     <td class="highlightGray"><a href="/shiren-2/items/weapons#homing-blade">Homing Blade</a></td>
     <td>必</td>
     <td>3</td>
